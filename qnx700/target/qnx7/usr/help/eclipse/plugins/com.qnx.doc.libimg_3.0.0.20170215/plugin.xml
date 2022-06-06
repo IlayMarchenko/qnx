@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<?eclipse version="3.0"?> 
+<plugin id="com.qnx.doc.libimg">
+
+    <extension point="org.eclipse.help.toc">
+        <toc file="main.xml" primary="true"/>
+    </extension>
+
+    <extension point="org.eclipse.help.index">
+        <index file="index.xml"/>
+    </extension>
+
+    <extension id="com.qnx.doc.libimg" name="LibImage API Documentation"
+        point="org.eclipse.linuxtools.cdt.libhover.library">
+        <library location="output.libhover" name="LibImage lib ref Documentation" type="C"/>
+    </extension>
+
+</plugin>

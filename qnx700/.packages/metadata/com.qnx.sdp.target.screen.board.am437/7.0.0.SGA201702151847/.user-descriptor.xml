@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen.board.am437</id>
+	<name>Screen Board Support AM437x</name>
+	<category>Screen Board Support</category>
+	<includes component="false">
+		<file name="board-support-ti-am437.xml" />
+	</includes>
+</shiplist>

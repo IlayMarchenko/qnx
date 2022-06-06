@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.usb.dcd</id>
+<name>USB - DCD</name>
+<category>USB</category>
+<file name="target/qnx7/[ARCH]/lib/libusbdci.a" />
+<file name="target/qnx7/[ARCH]/lib/libusbdciS.a" />
+<file name="target/qnx7/[ARCH]/lib/libusbdci.so" />
+<file name="target/qnx7/[ARCH]/lib/libusbdci.so.2" />
+
+<file name="target/qnx7/[ARCH]/sbin/ulink_ctrl" />
+
+<file name="target/qnx7/usr/include/sys/usbdci.h" />
+<file name="target/qnx7/usr/include/sys/usb100_dcd.h" />
+
+</shiplist>

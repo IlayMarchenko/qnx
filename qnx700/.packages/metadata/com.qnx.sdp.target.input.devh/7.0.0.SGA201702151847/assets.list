@@ -1,0 +1,14 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.input.devh/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/lib/dll/devh-usb.so
+target/qnx7/x86_64/lib/dll/devh-usb.so
+target/qnx7/aarch64le/lib/dll/devh-usb.so
+target/qnx7/armle-v7/lib/dll/devh-usb.so
+target/qnx7/x86/lib/dll/devh-ps2ser.so
+target/qnx7/x86_64/lib/dll/devh-ps2ser.so
+target/qnx7/x86/lib/dll/devh-ps2ser-vm.so
+target/qnx7/x86_64/lib/dll/devh-ps2ser-vm.so
+target/qnx7/x86/lib/libvmmouse.so
+target/qnx7/x86_64/lib/libvmmouse.so
+target/qnx7/x86/lib/libvmmouse.so.1
+target/qnx7/x86_64/lib/libvmmouse.so.1

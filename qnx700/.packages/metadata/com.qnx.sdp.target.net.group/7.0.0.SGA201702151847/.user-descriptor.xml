@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.group</id>
+<name>Networking</name>
+<category>Networking</category>
+    <includes component="true">
+        <file name="shiplist-sdp-avb.xml" />
+        <file name="shiplist-sdp-bind.xml" />
+        <file name="shiplist-sdp-curl.xml" />
+        <file name="shiplist-sdp-devnp-pci.xml" />
+        <file name="shiplist-sdp-devnp-usb.xml" />
+        <file name="shiplist-sdp-dhcp.xml" />
+        <file name="shiplist-sdp-fs.xml" />
+        <file name="shiplist-sdp-iopkt.xml" />
+        <file name="shiplist-sdp-libnetdrvr.xml" />
+        <file name="shiplist-sdp-libsocks.xml" />
+        <file name="shiplist-sdp-llmcast.xml" />
+        <file name="shiplist-sdp-mDNSresponder.xml" />
+        <file name="shiplist-sdp-ntp.xml" />
+        <file name="shiplist-sdp-openssh.xml" />
+        <file name="shiplist-sdp-openssl.xml" />
+        <file name="shiplist-sdp-pf.xml" />
+        <file name="shiplist-sdp-ptp.xml" />
+        <file name="shiplist-sdp-qnet.xml" />
+        <file name="shiplist-sdp-racoon.xml" />
+        <file name="shiplist-sdp-services.xml" />
+        <file name="shiplist-sdp-usbdnet.xml" />
+        <file name="shiplist-sdp-usbnet.xml" />
+        <file name="shiplist-sdp-utils.xml" />
+        <file name="shiplist-sdp-wlconfig.xml" />
+        <file name="shiplist-sdp-wpa-supplicant.xml" />
+    </includes>
+</shiplist>

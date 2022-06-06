@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="Adaptive Partitioning User's Guide" topic="topic/utilities_summary.html"><topic label="Utilities, Managers, and Configuration Files" href="topic/utilities_summary.html"/><topic label="Writing Network Drivers for io-pkt" href="topic/native_drvr.html"/><topic label="A Hardware-Independent Sample Driver: sam.c" href="topic/native_drvr_sample.html"/><topic label="Additional information" href="topic/native_drvr_extra.html"/><topic label="Glossary" href="topic/glossary.html"/></toc>

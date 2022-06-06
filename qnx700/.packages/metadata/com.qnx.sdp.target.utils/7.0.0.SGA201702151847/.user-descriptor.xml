@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.utils</id>
+<name>Utilities</name>
+<category>OS Utilities</category>
+    <includes>
+        <file name="utils.xml" />
+        <file name="hw_utils.xml" />
+        <file name="cpufreq.xml" />
+    <!-- GTest Components -->
+    <file name="../gtest/component-sdp-gtest.xml" />
+
+	<!-- Python -->
+	<file name="../python/shiplist-nto-python.xml" />
+
+	<!-- Valgrind -->
+	<file name="../valgrind/shiplist-sdp-valgrind.xml" />
+
+	<!-- Perl -->
+	<file name="../perl/shiplist-osr-perl.xml" />
+
+    </includes>
+</shiplist>

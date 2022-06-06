@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.devnp_cm</id>
+<name>Networking - Ethernet over USB</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/lib/dll/devnp-ecmplus.so" />
+  <file name="target/qnx7/[ARCH]/lib/dll/devnp-ecm.so" />
+  <file name="target/qnx7/[ARCH]/lib/dll/devnp-ncm.so" />
+  <file name="target/qnx7/[ARCH]/lib/dll/devnp-usbnet.so" />
+
+</shiplist>

@@ -1,0 +1,11 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.net.qnet/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/lib/dll/lsm-qnet.so
+target/qnx7/x86_64/lib/dll/lsm-qnet.so
+target/qnx7/aarch64le/lib/dll/lsm-qnet.so
+target/qnx7/armle-v7/lib/dll/lsm-qnet.so
+target/qnx7/x86/usr/sbin/gns
+target/qnx7/x86_64/usr/sbin/gns
+target/qnx7/aarch64le/usr/sbin/gns
+target/qnx7/armle-v7/usr/sbin/gns
+target/qnx7/usr/include/sys/netmgr_nr.h

@@ -1,0 +1,149 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.usblauncher.plugins/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "721",
+    "digestSHA512" : "Jt+HHpQPfrcl4E4GJsf/UheLo+4HF3MSfgAp8QZFycyrjWg6gyZHJJuo+C5aNcrgRZR3dhBuCypnamXjqe+w+Q=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.usblauncher.plugins/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "867",
+    "digestSHA512" : "gKhiYVrMs9P8fnlMNInUu4hjs398eFPJfM5db+c8jj1WOsMAPiz2HGP2VaXQyzazLXPfMqRwejLxM83nGKp4hw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.usblauncher.plugins/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "423",
+    "digestSHA512" : "8DEcQZjKdnxDacPzrZUt3TfoeIv4ydA71mMzp1/BCrKI6rAChHT7Wj3+7uWJTNsOX4fYOYpSZDJjS3CVYa5o0g=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/pubs/pp-audiocd.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "20636",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RAzRPjJHAkvR5OGVsP51raPUMhVd/SmsV0Cb91tfmY2QRyi3wYrbS6MISsnyMeiG8uLMzvLRo3u733EAkpkaeg==",
+    "buildID" : "1d9c426362e9399b267fb27bbed9201e"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/pubs/pp-audiocd.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "21952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Ynr/+BRD8uvK5U6lgEx8imxLvA88QG8s178yHypPdF2/N1L8rqDxfPrtXR0QwaCgutsS/ufnU/3m0HmjkgZwnA==",
+    "buildID" : "0828f50eab06db86f4f56ef55880c2bf"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/pubs/pp-audiocd.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "22360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RrWu2h31VHBhpVdc/+YfWz1vQv+G+2FpSkJN1nkvWMp5jEukRATohSCSogfFhfWzX4qpk2zOsfd4ZHF2hR+9Ig==",
+    "buildID" : "7b8b6198ec93831992843dc6f4e1e8f2"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/pubs/pp-audiocd.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "17420",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "J7vED5MFClQByEOP/bwZtefRYjyeMfBRJ87bTFpXOfQ3KkKUUa9IlqY+rWwsOPfIu7dw9dS7lvTxf6BWUCsvEw==",
+    "buildID" : "0f58b1370a723adc0b0de6a55c8ca388"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/pubs/pp-dvd.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "16676",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rlO9i0p7tEmlCFGfuywxfXwNrMqzP8p83F1/eYD49fiQvVbzjiUpCO1XPNm7bS54zxzLWyK23zxXLYko+3cH/g==",
+    "buildID" : "4fc0ce026ad4eaed09ed59f93885eb32"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/pubs/pp-dvd.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18000",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4dDLb/MVrLIQdJz0+SE/GCAPzaadgQDkVwI+qxdBP7PD2gDaQjR9DMESBmb8uKMW2kXOAfXah8AiyWw4Be//ag==",
+    "buildID" : "6d3d3ebc0db6cfa6f2a98190f7cf7da1"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/pubs/pp-dvd.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18456",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ls9aHESdaxmwqhN90IoMhr9RWBQwJ6tCKChG+68ufMllh1cNmJakDm8AsElzSheuGMbBOeV30eqI8gRjlB3BHQ==",
+    "buildID" : "87790c824d6d7a282a180a7b0ebf067d"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/pubs/pp-dvd.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13556",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "15mNBOIAuJ8Z9rQS5dUlrJNXorr44mF4/KBqPpJNU4Qh28WLmggZt1Ut2XFwiosLgK74B3ta6u8/xJ7KiUheCA==",
+    "buildID" : "fb046e9ccba07c7b11989239dea6f565"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/pubs/pp-generic.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "21684",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Hbt6K2FeGUc1c2c18QrGCHPIT6R3pAA7+jsl45q33wYQ+1Lw8V78myNSpXEs6camsE0TXI1/Y+xnOW9fBKvQQA==",
+    "buildID" : "26742b9c7859b237268d19cfd7847e8a"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/pubs/pp-generic.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "27392",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4pj3EtNHtvztDBeY6RHOL0v1ARr8bfMww2lquDZARuqWlsRfHOdFuFP9tqVkyBdGYjgwm9s3lRd+kvOWsewFfg==",
+    "buildID" : "61909ec300e59c2d5c9b33c65b6413ac"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/pubs/pp-generic.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "23848",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "z4djzaVyz9upD5PhrmY8yL8OdiZkmhh0/RhmcccSVggCCmqduXY+qN5GXEMuuCc0KH8QIScGqVPbccmtnrGxwg==",
+    "buildID" : "14a42e9d900e463731484d91847cd454"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/pubs/pp-generic.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "18876",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "8Nogx86WSdixD0b7gJPr8KijyMgW8nOZyvZG1V6xm/ZZNeCI8O0+KW2vtv+Ht+tQMwZ3jFusPTiZXdD3lXSiYg==",
+    "buildID" : "228cb2e7c45911a7728ea3d3abb55972"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/pubs/pp-mediafs.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12472",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QJOhYkb97MCYQ00s76xcsXEvQ5ffMnvAKRif7kXIroqy69XRaXqsOWyK0Fh7bC2EPmHACGM4i7tWuqAwRZGh0Q==",
+    "buildID" : "eef0a0c92159cc6f1ab6845a6de18ced"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/pubs/pp-mediafs.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "WOZToCeVHnwASuRXkjjW+aetl9qQt1ZclkFnPWeHDA6PT0ICLJOgBEGpfUCSiX5XWjU3/j/kwwvjcjuIKI8E+A==",
+    "buildID" : "c9d0f45a2ca6098b491ed21a8cce1cf7"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/pubs/pp-mediafs.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "14120",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7j6YIpWGYnhWG1c+wbpoj1xoq43wn74p6Vv/avt2d0NJv6roNlORSJ/HaS3B+nDp8XnxuTww/c0J3RFZ4ovqrg==",
+    "buildID" : "633800fa2170af658c83e1a4e72ba9e8"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/pubs/pp-mediafs.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13152",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dslyZIkm2yjSwGQV8PFoBp9r0Ijkw2xwjk/0VmAbDtVr17J7hBXXZMBUA2wdXHwCKmCZQd6UJ3EhNX5p3rYWjw==",
+    "buildID" : "e21ce38c21c5c1967f8a40b5a333de51"
+  } ]
+}

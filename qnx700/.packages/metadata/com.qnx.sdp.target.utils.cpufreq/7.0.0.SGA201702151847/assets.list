@@ -1,0 +1,4 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.utils.cpufreq/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/bin/cpufreq
+target/qnx7/x86_64/bin/cpufreq

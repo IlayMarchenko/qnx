@@ -1,0 +1,53 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.llmcast/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "598",
+    "digestSHA512" : "nCsZdhVhSJXXQ0IC8kMDyYWDAqOQoASlaR7niCJ9NHBGLnLL2xZWSeDQjPpMb9qmsbTq7D9i4aKkgq96RR+NxQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.llmcast/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "284",
+    "digestSHA512" : "ts7i1kLrjw9rzpDMmtkPDscdi7HVX9/Mhme1evqglGbCocQYA20MIkLB9J+PkSic9X2uFITU7W1cpYZWTHssWA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.llmcast/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "238",
+    "digestSHA512" : "2bxvtv5WwkH81LbLn247eqCU33nGdmKK6ew2bGF7BE7FR8wswmHna5EnySsJKet4cijlwdQJsNJIOXV2LVQPZg=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/lsm-llmcast.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "26812",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HUScnhDEVYnTDKeHEU5B2k+lest5T8mn4dilX6TjvPdn/Ti/lxzaTyUOYBwhPgCDXih0LjMEO9YKQfYDbDK4Jw==",
+    "buildID" : "e4f64411ba239b207968bdfeb22738cc"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/lsm-llmcast.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "28680",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DeqlVtLkUH/KYCPT6Ipqft1+rE7BQtz2///+S6ljx16mRcZqSLGmn5zogJwjzWUbWQ0YeJbTKYuxc3eq8wbYyA==",
+    "buildID" : "860706cf5dd680aba3ad6da90e5194c5"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/lsm-llmcast.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "29080",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "6QoilFRTKBJWjxCvD0yMfqNXljNZj2wlLE3CcZzsnUL4rbXTG1p+xHCv91EvF0ORAVS9zMor+80yjehtGTCdMA==",
+    "buildID" : "f4ed4a776e236a241eddd67af6514718"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/lsm-llmcast.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24344",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Supibo1VPO/EU4xHSPx2ErpzTvGlUR0BxbC4pbviaepBkrHQQdyQw2wygBzbHBCC9XqEXSpNIXg3txrIrp+RTw==",
+    "buildID" : "654c64408fdbe4fff524c65ce1646ed4"
+  } ]
+}

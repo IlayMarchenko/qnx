@@ -1,0 +1,21 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.connectivity.char/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "639",
+    "digestSHA512" : "SV9eDJ+IpERjGu3gk3u2Gf04ntWGur5HQuIg6AufpI8Zy/Y6OQ8Pu3QAzCFlYxdgvGTPpD0+Z6yng+++9hFSOQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.connectivity.char/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "120",
+    "digestSHA512" : "3+n2VCz3fULLL6Y8L+bfPaMT+gXMo8RZlXNSklw4/DDd3OleREgnszyg8SVLqxD1lC8ZS/nIVaHYBzMffJ3ADg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.connectivity.char/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "312",
+    "digestSHA512" : "lSqw8z+1uvMTUy99ne5tEb4V/DR5z9hg3/ksXulWZ9GzfUItzEoFmYAGg8kzK8JYyMYhXoxL6b18OovQAXx8ng=="
+  } ]
+}

@@ -1,0 +1,104 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.libnetdrvr/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "509",
+    "digestSHA512" : "igVcsbi7/7vxY2+eujkrH3JqHJH39zLUEEq1s8/AzFJzbduKB75xpr6waGkqr/W1+Vt2MIbyOzhvAb5xVhHkaQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.libnetdrvr/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "726",
+    "digestSHA512" : "34yV7b+LZR8BzPCEQR56WxkI535lxVVrI/DkwX9HY/YaZx6Iw2JfV7bQx/LO9bjLYaP8Ga+GJZrP1sFXHgHBCg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.libnetdrvr/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "700",
+    "digestSHA512" : "tEMichxQT+2M7sWiaE+vPGKUMas/YfPND7WDul29gDDuRUuCMtWLceYz0MX9wvVE3FIJqOb6lNMxJcqql7qHnw=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libnetdrvr.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "209768",
+    "digestSHA512" : "5f3TrrM4oXvvKUmp5M2WzT9P7iDXDOGiCv/rOby8a30QwyBro2WYsXppSSNpzehRk8aHsIb2ZzD9zRtgrWrxgg=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libnetdrvr.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "297562",
+    "digestSHA512" : "MKnisovIXL949ddOd8A0HefVoQqrkliCYr48BO5AGLN2gMm1lEaCDJe6e2IZcUGEOcjGdYUPFXqwrC6vs/yDww=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libnetdrvr.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "299330",
+    "digestSHA512" : "R7ZPK4KYOuDNE7VkVRe99aM640h5eaXLd1ccSQFuBHjflRDu6uYjXV5w0wgs+cSjU4rozOc51ShZFW1fSXUR6w=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libnetdrvr.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "207510",
+    "digestSHA512" : "cVq4i2ejDdZ+ZkXQ8+N5ASQ40gzgVMA+hMQfYXG6AbqCZaWLo5AvVyI73UxSaJRZi90mFIDfoYh+KbIsZK43mw=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libnetdrvrS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "208258",
+    "digestSHA512" : "bwA5dUswuw06Blwx4H0ksR5/HYQGY7EVZVCqvCHS2jTE+O53j/RZRnJpsXlsc3lyZFG1Dfz5UYbW6dJJyXk0/Q=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libnetdrvrS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "296410",
+    "digestSHA512" : "4mDn0wB4FxdM/CLUyofpoFi8JMrnVvZgz2oLjjlZUHu1QNTHq6bAYyo0kij9gjCJa3b/vgh4/AsUA8/aPkoWmA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libnetdrvrS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "297842",
+    "digestSHA512" : "R8zPZ9/XAeWJi14onizlFRz7xC1RGLk8o+o91BB0pTWKUuBgXb5M1/sKWt/SI5hz3N1Dlm480E1OAzS4lDZSMA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libnetdrvrS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "207818",
+    "digestSHA512" : "nYL6uKuG6rRWnH6Hipk0I3Sgb9kknjN+8z5530cj5LfewP6uTJB+bvO3B68k8YM91IC/pAVST5ehcq6en/uHrQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/nicinfo.h",
+    "runtime" : "false",
+    "size" : "12627",
+    "digestSHA512" : "NQM80DOeI+CH69vCj2Lahqyal7mPSSMr0TCjdoY6clO1V5Qm3emIIrEx6zB+nN3OsK7Uk+opghNukznL9V87EA=="
+  }, {
+    "name" : "target/qnx7/usr/include/netdrvr/avb.h",
+    "runtime" : "false",
+    "size" : "1713",
+    "digestSHA512" : "rUMyxD5wZFfhc8aULrSdhDsUIL7E0N1GKrXjL4rdOtH7dlH/o17urtdehxE67YNH7ok185gNCvoKe7/oDuTtLw=="
+  }, {
+    "name" : "target/qnx7/usr/include/netdrvr/common.h",
+    "runtime" : "false",
+    "size" : "1192",
+    "digestSHA512" : "+cn8uc/crPtV3PKaChgYNJxbTw2SdFpyb+9qlch0jrVzKrm36rhr0/NflDky492ACr5hrLSDgVzr8JvHhbZMvw=="
+  }, {
+    "name" : "target/qnx7/usr/include/netdrvr/mdi.h",
+    "runtime" : "false",
+    "size" : "14329",
+    "digestSHA512" : "BG+eLvj0uIrPbavh+7JYDDJJYeA2D/JlUyYjr55vd2cCC/BF5fn838EtF+TrZzRloNg/KbToOx8TLBrsrNUuEg=="
+  }, {
+    "name" : "target/qnx7/usr/include/netdrvr/nic_mutex.h",
+    "runtime" : "false",
+    "size" : "2145",
+    "digestSHA512" : "csLKmRJ7J9u48l8DpxEze7dbt/OL0GMAB8pjj8ZTNarj75YkBAddCl1IdfaGdrNGhK4Tf1/hxnjrH/jXXVALFA=="
+  }, {
+    "name" : "target/qnx7/usr/include/netdrvr/nicsupport.h",
+    "runtime" : "false",
+    "size" : "1505",
+    "digestSHA512" : "mFxhNyOdbNB3hM5W93C6fQXvixMFaV0W3m4GPg0GZ8y9gHfkqe8iid5zHnqVS5AWed0Yn9YbZxGtNZgMd+AWsA=="
+  }, {
+    "name" : "target/qnx7/usr/include/netdrvr/ptp.h",
+    "runtime" : "false",
+    "size" : "2889",
+    "digestSHA512" : "vzSMfLKigS5iJfBJQd+nCUjA7RxGRkwLv3muqjCGHHmCa0AVdm8gB93FS3WmbdAl7AmyXlqAIVXPHePKTq2kuA=="
+  } ]
+}

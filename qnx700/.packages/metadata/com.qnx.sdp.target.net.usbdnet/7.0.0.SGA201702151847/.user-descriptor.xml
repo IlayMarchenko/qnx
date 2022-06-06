@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.usbdnet</id>
+<name>Networking - usbdnet support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/lib/dll/devnp-usbdnet.so" />
+
+</shiplist>

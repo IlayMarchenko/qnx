@@ -1,0 +1,87 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.spi/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "532",
+    "digestSHA512" : "Psuv9ORCC2mk/uLQC+Y9L9ruKU9oPCyztru3KTZSxfSNuwWB6EvyH28VWGB0Xsat/OCnG9/XMRSpcm9UxVisXw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.spi/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "483",
+    "digestSHA512" : "rGLWHj3MZH562oKev6EIu1ulDS38xae1gXELb8FhowscN3mcalgXjiG8MWuqRxOjLZNvgvJvNs+IO9qbOmoF0w=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.spi/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "254",
+    "digestSHA512" : "iaYwdW9G3ytbj+uaWahPSnW3NWKl3CIkYPRw7xhrQP/R+g3iBdgOwiw55XlzGPSP28XZCKWcWixFjMm0ClsI5g=="
+  }, {
+    "name" : "target/qnx7/x86/sbin/spi-master",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "27684",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/TgpGOd/MIzMhH0pErftkpAw17Z13v3I1UCkzPaLOavR67gRb8yTPNRCpnN1iv5FYxx+ohVCV2KJRhyNPRtGDw==",
+    "buildID" : "27e69571b94039b9626667259d780df4"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/spi-master",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "29320",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Ju45lKgJzJAMv+q2m90CNe2lXxVDcy0ySfH63rhg/S84XTf7EncJwKZs2DA1C6aQ2H9KGAEDi6Pr8gfUF40JRA==",
+    "buildID" : "44be53eaaf87e31b1d5c5696c0e95f7b"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/spi-master",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "30240",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "n4dOruzDfRnMi2yBUrR0XgP+OZuxPq8ZwOE1p5EdjDeTeGcA4BKz43Ys0GgAkozo9NKgRMa/H6duwE9XggdRhw==",
+    "buildID" : "47e69b0f7b080600eae85ffb6ebf1b2e"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/spi-master",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "20792",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NAdmteQ/Z0EYNxzQcriJn/oo0pM5+esQ/JYHMQDiEUnJAwdnIkZlyitO2MM4I0Frt25/boYhqhyRA5Ud/hVM2g==",
+    "buildID" : "a4dd0904a1e7f7521a4d33464d9eea17"
+  }, {
+    "name" : "target/qnx7/x86/lib/libspi-master.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "129376",
+    "digestSHA512" : "dhvgALTqhwlfvj5HjLsK2GNKQ9/tOhzVzJhzSQT7IPItWEvwFHeg6PmdxaynGTUmgbUhVrGZtOZf5n8Vr+5oXA=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libspi-master.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "155460",
+    "digestSHA512" : "fZHPBXH/cGiqJw0C+VdEavMYigeTNwsicIcXRc647MNkMG/l+xmqaOyH4A5c3OAvf5OdDYAVN6R/5/5GEgyb2A=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libspi-master.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "155044",
+    "digestSHA512" : "2iFSdxkrUabmCMxBI9iUu/LoBTvn0qRbUdH6Vv/ayw+suh281pYW3DkfPM3fwKZj34t2Q4GgmD2eoTVVtqHIJA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libspi-master.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "132836",
+    "digestSHA512" : "pT3aulDo3M2QU/mgEufwExfFOad0GDAPxAevQg+krgmjgvl0MCnWEBDUfgS/l+rQg3SYPYAP4fou8bvQ6pEiIA=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/spi-master.h",
+    "runtime" : "false",
+    "size" : "6007",
+    "digestSHA512" : "gnKNRRVyH/VSQAyK/QRYlDgCjIz2oo7lgxT3WJ7363lPj11qz0onf54oDKSOXw01AD9/4zGRLWRtkir5tY2Fgw=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/spi.h",
+    "runtime" : "false",
+    "size" : "4367",
+    "digestSHA512" : "OUP6s5zxBn/tqn5mA88nxYDn+3BfA/61ZOsvSaglL+3rmdupJ3PRFz9krfurkgddv77vEe6HgZ90kFxVcuxvuA=="
+  } ]
+}

@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8" ?> 
+<?eclipse version="3.0"?> 
+<plugin id="com.qnx.doc.screen.wfdcfg">
+
+   <extension point="org.eclipse.help.toc">
+     <toc file="main.xml" primary="true"/>
+   </extension>
+   
+   <extension point="org.eclipse.help.index">
+    <index file="index.xml"/>
+   </extension>
+
+   <extension id="com.qnx.doc.screen.wfdcfg" name="OpenWF Display Configuration Developer's Guide"
+    point="org.eclipse.linuxtools.cdt.libhover.library">
+    <library location="output.libhover" name="OpenWF Display Configuration Developer's Guide" type="C"/>
+   </extension>
+</plugin>

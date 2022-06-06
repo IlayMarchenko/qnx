@@ -1,0 +1,119 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.input.devh/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "759",
+    "digestSHA512" : "AWPaJQ9hiPBdFdJWFIt1v1YOKKRSlLPrl0ypg3wupwAgepavjUCRNVla8JfjcdRVHC6fQYCyY8VJobXQdRVIlQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.input.devh/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "585",
+    "digestSHA512" : "QHnu5rPcTWfx/qv2t+OyNOC7yEIAyX30Mhj93IH8hat8B79wTuhgdoGVfjBDDuKac4JqAlpbjavomjhgr1Lyow=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.input.devh/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "596",
+    "digestSHA512" : "Wdq1QYRjxmBYF4WkwIptu4HW5N3Z2ptipCSyHC401UtYA4mE83wYHRwECKrL0thYR5TZd75rORuikdINfx0Vtw=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devh-usb.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "33384",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dbDoo+/H37KD1k4CvItOe0m1x0tUVL3Q1Bym2kz/zeQJiaSJyCyNr/4fF/TTUjBZI670bDKcrBhD0dbz9L/+7Q==",
+    "buildID" : "ba0af686a20c4691e983b360a411cf9b"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devh-usb.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "35440",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mekOsQgcusSXdfS1y0nMrh0uSRuzDoPqVAPXOGxM4tc9wdxNidWG5DZfn9FrxF7SMOR0gjrDqcxLRLwECrBfvg==",
+    "buildID" : "52cdd219ff9e0d280e56577ab46da1f4"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/devh-usb.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "35832",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QLNPpK0RaPyQTbUdrZ2/yj0kbly3JMViqMbu/0dyCMoAaeb2yFW2A948H2Gs2Ue15ddfDXslUCZw+vqYxGOliQ==",
+    "buildID" : "e29a9b21a65bbd71c1aa80d76fedcdc1"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/devh-usb.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "26784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "G2K2n8TdpkPq7IhhIX76xnaVMOOv9Q3sTdQX+mH/NOYtniEajbuMnn+L/3Xo2R1JD1HYaU1TFXmTAzKAO4HC+A==",
+    "buildID" : "33d268f6e200e34e809e47f68e95fbf0"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devh-ps2ser.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "83096",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7ffqxMEAPbOMAHe2fkLWdhfYIyh/7T68ZXCQPDmOrf0aiLYa24Q6pFp/WxuplqiXdVy43L/uxQ75bXP/Pan2Rw==",
+    "buildID" : "446f93b168e9a0658c99c739b02a86bf"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devh-ps2ser.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "83720",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9KJi9mEatFd3to/sOw4Yry3wdzTaGI6pZAW/mkbHsmFtcOAnPCnhJbNQEAMnBQBe2K+Kphus2E0qxB/S+wjowg==",
+    "buildID" : "6ab697db78045de1147e725c2dcb5eb1"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devh-ps2ser-vm.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "87840",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PwpnACS2DaEQfYHtim6ecK6Ui8h4Bwf0dB87dhlIuMzMkavyykxj9EnhmOptjI/xWrerspy+4xTq7tMktNmmbw==",
+    "buildID" : "8b45e49225916cd879ab72d887157d4b"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devh-ps2ser-vm.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "88568",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ATVdyhMCfUwKMwcoCOe48/slaDR3sXA9PZjkY01eAqgFZ4xO8MdnTKDxxCzunO3m0BEzTJdDlUADWIC9dg4Wjw==",
+    "buildID" : "43b3f76c22254c2a27dccb0410b00768"
+  }, {
+    "name" : "target/qnx7/x86/lib/libvmmouse.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "7528",
+    "linkto" : "libvmmouse.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "5vJZ2UMsBaFDbN6JakEVgawGgzqCa0Enyv0wjkRPUXovnK2gQpAvwVYu91JuPa3e3YR8H0ar3IHaNWqQM0qEzA==",
+    "buildID" : "6e4797d79de69ab83166b4125d02a77d"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libvmmouse.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "8584",
+    "linkto" : "libvmmouse.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ggmr21p2tJucBfkaH34Xw/YSb7E0ALmlGITy0I141SNA4QgwJEN7g9IVXlcYedfsDq5lJuBXzcdrQ/RfM1qh2A==",
+    "buildID" : "194f66725c94413a34b94d7d7ebfe138"
+  }, {
+    "name" : "target/qnx7/x86/lib/libvmmouse.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "7528",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "5vJZ2UMsBaFDbN6JakEVgawGgzqCa0Enyv0wjkRPUXovnK2gQpAvwVYu91JuPa3e3YR8H0ar3IHaNWqQM0qEzA==",
+    "buildID" : "6e4797d79de69ab83166b4125d02a77d"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libvmmouse.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "8584",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ggmr21p2tJucBfkaH34Xw/YSb7E0ALmlGITy0I141SNA4QgwJEN7g9IVXlcYedfsDq5lJuBXzcdrQ/RfM1qh2A==",
+    "buildID" : "194f66725c94413a34b94d7d7ebfe138"
+  } ]
+}

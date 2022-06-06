@@ -1,0 +1,37 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.cpufreq/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "547",
+    "digestSHA512" : "rAbaGbL/2uZIvtqBy0weNyjcAuMNHwSrPZVzlVHhgdQ1DZzyuad7iBgoaOVYC1bClkPlEGvVw7Z2JA9pE/hcOg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.cpufreq/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "175",
+    "digestSHA512" : "yB0ZmKvk7U2LLyuvIJUin/WW4ifQCq/9btK9tMJPnDgkooIHVWUcQPlxix+0CnSOlGpb+Gb5F3Du/6/uRaw8CQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.cpufreq/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "293",
+    "digestSHA512" : "Idnc/1MPQgzlt56jRmgNxV4JkhQqk9mMbuAWhK3Izb5fyKjCTHzRP5b77XImKzaza+07J+Ex1y7zvqe86cptyA=="
+  }, {
+    "name" : "target/qnx7/x86/bin/cpufreq",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "22960",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4SuiPsI14oXsOYLLevBlEHeYkNbge+Dd9Co9muOrRjBW1mc17YCZzLcZ4R9CdKxw5ZcnXfvlnaT3KVpMUcbqjA==",
+    "buildID" : "6f640ae5e4eab625bf466d373f29753d"
+  }, {
+    "name" : "target/qnx7/x86_64/bin/cpufreq",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "20368",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Q2oWMVLKL59tnUuSjxIWQ84LK8kCzzFMjMGt6W/Ig8UZHeme1gv+bqo9BpX6P1ZYvqt9VzUlEpNUgfoOBtUDDQ==",
+    "buildID" : "e5b72abe4745c98a6c92a6dfc4f8f136"
+  } ]
+}

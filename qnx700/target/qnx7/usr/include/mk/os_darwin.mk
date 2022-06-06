@@ -1,0 +1,38 @@
+DEFCOMPILER_TYPE = gcc
+
+USE_ROOT_INCLUDE=$(call mk_use_list, usr/local/include usr/include)
+USE_ROOT_LIB=$(call mk_use_list, $(CPUDIR)/lib $(CPUDIR)/usr/lib lib usr/lib)
+
+INSTALL_ROOT_AR=$(INSTALL_ROOT_darwin)/$(CPUDIR)
+INSTALL_ROOT_EX=$(INSTALL_ROOT_darwin)/$(CPUDIR)
+INSTALL_ROOT_SO=$(INSTALL_ROOT_darwin)/$(CPUDIR)
+INSTALL_ROOT_DLL=$(INSTALL_ROOT_darwin)/$(CPUDIR)
+INSTALL_ROOT_HDR=$(INSTALL_ROOT_darwin)/usr/include
+
+IMAGE_PREF_AR=lib
+IMAGE_SUFF_AR=.a
+
+IMAGE_PREF_EX=
+IMAGE_SUFF_EX=
+
+IMAGE_PREF_SO=lib
+IMAGE_SUFF_SO=.dylib
+
+IMAGE_PREF_DLL=
+IMAGE_SUFF_DLL=.dylib
+
+SONAME=$(empty)
+VERSION_TAG_SO=$(space)
+
+LDVFLAG_dll=
+
+DARWIN_DEFS +=-D__X86_64__ -D__LITTLEENDIAN__ -D__DARWIN__ 
+
+CC_darwin_x86_64_gcc += $(DARWIN_DEFS)
+AS_darwin_x86_64_gcc += $(DARWIN_DEFS)
+LR_darwin_x86_64_gcc += $(DARWIN_DEFS)
+LD_darwin_x86_64_gcc += $(DARWIN_DEFS)
+
+VERSION_TAG_DYLIB_SO=$(foreach ver,$(firstword $(SO_VERSION) 1),.$(ver))
+BUILDNAME=$(IMAGE_PREF_$(BUILD_TYPE))$(NAME)$(VARIANT_TAG)$(VERSION_TAG_DYLIB_$(BUILD_TYPE))$(IMAGE_SUFF_$(BUILD_TYPE))
+install_extra_SO=$(LN_HOST) $(BUILDNAME) $(INSTALL_DIRECTORY)/$(IMAGE_PREF_$(BUILD_TYPE))$(NAME)$(VARIANT_TAG)$(IMAGE_SUFF_$(BUILD_TYPE)) $(NEWLINE)

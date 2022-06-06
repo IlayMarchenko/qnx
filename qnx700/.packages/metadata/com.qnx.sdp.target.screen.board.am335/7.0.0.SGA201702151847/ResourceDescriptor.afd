@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.screen.board.am335",
+  "name" : "QNX® SDP 7.0 Screen Board Support AM335x",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "Screen Board Support",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "provides" : [ "library: libIMGegl.so", "library: libImgGLESv1_CM.so", "library: libImgGLESv2.so", "library: libPVRScopeServices.so", "library: libWFDam335x-bbb_g.so", "library: libWFDam335x-evm_g.so", "library: libWFDam335x-sk_g.so", "library: libglslcompiler.so", "library: libpvr2d.so", "library: libsrv_um.so", "library: libusc.so", "library: libwfdcfg.so.0", "library: pvrsrv.so", "library: pvrsrvinit.so", "library: wsegl-screen.so", "library: libWFDam335x-bbb.so", "library: libWFDam335x-evm.so", "library: libWFDam335x-sk.so" ],
+  "requires" : [ "library: libsrv_um.so", "library: libc.so.4", "library: libIMGegl.so", "library: libusc.so", "library: libm.so.3", "library: libc++.so.1", "library: libwfdcfg.so.0", "library: libscrmem.so.1", "library: libmemobj.so.1", "library: libpvr2d.so", "library: libscreen.so.1" ]
+}

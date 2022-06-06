@@ -1,0 +1,131 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.fonts.dejavu/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "498",
+    "digestSHA512" : "3pvXVTtt6LYzQ53lYgwQh/wihvdVec7f/SjCe3R69jrq+JOtg5g5MAL2T0dxjaniwwE/KipLsRmvkaqDB4bTXQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.fonts.dejavu/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1289",
+    "digestSHA512" : "IBSeUZcoOWoAsQ95PNwdbrvLmViCnHSUc1R7thaCaJt8gkcC8+ARhnlbCg0Q+A2dxELVIaI+AWuhzDzXBMfyCw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.fonts.dejavu/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "244",
+    "digestSHA512" : "cfK8mttiCgW7Vyc1gTwlX0dk6kOWoo8KsC1Gz6rgHTtigZdHD9DTPqf78tzylMINOpp9Kc0A6Sdozjj6PbfjyA=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/LICENSE",
+    "runtime" : "true",
+    "size" : "4816",
+    "digestSHA512" : "dRDWGHAWBpCWoz2I2zsRRLZBg2JgTL647jLspLK7hU6QQ/ZmB4Uh/JdymFhkqr///2JoCopJ7Oia+jNDb020BQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSansMono-Bold.ttf",
+    "runtime" : "true",
+    "size" : "331536",
+    "digestSHA512" : "JyuLMbIZBN9hGYMR9rgDz3lromtl3l76JTCSTycOL9wKuIjaeLrnHDjbgFxeQ76R/4EFBZTraoieNfHDPjwvBA=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSans-ExtraLight.ttf",
+    "runtime" : "true",
+    "size" : "355204",
+    "digestSHA512" : "3eNxX/5AgHa05sazqM15+ybcv6+F5Vf9nmLH5FBxQAsj1INhTA1XdeoGmsxMlPkSt3jPIvx6vyq8+AY2fnLvRg=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSerifCondensed.ttf",
+    "runtime" : "true",
+    "size" : "346272",
+    "digestSHA512" : "ktnZeu8OW21+ekgCfONV5Foc0bzBibMKum2ZtVrszm4Y3hQc5+JFf4NGFwCoX6kk85dufSsKqdDnEyorC+oD/Q=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSerifCondensed-Bold.ttf",
+    "runtime" : "true",
+    "size" : "330852",
+    "digestSHA512" : "d8s3lJ2+JDajn2vk/e2xF79cMbnMTenX6afo39y9Nw3A22OT4D6TuENbuHXGvITtI1I/CKnlj3ghgquFaV3prA=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSerif-Bold.ttf",
+    "runtime" : "true",
+    "size" : "355692",
+    "digestSHA512" : "s0UT5Uh1K3yKU/KndAIVb6O2hI7DAnfSS8ImcyfSMbTx/s1ts2WjTNP9A8FWg0eF1CNE4AETnUKjdAbQ4iDgYQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSansCondensed-Oblique.ttf",
+    "runtime" : "true",
+    "size" : "597716",
+    "digestSHA512" : "WWo+GPIjB3lo3jQ4pAuNWCT3tKlF9r2XqyAlhpd4gW9BsvEWq8zxOezyG2el9KoY5VKr2dRhB/Y2Gox7Zo9kkQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSerifCondensed-BoldItalic.ttf",
+    "runtime" : "true",
+    "size" : "346112",
+    "digestSHA512" : "lOSJlf7vKsXTQI7B97LPeLHtynP3J9ROTygDZvEA3LEdzlEzI7d6ovNOVn8C1kvyKNkttvnJX6tkgmmaFQ74bA=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSansCondensed.ttf",
+    "runtime" : "true",
+    "size" : "679256",
+    "digestSHA512" : "XJcVww12MKmpH/Yzf96PH8RqqhbU1Hp+a8WmftST9kwq9M/Urjh9DNYceDshlhc8PynVFrydiiZ0bxZVodIwOw=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSansMono.ttf",
+    "runtime" : "true",
+    "size" : "340240",
+    "digestSHA512" : "G/YmKHtMgvkhWNU2cslPJ1yO2l1VmjGtP7PjZGhC0k1OnI8jWKWs3sTo3hqKiHyNBDgQSWhRLkbofned5DtIQg=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSansCondensed-BoldOblique.ttf",
+    "runtime" : "true",
+    "size" : "610264",
+    "digestSHA512" : "XF34UnZAAOGOrKsyoSZfY1BiOWKjLv5NpVYa1HeELNw6WngeXdjS+B83OzgqkpFeyeTeGbkLSQNt4CRIeNnB0A=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSerif-Italic.ttf",
+    "runtime" : "true",
+    "size" : "345612",
+    "digestSHA512" : "9hXrpjJWryiXwXgxPTdg6+NE9BnDVbFJs2AMtQCZ1LEOG5yw2MH+H7M6bZW80dSYtMLqBRftTbh8SJSyzBsxRw=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSans-Oblique.ttf",
+    "runtime" : "true",
+    "size" : "633840",
+    "digestSHA512" : "EGt8zqjrn25Zv/OqAgnD8b73XoJcbJOmZsOhAplQR1pPJ5YRLb48mEaWEBk4eUbvvvw99eWH/y4+/SO2VLWcLA=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSansMono-BoldOblique.ttf",
+    "runtime" : "true",
+    "size" : "253116",
+    "digestSHA512" : "ynLIPc6Rq0eWFerIn27LXjAf5tgY71p5MHbR0Tyl2Pan6xAhGD7XJIGZ3LlCVlGVV2bVJvZqryIogPxlFtFj4A=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSans.ttf",
+    "runtime" : "true",
+    "size" : "756072",
+    "digestSHA512" : "C85pQoIzcsXjfynZHo4CEWnXGt/5D95mqwgvW99Lv0CQHfChk/sLHJfMk2QsWOMs/Uc7DLbRN+OTdWYVLV3B/Q=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSans-Bold.ttf",
+    "runtime" : "true",
+    "size" : "704128",
+    "digestSHA512" : "KN5u7HbygRlLxPWQ0SEmQxvcGtYm3XaKkCg+t8ww9ZmmxQWu9Xw3RMoT23ULKOwqMlUs6JLrnZxANMEpAXegfQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSansCondensed-Bold.ttf",
+    "runtime" : "true",
+    "size" : "663468",
+    "digestSHA512" : "7fkBwapBxLcBkWACiPWR+Uo3CjCTt68O2SV+8yo6qvxe0qhD4v274YYTN6gSe3Q13/Q1UJP7HRmNYMVRrvq9Og=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSansMono-Oblique.ttf",
+    "runtime" : "true",
+    "size" : "251472",
+    "digestSHA512" : "lWzspBGao/2G5u2LEMEGVfuuHsl5XFI/vvxEaN2tDMH75yEhJUrk3VPk0j3Ix1uvHh56HPSIDslOmP6fkn3k2w=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSerif.ttf",
+    "runtime" : "true",
+    "size" : "379740",
+    "digestSHA512" : "sDtxyOWzQQnv/BhYeye5po8GI/LalmnPyIPJELteXAUiIrjtOX3Q1qhWjN7/0nkOps8AyHKngQdbOYi6bIGCVA=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSerif-BoldItalic.ttf",
+    "runtime" : "true",
+    "size" : "347064",
+    "digestSHA512" : "uYbMBQvAEZm+dt3P7t00YCT3+tJBvExmoNb84E6YU29AqtttshEtqM7p1Xw6UrY3v/+0v4mkrWNXsZEPQqeq1w=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSerifCondensed-Italic.ttf",
+    "runtime" : "true",
+    "size" : "344940",
+    "digestSHA512" : "u6nCFRzdIUUE7F2IdWK4+b6RxMMuJBfN+D8AS447WZ8TWp2TZgew52wE0u0OCfwR8kO8eOtDBkmWaAjMAv43dg=="
+  }, {
+    "name" : "target/qnx7/usr/share/fonts/DejaVuSans-BoldOblique.ttf",
+    "runtime" : "true",
+    "size" : "641720",
+    "digestSHA512" : "e/NfLEXg1BJl2kcHVjha+DYRGSqr/KT4EFhpqjycYxKo/LD+ESmDVJd8D7WUNkMj89cqDIP2Ifez3SfgTIHBMQ=="
+  } ]
+}

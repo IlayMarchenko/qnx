@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.os_services.dbus</id>
+<name>OS services - D-Bus</name>
+<category>OS Services</category>
+    <includes component="false">
+        <file name="shiplist-sdp-dbus.xml" />
+    </includes>
+</shiplist>

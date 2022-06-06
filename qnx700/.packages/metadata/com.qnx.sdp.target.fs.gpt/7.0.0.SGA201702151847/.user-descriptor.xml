@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.fs.gpt</id>
+<name>Filesystems - libgpt</name>
+<category>Filesystems</category>
+  <file name="target/qnx7/[ARCH]/usr/lib/libgpt.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libgptS.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libgpt.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libgpt.so.1" />
+
+  <file name="target/qnx7/usr/include/gpt.h" />
+  <file name="target/qnx7/usr/include/gpt_guid.h" />
+</shiplist>

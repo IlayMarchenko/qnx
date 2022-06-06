@@ -1,0 +1,383 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.base/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "738",
+    "digestSHA512" : "Xi4Zu+Pn0q34CeobLPaj8vdJwMSTK3pxZ/FJbhx/EakONyFKSkt0On3aR8uudkbCuZkYc24QEewTu8H5nBH+vA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.base/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "2034",
+    "digestSHA512" : "dkWfoKTAfMeRlVcg2eAfR/vikA/QuI78fNKk8i2id2IHJIVccSSES2UxR6wnfTp9j3qTiUPw8++kKvlo/fWsoA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.base/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "1111",
+    "digestSHA512" : "eZAA6wVg+T/9K0PrNOot/XAlf9GftnH2ezC3tgVmFRkYO5ZXkQAQ/rn1T+GcgpLerzf3e/jccC1abpKC1i8O+g=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devu-hcd-ehci.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "70456",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Q4bkpxHoTFGDNSgcUMBk2DUqaYo8//xRJNBFrItDdJr0JLG+uDoqKULzqmKsOy6GSYDtCTV4QW4hEwSgXBonNg==",
+    "buildID" : "cab825502d790f49504b64de19bb2fa3"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devu-hcd-ehci.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "72720",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "8jk9Z++/Mu9gYxJBJfOvDuyvCU30hjg3J1B5JFS1qL9qYlidswyZKeHdUtt//Gg+iO6Nq5Dadtlg8nX9zF1iMQ==",
+    "buildID" : "48157eb8996151559cbfcbb9efe98fa6"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/devu-hcd-ehci.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "64936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YdHLUGfsDq3j8O8N01Lf34GZ34RbovrkxBvmMz2y5Pdiqqnw2jGnb+lC51K3au/Bw8pjYh23yTy+i6j5npkHbQ==",
+    "buildID" : "0c2255619ee131155cd3341db9c6d095"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/devu-hcd-ehci.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "48000",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iBao95d/5jNLbybMuTzUz1Q3ypZLt90bX5zP7tNpfkYPhAWkFmcQPW9j/vYuBe7s+7kM5SMwQMi3fAESPFPc8A==",
+    "buildID" : "e8387c75764ea19928738a84f1c1b2ee"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devu-hcd-ohci.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "51468",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "B7rWQJX4mot0WMc4+uO0Ba8zaKYa8ZNcSj7RbzaPrbEUM67urIUtrXe8QypR/uNVfRe9lYVFc+ORj5bQ1/aaHg==",
+    "buildID" : "40f30db684682d1c44e4b4e7f56f7c94"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devu-hcd-ohci.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "53736",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tRiO5nVG2QTOHaog9iNXd/vaUZgojLmBzjCbSFNwi6y+8rrcQOg8EmFn++ZHpd+4MS0zLRSFpqeVfNE4y2B1jw==",
+    "buildID" : "9d856d892d529421f9d5e57000088c36"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/devu-hcd-ohci.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "58104",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "csT71V0SY8QKj6wrCHq/iHrtUg2doKJhUgPnv7h2wya+XVbJ75soCX+p+pVek/lLB139Y0383E1xwDvXdJj/KA==",
+    "buildID" : "67209340860ec26809855811d406539d"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/devu-hcd-ohci.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "40540",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sdNGDC+8f0sRXzKmaG6s42t9PDR2u7p1CshAMy35dqd38dq0K8nSILsnR0wUS9pFqAk0XfhQAfBOc4EVnvCGEQ==",
+    "buildID" : "3adf9e85dce77cf9fabc405d6a339398"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devu-hcd-uhci.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "47340",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "2tUrsmx1JjSfNjw7u5kszilYFAAPE4PlGal+uDoIjmCfPnUP6GA+p/mbBALsFR/jYypQQYS12hQ5PW8rEfGr7Q==",
+    "buildID" : "690cd2b6ba219478fd51b1b189ad1b3d"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devu-hcd-uhci.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "49560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "19nYta7HAu7f7kx/+gVXTsizOKmjAftJL+G6uEVg0aFecPe/7TTXkJIQRL9J4hfYO3JWcPvmhIJwEU7q8RB44Q==",
+    "buildID" : "ad87803bb28d76e2644689d7ac6d4e11"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/devu-hcd-uhci.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "45768",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IQ/Ftiof8o2WJsXBfORaDLWu+e8uwUVsxpruxPdKrEmJoOHKLNnc2g/kdYIKFwa3BHjO+zDBhk9GYA7prCELQA==",
+    "buildID" : "682db2c797df2e9e90521a874a332360"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/devu-hcd-uhci.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "32336",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DgtJy1xPNV2D+hl3wuSS1eM5NaaZU+J3YON18L/NLFgt4cX1rSX7wcdYkOZEgEVhzeMciv5RlGd+tIG7mvlmEw==",
+    "buildID" : "c3a503a224240ae793c00a4f1c97f66e"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devu-hcd-xhci.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "106480",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4eWW5bekBRUWCWwEVr27ciYRqLcKQVQq+EiWY5UaNeTAEcb03Xgob/bEAD+2m+w7FVdMy2FFSnsrQAVg97GIig==",
+    "buildID" : "d12451cc7da60e317d52ab150e7b2171"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devu-hcd-xhci.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "105744",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hxrlfIhp5Ds0OFRK9UY+4bypuOl8Dy85h/dwwX/Wbs2khTwB3Iy4ZsXlP3H8aXB1Ojq+MLf7bQ7L7wzpEmgXuA==",
+    "buildID" : "bebb57e56cd9e4c7049037fd88e3d237"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/devu-hcd-xhci.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "100072",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "waxleMJX2IiVYjnnXFCs9rHcAHXCYzsJMRQhnG//+CF/qrZSCTfC4visR/bJ7vRW5IPV7NWxjBMKH+2oJejXww==",
+    "buildID" : "e118e0bba7ae5bb4877fdbac0244a4e7"
+  }, {
+    "name" : "target/qnx7/x86/sbin/usb",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "48504",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9nr8J9WfblqsCr0LhR9Fd6msvbUjA7WvX7Aeg+zYP4i0FxIp4jDyq9+ddw/0ECkPXMMMEKz3OaJ3M+IgcApDEg==",
+    "buildID" : "35349fc8a45738717349f7b1ed63e3e8"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/usb",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "48848",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "27VNGttHsgHIsUz76LoK0Pvr5E4mrGqagd5dghtoMTlpICo6kkdoDzntLa4OJDQOMZ0+9BbtLMpikZccTUrNDg==",
+    "buildID" : "b85449ca68499d162b2ed10224a9fb00"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/usb",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "49392",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vrX9GYQz9z8tc8/JTFYfnCFgPVWBLShBaVgGzrAsyYn//d4VAfY3fv2txPupgJRYQxFO8kAr9ypv5pxn7E+RUg==",
+    "buildID" : "2e13974acba7d266b166170dac6cf2c1"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/usb",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "41036",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "WsTmK/dBjWk+YzPrFcbi7AYnk1ldy4QpVRd9WSSmN9jMUReqilMC4kK3aA8G7SXOrFXhaHHVM+CVJZcNZL4Fog==",
+    "buildID" : "19fd20bbb5d6af93df21a0b972f6ed12"
+  }, {
+    "name" : "target/qnx7/x86/sbin/io-usb-otg",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "574064",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NWGptYzKvQ/uDLZFzfkkwGOq+47gd+Bf0mGWuhpnqRgS6Eul9n4rv41wHha8ymChtR6EJGxvJfcR9+xOZ0SIkA==",
+    "buildID" : "e4d8a41fa8ffd584500509e47dcee06f"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/io-usb-otg",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "539160",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IHiB5B2lv0G36/8JqNq6jADpZ5cAMSk1F+taY8rOF/BdAa7VYWGHbkvgHufNCSu4MDyg6TLaK5nmL/6Li6wjFg==",
+    "buildID" : "8720435b7558df577ac599a1b7a9047c"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/io-usb-otg",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "475192",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vxuzMnis4uRCngRbaUz/RW7DQ9TOVeW/m9/+mRlXGZeBQJF0Zl52LTOO7wNVSIjtMZyXM7oMbqA7Bg6aA0yU0g==",
+    "buildID" : "7c98695225e89754a5803bb8abf81949"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/io-usb-otg",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "349944",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "U6DLoyQyz6JkszLBvOKpilNHU85Ml0dwqJQ0ihItWcWECYfvWWkAhWPgrnnUnXK1ySJ/mMSJFkHTM9lUnqTafA==",
+    "buildID" : "4654edd8b7a0c50025a9db8f72657bba"
+  }, {
+    "name" : "target/qnx7/x86/sbin/devu-umass_client-block",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "67160",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "wIezmdUNWxPQHQNigcbdF0xkLTn2WsPaX2YrGgYlZgcEiEo45ADXuDngF9p3gdU/LuKsvV0I8MSW/etgiqZ3xg==",
+    "buildID" : "f6b20fd4e54d99ecf04ebb4c52e3a5ac"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/devu-umass_client-block",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "78432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qBPHdWL/52uYf3CQ3YEFQ5lEm+bYRnwJLsdmFWX05WuuN96zJRFowbPjnopsFgfb84k0y7Ycew/7wwAuXrQbgQ==",
+    "buildID" : "5522fb8cd6e480ce5ff5030694a64940"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/devu-umass_client-block",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "79096",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DI5mvF4A2bQtvmiwMitxJKn/JDVZMTI0khXblgE/akC1EYZodAeNOMPpkC9jeV+isT4y9i1lkg2MA/2mRNWeJA==",
+    "buildID" : "b4bba1c7caa803c79658c0728ac38e6f"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/devu-umass_client-block",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "57980",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4J3cueEmQfqS5E9ilg7BEaPfKk2RY6fO0PUQL5VLqMSJdrX5N31zCPKI7Xghpd0akhfUlwttz7XJzLRUZtvWGQ==",
+    "buildID" : "f67417f9a4399defa3369461bce1ecb6"
+  }, {
+    "name" : "target/qnx7/x86/lib/libusbdi.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "577018",
+    "digestSHA512" : "GiisBO8kY/7Il2rIlNCXdb+gzPnXTw7yLrNz8Z92Y2Hc1oAO906c6Dv/VcC7JqgkIS9TrUvsnnNe4KfvfgV1dg=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libusbdi.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "854642",
+    "digestSHA512" : "mP25juT9ezLOSdF5VL75stY7HsdR171ve5yH/2qJrWvW7b2HzYcf3z+AeLXGTKuzfXLpUHZacKyp+uJciwa8rA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libusbdi.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "865818",
+    "digestSHA512" : "Z6UepyeDLIUlzQt7FGdK1zdWUjs53MWvBXb/wy9ZIHZSz6ZAFcNQca04lWCaxOC9r7GaulCjjaHB0xPoXQ9Zew=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libusbdi.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "562742",
+    "digestSHA512" : "yS+m0JHc4cdDtmdqFlbZeFqf6jQNbc13TG6qIk+nBx2xt4Jls70JrXNuTZmTM4ggwQMFEtbGMEBuP6bigRe+Hg=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libusbdiS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "574042",
+    "digestSHA512" : "+gaoszdJowBz0YldHXLlqfiuv99fDyJJQBsjIZSBeabwhdjJTEkIpEpVL4S4OUy4KhkNTalOZRe4nzxuGc45OQ=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libusbdiS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "851274",
+    "digestSHA512" : "Ganj9lp/yaZjliZjVRAtqtchqZh02Hts48IjEGiXprLq6pm2IeNnIwAMmOqQAwX3XLains+Wf7rXbjel5LmqkQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libusbdiS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "861322",
+    "digestSHA512" : "kuYFlQErDlTjIqudb6qgwSPL2z7chfzpq6MxeqF55AdRcHzSAwGeS+BTplTj5I8hJiGFWI+5ibOgaF3lJaVWmw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libusbdiS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "563354",
+    "digestSHA512" : "lNvLaHE7IY3xbT2TffRF3sOMb0phBWh2l8enmtpGS20lB2yya8stNxFJNQ2rEt3z4TbdKwUpysy+JN9L4GcoPA=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libusbdi.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "83400",
+    "linkto" : "libusbdi.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vWAF/sUBZkq3aOMTl/fcAnGNpM9wfT48icv5lcIPktUkBB63Pk/jtUU+4Jh+RJX1ltBwvIWud0hXE7Tw/v2uIg==",
+    "buildID" : "01343a9142ee1bb7826aa7f7816a947e"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libusbdi.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "82408",
+    "linkto" : "libusbdi.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MBx80MT936+NwiE5sjBeu/hKuVrz2Q0CnPXeUx3z3g2ucYlpalCUp7xiadLnUAEJe+fU5efTTF+qjnRsGFRMsA==",
+    "buildID" : "282e6a2507649b66e7564f489ed9591e"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libusbdi.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "70784",
+    "linkto" : "libusbdi.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ADHeO17w3uuBXs3TIfuxLpBEF3J5t0eiajnVFUqRwJmAJd0MHwC85UTTK8DaEMZKrKUrJlQrTvDkiIwJMyjhkw==",
+    "buildID" : "27f1cde01c33d4e6289cb90ff4b95b27"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libusbdi.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "54748",
+    "linkto" : "libusbdi.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "e6le4ddIsS6ueu53eyjY98P/JqYhL7KTBuJtrez3ov+oiLPLxLVWR2DxNRGIWg76IX+DYQsZXPFWd/nqBL5mcg==",
+    "buildID" : "ec0d00ff1df3b0e0446aaeba9b740fb7"
+  }, {
+    "name" : "target/qnx7/x86/lib/libusbdi.so.2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "83400",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vWAF/sUBZkq3aOMTl/fcAnGNpM9wfT48icv5lcIPktUkBB63Pk/jtUU+4Jh+RJX1ltBwvIWud0hXE7Tw/v2uIg==",
+    "buildID" : "01343a9142ee1bb7826aa7f7816a947e"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libusbdi.so.2",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "82408",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MBx80MT936+NwiE5sjBeu/hKuVrz2Q0CnPXeUx3z3g2ucYlpalCUp7xiadLnUAEJe+fU5efTTF+qjnRsGFRMsA==",
+    "buildID" : "282e6a2507649b66e7564f489ed9591e"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libusbdi.so.2",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "70784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ADHeO17w3uuBXs3TIfuxLpBEF3J5t0eiajnVFUqRwJmAJd0MHwC85UTTK8DaEMZKrKUrJlQrTvDkiIwJMyjhkw==",
+    "buildID" : "27f1cde01c33d4e6289cb90ff4b95b27"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libusbdi.so.2",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "54748",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "e6le4ddIsS6ueu53eyjY98P/JqYhL7KTBuJtrez3ov+oiLPLxLVWR2DxNRGIWg76IX+DYQsZXPFWd/nqBL5mcg==",
+    "buildID" : "ec0d00ff1df3b0e0446aaeba9b740fb7"
+  }, {
+    "name" : "target/qnx7/usr/include/sys/usbdi.h",
+    "runtime" : "false",
+    "size" : "20011",
+    "digestSHA512" : "5UBh0Ly1y1aJ6QymB1boYQ7wHib0HCcdKHwIdT35KJ+V1vcoEQMUaiPFnIJjcxAfuJZPnW2vnP59c0O6WElocg=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/usb100.h",
+    "runtime" : "false",
+    "size" : "12040",
+    "digestSHA512" : "6WJeH6gYwLyzPS4C91eNxlot5t2h0yQwzNHtrvd7RsNq23SLIGT5IXNzppUeTuxSxcmluIgC2PB3/iuhnpXIsQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/fbma.h",
+    "runtime" : "false",
+    "size" : "3307",
+    "digestSHA512" : "1ZnokZ3Liy8Fw5m5OiraDoi+X1JFWA7mTuam3prMAzZ+BEkGc71woaKSva/lVza09kF+pVM0rjgv6M4nKCmFoQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/usb_devices.h",
+    "runtime" : "false",
+    "size" : "27836",
+    "digestSHA512" : "xI2XyLNmRpieAp7hM1O4hpF3Z7ERxQO6MH/TrftydmnWBAgAQ87DgLUpdO7yqRsXalEyUIQaIPDjBKBuDrQvNw=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/usb/usb_cdc.h",
+    "runtime" : "false",
+    "size" : "8988",
+    "digestSHA512" : "E1s3XVnyztwaNSFrWT9WIN43BgcSLwSLfCL/Wd6NQTlYQXd+Saawg4qlD5fhrcF3R6Lid+stpxHgezcRtyM+kg=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/usb/usb_cdc_ecm.h",
+    "runtime" : "false",
+    "size" : "1339",
+    "digestSHA512" : "c2bgDc/jOdmbv91RpmCc9Cr0RpECVp5SoQwEGf6h8CHbWnyAQBMmeo71/ViWg2m9nN3dzFy9G4b2i/cObtY+Sg=="
+  } ]
+}

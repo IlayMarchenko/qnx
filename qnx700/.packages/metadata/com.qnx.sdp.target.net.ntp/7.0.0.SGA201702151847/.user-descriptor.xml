@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.ntp</id>
+<name>Networking - NTP support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/bin/sntp" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ntpdc" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ntpq" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ntptrace" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/ntpd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/ntpdate" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/ntp-keygen" />
+  <file name="target/qnx7/[ARCH]/usr/local/share/ntp/lib/NTP/Util.pm" />
+  <file name="target/qnx7/etc/ntp.conf" />
+
+</shiplist>

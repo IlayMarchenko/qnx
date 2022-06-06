@@ -1,0 +1,542 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.dbus/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "677",
+    "digestSHA512" : "IwgW3Z+fYRV3yz6lv9uwlgs4ozQQ+RNb0h8FP6e3D91fT+c6CppomYLKjRFxz0SsCd8e28kSGcvJUkmPi8gZMQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.dbus/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "3580",
+    "digestSHA512" : "nGaEm4/CEazcA3a2il4336oMeQ4G+ZX8rP0szJse2MHzcCD6H62z37tOZiTl/NTsHqPFXUzkHSFbOVabeRQGgA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.dbus/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "277",
+    "digestSHA512" : "NpH1o1KXb5I7nMKx9LZOmSSj3bth7PCS9locscmjKHS9YXZCKq+fqw4WrQ64swGUnbJyzLPwyxfCOFfBzbc5hQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-cleanup-sockets",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12884",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "V0+T+cCkU0pJxn4DtuNAlbCBTZJ6IffuJuyhtIBWsNwEAMUBYW3BzKYh/R8ZmocqeJmob6GBJnxIN0tfSA58hQ==",
+    "buildID" : "fcdc665b3786bd25d95ea4bdc906cf93"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-cleanup-sockets",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18376",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7/8hHkH0WRZtcBE4Mc096wgEtiqlaj4i3A8TudtDQJY/meK1v/EXKid+XySiOzyNpI1annMRCPiw7hX9TLd6Aw==",
+    "buildID" : "24d7aa2639515a815ba61287f51e402e"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-cleanup-sockets",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18848",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "6tlhXngEFri/4irHVNw7QRjBHe764RA08WmJEhJM5YptQIMfFpplFewefyDbixFTKjOpj11KtWhu1p/GX74/HQ==",
+    "buildID" : "d3f0fc97d688a4a9cd04cf438f70f236"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-cleanup-sockets",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13824",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "GpR+fYt1W+e7Yo0uj43JBrTWlmgbyOxe5EhCV+VM3e4wgJX9QJ71kSNvIZpKwPPqfFOmU81ZNW5GbEpN8yhIgw==",
+    "buildID" : "b9f3ca4f947f7146c511b75916ee8518"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-daemon",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "302164",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "5FPTlnqnqC94Gb5hdFwDI4o0EQ1oDYZ4fH2cdIbERCVFx1a9+68UQn+SUgdBZ6y9hQsjuHEYT//aESE0z8YzAA==",
+    "buildID" : "43014710daf2d3b00d6d16e543e55214"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-daemon",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "267816",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KEbZDDoeXWf+QPYbMJzd12hDhzGiEFaOzFAKToOyrdWLoRvZfhOz+1WLIYN06eyFJEwQW7jnyHmwcPSRkR7GJw==",
+    "buildID" : "27ff2c74676efb2bd923f4dba4bfb849"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-daemon",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "241440",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qyS+ZqoUuAqb5DHi8yqTWDkBzDIhBdkwcMJXLOtLHkXxEarFhaPlI8NQwolcZMaPBpOAWUuRtTXGPgCnF2birw==",
+    "buildID" : "2c12878d0d776aaf0333ab1cdcdbdf59"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-daemon",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "188244",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PIs7Y7YN3WNlQZ5QfKq6uvjZ6cyScph9gwiWDhvYLObujgTknh2+2Zc2tIjfzdj31iR5kWGWjjZxdp8ke08/nQ==",
+    "buildID" : "1f8b613eba73e4c023d86f8da4dae54c"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-launch",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "21752",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "BB7fl2hXGG4jxP4Puq4QMpFac5dLNgm6BmEMeXfhQmJK3lZ8SFUMmAV1/ykSkM8mrToVoWa948YGdvQG14jgZQ==",
+    "buildID" : "f821f7594f53f9b3238ade9550ed3c40"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-launch",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "23424",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "UWV/diy62dBRCmzfI98B7UtfDR/wSC1SRzz8QpuTbNcJsNbxMerCSgXk0P0J3VOkCunGQLg3BQUWm2hCnm6XVw==",
+    "buildID" : "2f98ca47eb5dafa5dfcb34226fdd47f9"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-launch",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "23928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MaWnVMJBLG/75Xtx0Xt0PFMT2NkjmFYE1T7/OTfQ7t9Jxmgy23DgT3qADjLf5hS+NpU/ufe+dTafK8tjrKWXmw==",
+    "buildID" : "245a27a7364aff97d1294c5bbe4d9897"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-launch",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "18752",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yTlOsr8AulCaWum0Y5Xl5abT+yZhahsD9hnHAg8yZwBwxoDPkBUQA1rdIK0HDBkBPQ8QCcvRIZZsPtEeimMIkg==",
+    "buildID" : "f342e11af6c6e79449c997b9f33a6f1a"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-monitor",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "31968",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "2ikLrKpNY5VJ3f8NvN5iDufRyJgYoqk8Uu0WEDS7BvTtGFapvzI3eLmPO3VixFKCGbugxYtScMCGImdBnDXtjw==",
+    "buildID" : "7da38c6fedb39c73d93267e6824eff8a"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-monitor",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "33352",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Ry0gjOPlgDF6eDqdnGreKXRzcD+eCguTDeRsnoTiQ3SRsCiRJMKIlLcZQmB9KqODhB6aB6jTkXK2o8kKT73sGA==",
+    "buildID" : "033001e0b7ae89ca390c0d4958164727"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-monitor",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "29824",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "6PS9l8bwViSoAJxQs2HAXD3PMpXPDJ1J6NFouQIt77fodTkUcuuJ9jePi9rCHicY7D3uhWFjQMDAytXY5VgnQw==",
+    "buildID" : "f91db1778007e6dd67412c8ea4d18d37"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-monitor",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25216",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tzUSaSz6ayVXtCIxbM56bbjochX5COn9rFBAmk48KrgP338XiOIYjinIU2pb9nZC79GSSwMX+1DMFIpWgHiDMg==",
+    "buildID" : "9f575bc94575f20a11c8b8a739f82763"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-run-session",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12740",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Vd+cEYdpbDdG5mFiAxRgBAjfLX50p9o4WgE3VkbQKe31N8vzvgpQByHDWeppZ/yTKQHJ1wRfAMtNGeKPqeb87A==",
+    "buildID" : "bd1d638297b9979e2872b9cbf4baea3b"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-run-session",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18192",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "bbY4De3FAxHcvTWlQcH+2eEMbFsc+MjN/MkKqKi7AyRgL25oM05WPbH2nk/Xmc/IpzEFCojYljQa1fA1Y63pAA==",
+    "buildID" : "e42edb6c1fd12520080850cf4c45b170"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-run-session",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18584",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Km7pd8fmralTHz7eA+y1EkHUq0kINdHm7ol+U2lwaE9rFdmqSzcdLmYXVLQRwfEMohGaMUXAmXW9rbZmsKCChw==",
+    "buildID" : "2fb370c7fe726b09b85b5ca785b27d9b"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-run-session",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13572",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "pRTpRss4KOZhd0kN2lO5BrSttezkGdVzWMgr/q8wy3wzw4XiZgD6dTgCw4q6Qem5/agDPFmWFJYo3IPPNHP+0w==",
+    "buildID" : "27f3122d17b51be47e6facec9ec9431c"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-send",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "32184",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "W/To0MCrWDOZaKkOscaZTSNIc1ry9kVihoSGzShwV+hmM7XVojahFTfxnQU3H3sL6R5BbpGzGW2MnkCcgQXvkg==",
+    "buildID" : "83f96fb70b39353513dcf60486a330a2"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-send",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "33392",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IvMAgSO6ntkGRhneMGZ8UIYA7I+rEyUcQBVBW8HKgNbZUHpf86sfXVT6xCWisHwvt8QXqGKgakNnO/pzrXGhmw==",
+    "buildID" : "ee4250831d50e7c7cf1ed1a2eacd2ded"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-send",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "33952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iuO0iU8OayBhZISzXh7bkoH451KD9bAE55Ras1pGxswPrbyGUZed4rohHKI9PK4Lowy4HqmTzGdv3E5N97OyPw==",
+    "buildID" : "f18789a2358c9346db8574f53106d8a3"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-send",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "29180",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "wFiG/hi/Rpq0NoaacZDF0MbPqOlGQHzEDUemvIXFkp41jFPY/LZYYjIo05cTl2Z5mPhcb/1oPR1JZjydTVeaVQ==",
+    "buildID" : "8b8197079222c180e0b07fa6534767e7"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-test-tool",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "27000",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RpuTXVdjJhCuMzqmCn4sNO+aoj6Alr3CZuXjQjC5Pk7rJ8PLUPwxUvpdYs393aFYvkNp2Rr+BhyFN1zteFclHA==",
+    "buildID" : "d75e874d4fc2b3084e2e5609bb8c7db3"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-test-tool",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "28728",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tbjHzkomhdWk9/Sm3LT1dXVJHTvGAQ6vHwjcWya5AbO3Y2t93kJAiI9KHt0xOacsA6ia9oz+w1rV7bbjlhMTvA==",
+    "buildID" : "46e2d276eb49d23015bf80e15988350f"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-test-tool",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "29360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lyv+3hApXwgtjezCsHOm+G85XOFAEUP/8JS/mzwGLp8YPzFWPCtIrzO7HuE6Pzdzs0rCBNhaWsInYs+GQrsI7w==",
+    "buildID" : "f84f6b97230c3d689f4f31311e70413b"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-test-tool",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24492",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kfLexdhPRrlCRCzL54NLSH9QqGS1nMyB746zPbu+NkCcYQrrXFwGgJAY7ryWeAcPJNyh5B9DpSNd02zkh5dE6w==",
+    "buildID" : "96607d2728610f03f432fd9a70fe1549"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-update-activation-environment",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "13288",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "T6Rdxf1sfWjSt2E5/sCD/ulPrEVzVmhFaAU42hvYQZDs3JvfysyjCognGT0EshgsZxH0us6JCzvYTuflvbOy3A==",
+    "buildID" : "f174da586ddb3d0f36e90036fe3d5136"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-update-activation-environment",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yaJtgN2ezoVaQ33Ldz+lmSHQUKjWuC5SPaFRRUwnM+fYP6Ky7Zkj/0z7bZ1Bp03UhuyVztGg5oddSWtyVomC/Q==",
+    "buildID" : "ea7a044177d552552d5eb86e165e78c3"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-update-activation-environment",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "19248",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "a+e8GSmFs5kCX/dYKQYNgBZzbx6YSitX7+AeExE4ArNbsZSS6qeXIYm8N9LqbdGxbqKfpdVT8t2SneFl/I4o7g==",
+    "buildID" : "ff0d563ea5a2204c6a30ccccf6f7b22a"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-update-activation-environment",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "14248",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "M7oXyczaK87zTe5wCFjfAr4z7AE5FXpl6NbR54gZRp1HaYKVFcJn/36MTcp1ayTtS31P71llTQvNTgSypmC2wA==",
+    "buildID" : "a63bceaab937983e3ea8999bc364564a"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dbus-uuidgen",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12536",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "6oyTdxGdRkssw8nHQppzwyizl03BGDLDVEWF+9WU9g0JCkgOfdrtKpJSZaiodoN1CdQb3A6HlOe4smTx9fnJsQ==",
+    "buildID" : "40c3ca3bbfaea39963393ba0df60b23d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dbus-uuidgen",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13896",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jq2nKU7YS2p/TYbsygo352TQ9EtTEsvnxcWSU3vQZTZybcxGvPkXZldFaNWW/jIIt+tEaWTpKXtEocQN+XkM8w==",
+    "buildID" : "04ebd367c76dfe18446fa7c6f7579138"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dbus-uuidgen",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "14328",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1PYgDe+kBOMsFC95wI2ZcVFaaWLKARQwp6eaTetsMSB4L1QwvV/yGGUUnoH3u5guIU4N5bB8Fydmbre4ff+z0A==",
+    "buildID" : "75c50ff3b0be7b48ac6298fb8491e8ff"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dbus-uuidgen",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13456",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "aoqnZrCpbxhEUGmkZyVW30xsir1gX/AC8FztM/BDC4GJTLe58Hj+527VbHGsYE2mIq1Q7IhkK3CPc69RsSjAXQ==",
+    "buildID" : "fb7ee26dc02a2a1ad1550e33c5042a5e"
+  }, {
+    "name" : "target/qnx7/x86/usr/libexec/dbus-daemon-launch-helper",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "78036",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tx0cGB7+U1aH5M+gWtKulai3JKd2+FunYvJkGHQlQJb/kgXgenpw0dQMc4u7H61RtRQ3SMr0+jMpqCEaHZfcpQ==",
+    "buildID" : "03fc66d02698c74244bd9cc0117a0459"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/libexec/dbus-daemon-launch-helper",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "76640",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CUWfpGaILDLxxKzh4rgaKy1hVPyzQXX2cHepkwxbFzvcuSLaVelyirZHqW14I2jl8vGjRNWuM45erlqyXA9eQQ==",
+    "buildID" : "8fc4a5c93f4a884b4d11e5e19d143d3c"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/libexec/dbus-daemon-launch-helper",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "73656",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IrQOelCRnqUWJwTfJVbX3bZpU3FSfjTBPx8Qw8lCXe5OPhzXmXmF9czU/ANOjezV6kXDl7PiN8BYOZE1TGjX6g==",
+    "buildID" : "d1e4a98cdeaeb1b07a1d43042d2623b0"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/libexec/dbus-daemon-launch-helper",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "56048",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uwq+34TQj9FJuJSpI5437BgXrNmuKwGN7AdTJKKNAc+sNCDnsfCPR/7V1klQnLf0jEbVnN1zfh/ZK2hJjtyIgQ==",
+    "buildID" : "b559596cc89a3a3f3e4f697447f5cc3e"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdbus-1.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "2175216",
+    "digestSHA512" : "kYCrSsIK5fDsI6hQAJe+bCkXNq362xKt13f6Ou1KfOlfzzha7C0bz0swc+XqzOvXn/bZ85C+x+vScvpakW0IFA=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdbus-1.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "3368256",
+    "digestSHA512" : "S0O2qlGR1spGynKL+JRi9L6RnSxVUYVAC+X4rCzLIKbJuvOiIaY2C/DnD68vnOX6d4qR7xdqK1zEDJE2YYlztQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdbus-1.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "3544544",
+    "digestSHA512" : "vBS83MrnzCBeVmzj5hCl/AMB80HBOQswh55PJXq8Iv2m7v5nC96oLCAAPzN6KeidNoep8dMmTjj9S0Bq54kBnA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdbus-1.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "2179836",
+    "digestSHA512" : "oEW1twZNitq6ounGJCi2p1oBPlI+MeMGR55qE8XRpIJtmzd6/Z5r3OGns2kuXpDl43jaFxW00hrczhfkQn2DBw=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdbus-1.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "475096",
+    "linkto" : "libdbus-1.so.17",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "U2K3VmtRH/txt9zHx3V+v/EmL7zotTopJ2AY4cttlwa3XcnXbU298BYO/PYPb+3X8tEeHgJ27ijM3aeCXOWlqg==",
+    "buildID" : "f179690109497237fd8f7e96b4d5c61d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdbus-1.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "420680",
+    "linkto" : "libdbus-1.so.17",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zySgvNqipShrAlykc3q1a9ErB0uSQY6uzmeDwTuMXc68oyLJv5LARGrr1Jhwhk0BAeJdlR1Ub8HyN/1pWGz4cg==",
+    "buildID" : "f7af98105ab8f116f1e79a5d8f252db4"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdbus-1.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "378688",
+    "linkto" : "libdbus-1.so.17",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MvT5i9+ZUrUBQ3EPqV6ws168dQAHQmdFSnM2LhX9IhHOpaAs54xWsq0ZQiiSm80zAhWnE0QLDx7ANCTv+ya9mw==",
+    "buildID" : "82dc00bd48a113f83dff5be0373f9afa"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdbus-1.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "291608",
+    "linkto" : "libdbus-1.so.17",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "L7IMV38bjWcRox34Q+8HaNiUUbm6NxHEpZH+gLlFhkUUV9ZKanzReb6riVOWH2C0zBHKzKd2Pcei92TyhNBOfg==",
+    "buildID" : "0f8468254eb01f26ce493334eb1dd4bb"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdbus-1.so.17",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "475096",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "U2K3VmtRH/txt9zHx3V+v/EmL7zotTopJ2AY4cttlwa3XcnXbU298BYO/PYPb+3X8tEeHgJ27ijM3aeCXOWlqg==",
+    "buildID" : "f179690109497237fd8f7e96b4d5c61d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdbus-1.so.17",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "420680",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zySgvNqipShrAlykc3q1a9ErB0uSQY6uzmeDwTuMXc68oyLJv5LARGrr1Jhwhk0BAeJdlR1Ub8HyN/1pWGz4cg==",
+    "buildID" : "f7af98105ab8f116f1e79a5d8f252db4"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdbus-1.so.17",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "378688",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MvT5i9+ZUrUBQ3EPqV6ws168dQAHQmdFSnM2LhX9IhHOpaAs54xWsq0ZQiiSm80zAhWnE0QLDx7ANCTv+ya9mw==",
+    "buildID" : "82dc00bd48a113f83dff5be0373f9afa"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdbus-1.so.17",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "291608",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "L7IMV38bjWcRox34Q+8HaNiUUbm6NxHEpZH+gLlFhkUUV9ZKanzReb6riVOWH2C0zBHKzKd2Pcei92TyhNBOfg==",
+    "buildID" : "0f8468254eb01f26ce493334eb1dd4bb"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/dbus-1.0/include/dbus/dbus-arch-deps.h",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "2061",
+    "digestSHA512" : "w/WEi1tKNGjMEB26WnfCBtv7TS8XUjtRr1L9SMR3RKk3mE+7059OdLYrWQQ0/Z+g87n7grPIfXJ8VTIIVNRb2A=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/dbus-1.0/include/dbus/dbus-arch-deps.h",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "2049",
+    "digestSHA512" : "fYmGIz74lq1X6Zx/2bRGTp0/Ziyx7UTFexlecex9FyQw/2/8nBVCCPHM2tE5/YDNa3N8MAP4cLgxWm9FCy5CAw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/dbus-1.0/include/dbus/dbus-arch-deps.h",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "2049",
+    "digestSHA512" : "fYmGIz74lq1X6Zx/2bRGTp0/Ziyx7UTFexlecex9FyQw/2/8nBVCCPHM2tE5/YDNa3N8MAP4cLgxWm9FCy5CAw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/dbus-1.0/include/dbus/dbus-arch-deps.h",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "2061",
+    "digestSHA512" : "w/WEi1tKNGjMEB26WnfCBtv7TS8XUjtRr1L9SMR3RKk3mE+7059OdLYrWQQ0/Z+g87n7grPIfXJ8VTIIVNRb2A=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-address.h",
+    "runtime" : "false",
+    "size" : "2360",
+    "digestSHA512" : "JkpoLwh/8hv0TAcjFK/eXSqq/gZqdCvABssKIMVy1p95PpnQcSTw9Q5njcsgiyVu5xgv6sQbTec9JNF9rNwSaw=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-bus.h",
+    "runtime" : "false",
+    "size" : "3693",
+    "digestSHA512" : "18cBTgHGc4803AnEjKPjPbioQ2wtydAvyoYuc4uJGY6iAOZuRJwtg94xWG1pPcBZoiXO7NhDkZ61nyKslKUeRQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-connection.h",
+    "runtime" : "false",
+    "size" : "26257",
+    "digestSHA512" : "sWWLMpXE1QJlYOC28tROPWXL4dnxWK1JeH8RyRUYZN5PXEA7VogAq986Q3cvzMw5ehfFTLYwMY00qWn3/BtD1Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-errors.h",
+    "runtime" : "false",
+    "size" : "3110",
+    "digestSHA512" : "5wuJGVwJ/QuenPDYvBWZiF/i0PXlvnDX6DteXz844OZdWR7g4fbH9JkcUvmMBgGqkY2Ek2HSw73zkdwvrBq0yA=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus.h",
+    "runtime" : "false",
+    "size" : "4172",
+    "digestSHA512" : "oEAz6BSQavT84OlQl1PXDf86EvIiimcXu+0w8ih0SWSodRZuikzs+VuMPulpUX7KlYUP3c6e58mCKkHAp9G+tg=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-macros.h",
+    "runtime" : "false",
+    "size" : "6245",
+    "digestSHA512" : "8xp99f6cRcC+DjabdU8iWbRmpzfPYe5Tn3gPqHIExGWmkUqDM8Tg4YP6TUfm5Sncb5U19+PxLE9WLcFcEcbTVg=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-memory.h",
+    "runtime" : "false",
+    "size" : "2199",
+    "digestSHA512" : "44vsOZmzor7AHHHVLXlRq645kBwpzmQndF4H8J+Sg60NSHHT17kpTTfTKqyswQGZ0dJ9PxjuWR8252YnpiZD1w=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-message.h",
+    "runtime" : "false",
+    "size" : "13545",
+    "digestSHA512" : "swHCbwxjJN60a3MatqtwDSfleLtLDu7jFfeGOjnCvtzTxPpzoAm3VOhoenZYGq+m8mG4Tbv3Y7OPyOaI0z1FuQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-misc.h",
+    "runtime" : "false",
+    "size" : "1966",
+    "digestSHA512" : "P40o5wFboce27XI/a2fqO7fKp1BEtRC6w2QVKi6Y9NU/gb0cMRT26GbMC+SL7HKDwlq+xG3CoHIHvytABwO+qg=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-pending-call.h",
+    "runtime" : "false",
+    "size" : "3354",
+    "digestSHA512" : "u/vGRmZ4WENh8qvZvQjEnj4NsYfMaXQj1ulVofn2gUm/YCt+MZuQjaNK2Hyr0Lu+hQsRGLwulu9lr6O7BdZfRg=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-protocol.h",
+    "runtime" : "false",
+    "size" : "23868",
+    "digestSHA512" : "IHfjkZm4Hy12ndEFu7al0d69+oqcCYxm+QpL34wPdcN+E+MErNKrpe5Ld83WnGKw31uwdILI9yTECfAn5vb5Gw=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-server.h",
+    "runtime" : "false",
+    "size" : "5018",
+    "digestSHA512" : "6395MtH2ynxkyU0PbUXH53op6Eg+BcN3nc6NWrtkMu5hlI3qfqnwJawbMVmpZfq0A3KX3EnhuuzqRCPkQ9i++A=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-shared.h",
+    "runtime" : "false",
+    "size" : "5618",
+    "digestSHA512" : "iFANhqDQ51mILD9vphdYTqWQaBa98xGBnP7VYG764qd82phIr8tZryRiA8/qsLjEISVZp6t7TJ8XPS9kY1Yq7A=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-signature.h",
+    "runtime" : "false",
+    "size" : "3276",
+    "digestSHA512" : "IVWnifDuCmQaHWI489bg/4EgUthQTc2kenu8D+TX2AyKz4gD2ZCZ1lVafS+NUSJU0iKuyiLfPMkyOSfADyzvgA=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-syntax.h",
+    "runtime" : "false",
+    "size" : "2583",
+    "digestSHA512" : "vo6xfKeo92T4cVAj1FNSshqBM7EvRmj9Lkq1hxxA9lD0AryXbVvexL4Qiu9BUjoUQ6LKh/cnD3PPa/kXz2SG4Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-threads.h",
+    "runtime" : "false",
+    "size" : "8732",
+    "digestSHA512" : "gWFwzSLb2mGGVaXwlUMZSnHX8nXb2S9a/JAmhQIwjfD83mSn9xSpQ08T4Yc9U4Fy2oG3n1TcLGqbzY0K2E3Slw=="
+  }, {
+    "name" : "target/qnx7/usr/include/dbus-1.0/dbus/dbus-types.h",
+    "runtime" : "false",
+    "size" : "4368",
+    "digestSHA512" : "8/w1S0ujBF/+L0nvNQyav+Y5l5w/lV6tcWkVFppOq38p3+XVkjdoOSeIYoeUTrTe9+L8L4+l5HK8mKCn0a4u3w=="
+  } ]
+}

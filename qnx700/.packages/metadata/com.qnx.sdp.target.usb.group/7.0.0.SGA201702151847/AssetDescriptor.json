@@ -1,0 +1,21 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.group/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "578",
+    "digestSHA512" : "GEUC4rpUa/7j0XSKGX9zi9F/xzYSP0I+4/oQH6uI35T0Olc4Tc26g5WZ2MAzUqkyWP4hPRDXsRPhy2UA4UOMJg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.group/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "112",
+    "digestSHA512" : "ZZMcSsMeoUwQ/fhmP19rsObKPr+FFfLoPsF8jDchBwnTjZEIhEY3rhH5uVZu3Qh9oOiG5hwwfxMOMik6zTp3nw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.group/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "258",
+    "digestSHA512" : "zl1Pf9dF6ixiOCZYjqXZ9TPKwiTc3aUSou89ek2Hbnpjhh/BK4eIusnVc4Ei/bqkc1dwOs3znCE0un9kN8r+VA=="
+  } ]
+}

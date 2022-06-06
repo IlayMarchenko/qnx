@@ -1,0 +1,17 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.net.libnetdrvr/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/usr/lib/libnetdrvr.a
+target/qnx7/x86_64/usr/lib/libnetdrvr.a
+target/qnx7/aarch64le/usr/lib/libnetdrvr.a
+target/qnx7/armle-v7/usr/lib/libnetdrvr.a
+target/qnx7/x86/usr/lib/libnetdrvrS.a
+target/qnx7/x86_64/usr/lib/libnetdrvrS.a
+target/qnx7/aarch64le/usr/lib/libnetdrvrS.a
+target/qnx7/armle-v7/usr/lib/libnetdrvrS.a
+target/qnx7/usr/include/hw/nicinfo.h
+target/qnx7/usr/include/netdrvr/avb.h
+target/qnx7/usr/include/netdrvr/common.h
+target/qnx7/usr/include/netdrvr/mdi.h
+target/qnx7/usr/include/netdrvr/nic_mutex.h
+target/qnx7/usr/include/netdrvr/nicsupport.h
+target/qnx7/usr/include/netdrvr/ptp.h

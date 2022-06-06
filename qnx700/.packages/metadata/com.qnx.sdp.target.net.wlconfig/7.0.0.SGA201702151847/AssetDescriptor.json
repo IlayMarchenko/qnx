@@ -1,0 +1,137 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.wlconfig/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "621",
+    "digestSHA512" : "uwFSzYF3zpaYxDQFfF7Pk0/yv/29T6PG6H0vPlU1FXIPBSfXAcnptVMIvRxwkVGAW+vlM0kj0CSPlf9U760tfw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.wlconfig/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "735",
+    "digestSHA512" : "QsfYYf1Up/7s891cxWuu76293toVVqdjDEb0ZQ/HrK2/QxbMzHXyoICp+Hbx9bkXh7kggI57TxLlGF8+1iZ1hg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.wlconfig/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "431",
+    "digestSHA512" : "qPzure2PnXOTsN++ra43z2PpG76y/1d2R8HDUNS+7ApCUEF/BmlDALt8U19TLWxkGlkcVLWvmlu4I0qD6GZI0Q=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libwlconfig.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "289424",
+    "digestSHA512" : "jl1JyjCcYT+JfV5d7Q9QiVMLLD8R71tDpCvE2NCPOqOilz71ZkD14ZzsVULOMUO/y+7pPM5/dCyx6lq5oM42YA=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libwlconfig.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "398136",
+    "digestSHA512" : "RuMCzkq6B06PtPZ7ZAjUVudq+YpCHMXqsqEHV/std0KOom/LWx+Ro+F+SJPUdCqHE8RZnMb400eOCLyHoh8lhA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libwlconfig.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "402232",
+    "digestSHA512" : "yz7KsPkQnU5nTxkThmSK7V2YvlYmB9/Vzdx0Em6deh7TopHwxITnF2cQhzY+74X6IPbTwsfRv3QQpB7CsgJ5Uw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libwlconfig.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "278912",
+    "digestSHA512" : "kybusSqGV49q5zlrxJJc+HycDfGrB6uTMK4zoK7p3EZLrlgLAl1Q5y2A8kzLRvhS4byTkpLnKHnCjGMLzGT58A=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libwlconfig.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "62028",
+    "linkto" : "libwlconfig.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "C7qj5LLL6yHSNJ3fAWMCaMRLWxLnF4wSYmESQvxaZh8zBT3bxHhRkbgS0Q0T+HuxjEmf3blRuKdIgeyM6ofhwA==",
+    "buildID" : "1c6a4ef20d64624402503c0e36bbfc90"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libwlconfig.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "60416",
+    "linkto" : "libwlconfig.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Q5djz3QMw11RpkrWPL6PVM8I6S8BFgioXL991ogjFYB4X7WEkPFUdJzjwKAAOdB5qjYOhkoSZd8C20+T0XW6Mw==",
+    "buildID" : "42335c3e606a89d9bb59644cd475828e"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libwlconfig.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "57128",
+    "linkto" : "libwlconfig.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "oPLop28MKbqZWn8fAojbevSGE7xSf7TThiBJRDIqsgmXElchiP3dItPbQUIgIF7hP7nZ2EDdmar8iaaflNFYWA==",
+    "buildID" : "a52a1ac9b1b309da175c7957559580db"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libwlconfig.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "40352",
+    "linkto" : "libwlconfig.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sSUtj1y1TwqI7YcUsMC2caG+ervUnyoDPg+1P8xloHx4nyDO1YESxPEgcoe31JraCQauSgJS6MygBvP0rrIykQ==",
+    "buildID" : "a7773eb9890f3f059aca99931bdb7fe5"
+  }, {
+    "name" : "target/qnx7/x86/lib/libwlconfig.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "62028",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "C7qj5LLL6yHSNJ3fAWMCaMRLWxLnF4wSYmESQvxaZh8zBT3bxHhRkbgS0Q0T+HuxjEmf3blRuKdIgeyM6ofhwA==",
+    "buildID" : "1c6a4ef20d64624402503c0e36bbfc90"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libwlconfig.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "60416",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Q5djz3QMw11RpkrWPL6PVM8I6S8BFgioXL991ogjFYB4X7WEkPFUdJzjwKAAOdB5qjYOhkoSZd8C20+T0XW6Mw==",
+    "buildID" : "42335c3e606a89d9bb59644cd475828e"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libwlconfig.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "57128",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "oPLop28MKbqZWn8fAojbevSGE7xSf7TThiBJRDIqsgmXElchiP3dItPbQUIgIF7hP7nZ2EDdmar8iaaflNFYWA==",
+    "buildID" : "a52a1ac9b1b309da175c7957559580db"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libwlconfig.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "40352",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sSUtj1y1TwqI7YcUsMC2caG+ervUnyoDPg+1P8xloHx4nyDO1YESxPEgcoe31JraCQauSgJS6MygBvP0rrIykQ==",
+    "buildID" : "a7773eb9890f3f059aca99931bdb7fe5"
+  }, {
+    "name" : "target/qnx7/x86/lib/libwlconfigS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "289282",
+    "digestSHA512" : "52jEr0ayJ5jq5tymJFMPTiGP+TONOAedFcKa+CFiJxq61LsdxOO+hVRU3oK+LCh748WhlkRZXljTwZ2gcs/hjw=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libwlconfigS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "397712",
+    "digestSHA512" : "Aw0ravT2MYT1T1INv8fQNeN8qdI7zvOUsIDMVSsplCyYReajBa0r9uFIgpIMk7/6KGcLDP28RAw74uSDGe73/A=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libwlconfigS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "402136",
+    "digestSHA512" : "0eZK8cH/WernCD5A/rxgWjl2QnxDjCfB/1ZA9KvjFeIAVAMuG5Bliw0i1Bo7ziI1iOypOoO7gVjz2pzvxITftQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libwlconfigS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "279196",
+    "digestSHA512" : "GftIRyVP3XvFs0zJFmU/v2VPRBkPpTasOqTyLKSPlf86YvMvSlgOJPQIOuHzo34YWuW6EWk4L2Zj5A2NpEXofg=="
+  } ]
+}

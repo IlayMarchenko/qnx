@@ -1,0 +1,11 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.net.ptp/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/bin/ptpd_ctrl
+target/qnx7/x86_64/bin/ptpd_ctrl
+target/qnx7/aarch64le/bin/ptpd_ctrl
+target/qnx7/armle-v7/bin/ptpd_ctrl
+target/qnx7/x86/usr/sbin/ptpd
+target/qnx7/x86_64/usr/sbin/ptpd
+target/qnx7/aarch64le/usr/sbin/ptpd
+target/qnx7/armle-v7/usr/sbin/ptpd
+target/qnx7/usr/include/dcmd_ptpd.h

@@ -1,0 +1,137 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.libsocks/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "599",
+    "digestSHA512" : "j8gURe+YpKjG/+7SAlqAYke1kckjshNxXEt48Ef0gdJ/rV2FofSs0tLbUsORuVeb5H2OghF2S6fClZI/yFaoVQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.libsocks/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "751",
+    "digestSHA512" : "qVBPrp4Z2j90nywawFalijMMfmUxTWO8/paT20lORJhmKPIX8Zq5buYJvG50UVfGT0fQuCdx8Kvz68mjE1/Ovg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.libsocks/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "409",
+    "digestSHA512" : "f2TANuR8YmX2mpjq4QFtcio6RnD0E4+vORFjjMJ9QF0QW+DvP6J/BFE4zPglmdsiCbpG3RZ4HxBB/b3WQgoadg=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsocks.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "143916",
+    "digestSHA512" : "riX8jAgK5wO1U+77QFEZF+yu4xlST43Gc59bwY/3eaZIy62KI/OWxl8qC/YS8ZDEP9yUvD0+eW00/v+1wTpSuA=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsocks.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "197462",
+    "digestSHA512" : "0REZDlan0wox3QrNihcbZ7Xss0O8P3BWtQ/wN6wOyFPMchwoTFisptevKIgIoQeuA0H6Kc77kd0PrgNul7MWDQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsocks.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "201238",
+    "digestSHA512" : "2KeVedz1nZcRpaNg1YcmG6tzyhnNRl9NtFrIn+DJt2If3cUl/0cPWFpcDJxxITlNphTYW/XhEgitNCqkTsqF7g=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsocks.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "140334",
+    "digestSHA512" : "rwyglwMlwSP1mtAM1XheobVoyp0B0tt8F70VsUbmDeIH2mjK6VbiwZgN2onWyn2N+Wzpc7UP6jownsK723L3Kw=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsocks.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "36136",
+    "linkto" : "libsocks.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "k1jgIVJDXGitR6mlCmQKxiJMcgm74uwtrdtmlWWz5O+CKP0uihS77yaw8XEWendQ1gPiLCu6Y1c1/UD/k+FrSA==",
+    "buildID" : "ecdf96e93dc3872bee096bf24c1b6c0d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsocks.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "42560",
+    "linkto" : "libsocks.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Hnjpq14k5ppL3mQ79vDLkoDvvzG7QTNlNZlk57RcsGCMH570hbmPIVZJEghbzArVFcdDzEAKJ1uyRF/m8xmBXg==",
+    "buildID" : "92196844cd10466cca5f784d40597b5b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsocks.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "39480",
+    "linkto" : "libsocks.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KhpN0LEpbQcIVMuYyLPJWxD73IHnx/RxQ0iuhyLP8aPCs8v7fC+uDnjDagT9rWLtYjR/mbzY5raLbCXSjgGmzg==",
+    "buildID" : "d3a6cae110532500f3d44dbed34619ad"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsocks.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "29736",
+    "linkto" : "libsocks.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4pl1OZHdG3v274pcQ2jbw5j0hQM8/AzrZQ95ofYL+LHEn0fbpyVHdoN80L+2BskL05EfLG4Px4YkRX5DsWyF3g==",
+    "buildID" : "03aa6bfeaf8e8e87bd717d930ca699d9"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsocks.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "36136",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "k1jgIVJDXGitR6mlCmQKxiJMcgm74uwtrdtmlWWz5O+CKP0uihS77yaw8XEWendQ1gPiLCu6Y1c1/UD/k+FrSA==",
+    "buildID" : "ecdf96e93dc3872bee096bf24c1b6c0d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsocks.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "42560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Hnjpq14k5ppL3mQ79vDLkoDvvzG7QTNlNZlk57RcsGCMH570hbmPIVZJEghbzArVFcdDzEAKJ1uyRF/m8xmBXg==",
+    "buildID" : "92196844cd10466cca5f784d40597b5b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsocks.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "39480",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KhpN0LEpbQcIVMuYyLPJWxD73IHnx/RxQ0iuhyLP8aPCs8v7fC+uDnjDagT9rWLtYjR/mbzY5raLbCXSjgGmzg==",
+    "buildID" : "d3a6cae110532500f3d44dbed34619ad"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsocks.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "29736",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4pl1OZHdG3v274pcQ2jbw5j0hQM8/AzrZQ95ofYL+LHEn0fbpyVHdoN80L+2BskL05EfLG4Px4YkRX5DsWyF3g==",
+    "buildID" : "03aa6bfeaf8e8e87bd717d930ca699d9"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsocksS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "143794",
+    "digestSHA512" : "PPE/yrUs4l2KtadhhcB9nJkladPk12tufePdGIexdoBbpk5tdb+Qm72wsCcIbNEa1vHIIFhgoduvo8D0zZ3IJQ=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsocksS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "197798",
+    "digestSHA512" : "BzrsdxehRgQJ/0q/yigtmBE7mpAcBKzi8SmghgdvvoKtkoYKYkRq5pC13MSWEIMq8qEc0T3GdqUaWvrnx4lNlw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsocksS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "201406",
+    "digestSHA512" : "KA3TsPJ4rQooiPuf9BYzXLqEQzBoeTUBtAVb03CxboyHWD8BsU5PjLCOMLIECWZS/2gdbijLftV17CqibDnBRA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsocksS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "140890",
+    "digestSHA512" : "hBT7Tdu7pcUDp3ajM/+xJ92RAWLN69nq17a6nTrUb5245R56DPbVyqj/albqLgsoGzxuUKl7TECi+xHO9Oj16Q=="
+  } ]
+}

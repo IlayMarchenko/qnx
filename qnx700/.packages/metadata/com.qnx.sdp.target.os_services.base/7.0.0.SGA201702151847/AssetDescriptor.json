@@ -1,0 +1,927 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.base/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "866",
+    "digestSHA512" : "IxL8tRCtXGShjL590ZK4QcyGHu85T6a5BspscgVCbjWJEQ/2fqLrs208IgtUMDxbMclDdMJhF/4S2i4HSyy8+w=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.base/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "4233",
+    "digestSHA512" : "utVUPwpdXvtriG3MwrqzYQCmnZ7nmZPZokAScER6jIiX1WqVDqQiA+myqyer4H3hvxG2YXZJ2hpbuXVI7B+ZcA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.base/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "2478",
+    "digestSHA512" : "sIHNk4pavYVXbN0eQDddfaHaG4+Q2BsFM5D7bfc2COLWwzUmr/Y/FiSi9i4pHQxUZv8G65P+Qaf9CCrkU9j5XQ=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/fpemu.so.2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "48676",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PC2aPbBaZC01jtc1qT5bvv/Czwfk81MNbpBtcYHXDT6X+1aatzJfgAAD1V7GrBvO6g8AtZF11pzsbBMkDsW08A==",
+    "buildID" : "e1f4786f01e27dd7b39bda7477a169d3"
+  }, {
+    "name" : "target/qnx7/x86/lib/libdevice-publisher.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12360",
+    "linkto" : "libdevice-publisher.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "m6mL3yuxFIXqOJpa6DPO5ycJptW73ThwEnDdJ4fmUqXOuS7NxW54OrNB1IfGgPCsqa3gk9bE/UJpfK/UMVD/PA==",
+    "buildID" : "c2c91c03dcfeaf9e5ed32b0539add701"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libdevice-publisher.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13624",
+    "linkto" : "libdevice-publisher.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "e50AxetI1fe92ilr07yH3ixNSJpFr0B0O630e3alxXKrWVLpkpHUHHGjFVhi+1wf64Vx+ExcusBMUASaQhGvDQ==",
+    "buildID" : "cdd8edb5170dfb01590724a0822e4004"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libdevice-publisher.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "14112",
+    "linkto" : "libdevice-publisher.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9/9au6I8IUZ/aYu7KCUmYJpAecZtH+id6PldAsqYNA5i7DPJoC1jEu9eKyX2bweXGstAMwZPXYvD1iHItm8lsg==",
+    "buildID" : "6af80475c87f0035482c5e7f6b3b8b7d"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libdevice-publisher.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13288",
+    "linkto" : "libdevice-publisher.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "+NeJlt4FxwwyECKccioY5gLtPkZ0d4gLWCcyHUvxtECocEs1yxnnUIETF2erT+KCHLLDfh5SB4nUJJ+260EdRQ==",
+    "buildID" : "4db91a05b1aa118fe93c8c109f63b670"
+  }, {
+    "name" : "target/qnx7/x86/lib/libdevice-publisher.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "m6mL3yuxFIXqOJpa6DPO5ycJptW73ThwEnDdJ4fmUqXOuS7NxW54OrNB1IfGgPCsqa3gk9bE/UJpfK/UMVD/PA==",
+    "buildID" : "c2c91c03dcfeaf9e5ed32b0539add701"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libdevice-publisher.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13624",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "e50AxetI1fe92ilr07yH3ixNSJpFr0B0O630e3alxXKrWVLpkpHUHHGjFVhi+1wf64Vx+ExcusBMUASaQhGvDQ==",
+    "buildID" : "cdd8edb5170dfb01590724a0822e4004"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libdevice-publisher.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "14112",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9/9au6I8IUZ/aYu7KCUmYJpAecZtH+id6PldAsqYNA5i7DPJoC1jEu9eKyX2bweXGstAMwZPXYvD1iHItm8lsg==",
+    "buildID" : "6af80475c87f0035482c5e7f6b3b8b7d"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libdevice-publisher.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13288",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "+NeJlt4FxwwyECKccioY5gLtPkZ0d4gLWCcyHUvxtECocEs1yxnnUIETF2erT+KCHLLDfh5SB4nUJJ+260EdRQ==",
+    "buildID" : "4db91a05b1aa118fe93c8c109f63b670"
+  }, {
+    "name" : "target/qnx7/x86/lib/libhiddi.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "196570",
+    "digestSHA512" : "rAI01a08pG3d9L8unr2xdjDCLtrgVgdWK5lJAFekUrmYMdaZAwtnoSgZsva5O1d9sg2IzbbLSKRbMZzRW96Emg=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libhiddi.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "283194",
+    "digestSHA512" : "7nEmiaTfBukf+FHAashzXAKmbmrtHG/OF7bVb6LjhfTmOLeXH/w6pf0h0J8DufeZ4KaMMXFn4dCNEVNZzLLbEw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libhiddi.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "291506",
+    "digestSHA512" : "Fspmw2NmNxaAKKPcmy/LRAdltBuuC2hlN/0tmG2XAdgmmu1mKxJEB+vw8yk7dhBYav9AxOKdv4jCm69c8GWbSA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libhiddi.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "195698",
+    "digestSHA512" : "y15vptGnN1wcDEP28cNXLR2D8OFjaDe4ibI3WOg5tcXEL6IGMHPgx1oVsA5xR5hBipjF/IFivqkO1w9WtY7ZPA=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libhiddi.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "40324",
+    "linkto" : "libhiddi.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "8kUl5PWOuLf1I10VE7TJHyaGevuBzbah0FHx+kTsUw+r1l9KOKZdwx7cJAbd7KngqZI3sJYM24oP+jI+FNUzCw==",
+    "buildID" : "ce2e0c0fb79a88ed526ad96cac036c6a"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libhiddi.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "41952",
+    "linkto" : "libhiddi.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "v+9aNA1pl2+uFNmiVIcuzGzbGqpvptikB6UBSzdUQGevxuxfHBdVMLUUWs+HwwvVE8TtdHCQK6qwloUd51/ZwA==",
+    "buildID" : "672fb869eb09521eae04eacd84b22aca"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libhiddi.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "38256",
+    "linkto" : "libhiddi.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AxzgubWWEAeQx30BwJ4autJZ7n324rQh1ke9MrCr+/Cy6cztJoedc116i590OKCnFqjCDMs6MtZWYBbjyFnj4A==",
+    "buildID" : "9fa86e3bc453ae745df0c4f547a88833"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libhiddi.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "30136",
+    "linkto" : "libhiddi.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KmWbKsdayG+WgmrXPNnbzsH0w4Gf9tF/0YU2CzTtl90DkMc3ZoCeOBm79Thv2ZXW1WTUOniuYbrNzq4O9ys1aA==",
+    "buildID" : "fa1e561ba87a78d13b61cfcca21ff8ed"
+  }, {
+    "name" : "target/qnx7/x86/lib/libhiddi.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "40324",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "8kUl5PWOuLf1I10VE7TJHyaGevuBzbah0FHx+kTsUw+r1l9KOKZdwx7cJAbd7KngqZI3sJYM24oP+jI+FNUzCw==",
+    "buildID" : "ce2e0c0fb79a88ed526ad96cac036c6a"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libhiddi.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "41952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "v+9aNA1pl2+uFNmiVIcuzGzbGqpvptikB6UBSzdUQGevxuxfHBdVMLUUWs+HwwvVE8TtdHCQK6qwloUd51/ZwA==",
+    "buildID" : "672fb869eb09521eae04eacd84b22aca"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libhiddi.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "38256",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AxzgubWWEAeQx30BwJ4autJZ7n324rQh1ke9MrCr+/Cy6cztJoedc116i590OKCnFqjCDMs6MtZWYBbjyFnj4A==",
+    "buildID" : "9fa86e3bc453ae745df0c4f547a88833"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libhiddi.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "30136",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KmWbKsdayG+WgmrXPNnbzsH0w4Gf9tF/0YU2CzTtl90DkMc3ZoCeOBm79Thv2ZXW1WTUOniuYbrNzq4O9ys1aA==",
+    "buildID" : "fa1e561ba87a78d13b61cfcca21ff8ed"
+  }, {
+    "name" : "target/qnx7/x86/lib/libjson.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "42040",
+    "linkto" : "libjson.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "om/CAxJUsPb1Y2VAkA5oEU4bBrfIsXVL30gZ9bIETYjhdqJHQfiBNWKJPgxbqT8DvwD0FsV7H/wDUV7aAKceQA==",
+    "buildID" : "bfb4e4683afab10baa274155fa0e0a69"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libjson.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "48016",
+    "linkto" : "libjson.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "knWi7RZs8qNmO7OkVV2ckrbN0YGmSy22NI6lDwq2BeBrmYQ8j5hVDj/K6I/eX/hDe2REniGQls8pro7G0VIDuw==",
+    "buildID" : "03e47d05b3d050aef4fb5f287a424d61"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libjson.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "44424",
+    "linkto" : "libjson.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kZss8a9Cip8Fl3PFVrV5eyu8lQ02ncT6+44ed7PtJidVpUsLFuPkPyVJiU6aXlm1wTZpj5xAGVLgJ/hG/GEODQ==",
+    "buildID" : "bea71039f1a8fef80e8c8fdfb8cc0384"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libjson.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "36800",
+    "linkto" : "libjson.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DRFcJ5z0tvS1jT581me8flj2tqc7TmZz3OaHMQ0EZtOYRfN6ZbczRn/iOH2CR1MuRK7qhIMGmUMcm6bDHeSl4Q==",
+    "buildID" : "158d64ca6c96407baedae379a45328a8"
+  }, {
+    "name" : "target/qnx7/x86/lib/libjson.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "42040",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "om/CAxJUsPb1Y2VAkA5oEU4bBrfIsXVL30gZ9bIETYjhdqJHQfiBNWKJPgxbqT8DvwD0FsV7H/wDUV7aAKceQA==",
+    "buildID" : "bfb4e4683afab10baa274155fa0e0a69"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libjson.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "48016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "knWi7RZs8qNmO7OkVV2ckrbN0YGmSy22NI6lDwq2BeBrmYQ8j5hVDj/K6I/eX/hDe2REniGQls8pro7G0VIDuw==",
+    "buildID" : "03e47d05b3d050aef4fb5f287a424d61"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libjson.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "44424",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kZss8a9Cip8Fl3PFVrV5eyu8lQ02ncT6+44ed7PtJidVpUsLFuPkPyVJiU6aXlm1wTZpj5xAGVLgJ/hG/GEODQ==",
+    "buildID" : "bea71039f1a8fef80e8c8fdfb8cc0384"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libjson.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "36800",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DRFcJ5z0tvS1jT581me8flj2tqc7TmZz3OaHMQ0EZtOYRfN6ZbczRn/iOH2CR1MuRK7qhIMGmUMcm6bDHeSl4Q==",
+    "buildID" : "158d64ca6c96407baedae379a45328a8"
+  }, {
+    "name" : "target/qnx7/x86/lib/libpps.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "93078",
+    "digestSHA512" : "eTReeUkNolNFx0wBMcbKng3GYOrjZiIx71X6VhfTuUKRZhDw8IcIZPbcYcfGICAwpduZONW1Y0hgXk91nvyz9Q=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libpps.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "135170",
+    "digestSHA512" : "YC0DGkN+S3NBQskPjKVR0yU2JsO5xqRr+PiKAsXU+LeGYzVVuuxGKW+OGqEb5edmTPgqs/qZJdh28uuJ3vFV6w=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libpps.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "141842",
+    "digestSHA512" : "BWISPAlPvMqWkHXqSHz82lvXoD3k+kHrqQKdUI1aq4FBhu7eqEciOLfFeoGBIbD0Zk2Pbv1R1Y2CXzDyfdf79w=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libpps.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "82674",
+    "digestSHA512" : "p/4qfgjDHtX37Lx2SSutllKGcei1JNZb7I/S/75/9B5+dklrjFPsBv9bmtH1xPK8nMNSI6YKC/45BdekOHjb7w=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libpps.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "35420",
+    "linkto" : "libpps.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0jTlC1DBUK0WJM5GA6lbA99cpycLnVzwv3aymnjnGeqeXejV3LjF5sJC3Sxf0WrTxsjeWxGbArNbGnoOBHz+Vg==",
+    "buildID" : "0fe93f63e0d107d71ce288a6968a2f7e"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libpps.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "36832",
+    "linkto" : "libpps.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "piF3tGhbL3KrLJmkmWuRL3WIUxkjPIUR75Ut9pEb3rHJfmToLwEZQSdEe6r5OJusI0OXjB02p74hmc0+5ozpzA==",
+    "buildID" : "302f0ee92213c1707e095bc273040538"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libpps.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "33248",
+    "linkto" : "libpps.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4vV2y1EJC9rk2tIYpxSIBQq6crzE+zyG7QA57rkKTIiLuQ0z36NradMiRi8rCOteBhVA5rp+kAOeDUO9NmXFhw==",
+    "buildID" : "61975b68d44732412c6782370802b660"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libpps.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25268",
+    "linkto" : "libpps.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QNk42zzn26P+g6xLmDD9dQIxMAU087jmv8U6sb0BZ4GWYYOYnumG4ESBhuDzw1cwpVev7rJzkqIUQIknnPYvxw==",
+    "buildID" : "7bb5c5e13cd273f172424a04be8fc746"
+  }, {
+    "name" : "target/qnx7/x86/lib/libpps.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "35420",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0jTlC1DBUK0WJM5GA6lbA99cpycLnVzwv3aymnjnGeqeXejV3LjF5sJC3Sxf0WrTxsjeWxGbArNbGnoOBHz+Vg==",
+    "buildID" : "0fe93f63e0d107d71ce288a6968a2f7e"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libpps.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "36832",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "piF3tGhbL3KrLJmkmWuRL3WIUxkjPIUR75Ut9pEb3rHJfmToLwEZQSdEe6r5OJusI0OXjB02p74hmc0+5ozpzA==",
+    "buildID" : "302f0ee92213c1707e095bc273040538"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libpps.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "33248",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4vV2y1EJC9rk2tIYpxSIBQq6crzE+zyG7QA57rkKTIiLuQ0z36NradMiRi8rCOteBhVA5rp+kAOeDUO9NmXFhw==",
+    "buildID" : "61975b68d44732412c6782370802b660"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libpps.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25268",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QNk42zzn26P+g6xLmDD9dQIxMAU087jmv8U6sb0BZ4GWYYOYnumG4ESBhuDzw1cwpVev7rJzkqIUQIknnPYvxw==",
+    "buildID" : "7bb5c5e13cd273f172424a04be8fc746"
+  }, {
+    "name" : "target/qnx7/x86/lib/libppsS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "91470",
+    "digestSHA512" : "XQrax9ByBHxG14ilgAtp1XpJ/2eQu02L6wqS9H1V8cr25nMsL8BCQ+ie12A66eD1V3qJVoriUbf5I7cVywBQ6w=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libppsS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "133362",
+    "digestSHA512" : "O6o/KuaU4qzoX6N11lzmLDvBDHLi17vNSxcIsuSSXsElBSn+edV94UXkLwlc1Dt0CWZ9g6QfIbi6jYPIrbPGgw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libppsS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "139354",
+    "digestSHA512" : "I7ykEAECJT/3jDm0QCLHmFb7MY0JSqlS/0cfZUbarr8H9mZ9jTyooYJLn8Obetmxd7BBkXxVVLVq/PX6U6AzFQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libppsS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "82510",
+    "digestSHA512" : "CDlkLWjs9eeH19hbP+LyjF9uCuUvTXpqkiEOMJcQyKyG0MZ4vgKqtmDbuHfPHCM2+svGs1suCWTNEM0ZSmqzEQ=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libshutdown.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "82302",
+    "digestSHA512" : "kJJKPoyGuQgYv9F4SJRkzNKq4beqtUTtC5kWG0unasPb+YJQe+5Srdfgj0qJPdOhHxH9+dfdw3RIRZ4pqSkyRA=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libshutdown.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "108478",
+    "digestSHA512" : "WaeqKLfTXHlnSnmRpmSr7vO0iix0Qn8dnhDU+O/1iXBCWex/P2modljLKzPeS5lWtGKLbychCPfG9Fpw3DZNqg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libshutdown.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "113702",
+    "digestSHA512" : "0G9LwMn+woo39Y8jlo/PODx3lPRkjgujiQ0ss3/vk7Z/dRs53vdoJwJhw9CCZYDo3Clvnkwan+f9G3iyrYD4aQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libshutdown.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "74938",
+    "digestSHA512" : "Fx7GyUD+AgLdYe4PnBA7iiXQPqZZ1P1fuoocitOC1arcLXLMzpY3uLJ/uyFImhvCSwCcOrbRWoufqQDmxN3W5w=="
+  }, {
+    "name" : "target/qnx7/x86/sbin/inflator",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "32520",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tg2AdsDmJ0nwfskUw27rLFkZhq8sTUbtV/ow4rOZ5sJDcAxMoAfFVgSoEyTATbOfpDIXDalBHDHpnEVOJ+cwpw==",
+    "buildID" : "0094e3c8f032b8bba0e8831c1bbc04f6"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/inflator",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "38776",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Efv5jlihi56vxUsTmD7ubaHxnKIm+xqXdzPyMfWgIri1HoOhTri2U5th7cJwTbjlym7/aubxR8KhIZPeXrEVdw==",
+    "buildID" : "a8b339c28165657a6829bdd47ae20751"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/inflator",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "39712",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "WDdLVvtNSGtxZrrA17p8ZnjV2uopPT2wYBg2Neu+o5J4mxsD/ZW8j/Ft87/R3SSBBNFHScoBMjEqYiWIEkuq0A==",
+    "buildID" : "f7797a690fb896ebd13e70fad7164638"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/inflator",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "30912",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "u3rF061DP0wFO4Xzf22X6n1rnxFRx2URqjigqRJoYOxR7wMEmUeXT7J239umWvE8xJLIm1MbDzwqHZcaQNbfJA==",
+    "buildID" : "3705c64399527a5c6e7bf8b55eb09f0a"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/deflate",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "30936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "2eL4GDyulGM1EpcdI9Ef+Pj/oNu05Wiu0DkCwW9J6XjzzV+xgtsxqkbrREH5+a3+pvd6W0nNm0vdC5iEDsm39g==",
+    "buildID" : "0ef974e556c4aa9e7b85b7158978140f"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/deflate",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "32344",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DbqMZiVFn/aCsuOOs+7KAQjruJ3M4KZPjf2niwu1rVPU9UmiC6H9VE8yUSc0u5WwEOdhJa3cPooJjm1Ovah+cw==",
+    "buildID" : "88a3745e485ecb4b68aefe7ee067cb53"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/deflate",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "28808",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "93L1NLVP7M38I3tJsWxGGWo6O0pjTeq2FuoHmX3EFIB+llS7Vl6lcodGSe0gJ+PIAkWi9a4kRdRxSBm9ayJEjg==",
+    "buildID" : "70798432054af07fa86641cc4ea7fd0c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/deflate",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24284",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qde1XpnM4/TkxrbN2znomAyR39OYEKmXlfhH2kIXlDvgsaN7UTP10O1UPnNOCIJTDml9aMC6Gysfswx5VdYk0A==",
+    "buildID" : "df1cdfb4b17c1e6a093722911b8d7e64"
+  }, {
+    "name" : "target/qnx7/x86/sbin/io-hid",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "48600",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "neEakkkD0ldGTkviOMndg2OQfCOWJx6NIp1rYkUQe6hFzb9iks53QPhBj6deh7Xx6cCf9+stTpy++hAht/+3NA==",
+    "buildID" : "3e0883c42f2f31661ec45ba7133bc103"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/io-hid",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "59320",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fvNXu6PB1JAPg239/xmPi6rh1skPzm0kC+23RWzbUpPGWQrJks9HajLCZdCCyyZvDXUadxJ3aCYC3hNC/xqyCQ==",
+    "buildID" : "15a2a3134244ea7121f559ce77298dba"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/io-hid",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "55904",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "s7GSj7z38sZJf9dg68SqXPZ/isfyYCudbtAgRhuEUhRbmVGfMDQf/aPl3WfF3UA4FLCBLc97B/3YcH65mLfPBw==",
+    "buildID" : "fd89e9051a833fc52cd9147acad3d9f7"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/io-hid",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "43168",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YDJT4R7GDma0FyLzU1pxL/b6wgrUyWL/ao4O2dYj4QbCmy52XhS1qSbeLWH86zFaEwWUmFhCdb1Cb/oDvkKRUg==",
+    "buildID" : "959c7d51fd9b3f79a5396f3e064a327b"
+  }, {
+    "name" : "target/qnx7/x86/sbin/mq",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "23144",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7fduszLBL+8FA5G/+hEZOiBlCeelmD8I81Ufs9LZaKQHMCWgqUNRONcblZiVqDkC0ZFsYqccvFoa9CwYeon2cw==",
+    "buildID" : "91e3ccf8a0847f3f9b4b560abc1c064a"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/mq",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "24768",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "oH2VDzN3CZOnRli03aPa6mo3pecR+IIcRPMFREqhoJ5BLb+22s/JuXHvu+UEtDHyscG4g3nL4Kw5d7QQiiAsBw==",
+    "buildID" : "23e2020e61917a16b8ea165dd7901cdd"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/mq",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "25264",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Vk+TICwdBAOEBFCIyRrYQa/zdLnvbZEsES83mhEwwIC2pgwLotYnJhy3lFmNDe+QQpY7uRhaNNdKyuXh9GgQSQ==",
+    "buildID" : "959105f5bfcfa4e558c45376d1dd981b"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/mq",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "20332",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RvcJFwsrToJkSCKugIWrQkQUyvO5c/VVYu/WIZufQSEGP+g7Sf/bwu87OMCS0KJLmhGm3gPYXCHN/u7GHTOXxw==",
+    "buildID" : "916f07abd97c7e53d9e32f7eb0aee0cf"
+  }, {
+    "name" : "target/qnx7/x86/sbin/mqueue",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "27132",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "K8D5ftIe+X2hoXx+9nDmDbUFhA1HlCczMHbD4PdBeuTYBqO0ILSB5RVVRvxwKNua9igPqPAhASO5NUkHsxZmbw==",
+    "buildID" : "9da83a0389828d783f3e9d9f303e5820"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/mqueue",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "28952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tmfVE77/XXIVHM0ZV4gjFHnWJdX5ggB/PPqIQaeIxe5vtqdfGXjYcQOEcJj+KfN8qK1PJbVukvZFPDN0rA9GIg==",
+    "buildID" : "7a603ee1424f04459763e3068e2b05ec"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/mqueue",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "29696",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yPp1Qvuv+6HaRErujUTlhifYwoe/ZxfIOC+Oss0GnlZabrdaYGwdzRMsP3Sfara7jhrpInTRYaWFoN2wHYIV0A==",
+    "buildID" : "1d51e1548c1d846c6171bf5741dd8d85"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/mqueue",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24844",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kvRm/vGNUprK1DPz0ayH1RuHHhKZDEAf1QH7YourH8hbOPN+RO3ddl9zxp9XhmAN/k2KvqPraOfD+VQw07lbAQ==",
+    "buildID" : "3844267b6c1927e6cdf932b5c5d2cf48"
+  }, {
+    "name" : "target/qnx7/x86/sbin/pipe",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "33264",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Lkqbbxy5kkBbziOAfB8kwAEmaWLbr+JqwNx5WzahL15nVXwOKIizqx/jYeyJh/WF30NA5UiIEGS7nAeKh3oP+Q==",
+    "buildID" : "fb32865c36a863004a35c2b4a7742b42"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/pipe",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "35320",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/nhE+242D5zt6sylLVK5jnBWm0idCi8yl8pa5VqShu17SJHSaV0wyQXLVrSw2gMyrrHPGtCD/i/65k0u3DJFhw==",
+    "buildID" : "97081794ed53c016d3f7101608aab4aa"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/pipe",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "35784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4vzx5mK0J8UKcKowGcTDTUbQ0EPzXib6N0sAS6wcqagUv/BNwkrSpf7u/cXB+A0BE3o5C452Z2am/MiECyAhpg==",
+    "buildID" : "09a78476d5905d5ea44f74723ebd536c"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/pipe",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "26952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "R+a97fkSfE2ExcAfBw9EXoKvHJl7W0y0Xt2g0+ughd/otM4eZbUgPatHjo5RN/0L539YqJRHSittRJvlCmKEVg==",
+    "buildID" : "0d86bd63056d2dcf7a832deeda62e810"
+  }, {
+    "name" : "target/qnx7/x86/sbin/tinit",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "18296",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CfuijpTdK5kIaVTvO44IdCEstsEwbNkYcb657jlSAhrPiamn8FiOAHDEPVfMaIQiV8TOKxPLoFOKu7SgTLJqHg==",
+    "buildID" : "4940cadae5445b35534a022cdba4b5dc"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/tinit",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "20064",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vJTQzst2B8ZBrmC2Jte50/HPmSAPMYtL3rMPq7qbbiIgTZfU4Q6iyhBQJveUhbod1puPO8lLndWNj3ZmvCzsYw==",
+    "buildID" : "7ab6d811d067f3a80dcfaa70e33db995"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/tinit",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "20568",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "N9xAzk1z09EVEgL0Txau2xaTptvnDm/AsCv6WozzXkFBHzjMzYZ2hAA2ufme0WwB9bdtumm7qJTkYiWWlan3zQ==",
+    "buildID" : "d22ace74bd5c4246b03483c4411f2429"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/tinit",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "19620",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lWD7yzO0QE0gPaMYbz9VaxIFrV8ZwX2z+IYx2FXwOAcVboMVyXsbj6eAFQ8jvKf3u5R3PScamGu9px+0bP6zyw==",
+    "buildID" : "651aaadbb496ae5f612ce8addd75b545"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/cron",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "22724",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "gCoQ/uHWTMzG7LX+vRkOQScWvSrnY0YgRaUggjT1yKbw3aoyBRs90Zjd1qqYQIm0xqQq3ktvTSMzYBmrp4/6ig==",
+    "buildID" : "c5ba596976e7c416f36eeb0bb6c56418"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/cron",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "28688",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rnOZwx+gIZEkGLu8e42CjbK/Qd2tZjPlTcDLRZkEdkYwEUX/MYHZ7wOs7uDgOmoYTsmMjEekttESrLKq8KxZkw==",
+    "buildID" : "3fcdd32f67b03e68fd3562b51e4b8e00"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/cron",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "29288",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HPOP4bFdjN6BiJNt56cJ98PZxMZuzDvHKlGSK9UC6080gL5s8l1JYwBsNH7f+wOApVC7dqW6CH5DGKe7tz5wxQ==",
+    "buildID" : "b93a3d3b2096a9fb51395273ad48215c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/cron",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "19960",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dPfufrpiGJ/BcarAA40qld1LOC9pWDSjNqdb+IhSvUB2hdU963ZxtqjOKSeZ5xm8y2B7bn7oqw4zhSxORT4gnA==",
+    "buildID" : "6d8fd655803e2bb89b303e31c9a710d0"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/fileset",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "22456",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OhwndouBH4WnUyLExjltJ43Ou18O03qRNb6hCYHDFnr67FYljWBE8E9ei1195LJbNj/bZdVXCE6ae6ABCe+Lcw==",
+    "buildID" : "c0bd78a48945943004169f74519bc6bf"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/fileset",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "23752",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "co0ImopL0mD5s9yTkEiEvJZ0dsD6J2ARLaFCzbS3iw0nBGoRv3GBuBrRx0p+NWW/ORewI1FVuAQT48f3VAWQug==",
+    "buildID" : "48aa20d53b91701e3e44fa519bf08e62"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/fileset",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "24208",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Hd3TL4EiGBaLqy5TPr5dY38//aH4o+YTFxnL3pO84oO4P8aviLXEDt/2/TKcuIO9Rs79SDpyjnP0D3t2yUYLjg==",
+    "buildID" : "716d935f3d418e4e6645d7af26353fb2"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/fileset",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "19268",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Hi5/XIoHOXNVFX449vEqd4BunrS4nYdTa7WE4ySJ93YxTbsM2TrEQaWRm7BTjxJyx0U5iSIw/RWnD1KdBDdMXQ==",
+    "buildID" : "b01f2f054eb0c10645ce518a3311c0e8"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/logger",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "18972",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "E6Ip0Userr50inQA2OaeFCzURtrggYFYLLD3KjkEad4y/+bSZ24S8d8Co3LNOw5GXHTv19+sZV+JWy665HLXdw==",
+    "buildID" : "ddc613ffb5bd30689865655c377b4681"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/logger",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "20584",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Qhfx7ISDffBjmYPrAubC4ocwpETuZHbLV1C7ekxF+8++546e7bIk5PPFj6Eih7Lk9lSicFdO9/FwReEOVkOuIA==",
+    "buildID" : "3710b1d82c9fca9c524bb81cd745747d"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/logger",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "21064",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "JejQOdWJkQD3gaj/IZDjnNOOzBTsQ4uEGxMXfEjiNMz/Q0Hef8vwJI4FGTKl5sfUNqjCCsJymeBDy0w4DMeD4A==",
+    "buildID" : "9045584539cfcd13056b7ada7b44674a"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/logger",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "15892",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1V/knDvdL/FFT6oIymCSKTTG3GWrHcuZsZg/JXHokBFndwoJG/qjn6+/aGiVgjGHO78XMz8D8Z7z3SZXdYzENg==",
+    "buildID" : "44a9709c4ee2d4c8ed7278b75363fcb6"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/pps",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "148780",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "cPxbOA4uiss4gobZHDPxSmfcgXWo0RM5wwLQe2w7u51VXV7VbuvFLfsYZ3BCxRBQyeCwJQ2DB6hqmELYo4yakQ==",
+    "buildID" : "d1950b55388b4b43a1770d68353fb6b9"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/pps",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "134760",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "2AljeATCkYRIAFJbqoWimb9rJwdabCfY2XLLWCxUh0QiUJoHkH4g/ix1/YHcaAInyXyvuioNhJ6YHl1+xxQLkQ==",
+    "buildID" : "c90625e44471dca25064d1998e93beb2"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/pps",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "125112",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "F3EG3WGdcDE98CmXETY89F3JrSxd+1QKnYgAic68I2FaTUcnivATZ+/uxtjqAfbKPv+MrXXA9dcWjLF5eoXhpg==",
+    "buildID" : "9858baffe3555ecb305d51bc58779dc7"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/pps",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "92340",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Y2Ld/7UJN05LR9ee2TQFpN6CIW+hpgoCwwXLJzEMLWe3LJZYQToJUj5bzQdTJE4h9doEB/WMBMUSC5jGzcOhCQ==",
+    "buildID" : "636042ec6bc2453d0be61b7d140e83f0"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/qconn",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "188384",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hmcoV/qsdVgXgmqSdQWE+Ctfmwqp5Tyg8Ny4xSCtfchWGGatl6UD/8kQosjMb0FDs6urv9WRsEky5JqMDfrOGw==",
+    "buildID" : "716e06d502a3f132fbde203924e021f4"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/qconn",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "178704",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "F4UI+snKEyCpJ98EDVTB4KZaMlxzr8CmvU7Ij5HDhhi1pEHJdlD4GqJEvrbonEq9xATXcnHBwDMj9XQhjbfLjw==",
+    "buildID" : "f67ea094c8c3ac98f972e1cbebda7c08"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/qconn",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "165656",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RqEtl/hXnzgoeKQy3J+oJco3og7uScCOz6LqAoi/YbUmRmX+sPGLO7gWaVWCIdNz9I5yxZHJC5nP0l2z+63zgQ==",
+    "buildID" : "67e57c1f7ccb8daa2fe4cae611b57b37"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/qconn",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "117828",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KnYaUz+Lc5d6kKL99CUg86IkVQp8S7khsboGwGAGfMoooq7LxKWC/A7rD0xwCsfMkRcU+KmGtHPcqdM04PIhqA==",
+    "buildID" : "de269930a8611a252fa9f68418d36edd"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/random",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "277044",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "csUWe8/DViQENfMnzreTwTeNYR0McXLyBoKxICpVBZjm7IbUVqX3g2w7Sa2i/8xApUg9A9v8ooeqnST2IYVr5g==",
+    "buildID" : "8bcb43945b1aef93c1d36c2a9feb49ea"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/random",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "328304",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Vh0j2zHHKMTwWAjaj/cP1UFYHbVYzS067akTwg6nNQ51sA+4GhTdSt/B2+BCLjZ9mlrkXivjSzR7bSEj86sz+A==",
+    "buildID" : "c181824379107f30aff058ddc2499ca8"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/random",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "59624",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RijbqFtj9bJknLxw56LWRVxtXWlyXo5KmkMPogEmgxcPAqCGM0H5Go0DGyAfZPiARDlE1M9/DbBkFgnEEdZIow==",
+    "buildID" : "7320e7803177b2155f556a71961efbaf"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/random",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "48112",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "u5jjnSR+rc3DQrWxOXlY0keq3BI/gbA7Or+6Mo/ctyFUeC2z6usuOnoobtSnRJoqSULPGAmH02rBUks7Kn2DdA==",
+    "buildID" : "28338c7e5ad1b3ffdbc05adb8c13188a"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/rsrcdb_query",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "13560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "BfQVR0RLCa4IyFIqubrEox89Wb2AkjyKmeA3HEEij2881yB/p8GwJBOL20L1mUxpwiCiBunxUdqC6XFGAHbC7w==",
+    "buildID" : "3e5e6573710a3f843d9ecda1757711cd"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/rsrcdb_query",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "14744",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4leyCetsYi0/yHruI3JZ2eKJtf6pdX0xUmXBO4Ml0wVWJg1dacyZqbAOaC/nP1GIW7z788SyHieWlW9th8T96Q==",
+    "buildID" : "f7b3e168c554a0647bd8a22438c9e480"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/rsrcdb_query",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "15224",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nwcGacJkxiZXmHocKAYL3iCFwSwj7M+TLy5Tk4MunR06l3myksE3w2YEiJjEq34JVt+3+A+pdnk3JAd924LZzQ==",
+    "buildID" : "5fed1e3399178124bf5cc90799dceeda"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/rsrcdb_query",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "10324",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3NCcZGi6NoeQ54+XnIFdd4VOT1tUT7iY3QJYOeTgV/eNrAeh2mkZANdNG2fmURz5Y8HZQn3p3Ct/eItRJe9ptw==",
+    "buildID" : "6b317db2981480c46a41573727ddfaac"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/syslogd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "34324",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yMGApft/bVZPyiCscMXyLAWznASZhsRXD+6OebCMIgfHxEEykKZ2WtSl2hBgdSiwvYFoK1nXesAvROYNicyn+g==",
+    "buildID" : "59d22a9ad7d79addf0a12b90af3bd142"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/syslogd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "36608",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KpHTUuVteKl2z8zhYivZ7oqTfUf8N4hLTu1LdeOWNA5UfO9d/+JYGfIBugrN2gUPdUSesLBP+N6UPM0kOfYvHw==",
+    "buildID" : "e1a081d46ca6cfb7ef74ddaf0eccbafe"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/syslogd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "37120",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "I3t60PGtMEJBwG3SNt33nbZ5r2Va11UddLVo9V+WGrk7AE1xX9jzAJrrZx5sNz/iWIsU5/PKVCEnd3RMB0jq0Q==",
+    "buildID" : "281895cb2f0e943e27141b0db109708a"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/syslogd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "27536",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tlODXty34sIZS+ENBW4g3gPPZ945IACOjJoF45Ytm4GV0rvBvFYcsJ2EPak+PLzx209x84HsLJjhw4kMQfuabA==",
+    "buildID" : "332f38f3ffa9098f73a98d0d2cdaa8c8"
+  }, {
+    "name" : "target/qnx7/etc/config/gettytab",
+    "runtime" : "true",
+    "size" : "531",
+    "digestSHA512" : "0cOoCTrB6oDV41hg1S5EeshsWAJsY8GaFUmSS55vy7t8uxj8cF5zfX+KUrDhpLlc3HODydPDQH8Sxzzklyjw3w=="
+  }, {
+    "name" : "target/qnx7/etc/default/login",
+    "runtime" : "true",
+    "size" : "43",
+    "digestSHA512" : "X4IFAOkVXdCXtNxcFA/v4cHm3uLZwkv4w+A6eGdOcp3eRfKCxZLc6rTeDP8YDtIaUKbs9bpgG5UQBmNUYvS/UQ=="
+  }, {
+    "name" : "target/qnx7/etc/default/passwd",
+    "runtime" : "true",
+    "size" : "1006",
+    "digestSHA512" : "PE03XCFTYB3wMZ/150cAHeMrrWP01d5DhnPPx7DEVt+V9b3D53bkee0dyvGfkskLqQkO2qO+nvdwmAJ8H3ut0g=="
+  }, {
+    "name" : "target/qnx7/etc/group",
+    "runtime" : "true",
+    "size" : "226",
+    "digestSHA512" : "jyLiz8LYUYKG2EdFk5drQCScpkjkyvbD6CmNgznH2Woo/HXxZ9EojJ940s5njx/hXiNRPYz//DsV0W1kIqlTeA=="
+  }, {
+    "name" : "target/qnx7/etc/mig4nto.tab",
+    "runtime" : "true",
+    "size" : "63680",
+    "digestSHA512" : "CKm2bl0s/C7ZSyr6Xabxl5VWR4yfOjF/9enuzkhkGZg2lKwAHpeE3Gt/N4ilO+vFBeSsced/sP9jWGmcxjSAhg=="
+  }, {
+    "name" : "target/qnx7/etc/passwd",
+    "runtime" : "true",
+    "size" : "387",
+    "digestSHA512" : "X/uUPKr+jUGvs5gLR8JpfxXcoooMIP82kK0Fs6nu2S9AFNzLijixgKw55nMtLw5iYUUcN+LbDih5jlgMAJnRFw=="
+  }, {
+    "name" : "target/qnx7/etc/qversion",
+    "runtime" : "true",
+    "size" : "5",
+    "digestSHA512" : "S+ZfkySp4tRaWeY+aSV4smi1ktIGvR38Dr1dbxfKtZHxFieTQUJchmbzbjykdXEpbacEZFeDxa5AuWrcD9RPrw=="
+  }, {
+    "name" : "target/qnx7/etc/skel/.profile",
+    "runtime" : "true",
+    "size" : "130",
+    "digestSHA512" : "iMHAYT/n8hVf0gOgoO5Ry92ii//jnCcqIAQo+ZE5SurXjFmfjIGZvlgJjWfHGSXknPH2abVRL4HNmBsyDI/dUQ=="
+  }, {
+    "name" : "target/qnx7/etc/syslog.conf",
+    "runtime" : "true",
+    "size" : "94",
+    "digestSHA512" : "HTpjOhPn1tjXFXtUuMsW+7vMCvxD1YQcUk5CA09+4cItWCjFgpSWp/eKLt4iGkp7NLub6fNiHzOVZrrbKjY2Zg=="
+  }, {
+    "name" : "target/qnx7/etc/termcap",
+    "runtime" : "true",
+    "size" : "6749",
+    "digestSHA512" : "f+LZFv5vmJdkguGXHo1suGGRkU7R9P6qWuNoQEfDsr4TpAmlXU0sq7Q1RTgof4N0jf11Pgmli0Tn3TjF/dn5Bw=="
+  } ]
+}

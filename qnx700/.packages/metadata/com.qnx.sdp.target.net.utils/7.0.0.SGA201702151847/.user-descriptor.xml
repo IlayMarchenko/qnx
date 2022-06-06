@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.utils</id>
+<name>Networking - Utilities</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/sbin/brconfig" />
+  <file name="target/qnx7/[ARCH]/sbin/ifconfig" />
+  <file name="target/qnx7/[ARCH]/sbin/ifwatchd" />
+  <file name="target/qnx7/[ARCH]/sbin/route" />
+  <file name="target/qnx7/[ARCH]/sbin/setkey" />
+  <file name="target/qnx7/[ARCH]/sbin/sysctl" />
+  <file name="target/qnx7/[ARCH]/usr/bin/arp" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ftp" />
+  <file name="target/qnx7/[ARCH]/usr/bin/iperf2" />
+  <file name="target/qnx7/[ARCH]/usr/bin/iperf3" />
+  <file name="target/qnx7/[ARCH]/usr/bin/netstat" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ping" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ping6" />
+  <file name="target/qnx7/[ARCH]/usr/bin/rcp" />
+  <file name="target/qnx7/[ARCH]/usr/bin/rlogin" />
+  <file name="target/qnx7/[ARCH]/usr/bin/rsh" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ruptime" />
+  <file name="target/qnx7/[ARCH]/usr/bin/rwho" />
+  <file name="target/qnx7/[ARCH]/usr/bin/sockstat" />
+  <file name="target/qnx7/[ARCH]/usr/bin/telnet" />
+  <file name="target/qnx7/[ARCH]/usr/bin/tftp" />
+  <file name="target/qnx7/[ARCH]/usr/bin/traceroute" />
+  <file name="target/qnx7/[ARCH]/usr/bin/traceroute6" />
+  <file name="target/qnx7/[ARCH]/usr/libexec/ftp-proxy" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/ndp" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/nicinfo" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/ifmcstat" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/if_up" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/resvanonport" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/rtquery" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/tcpdump" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/wlanctl" />
+
+</shiplist>

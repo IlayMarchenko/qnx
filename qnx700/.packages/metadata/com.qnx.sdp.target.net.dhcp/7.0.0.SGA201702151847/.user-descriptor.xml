@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.dhcp</id>
+<name>Networking - DHCP support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/sbin/dhclient" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libdhcpctl.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libdst.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libomapi.a" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/dhcpd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/dhcrelay" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/omshell" />
+  <file name="target/qnx7/etc/dhclient-dhcpv6.conf" />
+  <file name="target/qnx7/etc/dhclient.conf" />
+  <file name="target/qnx7/etc/dhcpd-dhcpv6.conf" />
+  <file name="target/qnx7/etc/dhcpd.conf" />
+  <file name="target/qnx7/usr/include/dhcp/dhcpctl.h" />
+  <file name="target/qnx7/usr/include/isc-dhcp/boolean.h" />
+  <file name="target/qnx7/usr/include/isc-dhcp/int.h" />
+  <file name="target/qnx7/usr/include/isc-dhcp/lang.h" />
+  <file name="target/qnx7/usr/include/isc-dhcp/list.h" />
+  <file name="target/qnx7/usr/include/isc-dhcp/result.h" />
+  <file name="target/qnx7/usr/include/isc-dhcp/types.h" />
+  <file name="target/qnx7/usr/include/omapip/omapip.h" />
+  <file name="target/qnx7/sbin/dhclient-script" />
+
+</shiplist>

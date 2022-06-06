@@ -1,0 +1,3 @@
+pppd connect "/bin/chat -v -f /etc/chat" defaultroute +resconf 115200 updetach /dev/ser2
+
+exit

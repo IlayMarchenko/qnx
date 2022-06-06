@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.openSSH</id>
+<name>Networking - OpenSSH</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/bin/scp" />
+  <file name="target/qnx7/[ARCH]/usr/bin/sftp" />
+  <file name="target/qnx7/[ARCH]/usr/libexec/sftp-server" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ssh" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ssh-add" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ssh-agent" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ssh-keygen" />
+  <file name="target/qnx7/[ARCH]/usr/bin/ssh-keyscan" />
+  <file name="target/qnx7/[ARCH]/usr/libexec/ssh-keysign" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/sshd" />
+  <file name="target/qnx7/etc/moduli" />
+  <file name="target/qnx7/etc/ssh/ssh_config" />
+  <file name="target/qnx7/etc/ssh/sshd_config" />
+  <file name="target/qnx7/etc/ssh/ssh_known_hosts" />
+
+</shiplist>

@@ -1,0 +1,179 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.dcd/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "568",
+    "digestSHA512" : "VvyRvzZVXjflZvMsTb6PNKIwmi856+ChWRr6YmVO72z82V7URXQaDk97CNn6x2Rgb1IhWgxIg3PGJWAC/YIugg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.dcd/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "918",
+    "digestSHA512" : "gbNrha0DJRZ9nVhLtKFSV6qipuS2Q9skj+92l39+j/rznLZJHsn0tyFxwcdAnHl4rIXvBVKI/mHVlWNd5ldYBQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.usb.dcd/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "519",
+    "digestSHA512" : "mFltEr+yMg00MziAUOcskhIPB9vZ3qSCv1/0X1xYoOTwc0nRdom1YTRWER/YmTPrtMLXGmyydljcf+T5eNw81Q=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libusbdci.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "571656",
+    "digestSHA512" : "q1zwYpzmvftF1eML2CdFbNMFRZX9jz55nSK2bi6e3WigFUfJ+viXns1FxBzwHC5Ps7owv9lFHz73U3VKxd2UCQ=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libusbdci.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "839076",
+    "digestSHA512" : "0+Wx4uf8BQyy8NVjzBDLoREjv/wdTJi+dE+CaxldThmDBzS5pyilrCGUNWLwUutZ3D39zi5uoBvFK64Uso7Y3w=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libusbdci.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "850820",
+    "digestSHA512" : "0nWT2xjuAYY64f9rEDLQ9e8O0jMedgWaesKdlc/Z6OBICHW1uP/X+Cyspmag2+X+vPzrGVw3lySF8kLNoc1CZQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libusbdci.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "557580",
+    "digestSHA512" : "Qb/zfzMLbGzFOpUZ1849BwR0P3hAhsrHzGg5tlvmyhN/7fUX2mMjwyPmGdpob6WfAkl7v7GsnGaXUPMg5xkiHA=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libusbdciS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "567960",
+    "digestSHA512" : "84yTgp9s+VHA6f0/HnXaHypnl0f9ntVNEZtCv6SmWRUBZWcWZnfAbQtOAjmZ+iArtbi+w/bKtaUPxIvn5Znr2Q=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libusbdciS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "834668",
+    "digestSHA512" : "n+sK5LjN8zgbO4zuo15Oe129uV3JfF7DncmRf2O7YJDfvuobuKmAB7a1SD1rUROrySUfmuNeLIqkEHauqJzDEQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libusbdciS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "846252",
+    "digestSHA512" : "0/IJNpf6EB3XKR3jZckRiUKpnjKdu7LEqxFx81e8KG5LCYIxBDfKFzAWA4Kp9BB6z8FBqMOmsEN7aXtuPDvhSg=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libusbdciS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "558460",
+    "digestSHA512" : "M7TT9PkvOkusLjGh5sV671vh6XJxqZuLrBhmAWaNTXodPKN4Y3DZNHDUfgUvK7hStn8KY/+LIFad1uxtcNq8nw=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libusbdci.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "79168",
+    "linkto" : "libusbdci.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uRCcvpYj/oz8t6xbOs07lGC2i+Y/+cJUajoihvkS7SQiLuoWAc1cFMLYftvop+2TcFqIVJIkk3BktTWWYQuDIg==",
+    "buildID" : "2d059e718eabb9b61b07e68d78df4520"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libusbdci.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "82192",
+    "linkto" : "libusbdci.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hR95l5MVZ4SIoSPVVLteHDTCVdE7Gf9icybwT93hg0SyuQPnLWCrZs1L4vnEJQN7Ku6x90l4beBbcfeOykCMLQ==",
+    "buildID" : "475c631cd535dd9d7f6fc5b8bc85d613"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libusbdci.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "74704",
+    "linkto" : "libusbdci.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Ef68DgcgRSM/1PdxgYZFLulvlqMuhylcenoG1ma8hwWnFe5q8LgWMl6kAoJzRqEx04lvjDFAv0XTR3rJAgPngA==",
+    "buildID" : "3a77b6f19d1c67b37c05ff625a057ec0"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libusbdci.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "54460",
+    "linkto" : "libusbdci.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "l1PZ4IYNqW3lQqJd8i8V9unGdJygNwH3BN4OO5vflHHKmMj9RT2kmC/t8LSdEgNNxnLQjRE6aLjFTIxbitI4Dg==",
+    "buildID" : "807f0f81470b2ce5673175943c5fa3d2"
+  }, {
+    "name" : "target/qnx7/x86/lib/libusbdci.so.2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "79168",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uRCcvpYj/oz8t6xbOs07lGC2i+Y/+cJUajoihvkS7SQiLuoWAc1cFMLYftvop+2TcFqIVJIkk3BktTWWYQuDIg==",
+    "buildID" : "2d059e718eabb9b61b07e68d78df4520"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libusbdci.so.2",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "82192",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hR95l5MVZ4SIoSPVVLteHDTCVdE7Gf9icybwT93hg0SyuQPnLWCrZs1L4vnEJQN7Ku6x90l4beBbcfeOykCMLQ==",
+    "buildID" : "475c631cd535dd9d7f6fc5b8bc85d613"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libusbdci.so.2",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "74704",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Ef68DgcgRSM/1PdxgYZFLulvlqMuhylcenoG1ma8hwWnFe5q8LgWMl6kAoJzRqEx04lvjDFAv0XTR3rJAgPngA==",
+    "buildID" : "3a77b6f19d1c67b37c05ff625a057ec0"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libusbdci.so.2",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "54460",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "l1PZ4IYNqW3lQqJd8i8V9unGdJygNwH3BN4OO5vflHHKmMj9RT2kmC/t8LSdEgNNxnLQjRE6aLjFTIxbitI4Dg==",
+    "buildID" : "807f0f81470b2ce5673175943c5fa3d2"
+  }, {
+    "name" : "target/qnx7/x86/sbin/ulink_ctrl",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "46560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Y7Pym/5BLG0W+KfRtPlouQxCrxXbN2lOJUFtwzecEYYVDW+VNB7y+Zo96oZ/cdHHD2XyJ0j3nZF59R12QBTFYQ==",
+    "buildID" : "3d65a334b24d30bb54a890a1d25616d9"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/ulink_ctrl",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "44928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "h+sAOmdi3mwsDDW7v6MZYuILHZqSN7pl7Ycz5D0Uq9mBSfk2EnfM+2slTALO63he6mdTdnzzQ9iXJta7mb+d3A==",
+    "buildID" : "2ec0f2168fba85f88519f16202b5839b"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/ulink_ctrl",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "41488",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Q3y7qPi9O4oO6/o7SdIXPgkPeTqcwIDIl5JqpZZ1C3th3EbRFBMjiXnWawlj6/S+gVJSbhqtEpDBfRgFdVz2IQ==",
+    "buildID" : "de497bea768c050d3052c0f3e3eb70f3"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/ulink_ctrl",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "33248",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nTOEj9mwE2yVw5uwA1TjkRpceqpD0AcMoAs2Zm/o5qwc4W2gra+JL3dUMVbVoW9udeTk+WjulmhUvsl2UmDUDg==",
+    "buildID" : "e19eca3396374c167cbddecc5751589b"
+  }, {
+    "name" : "target/qnx7/usr/include/sys/usbdci.h",
+    "runtime" : "false",
+    "size" : "20702",
+    "digestSHA512" : "wYn8zNUkmz+AHQwbq2AA6otyhrR2UUbePckWfdwh9WLE9Bgo5PIfLUuqjPKgG2rwTxgGcge9piVIuYkL9xCxQA=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/usb100_dcd.h",
+    "runtime" : "false",
+    "size" : "9784",
+    "digestSHA512" : "biHRXmK+VADD3wBGCcDo9uylVxvnGmp077Z8ks9Z3QYctL3nGh8OtqT6dEp8Snv+tMthGZ9c1ZcVvWDoaak33g=="
+  } ]
+}

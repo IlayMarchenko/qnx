@@ -1,0 +1,481 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.fonts/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "872",
+    "digestSHA512" : "2LJdLZOW7TFl75XOpAA32iBlT3JQsKmiS52rdcTlIXVRztGtT65PGZm7ohO2C39XoeHNvJNZyLVRiB1HdTZOOA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.fonts/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "3413",
+    "digestSHA512" : "35vKjNApydJktjs+U0EavwC4FjiE3zDx47EYpxnCbfVdHR/cr1fQxXE5Qx+2p/VwhQJBhs0Pk77n6vPhMTfKZg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.fonts/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "234",
+    "digestSHA512" : "1fp29LhQYBcJAam/9ZkKfBgqeq3O+GNl/a6PGZ4EQnXsWpEInAcS+4Ef82BRblelgpw7zMz9DTThE3LYzIYvQQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/bin/fc-cache",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "19480",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "a4P8VOUw4LRuG8AlG6S5B5IKV3NbwTImYsVHFDsoANvFKqREtHvmqDi9VmjYFMmT/v8DOafL8Afk7NSKqQq4pw==",
+    "buildID" : "c67aee53f78f09edc8e46c24eb9f6b6d"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/font-freetype",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "30656",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "SrtHJ3jM9ZKKH54UYiCHDU51e3d303vDTF/Un+wPkLcn9k53XbAwFO8eSors5YJfNGbZf2OjOsMfmkeD3LdEPg==",
+    "buildID" : "4725422b2a5e76175bb1c1b08bd0a278"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libfontconfig.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "242936",
+    "linkto" : "libfontconfig.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "glmzpE+YIAsygru5WWhJCYj0VOIvyBY0x9wTVH1z0C5bxcSzpjnrE9TrtRl6mj53gJCpT6CSI5D+izeO01G2Ww==",
+    "buildID" : "5983975424d55f81ccc5c0128d6cc378"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libfontconfig.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "242936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "glmzpE+YIAsygru5WWhJCYj0VOIvyBY0x9wTVH1z0C5bxcSzpjnrE9TrtRl6mj53gJCpT6CSI5D+izeO01G2Ww==",
+    "buildID" : "5983975424d55f81ccc5c0128d6cc378"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libfreetype.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "632728",
+    "linkto" : "libfreetype.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Cj6kngegqcb03fyoohzOpCeNg3y+BD5gTLnDeuDuj37AaGi3nqkkctXtziLHDvdLABX2LDTiSlEOBo7kDZ9HXw==",
+    "buildID" : "2e22ab0262f50dc508ac0eebe78a6f1b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libfreetype.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "632728",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Cj6kngegqcb03fyoohzOpCeNg3y+BD5gTLnDeuDuj37AaGi3nqkkctXtziLHDvdLABX2LDTiSlEOBo7kDZ9HXw==",
+    "buildID" : "2e22ab0262f50dc508ac0eebe78a6f1b"
+  }, {
+    "name" : "target/qnx7/armle-v7/bin/fc-cache",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "14316",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "SVo7cNOdWBC0yU29QJh+1aVNDDaa/oLYg0rtxsoE9O0rMLtIon7LiVNJ4eH78OPjfJgUY9coQL7OfiyP3/vGHA==",
+    "buildID" : "9745f1c358b92f2d67573de614a4b0d0"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/font-freetype",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25508",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "23QL7DYHVulq3oRm3vbvyrNsS+6Ic81O75HLb+we1zffOvCYyUasp37+FvQtXREK/WvtVmQgzluDrL7Y9sGiVw==",
+    "buildID" : "08ef1c8bc16737bba5286c68f898894e"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libfontconfig.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "177436",
+    "linkto" : "libfontconfig.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "osPFZKjxhXpoiDo444CmW2bz3GkgRhSWPN0TNryqWFBDipoJs8bHptF78UVlwaaH8WfGK9NrFOs/MNcz0Ux5rw==",
+    "buildID" : "a1b615595052114966a0d9a93622c9d7"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libfontconfig.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "177436",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "osPFZKjxhXpoiDo444CmW2bz3GkgRhSWPN0TNryqWFBDipoJs8bHptF78UVlwaaH8WfGK9NrFOs/MNcz0Ux5rw==",
+    "buildID" : "a1b615595052114966a0d9a93622c9d7"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libfreetype.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "447920",
+    "linkto" : "libfreetype.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "58SQaD70zXUmbMHaORuWrgiFkqETx88Ae95uLTEfDCzoMzd+Y/tpzuUAffPvfaLBwow0EXYkeB99RnICkkNsCQ==",
+    "buildID" : "432640c4494ae36d62cbc38a5cc1a721"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libfreetype.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "447920",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "58SQaD70zXUmbMHaORuWrgiFkqETx88Ae95uLTEfDCzoMzd+Y/tpzuUAffPvfaLBwow0EXYkeB99RnICkkNsCQ==",
+    "buildID" : "432640c4494ae36d62cbc38a5cc1a721"
+  }, {
+    "name" : "target/qnx7/usr/include/fontconfig/fcfreetype.h",
+    "runtime" : "false",
+    "size" : "2191",
+    "digestSHA512" : "+EnyIfVAlg71dTRfOThuQedDH4pmD6bDMV+kAnHPXL+67Dbli9hZi+5yo8vfwgoecHtC+9gdx28T3ZRsajCyJQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/fontconfig/fcprivate.h",
+    "runtime" : "false",
+    "size" : "4348",
+    "digestSHA512" : "8GNvcAnYLgzwJv2Bp6KoRZ487PZEwd8smPlzK2vVOD/kK6srZja4f/RRklie/hODsu4mGBvTLoQjU1iX+2LvBg=="
+  }, {
+    "name" : "target/qnx7/usr/include/fontconfig/fontconfig.h",
+    "runtime" : "false",
+    "size" : "24093",
+    "digestSHA512" : "w1FVXO96a+zfu9IdfSOR2WhDx/5uZbMe6B7sQsrS7ibuMOOkm/NW0AkUyikT+4fb0UORJmbEMoo4C33KjroFAQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/config/ftconfig.h",
+    "runtime" : "false",
+    "size" : "19218",
+    "digestSHA512" : "MAX1N0vxdqPNAVH1GGr/P9F69JuIZQVXuFZtPCb0G+hJFwwuqcDtOTBMxHk8tl5SozsKGdyL7i/Fnm8uZH7rJQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/config/ftheader.h",
+    "runtime" : "false",
+    "size" : "26242",
+    "digestSHA512" : "+QhSvrdkKqzFV8nL92BaX/4uuhQQ6OGgbQToRhzVd4YYRyIkpNyoz9YTfSsFPqRc5Zq9uRUoCUYurPQBXT8p2A=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/config/ftmodule.h",
+    "runtime" : "false",
+    "size" : "1399",
+    "digestSHA512" : "yZeMF6g1jrPC/Wkbl++sBu0c1KAbtBortGQVVEIU90paHV9lfaPgVdPukJe4dUDyqoN6YPWdlsif12PVNOxAPw=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/config/ftoption.h",
+    "runtime" : "false",
+    "size" : "55606",
+    "digestSHA512" : "bUKYO1Fpj5F1GaCmbbW1U40AxOJgUm5P4o4+H+rPOzWwrZAcCKqPI7JGeI5/EGRC0TqRBUhTUJYxmYp4zYj27g=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/config/ftstdlib.h",
+    "runtime" : "false",
+    "size" : "7513",
+    "digestSHA512" : "iz06nOTfIP/76lSziDiUszgXyTKhYO86dpXu1mM5463moKoWdS3sw3RLhTgPEoDhkxFwcgoffdqq2MlSf4MQnQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/freetype.h",
+    "runtime" : "false",
+    "size" : "272028",
+    "digestSHA512" : "05fozCKwzQI02YDn3xpRuyUMpYe7OkKee7bPghJQlhMKXZ0cUiKGYG3wxCXZ3mAWvDmKdhW7aom6LpUR2HKeMg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftadvanc.h",
+    "runtime" : "false",
+    "size" : "10876",
+    "digestSHA512" : "HRFyDvHdEXX1osOb18W2xZ6/j5a4pHsRfanM3rN63YOyfJ8e0VsOHu80oqXQBtqURC+zNsI+kGqGbyL5NimxNA=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftbbox.h",
+    "runtime" : "false",
+    "size" : "5473",
+    "digestSHA512" : "WEpvIDek6OtRx3HGU4Htjkas6TZQvyWuCgQIdW0HrOFBOY78LfSq8h0HwKnd0fowgnVAHugjSV3fbEam2e1OUg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftbdf.h",
+    "runtime" : "false",
+    "size" : "7030",
+    "digestSHA512" : "/Xo9K7kJMR4pt6X2UiyUKZQTTOViwRrzWoh9F98bDyvqr/HMvDOaZaRRslGjeMD+WGkyzWR2Jy8LIAM0pkMvhg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftbitmap.h",
+    "runtime" : "false",
+    "size" : "14935",
+    "digestSHA512" : "mcTalxPc5scq4QgXR6QGMK7xi/WC0B+nUsqdhf/8GVVBEBxIfF1L/Dp69pZouBFZVy8kddR4od0UplZtW0jeaA=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftbzip2.h",
+    "runtime" : "false",
+    "size" : "4538",
+    "digestSHA512" : "zPblZUP5YU+pt2n9o3fFEDfgSUPx5rDqSyqfI4Z3pEAo/2IkFQFcdMDxXb7nXlkllnLf3wH9cUIoeRvF0OomTg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftcache.h",
+    "runtime" : "false",
+    "size" : "57757",
+    "digestSHA512" : "1sffUmOjNPcrRJvMiKmR71dyhWwREmfuidxPElj8N8KJhDTie/qkC/CVEgWYQ+xDmFJQ+etfB/60AP3fxVVtOg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftchapters.h",
+    "runtime" : "false",
+    "size" : "9771",
+    "digestSHA512" : "RSORXuGWQDnaWnztMXxmjvPXVIakiP0BZrFcjJH21ApFmUO0ruIZNcIEYVyZ7JOge3zuPJ+WUbTIm07VKI6GCA=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftcid.h",
+    "runtime" : "false",
+    "size" : "5886",
+    "digestSHA512" : "tKfoUZnz4HMLgooEsgRiHhDI9lQAy0Cyb8aMohqGr6zTP56qHMisMeSQrANPGde5LUWN0rMHDhrb5HDIT0dtKA=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/fterrdef.h",
+    "runtime" : "false",
+    "size" : "14310",
+    "digestSHA512" : "4Q6TzB2z1byD5ohrQwxQPAHRKigT+I4xkfkibh9xQwLABjWFenQL63B93O1qYWpFg14QLcI/T7LaL9JtJ6Z8iQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/fterrors.h",
+    "runtime" : "false",
+    "size" : "11609",
+    "digestSHA512" : "4XxC7cQG6uujYAk5k9mFTxtYNnkXV6Nz9+mXgP4oIMWu3fXBDkDmdnQb0F6NEjS3rRm50uw8NACrmAXXsGcFow=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftfntfmt.h",
+    "runtime" : "false",
+    "size" : "5216",
+    "digestSHA512" : "Du47mlUl/U/BgJNrIdpLtQXAKJg3ksPrHnpQDVp2SH3LC7cwP2Xghl808naqx4afQMd0ndWO4Cg91DYIkKyzkQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftgasp.h",
+    "runtime" : "false",
+    "size" : "4737",
+    "digestSHA512" : "JJzhqMlHQxwTI7p7+3OocSemwQ0bPwNoc/TP0E7IMmFPyYmDvim0SKQlmKMrZTy1e0U5BqhZi8YiLQ4bfoGUYA=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftglyph.h",
+    "runtime" : "false",
+    "size" : "38924",
+    "digestSHA512" : "TltWYqPpsKU+/rTrv8RnPULK33VQZyPHAw8lRtT7yxLcjLvBtuVhKd9PXfEwOVy0K66l64tnOWsGJBt+CjQ3nA=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftgxval.h",
+    "runtime" : "false",
+    "size" : "13638",
+    "digestSHA512" : "w0Nay39BhD1Sn95yjsMvBOKmGbTARAvozMQB2jS4nGKaYfWfbU/kKiDRBxyQYc9/QHZRUHyaRiaYusZ+oBHQAw=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftgzip.h",
+    "runtime" : "false",
+    "size" : "5861",
+    "digestSHA512" : "1LABAY8F8dcoeNWf1rsmOYkCYj3PVOLdD6lY/MwYvdUlA8GWEtgXfHycUdiLef1H1Vbysf5MboViM+GlmlKWSQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftimage.h",
+    "runtime" : "false",
+    "size" : "76700",
+    "digestSHA512" : "QQKx10pyuYeduqPRYkSy4L5R++YjrC29XSw3tp5NwKvanNw1iQaOqMENM0w/KSaIN96e234KS6gR2UT7jDPHQQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftincrem.h",
+    "runtime" : "false",
+    "size" : "11638",
+    "digestSHA512" : "EmZhBHPUI51ScRFDQVcaIjuzEho2RpIGuf8bRbrDQ08tifrNnrZMR3v0ytfBClPl3qOn5aPiF3B9rh0M3zjwEg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftlcdfil.h",
+    "runtime" : "false",
+    "size" : "11799",
+    "digestSHA512" : "fdw+kBWrgOWE4nacYeRWfmvhP9xYZs/ZdTNs1pKvdurMnfaYrNj/Ey7rfJAyIM0Yrx9ImrhLn7B+/nJ7/ZKvyg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftlist.h",
+    "runtime" : "false",
+    "size" : "16992",
+    "digestSHA512" : "DkbfbftC6RNXtxKuGzeAoIiNRn6e8S7j4YGQtfBEpsGaUs157AcXkX7KHN4FEunT5gv8Rx3yg6GaThSkoC/EAg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftlzw.h",
+    "runtime" : "false",
+    "size" : "4485",
+    "digestSHA512" : "9NDQlOff6kSGLXgXR1RgG6vdlpncldPJOUQhkJUyXIkiqxr6T8+7rCoVLjzNZ9p+UEcvFX8ivxW7D1ZXyDh8lQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftmac.h",
+    "runtime" : "false",
+    "size" : "17326",
+    "digestSHA512" : "e+j/vzCWJA4id6QpWLE7md5ryUA9m4kh8P1PLrX8FCVkk9J/3pIYuz3Nqo3nxHgg+dlu/YOXBQFgjor1If7+Rg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftmm.h",
+    "runtime" : "false",
+    "size" : "23708",
+    "digestSHA512" : "afccysl5AthZkwBQ8Xu8mHyIn8OSWrXKjWhmqgCVfKbMvWwwO4Bo0EON9OFPeD8HRe9q7/c6xR8dTZzSrBywkA=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftmodapi.h",
+    "runtime" : "false",
+    "size" : "35065",
+    "digestSHA512" : "yLo5UYzC9bXXX4Q5e7bDcTPOLM4CWE/fFN9TTDOx9+GXbn9tRM15lWU/+bJ/UEMWLx4dEQHvgblBFZfBfx6i+g=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftmoderr.h",
+    "runtime" : "false",
+    "size" : "10657",
+    "digestSHA512" : "oX+rggtwrSHNX9n/LjleGpcfqCpOsxq4B5OvMwzc735FAsB3jKB75jbw4oaovghu6kGccrP9lx2cao3K+bDYsQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftotval.h",
+    "runtime" : "false",
+    "size" : "7828",
+    "digestSHA512" : "MJbHHlFvMtWs7QZqBaCad6Nh2lN0nUIbWn7FJkH2NdteuKm6acY5F3VAMYHrmfWkKoEX9Rn1p6frVSbkeBfIOQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftoutln.h",
+    "runtime" : "false",
+    "size" : "35354",
+    "digestSHA512" : "ADD78czrFiRDoiK4fFZ/BF1b0haN2qOLeuvuhnJbWcwGIZjU5/d6DsZ3pfSPCzMjwJwGkGzIzapxAKxYdQ6SMg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftpfr.h",
+    "runtime" : "false",
+    "size" : "6518",
+    "digestSHA512" : "TPqV9zLYJzsYEUTCHHcrINyxP5Mpk3Gp0irb2SdK3DEbJtPS49otzVoJRac1CUNNsmgYFnmKSa+qVEDcm1b9xw=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftrender.h",
+    "runtime" : "false",
+    "size" : "11559",
+    "digestSHA512" : "1qkAHY512X2+D6+NAD/XPag9ZRMZiSz9q2HUhAjZ/K0ZtXBP1Oi+Jj51F4wUizB7/dpte70/h76GzST0KDojLA=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftsizes.h",
+    "runtime" : "false",
+    "size" : "9791",
+    "digestSHA512" : "9COnnfdPHBpcRxE4Y56hkxB9oJKrMgMk/1Mvu+MBnj0TkISOQnhSJ5DA6MuahzSaCqJtzZ5awTV/ZmU9vnrsNw=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftsnames.h",
+    "runtime" : "false",
+    "size" : "11395",
+    "digestSHA512" : "/fWV1Qc4pAMMdwEIaS3vlAeZxNsbCFBrfPkABIvkfGjeNv2eWLDyLM/3FFwynLJqwbQPnQ35g4jwAoNYIYqMPQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftstroke.h",
+    "runtime" : "false",
+    "size" : "22539",
+    "digestSHA512" : "yd6YMufGNnJDYHS2UlTVa7pjZ4rTxtUFJGp9lji9Q4d+tZWAevqH0w6qLk4dU35rqXlcvW/KslbjKNrP2sLwow=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftsynth.h",
+    "runtime" : "false",
+    "size" : "4362",
+    "digestSHA512" : "l+8cDVYihbIfLSifKwc4Yyi6VX3VSyBkj+xq4Yvynr8AElRIlphqAVNRR95Cf8xpohG6ZaKMiwpjcDgJg0q7DQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftsystem.h",
+    "runtime" : "false",
+    "size" : "10794",
+    "digestSHA512" : "Cw+B8ePglFrdL+q7UOWlMgFAXVRfRVHGaV3ysMCVVP2/dgFDoTDXRfU2oJVSAF7BzE1lhVPJ5a8cJOYrfuJUSg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/fttrigon.h",
+    "runtime" : "false",
+    "size" : "8664",
+    "digestSHA512" : "T2GYnlORpOQ0NuY4MvJwVKmSsJXfUUn681kpBsvnOIUI2O+6YnpHE8yT2FioCCT0KDs/XBcZNY7XAkLahkkEKw=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/fttypes.h",
+    "runtime" : "false",
+    "size" : "35920",
+    "digestSHA512" : "+3XFQIroTQfiQwZv0AGcX5X0PTp7xhszDCQXGhip2VjAE20lKZZoKADtvu5XIP91tlN8hp2oB+iIQCJ2EyFGYQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ftwinfnt.h",
+    "runtime" : "false",
+    "size" : "10642",
+    "digestSHA512" : "bGCDtXRE1zdlCnBNsTQOzly2ciPcFeIDyYoXHLXEg2rabCYRns7iRZFhyoOMtS+sOjn9s7l6Putjo3o66Jp8kg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/t1tables.h",
+    "runtime" : "false",
+    "size" : "35270",
+    "digestSHA512" : "5GR6KpMt8wcAqdNYh8bIemuweabnX0SVDLU1ubg0M0f1tGPJ+xURuMFF6I81TZU/BFYXDS8Y7S4BCpC4qPrLVw=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ttnameid.h",
+    "runtime" : "false",
+    "size" : "61633",
+    "digestSHA512" : "0u6wg/2t3zPIjgQTXf3LXLvvU4Uhu21DI2x9/srGGIICyfbubjgqKKjiLR5g000TtkmQV9UYKX/nbbtPpTXT2Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/tttables.h",
+    "runtime" : "false",
+    "size" : "44624",
+    "digestSHA512" : "DeUnGjqTuwLPW/P1psuQA+SJ31vo4SA73mTAtbJ9fEWArmdfosRUukU5PIk6dslCnaXjWSEWGLqbw17B/GINMg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/tttags.h",
+    "runtime" : "false",
+    "size" : "5443",
+    "digestSHA512" : "mIXlzbO6oS8LHkU4AlqqFml3us9mqvLvQBjQ87N6tM2eM0urIsnFa8JtsXgm/8HLFto0buM7u8Vb6eHB6z9bdg=="
+  }, {
+    "name" : "target/qnx7/usr/include/freetype/ttunpat.h",
+    "runtime" : "false",
+    "size" : "2573",
+    "digestSHA512" : "iOEJTnsWNYpxF0yW0wrSZXalbkDOyE3UM5Nw33+WWWthWjBuSj4rjQzSObmx0GBcDTAnbbFxGPR1CiZ5r1cQZA=="
+  }, {
+    "name" : "target/qnx7/usr/include/ft2build.h",
+    "runtime" : "false",
+    "size" : "2614",
+    "digestSHA512" : "uaI7F8T3aKCI1emY3f7aEUL12pfAMU5FTrmkaAHlO9adY998Qpd8d/kdRmcHA/y/VPRYmVM/yuECBd/Dcxj8bg=="
+  }, {
+    "name" : "target/qnx7/usr/share/gles/textures/bubble.png",
+    "runtime" : "true",
+    "size" : "974867",
+    "digestSHA512" : "poj9Qv6P2e3v93fSferO34V1DwSg6R0b2oSWIYqpGu1PvQrUO5OByvNQ1whKKujqYjgxMePY+p6uah2CahfGSg=="
+  }, {
+    "name" : "target/qnx7/x86/bin/fc-cache",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "17688",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "42CKutPO/iWXTLbgpRUZyfIdbGeQ1wrOQTgRqSSLk5Rq2ckXv8FPoC1pZGAlEKLm3JV9x6Y6m2KsXiBr4Fk6LQ==",
+    "buildID" : "cdf8e4c60eabf313ac77e8426ea5656c"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/font-freetype",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "28068",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sjyU29mGi4uK4dZ+1SCF+29eHo0qCDream/xsyihtODeTdWEnjB3kzxkNVPdVJH6g/al+y8VYsnuaj+Rv7xOgQ==",
+    "buildID" : "de951a3ea6240c48069af0eb5a93a9ad"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libfontconfig.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "280940",
+    "linkto" : "libfontconfig.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "i18NLb+9X6Opa6MNQ/PhqwYs0nIW0/1X5hZ3sxYWAZnkNAf7Vqod/AkP8SCLhBr3J4GYCGsBLXobtcIEkYKBrQ==",
+    "buildID" : "1a03b5ca1a0a341ba6c24a0967e86d8d"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libfontconfig.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "280940",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "i18NLb+9X6Opa6MNQ/PhqwYs0nIW0/1X5hZ3sxYWAZnkNAf7Vqod/AkP8SCLhBr3J4GYCGsBLXobtcIEkYKBrQ==",
+    "buildID" : "1a03b5ca1a0a341ba6c24a0967e86d8d"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libfreetype.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "743760",
+    "linkto" : "libfreetype.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "edgHyuZFOIO4wmE9/6I+UNhp7qZjpNFm9ejA9hZMX1F5cgSrJacQvJGCqjksf1JOPcHIVEUQWXuA7niOavHpqw==",
+    "buildID" : "9dbb528a33c37dbc9573192c4aa5fdf2"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libfreetype.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "743760",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "edgHyuZFOIO4wmE9/6I+UNhp7qZjpNFm9ejA9hZMX1F5cgSrJacQvJGCqjksf1JOPcHIVEUQWXuA7niOavHpqw==",
+    "buildID" : "9dbb528a33c37dbc9573192c4aa5fdf2"
+  }, {
+    "name" : "target/qnx7/x86_64/bin/fc-cache",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "19072",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0zzUl1led1dO9hLqxRK2UUsj6IRaJi8Feb72V7ppLzXcmaCidgwsIzvT/EYNhw4DGSw4lvnOLCld5jRvfYlu+Q==",
+    "buildID" : "55e93bd1da8ffd80b7ed976d4a907b58"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/font-freetype",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "34168",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yWNBhs7UAVpIlfFc9N1nmNE5+PQHyJNIR7rI/OLlFdct1iAlpspgDafQ7E/kUBzA7ktsgreauW2sQREGknVeVw==",
+    "buildID" : "7f3b0bc8d560ae1a243aacfd73ae5b87"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libfontconfig.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "265216",
+    "linkto" : "libfontconfig.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hO40KL7RVM9y+3KAlY7+mW/yZZPgddAy3WFvIqdSeUoYPEjZhO2SSioDAwNjlr3JLeLczKxCFYRZhpaxmlkFbg==",
+    "buildID" : "540f7392da4872465ad5bdd10894ef9a"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libfontconfig.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "265216",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hO40KL7RVM9y+3KAlY7+mW/yZZPgddAy3WFvIqdSeUoYPEjZhO2SSioDAwNjlr3JLeLczKxCFYRZhpaxmlkFbg==",
+    "buildID" : "540f7392da4872465ad5bdd10894ef9a"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libfreetype.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "736104",
+    "linkto" : "libfreetype.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EeAgxC6trFx0m0yquT5DoycXENKHp793QPjrpr44Ht1LJb6NXes+qGutdm1G6YtWvT5kV72JS5AIIq2OZlzypw==",
+    "buildID" : "cfd6e7f22e1cd7296c75b8c3ff8cc235"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libfreetype.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "736104",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EeAgxC6trFx0m0yquT5DoycXENKHp793QPjrpr44Ht1LJb6NXes+qGutdm1G6YtWvT5kV72JS5AIIq2OZlzypw==",
+    "buildID" : "cfd6e7f22e1cd7296c75b8c3ff8cc235"
+  } ]
+}

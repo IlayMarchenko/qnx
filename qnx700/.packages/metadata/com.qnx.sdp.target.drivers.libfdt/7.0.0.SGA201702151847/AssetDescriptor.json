@@ -1,0 +1,152 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.drivers.libfdt/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "589",
+    "digestSHA512" : "nrGDKt0BQJGMbSoQSDEr2MtTo9bvqcsvxyQKLZboCidrVXng3JecuCfiTEBKmFdYzxjcEWx/ULxlWfeCslAy+Q=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.drivers.libfdt/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "821",
+    "digestSHA512" : "4242IJAxJhFQsqhlEEtZdEF/8zadairVnh9dNP2FvhahevxNIiOKCOROldJWAzz7ZdKvlgf06UGEqh45N1qmSw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.drivers.libfdt/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "267",
+    "digestSHA512" : "LNeny2ctTvsaeVohEZ2FIVmbLpmp8Kl4VcalbsISLt83xGwZT3rx5VIDd1rvkxbsWUeVihpAmdY8sZ7mB2uGWg=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libfdt.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "124652",
+    "digestSHA512" : "PG7NCfAlcQiCRL/PvoLMHT/7L326GSdRuU1Y7hsyZxtgOLbqfMNDSh41dTQVXRm6TUaVvSshlTlAXaTABcIk7A=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libfdt.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "191684",
+    "digestSHA512" : "PoH0MHLL7sC8PWkJnHaZ8GQfqJVe2z30c+qQtuGVZBVRZjkIkKFgILEHupd3cZ3MbZZBkiWds5mhsewKwV3PDw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libfdt.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "194732",
+    "digestSHA512" : "FChDumyAjsFe8y+3fnLGlqIEMANSa8y6Yoe9IED9NO6W9LHv8SjQdt7/dCexWnpfTrZMDZzqRqd3rcSecUXCtA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libfdt.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "124068",
+    "digestSHA512" : "3etBmssDqq3BOIgueZpSbQBAk0hojpAmFE8d22fNssHVIfyLWO2mGP6NlnFoKDEs1TSXxPS0o8CTzkmMeAAGpw=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libfdt.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "35068",
+    "linkto" : "libfdt.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "bAB7mTU/+NGp1hNghXo9gElmBMWBt9D4BZsAhHrR7K2zNNW0tauMqcFTxxgQyIAPCz/17u6BO0yUt/EWKsNUgQ==",
+    "buildID" : "f3662f2b4513e0ba3ae43ef059fbfc41"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libfdt.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "32664",
+    "linkto" : "libfdt.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QGqBSzT+Mc018mcQMfnwtzbLHnA8iP9RzAh0KT58Cv6+9UIs6FUo/wKF84LiGW0mr2RyH0ijvb0nWnz8ZibYYQ==",
+    "buildID" : "22978fa75b26fbc886494516eed83cfb"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libfdt.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "33232",
+    "linkto" : "libfdt.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Fb2CZVHBZijCbAjFFI+rwmiq5Qn1N965RifgGXrTQOUMAdaxPCzQ/S80/nLia0K7e938RogslyW93wQcGXNQrg==",
+    "buildID" : "a5e0b81b050738257ea5832df89c1d33"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libfdt.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24584",
+    "linkto" : "libfdt.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lreclYMQoR2xCYUGs+xa9btcDqM4W01VJWjWiN7JHbELE4wS1dKGiCrL/awJkvDeeeLCXXjdQbJbdCvJv+rQPw==",
+    "buildID" : "81df006d1633fa5cca5b93b2d187a2c0"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libfdt.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "35068",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "bAB7mTU/+NGp1hNghXo9gElmBMWBt9D4BZsAhHrR7K2zNNW0tauMqcFTxxgQyIAPCz/17u6BO0yUt/EWKsNUgQ==",
+    "buildID" : "f3662f2b4513e0ba3ae43ef059fbfc41"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libfdt.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "32664",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QGqBSzT+Mc018mcQMfnwtzbLHnA8iP9RzAh0KT58Cv6+9UIs6FUo/wKF84LiGW0mr2RyH0ijvb0nWnz8ZibYYQ==",
+    "buildID" : "22978fa75b26fbc886494516eed83cfb"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libfdt.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "33232",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Fb2CZVHBZijCbAjFFI+rwmiq5Qn1N965RifgGXrTQOUMAdaxPCzQ/S80/nLia0K7e938RogslyW93wQcGXNQrg==",
+    "buildID" : "a5e0b81b050738257ea5832df89c1d33"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libfdt.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24584",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lreclYMQoR2xCYUGs+xa9btcDqM4W01VJWjWiN7JHbELE4wS1dKGiCrL/awJkvDeeeLCXXjdQbJbdCvJv+rQPw==",
+    "buildID" : "81df006d1633fa5cca5b93b2d187a2c0"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libfdtS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "123538",
+    "digestSHA512" : "i0clMcK8+wyaRVQer/DERZ3i635o4J/nRBWzpn2VcVBWM2tMYmcWUCaqZWVWuFo6juqRyy9zAZ8iqHv/zTI9vw=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libfdtS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "190244",
+    "digestSHA512" : "FJcLIAGE8x/D05Tp0ePuFIv6+n/NtQlSBm2p1WDyoOfoyb9LtbhpHRkZWluxlKRWCTSckO4vBHuJtnc6amvXqw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libfdtS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "193756",
+    "digestSHA512" : "JpmUoDSR6ozTdOI4LPeS7jWnkMPrzW8uBlHL4+cfBJlllyGxGuTUJB4XTzkCEcFAPnlwt9aQCJ24mkFIvQLJaw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libfdtS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "124472",
+    "digestSHA512" : "1ndqNBZDGSIYQ2S+PoBhWH7cOI0TCRMd9RRfL9+yRLvz8uZ6uGamkcpQGwOHSs7kgOlkIzJ8p7u7n7giBjZ1/Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/libfdt.h",
+    "runtime" : "false",
+    "size" : "58486",
+    "digestSHA512" : "d+0Qlgozl5FNEMz/ZNtuz2qncWgg7x4rT3PsxZOg4mscmNNYPS71+vtw/otqYUdYL9LNMTyleaN4qEPLp8P0Fg=="
+  }, {
+    "name" : "target/qnx7/usr/include/fdt.h",
+    "runtime" : "false",
+    "size" : "4217",
+    "digestSHA512" : "ELyMo/IbFhUSQc2PUtmlxNJOqz8zzumE2CkvoVRIPUY6VYExMLwzpOzkysnf0XSeuyax2nf23Y1Mfd0IYEv2zQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/libfdt_env.h",
+    "runtime" : "false",
+    "size" : "4398",
+    "digestSHA512" : "kVySETuA1dGhoybuYsv99zxn8aCaqpECoN5ig4F+24Mw6m+yjwsCfgxIWXx8UAwFa7SoV0d4H4UWhZbQJ99wdQ=="
+  } ]
+}

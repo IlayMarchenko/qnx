@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.utils.publishers.mmcsdpub</id>
+<name>Utilities - mmcsdpub</name>
+<category>OS Utilities</category>
+<file name="target/qnx7/[ARCH]/bin/mmcsdpub" />
+</shiplist>

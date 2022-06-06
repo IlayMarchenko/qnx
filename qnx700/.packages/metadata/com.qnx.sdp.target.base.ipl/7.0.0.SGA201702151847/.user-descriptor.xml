@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.base.ipl</id>
+<name>OS Services - IPL support</name>
+<category>OS Services</category>
+
+  <!-- Common boot files -->
+  <file name="target/qnx7/[ARCH]/boot/sys/binary.boot" />
+  <file name="target/qnx7/[ARCH]/boot/sys/elf.boot" />
+  <file name="target/qnx7/[ARCH]/boot/sys/srec.boot" />
+
+  <!-- AARCH64 boot files -->
+  <file name="target/qnx7/[ARCH:aarch64le]/boot/sys/raw.boot" />
+
+  <!-- ARMv7 boot files -->
+  <file name="target/qnx7/[ARCH:armle-v7]/boot/sys/raw.boot" />
+  <file name="target/qnx7/[ARCH:armle-v7]/boot/sys/swaple.boot" />
+
+  <!-- X86_64 boot files -->
+  <file name="target/qnx7/[ARCH:x86_64]/boot/sys/bios.boot" />
+  <file name="target/qnx7/[ARCH:x86_64]/boot/sys/kpi.boot" />
+  <file name="target/qnx7/[ARCH:x86_64]/boot/sys/multiboot.boot" />
+  <file name="target/qnx7/[ARCH:x86_64]/boot/sys/uefi.boot" />
+
+  <!-- X86 boot files -->
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/bios.boot" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/nobios.boot" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/bios16m.boot" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/bios_nosmi_sch.boot" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/bios_nokbd.boot" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/kpi.boot" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/multiboot.boot" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/uefi.boot" />
+
+   <!-- X86 disk boot files -->
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/ipl-diskpc1" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/ipl-diskpc1-nomsg" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/ipl-diskpc2" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/ipl-diskpc2-fsq6" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/ipl-diskpc2-ltfs" />
+
+</shiplist>

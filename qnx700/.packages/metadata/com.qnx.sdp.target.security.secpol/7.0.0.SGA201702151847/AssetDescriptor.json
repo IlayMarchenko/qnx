@@ -1,0 +1,238 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.security.secpol/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "696",
+    "digestSHA512" : "UAkyGd/IxbOBOcHm2obfH4/OoLrVfw0QB1VgPVQxAt/5SosVUg2eJQrDbosnLSCqgqEoG2SK9+9A2EimqKX0eg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.security.secpol/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1184",
+    "digestSHA512" : "wL3A1faQ4KhJem5gR0tUK9Gvpa7Wvfyz2H+nRhbgllVWYSm14c5C3yvUE3xTBu8lBRnMROojOktZs2SrFemXVw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.security.secpol/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "730",
+    "digestSHA512" : "Y9WqRTP3POf+RL0aylTxEVPGXyRxNFOtzGyy7CjKwgQdNfMqWkCQk7/BISSa9Gop8Hp2LZWohLAko/phpm6n6Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/secpol/secpol.h",
+    "runtime" : "false",
+    "size" : "13439",
+    "digestSHA512" : "QTzmYoKmlpR7YQceHF9XPGMDwtR0OmmxpUsjw9WLA6Bk7sUiJI/EBJEklCv7/44rZ97kn2sx2D31fGYQ/tUGMg=="
+  }, {
+    "name" : "target/qnx7/x86/bin/secpol",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "32292",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lr+PALwHsPYkaqhgfqo5Nhg4CFBMHezSL8VsTwug0YzHrjhcdnGw6g3hBkcRVeFKzNnM1zBbngblmDOGA8vMDA==",
+    "buildID" : "3c57b057f2c73a5cf64ef533800ea249"
+  }, {
+    "name" : "target/qnx7/x86_64/bin/secpol",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "33560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "aWA5FsQn3QC/QfDAMUkWv0vuzDMrhpJk1R+e4AkwwAQbYDjwfkbfu2mIv1D4ck4ApRGN+I71I4JZdF9RPXfxDQ==",
+    "buildID" : "f19b957a076b44c8319f9222762fc606"
+  }, {
+    "name" : "target/qnx7/aarch64le/bin/secpol",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "34016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nvz1ucPIqectcMlaF2ndnwbF6O0H674JLmqQEHNahDqLXfd7c/bo6tMA8k8g3SseDComXdKxKgiI2DFCCyQi5A==",
+    "buildID" : "1c1773f87b5a1dd657eb0b1253484190"
+  }, {
+    "name" : "target/qnx7/armle-v7/bin/secpol",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25396",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "25nV/CVGUXnp+nufzsRxYt1EAtOpvzdoLJwq0w/M8UnIhmJZWygVzbuIhgIwAolImDYputNHMBiXKP4dm1DwRQ==",
+    "buildID" : "d03ebff2e064bcbbaf4a9afcc8782832"
+  }, {
+    "name" : "target/qnx7/x86/bin/secpolmonitor",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "24064",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "pghah9Ba21HkKQjRw1N3Zoh0bZpCfMKRSauSjx9i7WohTYzXIKo8xekyTRSRUYLOXb5W15hdd7/xoKTs7hpcMg==",
+    "buildID" : "32a42a8fd67700a5d763c8988a57d272"
+  }, {
+    "name" : "target/qnx7/x86_64/bin/secpolmonitor",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "29728",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "TWD/SJ5664VaN9izs6EfIZzmiiOD+LKnbkQ/TX95NA8Lfp0+TXalu7+WW8f+imLw2tELWH8wVy1lNfo/GieWtQ==",
+    "buildID" : "8b5af7bea0d5f8b6eafb974cd5d993d3"
+  }, {
+    "name" : "target/qnx7/aarch64le/bin/secpolmonitor",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "30280",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qRZzY5kVEQRlHkZalH3gA9/rAdYbyEr6tuJB6SvFXPRAcsRQ8tLOGKVyygH2FIXlveJe9OC0QnMeYRalz1btHA==",
+    "buildID" : "bc22ca4c5470d1439c482caa141bc9a3"
+  }, {
+    "name" : "target/qnx7/armle-v7/bin/secpolmonitor",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25040",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PR1vVo+lvY4/N85HexTa8p3JM1xCRDWx8/zS3FghEw5RHT6Egph4E4xOANxMYhjUbpBMLaHL+P2McF1KczmTSg==",
+    "buildID" : "a5078a7d3b7c0ef56c592dda4b3e4c94"
+  }, {
+    "name" : "target/qnx7/x86/lib/libsecpol.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "24346",
+    "digestSHA512" : "yrO6Etp3vsw1UX/E5Rk3r3ZnsyLGJKSv59Nd8h2kfP72K6ZYPGx1g48izRWBa/kRWMBiL0W7UCTKbi9SN6NEhw=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libsecpol.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "31996",
+    "digestSHA512" : "ecOZ1cqFy/fgvIbKgoSzfCNFB3q7Uu4Sf4VPhtpu834UKQKJYpgq7/Co0LU+rNNhExYlc9o/PEvFpQkT/66gyQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libsecpol.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "32444",
+    "digestSHA512" : "70Ehw9BcHlpZzrItr9pwu3d/+oZvXyaaNFzNh8m8rvhp3Cd6Ctv65/G/cgUBq1ItzAhdib+CxVtrhhuNqG9oVw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libsecpol.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "23124",
+    "digestSHA512" : "2L7rmbER2amVXeE7gSCwTmMNpCb0ToY/gPA9IVmq459VvzEqFw1fSSEezVhqgofyBzR5VALMvsVWTeR6Mx02Nw=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libsecpol.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12044",
+    "linkto" : "libsecpol.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0+fkHJHkwJ44gQIjJH0CM2XZNHzvAX4pGiyJc44ZZA8zjZq4Kxfd35PqAuSfYr36+TI/9hjok10iOFks/41MZg==",
+    "buildID" : "c7eab3e193cd7c7433d904be12aa450f"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libsecpol.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13152",
+    "linkto" : "libsecpol.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9Lpfo49Y5+zy1HZ5sfqQBUFYT7nGBySAWUJMrYcHbiBooszoSnZEEo5jKSAjCpadShZwXVK3QIcjSNXBGE8Evw==",
+    "buildID" : "76b89a616f41bf6521bd5ad0ece4e40f"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libsecpol.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "13456",
+    "linkto" : "libsecpol.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NiC/y1vbAc+348P3Pdle2sT8poumMw01h4pXBZHDa+MTyrxToVezP+2e4rz0grd5y5DborBsRWLXV0o/Vmt11g==",
+    "buildID" : "34135643791e114d62ca59bb98d955a0"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libsecpol.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "12668",
+    "linkto" : "libsecpol.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1F2T+WPx0EcBQt820wQKYbzBa8An1lkxCHikeRKBwD8T+cALa5fJHjyATDSsBY5795nVmKPu1VCvW4oaCTf3gg==",
+    "buildID" : "0db79015873e05d43d46ffc7f3c7f76e"
+  }, {
+    "name" : "target/qnx7/x86/lib/libsecpol.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12044",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0+fkHJHkwJ44gQIjJH0CM2XZNHzvAX4pGiyJc44ZZA8zjZq4Kxfd35PqAuSfYr36+TI/9hjok10iOFks/41MZg==",
+    "buildID" : "c7eab3e193cd7c7433d904be12aa450f"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libsecpol.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13152",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9Lpfo49Y5+zy1HZ5sfqQBUFYT7nGBySAWUJMrYcHbiBooszoSnZEEo5jKSAjCpadShZwXVK3QIcjSNXBGE8Evw==",
+    "buildID" : "76b89a616f41bf6521bd5ad0ece4e40f"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libsecpol.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "13456",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NiC/y1vbAc+348P3Pdle2sT8poumMw01h4pXBZHDa+MTyrxToVezP+2e4rz0grd5y5DborBsRWLXV0o/Vmt11g==",
+    "buildID" : "34135643791e114d62ca59bb98d955a0"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libsecpol.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "12668",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1F2T+WPx0EcBQt820wQKYbzBa8An1lkxCHikeRKBwD8T+cALa5fJHjyATDSsBY5795nVmKPu1VCvW4oaCTf3gg==",
+    "buildID" : "0db79015873e05d43d46ffc7f3c7f76e"
+  }, {
+    "name" : "target/qnx7/x86/lib/libsecpolS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "24310",
+    "digestSHA512" : "Ly38kVqac9aw8BBcsW7HXjgwESFQHS+C+NagFgBABWmBVTtVeNRLoAAle5RFuZeWEnchwbWQe8os1+jrg+oW4g=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libsecpolS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "32060",
+    "digestSHA512" : "SvJeHCYbykvy/7F1rJmDJblb0MIOGGJoU+g5oGbsh0hdlC+2B2VSgNCvvk7GBdcZCOB887kmAZCJTdVE1pc4gg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libsecpolS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "32508",
+    "digestSHA512" : "csw2w1oKYoMOrP1Luxl7zoLIZyMG2HUg6b5kDNOqWmiLAir10BaoKZBWahulpNKg73T+ecUpXyrA6AQgmhPJog=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libsecpolS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "23172",
+    "digestSHA512" : "hGUJU94vec2S+WJ9D1ytSn4h4kU310657WwtvMoNRnBgk/v+YRI2YIYDuGIHJ/4dQTRX/sRPuKra0kze7jREXg=="
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/secpolcompile",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "59900",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lIBa8CsBG9SDOlLKx4h/hYBNdkV8lj1C4BUPdjIoQitp7b/hAmIY0woWW0FKmd+xe8YmJ4L8pdE/pJs+fNT0zg==",
+    "buildID" : "57954f29c1a1f2769f98b861466a7d13"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/secpolcompile",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "61688",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "X9cOxFA4lSz3cL0VJlsCBsN3EZfM0MLhAvfcyEgGSaVf3Goi8WhpFK6+N3y7Sk5F5B3Hr1s3ytdUXmmar+dmjw==",
+    "buildID" : "88bec2ba236955231ed7557c71556f32"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/secpolcompile",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "58344",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "UTJmfiHvV3iNmFNFSsNgfo1l5Sn6kuSZtbgtnBhqlDtYhq+75LLURv+M8lPgH5bdJIuaAIQdwRPI9YPkuJWwvA==",
+    "buildID" : "43575db9072320b5a772cf69bb242437"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/secpolcompile",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "45904",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dIDzlGkPDAOsltNixUW+/ALKRF4Cb8xruT6xe+fjcctroG1dOYV4qfDLmdpHg0PabQxp5M8JV/Ckmp7sZWdBiQ==",
+    "buildID" : "55f544cc9c1a1324d076448b491cfde9"
+  } ]
+}

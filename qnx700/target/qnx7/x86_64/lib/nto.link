@@ -1,0 +1,62 @@
+/*
+ * nto.link
+ *	Loader command script for Neutrino
+ *
+ */
+ENTRY(_start)
+PHDRS {
+	text	PT_LOAD;
+	data	PT_LOAD;
+	note	PT_NOTE;
+}
+
+SECTIONS {
+	.text 0x400000 : {
+		btext = .;
+		_btext = .;
+		*(.text.unlikely .text.*_unlikely)
+		*(.text.exit .text.exit.*)
+		*(.text.startup .text.startup.*)
+		*(.text.hot .text.hot.*)
+		*(.text .text.*)
+		*(.text_kernel)
+		*(___procnto)
+		*(___c)
+		ettext = .;
+		_etext = .;
+		_fdata = .;
+		*(.rodata_mod_start)
+		module_list_start = .;
+		*(.rodata_mod)
+		module_list_end = .;
+		*(.rodata_mod_end)
+		*(.rodata*)
+		 PROVIDE_HIDDEN (__rela_iplt_start = .);
+		 *(.rela.iplt)
+		 PROVIDE_HIDDEN (__rela_iplt_end = .);
+	}:text
+	.eh_frame_hdr : { *(.eh_frame_hdr) }
+	.eh_frame : { *(.eh_frame) }
+	.data ALIGN(0x1000) : {
+		*(.data)
+		*(.eh_frame*)
+	}:data
+	.ctors . : {
+		PROVIDE_HIDDEN(__ctors_start = .);
+		*(.ctors)
+		PROVIDE_HIDDEN(__ctors_end = .);
+	}
+	.bss . : {
+		*(.bss)
+		*(COMMON)
+		_end = .;
+		__end = .;
+		end = .;
+	}
+	.debug 0x0 : { *(.debug) }:NONE
+	.debug_srcinfo 0x0 : { *(.debug_srcinfo) }:NONE
+	.debug_aranges 0x0 : { *(.debug_aranges) }:NONE
+	.debug_pubnames 0x0 : { *(.debug_pubnames) }:NONE
+	.debug_sfnames 0x0 : { *(.debug_sfnames) }:NONE
+	.line 0x0 : { *(.line) }:NONE
+}

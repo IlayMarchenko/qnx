@@ -1,0 +1,222 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <shiplist>
+<id>com.qnx.sdp.target.utils.base</id>
+<name>Utilities - Base</name>
+<category>OS Utilities</category>
+
+  <file name="target/qnx7/[ARCH]/bin/ability" />
+  <file name="target/qnx7/[ARCH]/bin/aps" />
+  <file name="target/qnx7/[ARCH]/bin/canctl" />
+  <file name="target/qnx7/[ARCH]/bin/cat" />
+  <file name="target/qnx7/[ARCH]/bin/chemod" />
+  <file name="target/qnx7/[ARCH]/bin/chgrp" />
+  <file name="target/qnx7/[ARCH]/bin/chmod" />
+  <file name="target/qnx7/[ARCH]/bin/chown" />
+  <file name="target/qnx7/[ARCH]/bin/confstr" />
+  <file name="target/qnx7/[ARCH]/bin/cp" />
+  <file name="target/qnx7/[ARCH]/bin/cpio" />
+  <file name="target/qnx7/[ARCH]/bin/csplit" />
+  <file name="target/qnx7/[ARCH]/bin/dd" />
+  <file name="target/qnx7/[ARCH]/bin/df" />
+  <file name="target/qnx7/[ARCH]/bin/display-adjustment" />
+  <file name="target/qnx7/[ARCH]/bin/du" />
+  <file name="target/qnx7/[ARCH]/bin/dumpifs" />
+  <file name="target/qnx7/[ARCH:armle-v7]/bin/dvfs_client" />
+  <file name="target/qnx7/[ARCH]/bin/echo" />
+  <file name="target/qnx7/[ARCH]/bin/ed" />
+  <file name="target/qnx7/[ARCH]/bin/elvis" />
+  <file name="target/qnx7/[ARCH]/bin/esh" />
+  <file name="target/qnx7/[ARCH]/bin/ex" />
+  <file name="target/qnx7/[ARCH]/bin/false" />
+  <file name="target/qnx7/[ARCH]/bin/fesh" />
+  <file name="target/qnx7/[ARCH]/bin/getfacl" />
+  <file name="target/qnx7/[ARCH]/sbin/hidview" />
+  <file name="target/qnx7/[ARCH]/bin/hostname" />
+  <file name="target/qnx7/[ARCH]/bin/isend" />
+  <file name="target/qnx7/[ARCH]/bin/isendrecv" />
+  <file name="target/qnx7/[ARCH]/bin/kill" />
+  <file name="target/qnx7/[ARCH]/bin/ksh" />
+  <file name="target/qnx7/[ARCH]/bin/ln" />
+  <file name="target/qnx7/[ARCH]/bin/login" />
+  <file name="target/qnx7/[ARCH]/bin/logout" />
+  <file name="target/qnx7/[ARCH]/bin/ls" />
+  <file name="target/qnx7/[ARCH]/bin/mkdir" />
+  <file name="target/qnx7/[ARCH]/bin/mktemp" />
+  <file name="target/qnx7/[ARCH]/bin/mount" />
+  <file name="target/qnx7/[ARCH]/bin/mv" />
+  <file name="target/qnx7/[ARCH]/bin/on" />
+  <file name="target/qnx7/[ARCH]/bin/pathtrust" />
+  <file name="target/qnx7/[ARCH]/bin/pax" />
+  <file name="target/qnx7/[ARCH]/bin/pidin" />
+  <file name="target/qnx7/[ARCH]/bin/ps" />
+  <file name="target/qnx7/[ARCH]/bin/pwd" />
+  <file name="target/qnx7/[ARCH]/bin/resource_seed" />
+  <file name="target/qnx7/[ARCH]/bin/restart" />
+  <file name="target/qnx7/[ARCH]/bin/rm" />
+  <file name="target/qnx7/[ARCH]/sbin/rtc" />
+  <file name="target/qnx7/[ARCH]/bin/script" />
+  <file name="target/qnx7/[ARCH]/bin/sed" />
+  <file name="target/qnx7/[ARCH:x86,x86_64]/sbin/seedres" />
+  <file name="target/qnx7/[ARCH]/sbin/shutdown" />
+  <file name="target/qnx7/[ARCH]/bin/sendnto" />
+  <file name="target/qnx7/[ARCH]/bin/setfacl" />
+  <file name="target/qnx7/[ARCH]/bin/sh" />
+  <file name="target/qnx7/[ARCH]/bin/slay" />
+  <file name="target/qnx7/[ARCH]/bin/split" />
+  <file name="target/qnx7/[ARCH]/bin/stty" />
+  <file name="target/qnx7/[ARCH]/bin/su" />
+  <file name="target/qnx7/[ARCH]/bin/sync" />
+  <file name="target/qnx7/[ARCH]/bin/tar" />
+  <file name="target/qnx7/[ARCH]/bin/true" />
+  <file name="target/qnx7/[ARCH]/bin/uesh" />
+  <file name="target/qnx7/[ARCH]/bin/umount" />
+  <file name="target/qnx7/[ARCH]/bin/uname" />
+  <file name="target/qnx7/[ARCH]/usr/bin/uncompress" />
+  <file name="target/qnx7/[ARCH]/bin/vi" />
+  <file name="target/qnx7/[ARCH]/bin/view" />
+  <file name="target/qnx7/[ARCH]/bin/waitfor" />
+  <!-- utils/g/gawk -->
+<file name="target/qnx7/[ARCH]/usr/bin/awk" />
+
+  <!-- utils/b/basename -->
+<file name="target/qnx7/[ARCH]/usr/bin/basename" />
+
+  <!-- utils/b/bc -->
+<file name="target/qnx7/[ARCH]/usr/bin/bc" />
+
+  <!-- utils/b/bzip2 -->
+<file name="target/qnx7/[ARCH]/usr/bin/bunzip2" />
+<file name="target/qnx7/[ARCH]/usr/bin/bzcat" />
+<file name="target/qnx7/[ARCH]/usr/bin/bzip2" />
+<file name="target/qnx7/[ARCH]/usr/bin/bzip2recover" />
+
+  <!-- utils/c -->
+<file name="target/qnx7/[ARCH]/usr/bin/cfgopen" />
+<file name="target/qnx7/[ARCH]/usr/bin/chat" />
+<file name="target/qnx7/[ARCH]/usr/bin/cksum" />
+<file name="target/qnx7/[ARCH]/usr/bin/clear" />
+
+  <!-- utils/d/diff -->
+<file name="target/qnx7/[ARCH]/usr/bin/cmp" />
+
+  <!-- utils/c -->
+<file name="target/qnx7/[ARCH]/usr/bin/comm" />
+<file name="target/qnx7/[ARCH]/usr/bin/coreinfo" />
+<file name="target/qnx7/[ARCH]/usr/bin/crontab" />
+<file name="target/qnx7/[ARCH]/usr/bin/cut" />
+
+  <!-- utils/d -->
+<file name="target/qnx7/[ARCH]/usr/bin/date" />
+
+  <!-- -->
+<file name="target/qnx7/[ARCH]/usr/bin/devi-hid" />
+<file name="target/qnx7/[ARCH]/usr/bin/diff" />
+<file name="target/qnx7/[ARCH]/usr/bin/dirname" />
+<file name="target/qnx7/[ARCH]/usr/bin/dumpefs" />
+<file name="target/qnx7/[ARCH]/usr/bin/egrep" />
+<file name="target/qnx7/[ARCH]/usr/bin/env" />
+<file name="target/qnx7/[ARCH]/usr/bin/errno" />
+<file name="target/qnx7/[ARCH]/usr/bin/expand" />
+<file name="target/qnx7/[ARCH]/usr/bin/expr" />
+<file name="target/qnx7/[ARCH]/usr/bin/fcat" />
+<file name="target/qnx7/[ARCH]/usr/bin/fgrep" />
+<file name="target/qnx7/[ARCH]/usr/bin/file" />
+<file name="target/qnx7/[ARCH]/usr/bin/find" />
+<file name="target/qnx7/[ARCH]/usr/bin/fmt" />
+<file name="target/qnx7/[ARCH]/usr/bin/fold" />
+<file name="target/qnx7/[ARCH]/usr/bin/freeze" />
+<file name="target/qnx7/[ARCH]/usr/bin/fullpath" />
+<file name="target/qnx7/[ARCH]/usr/bin/funzip" />
+<file name="target/qnx7/[ARCH]/usr/bin/gawk" />
+<file name="target/qnx7/[ARCH]/usr/bin/getconf" />
+<file name="target/qnx7/[ARCH]/usr/bin/grep" />
+<file name="target/qnx7/[ARCH]/usr/bin/gunzip" />
+<file name="target/qnx7/[ARCH]/usr/bin/gzip" />
+<file name="target/qnx7/[ARCH]/usr/bin/hd" />
+<file name="target/qnx7/[ARCH]/usr/bin/head" />
+<file name="target/qnx7/[ARCH]/usr/bin/hogs" />
+<file name="target/qnx7/[ARCH]/usr/bin/id" />
+<file name="target/qnx7/[ARCH]/usr/bin/igawk" />
+<file name="target/qnx7/[ARCH]/usr/bin/indent" />
+<file name="target/qnx7/[ARCH]/usr/bin/infocmp" />
+<file name="target/qnx7/[ARCH]/usr/bin/join" />
+<file name="target/qnx7/[ARCH]/usr/bin/ldd" />
+<file name="target/qnx7/[ARCH]/usr/bin/less" />
+<file name="target/qnx7/[ARCH]/usr/bin/lessecho" />
+<file name="target/qnx7/[ARCH]/usr/bin/lesskey" />
+<file name="target/qnx7/[ARCH]/usr/bin/link" />
+<file name="target/qnx7/[ARCH]/usr/bin/lzcat" />
+<file name="target/qnx7/[ARCH]/usr/bin/lzma" />
+<file name="target/qnx7/[ARCH]/usr/bin/lzmadec" />
+<file name="target/qnx7/[ARCH]/usr/bin/lzmainfo" />
+<file name="target/qnx7/[ARCH]/usr/bin/melt" />
+<file name="target/qnx7/[ARCH]/usr/bin/mesg" />
+<file name="target/qnx7/[ARCH]/usr/bin/mkcldr" />
+<file name="target/qnx7/[ARCH]/usr/bin/mkfifo" />
+<file name="target/qnx7/[ARCH]/usr/bin/mkrec" />
+<file name="target/qnx7/[ARCH]/usr/bin/more" />
+<file name="target/qnx7/[ARCH]/usr/bin/mount_ifs" />
+<file name="target/qnx7/[ARCH]/usr/bin/newgrp" />
+<file name="target/qnx7/[ARCH]/usr/bin/nice" />
+<file name="target/qnx7/[ARCH]/usr/bin/nohup" />
+<file name="target/qnx7/[ARCH]/usr/bin/od" />
+<file name="target/qnx7/[ARCH]/usr/bin/op" />
+<file name="target/qnx7/[ARCH]/usr/bin/passwd" />
+<file name="target/qnx7/[ARCH]/usr/bin/paste" />
+<file name="target/qnx7/[ARCH]/usr/bin/patch" />
+<file name="target/qnx7/[ARCH]/usr/bin/pdebug" />
+<file name="target/qnx7/[ARCH]/usr/bin/pr" />
+<file name="target/qnx7/[ARCH]/usr/bin/printf" />
+<file name="target/qnx7/[ARCH]/usr/bin/qcp" />
+<file name="target/qnx7/[ARCH]/usr/bin/qtalk" />
+<file name="target/qnx7/[ARCH]/usr/bin/renice" />
+<file name="target/qnx7/[ARCH]/usr/bin/rmdir" />
+<file name="target/qnx7/[ARCH]/usr/bin/setconf" />
+<file name="target/qnx7/[ARCH]/usr/bin/sleep" />
+<file name="target/qnx7/[ARCH]/usr/bin/sort" />
+<file name="target/qnx7/[ARCH]/usr/bin/spatch" />
+<file name="target/qnx7/[ARCH]/usr/bin/strings" />
+<file name="target/qnx7/[ARCH]/usr/bin/tail" />
+<file name="target/qnx7/[ARCH]/usr/bin/tee" />
+<file name="target/qnx7/[ARCH]/usr/bin/termdef" />
+<file name="target/qnx7/[ARCH]/usr/bin/textto" />
+<file name="target/qnx7/[ARCH]/usr/bin/tic" />
+<file name="target/qnx7/[ARCH]/usr/bin/time" />
+<file name="target/qnx7/[ARCH]/usr/bin/top" />
+<file name="target/qnx7/[ARCH]/usr/bin/touch" />
+<file name="target/qnx7/[ARCH]/usr/bin/tr" />
+<file name="target/qnx7/[ARCH]/usr/bin/tsort" />
+<file name="target/qnx7/[ARCH]/usr/bin/tty" />
+<file name="target/qnx7/[ARCH]/usr/bin/umask" />
+<file name="target/qnx7/[ARCH]/usr/bin/unexpand" />
+<file name="target/qnx7/[ARCH]/usr/bin/unifdef" />
+<file name="target/qnx7/[ARCH]/usr/bin/uniq" />
+<file name="target/qnx7/[ARCH]/usr/bin/unlink" />
+<file name="target/qnx7/[ARCH]/usr/bin/unlzma" />
+<file name="target/qnx7/[ARCH]/usr/bin/unxz" />
+<file name="target/qnx7/[ARCH]/usr/bin/unzip" />
+<file name="target/qnx7/[ARCH]/usr/bin/unzipsfx" />
+<file name="target/qnx7/[ARCH]/usr/bin/uptime" />
+<file name="target/qnx7/[ARCH]/usr/bin/use" />
+<file name="target/qnx7/[ARCH]/usr/bin/usemsg" />
+<file name="target/qnx7/[ARCH]/usr/bin/uud" />
+<file name="target/qnx7/[ARCH]/usr/bin/uudecode" />
+<file name="target/qnx7/[ARCH]/usr/bin/uue" />
+<file name="target/qnx7/[ARCH]/usr/bin/uuencode" />
+<file name="target/qnx7/[ARCH]/usr/bin/wc" />
+<file name="target/qnx7/[ARCH]/usr/bin/which" />
+<file name="target/qnx7/[ARCH]/usr/bin/xargs" />
+<file name="target/qnx7/[ARCH]/usr/bin/xz" />
+<file name="target/qnx7/[ARCH]/usr/bin/xzcat" />
+<file name="target/qnx7/[ARCH]/usr/bin/xzdec" />
+<file name="target/qnx7/[ARCH]/usr/bin/zcat" />
+<file name="target/qnx7/[ARCH]/usr/bin/zip" />
+<file name="target/qnx7/[ARCH]/usr/bin/zipcloak" />
+<file name="target/qnx7/[ARCH]/usr/bin/zipinfo" />
+<file name="target/qnx7/[ARCH]/usr/bin/zipnote" />
+<file name="target/qnx7/[ARCH]/usr/bin/zipsplit" />
+<!-- utils/g/getty -->
+<file name="target/qnx7/[ARCH]/sbin/getty" />
+
+
+</shiplist>

@@ -1,0 +1,18 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.connectivity.char",
+  "name" : "QNX® SDP 7.0 Connectivity - Characters",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "Connectivity",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "requires" : [ "package: com.qnx.sdp.target.connectivity.devc []", "package: com.qnx.sdp.target.connectivity.io_char" ],
+  "baselines" : [ "qnx700" ]
+}

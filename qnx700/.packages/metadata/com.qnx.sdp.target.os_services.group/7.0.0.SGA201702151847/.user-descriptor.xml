@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.os_services.group</id>
+	<name>OS services</name>
+	<category>OS Services</category>
+	<includes component="true">
+		<file name="./dbus/component-sdp-dbus.xml" />
+		<file name="./os_services_core.xml" />
+		<file name="./ham.xml" />
+	</includes>
+</shiplist>

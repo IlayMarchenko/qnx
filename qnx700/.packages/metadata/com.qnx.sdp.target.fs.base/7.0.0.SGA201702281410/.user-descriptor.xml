@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.fs.base</id>
+<name>Filesystems - Base</name>
+<category>Filesystems</category>
+
+<!-- Base -->
+<file name="target/qnx7/usr/include/sys/dcmd_blk.h" />
+<file name="target/qnx7/usr/include/sys/fs_stats.h" />
+<file name="target/qnx7/usr/include/sys/io.h" />
+<file name="target/qnx7/[ARCH]/lib/dll/io-blk.so" />
+<file name="target/qnx7/[ARCH]/lib/libfsshared.so" />
+<file name="target/qnx7/[ARCH]/lib/libfsshared.so.1" />
+
+<!-- Utilities -->
+<file name="target/qnx7/[ARCH]/usr/bin/chattr" />
+<file name="target/qnx7/[ARCH]/usr/bin/diskimage" />
+<file name="target/qnx7/[ARCH]/usr/bin/fsysinfo" />
+<file name="target/qnx7/[ARCH]/usr/sbin/dcheck" />
+<file name="target/qnx7/[ARCH]/sbin/dloader" />
+<file name="target/qnx7/[ARCH]/sbin/fdisk" />
+<file name="target/qnx7/[ARCH]/sbin/fsevmgr" />
+<file name="target/qnx7/[ARCH]/usr/bin/pted" />
+<file name="target/qnx7/[ARCH]/sbin/wipe" />
+
+<!-- fs-qnx6 (Power-Safe filesystem) and Utilities -->
+<file name="target/qnx7/usr/include/sys/fs_qnx6.h" />
+<file name="target/qnx7/[ARCH]/lib/dll/fs-qnx6.so" />
+<file name="target/qnx7/[ARCH]/sbin/chkqnx6fs" />
+<file name="target/qnx7/[ARCH]/sbin/mkqnx6fs" />
+
+<!-- fsf-merkle Merkle Filesystem -->
+<file name="target/qnx7/[ARCH]/usr/lib/libfsmerkle.so" />
+<file name="target/qnx7/[ARCH]/usr/lib/libfsmerkle.so.1" />
+<file name="target/qnx7/[ARCH]/lib/dll/fsf-merkle.so" />
+<file name="target/qnx7/[ARCH]/bin/mkmerklefs" />
+
+<!-- fs-dos (FAT12, FAT16, and FAT32 filesystem) and Utilities -->
+<file name="target/qnx7/usr/include/sys/fs_dos.h" />
+<file name="target/qnx7/[ARCH]/lib/dll/fs-dos.so" />
+<file name="target/qnx7/[ARCH]/sbin/chkdosfs" />
+<file name="target/qnx7/[ARCH]/sbin/mkdosfs" />
+
+<!-- Universal Disk Format and ISO 9660 filesystem support -->
+<file name="target/qnx7/[ARCH]/lib/dll/fs-udf.so" />
+
+<!-- Embedded Transaction filesystem (ETFS) -->
+<file name="target/qnx7/[ARCH]/lib/libetfs.a" />
+<file name="target/qnx7/[ARCH]/sbin/fs-etfs-ram" />
+<file name="target/qnx7/[ARCH]/usr/bin/etfsctl" />
+<file name="target/qnx7/usr/include/fs/etfs.h" />
+
+<!-- Windows NT filesystem -->
+<file name="target/qnx7/[ARCH]/lib/dll/fs-nt.so" />
+
+<!-- Apple Macintosh HFS and HFS Plus filesystem -->
+<file name="target/qnx7/[ARCH]/lib/dll/fs-mac.so" />
+
+<!-- Internationalization -->
+<!-- io-blk.so loads charset.so if it needs to mount a FAT volume, CD, or DVD that's formatted in one of the following locales: -->
+<!-- Japanese, traditional Chinese, and standard Chinese (code pages 932, 936, and 950) -->
+<file name="target/qnx7/[ARCH]/lib/dll/charset.so" />
+
+</shiplist>

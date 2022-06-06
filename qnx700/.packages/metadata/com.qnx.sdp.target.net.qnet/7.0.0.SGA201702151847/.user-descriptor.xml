@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.qnet</id>
+<name>Networking - Qnet support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/lib/dll/lsm-qnet.so" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/gns" />
+  <file name="target/qnx7/usr/include/sys/netmgr_nr.h" />
+
+</shiplist>

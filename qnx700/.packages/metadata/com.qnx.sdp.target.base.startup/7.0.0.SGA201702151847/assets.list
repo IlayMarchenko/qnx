@@ -1,0 +1,11 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.base.startup/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86_64/boot/sys/startup-apic
+target/qnx7/x86_64/boot/sys/startup-uefi
+target/qnx7/x86_64/boot/sys/startup-x86
+target/qnx7/x86/boot/sys/startup-apic
+target/qnx7/x86/boot/sys/startup-apic-32
+target/qnx7/x86/boot/sys/startup-uefi
+target/qnx7/x86/boot/sys/startup-uefi-32
+target/qnx7/x86/boot/sys/startup-x86
+target/qnx7/x86/boot/sys/startup-x86-32

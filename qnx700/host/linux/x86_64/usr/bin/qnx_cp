@@ -1,0 +1,175 @@
+#! /usr/bin/env ksh
+#
+#ifdef __USAGE
+#QNX cp wrapper script
+#
+#  This script accepts all the POSIX options, as well as
+#  some extentions, and passes them to the native cp utility.
+#
+#  Usage: qnx_cp -rRdPvfpicn sources destination
+#
+#  Extensions:
+#    -r             Same as -R
+#    -d             Same as -P
+#    -v             Enable verbose output
+#    -c             Create any missing destination paths
+#endif
+
+#
+# Set up some defaults
+#
+
+create_dest_path="no"
+command_line_args=""
+dest=""
+
+#
+# Given a list of files, dest is the last arg iff there are 2+ files
+#
+
+find_dest()
+{
+	if [ $# -lt 2 ]; then
+		return
+	fi
+	while [ $# -gt 1 ]; do
+		shift
+	done
+	dest=$1
+}
+
+#
+# Display a simple help message to the user
+#
+
+show_help()
+{
+	echo "QNX cp wrapper script"
+	echo
+	echo "  This script accepts all the POSIX options, as well as"
+	echo "  some extentions, and passes them to the native cp utility."
+	echo
+	echo "  Usage: qnx_cp -RHLPfiprdvcn sources destination"
+	echo
+	echo "  Extensions:"
+	echo "    -r             Same as -R"
+	echo "    -d             Same as -P"
+	echo "    -v             Enable verbose output"
+	echo "    -c             Create any missing destination paths"
+}
+
+#
+# Parse command line args
+#
+
+# We are going to be messing with the positional parameters as a way to keep
+# special characters in the filenames from tripping us up, so grab a copy of
+# the initial size for the loop.
+i=$#
+while [ $i -gt 0 ] ; do
+	option=$1
+	shift
+	i=$((i-1))
+
+	case $option in
+	--)
+		# treat rest as files and move to the back..
+		while [ $i -gt 0 ] ; do
+			set -- "$@" "$1"
+			shift
+			i=$((i-1))
+		done
+		;;
+	-*)
+		# This is convoluted and ugly, but it avoids spawning any additional
+		# processes which helps with performance on Windows.
+		HANDLED="-"
+		while [ -n "${option#${HANDLED}}" ]; do
+			case ${option#${HANDLED}} in
+			c*)
+				create_dest_path="yes"
+				HANDLED="${HANDLED}c"
+				;;
+			n*)
+				# For backward compatibility, support -n
+				HANDLED="${HANDLED}n"
+				;;
+			d*)
+				HANDLED="${HANDLED}d"
+				command_line_args="$command_line_args -P"
+				;;
+			P*)
+				HANDLED="${HANDLED}P"
+				command_line_args="$command_line_args -P"
+				;;
+			r*)
+				HANDLED="${HANDLED}r"
+				command_line_args="$command_line_args -R"
+				;;
+			R*)
+				HANDLED="${HANDLED}R"
+				command_line_args="$command_line_args -R"
+				;;
+			H*)
+				HANDLED="${HANDLED}H"
+				command_line_args="$command_line_args -H"
+				;;
+			L*)
+				HANDLED="${HANDLED}L"
+				command_line_args="$command_line_args -L"
+				;;
+			f*)
+				HANDLED="${HANDLED}f"
+				command_line_args="$command_line_args -f"
+				;;
+			i*)
+				HANDLED="${HANDLED}i"
+				command_line_args="$command_line_args -i"
+				;;
+			p*)
+				HANDLED="${HANDLED}p"
+				command_line_args="$command_line_args -p"
+				;;
+			v*)
+				HANDLED="${HANDLED}v"
+				command_line_args="$command_line_args -v"
+				;;
+			\?*|*)
+				show_help
+				exit 1
+				;;
+			esac
+		done
+		;;
+	*)
+		# file argument, move to the back..
+		set -- "$@" "$option"
+		;;
+	esac
+done
+
+#
+# Handle any of the qnx options, currently just '-c'
+#
+
+find_dest "$@"
+if test -n "$dest" && test "$create_dest_path" = "yes"; then
+	if test $# -gt 2 || test -z "${dest##*/}"; then
+		newdir="$dest"
+	else
+		newdir="${dest%/*}"
+		if test "$dest" = "$newdir"; then
+			newdir="."
+		fi
+	fi
+
+	if test ! -d "$newdir"; then
+		mkdir -p -- "$newdir"
+	fi
+fi
+
+#
+# Hand everything off and let cp do it's thing..
+#
+
+cp $command_line_args -- "$@"

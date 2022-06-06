@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+
+    <id>com.qnx.sdp.target.security.secpol</id>
+    <name>Security - Mandatory access control (MAC) security policy support</name>
+    <category>OS Security</category>
+
+    <!-- Headers -->
+    <file name="target/qnx7/usr/include/secpol/secpol.h" />
+
+    <!-- Binaries -->
+    <file name="target/qnx7/[ARCH]/bin/secpol" />
+    <file name="target/qnx7/[ARCH]/bin/secpolmonitor" />
+    <file name="target/qnx7/[ARCH]/lib/libsecpol.a" />
+    <file name="target/qnx7/[ARCH]/lib/libsecpol.so" />
+    <file name="target/qnx7/[ARCH]/lib/libsecpol.so.1" />
+    <file name="target/qnx7/[ARCH]/lib/libsecpolS.a" />
+    <file name="target/qnx7/[ARCH]/usr/bin/secpolcompile" />
+
+</shiplist>

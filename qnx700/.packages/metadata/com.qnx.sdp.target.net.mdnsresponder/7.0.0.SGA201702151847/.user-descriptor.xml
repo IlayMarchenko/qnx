@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.mdnsresponder</id>
+<name>Networking - mDNSresponder</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/lib/dll/nss_mdnsd.so" />
+  <file name="target/qnx7/[ARCH]/usr/bin/dns-sd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/mdnsd" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libdns_sd.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libdns_sd.so.1" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libdns_sd.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libdns_sdS.a" />
+  <file name="target/qnx7/usr/include/dns_sd.h" />
+
+</shiplist>

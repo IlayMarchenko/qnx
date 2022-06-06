@@ -1,0 +1,299 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.microkernel.slogger2/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "735",
+    "digestSHA512" : "b03xey0MbIIkqI3efUXQc5XjfS1KZVMUuaG3mAFpRSMGcmZQsd7gGD61DJTtCPTziX/+uBOs4OCNUkHZ0MjA3A=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.microkernel.slogger2/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1409",
+    "digestSHA512" : "KC+pl6ERL9zwPXhaZu+G+dBbqWcLwz73Rwx7RiL7x+pWtg9MMRnRwa7BaGfrUJOM2yFb68HcNfVn0cNWXoLKKA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.microkernel.slogger2/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "729",
+    "digestSHA512" : "/PHdi7Uz57iRjHY90R/esgXl6dkdjsaya/Rcs987U0zfxSCIgku+VgROAex5H9NPSiGqngP365rwclu892MFlQ=="
+  }, {
+    "name" : "target/qnx7/x86/bin/slogger2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "92576",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "TD3huBGnrE9NXSUGGocG5AXWbaBKVEAQCflGfK7ZTmNbEerOA+0nbno5qum0rlcE5z56PSbOUDlVmobiWAlbtA==",
+    "buildID" : "9555a6a9e3c18872cf52d4d87a169bd5"
+  }, {
+    "name" : "target/qnx7/x86_64/bin/slogger2",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "91800",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "v2QMBmbS8rpmvC8B0EPcn1i03eIUfTQCJ5TMtUbNRdNrMGTrWQ32xB9Dkrdab8Tq9FJ6On1BNP2SKU/3+Ma84g==",
+    "buildID" : "1595dd5e44c4307500fe1710920c493f"
+  }, {
+    "name" : "target/qnx7/aarch64le/bin/slogger2",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "88952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HE4x1ibyaRRdI1HM8PqJFfn0pSQY86QvYcJwyTdfH8kXnuNV+M7Q60pnMPlsHkYwaYlfJOFr32qYUpSznTNCfg==",
+    "buildID" : "bd6f19077f28aada4d3ac1dae5024dcf"
+  }, {
+    "name" : "target/qnx7/armle-v7/bin/slogger2",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "68212",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "F9Dc+4i+EqidnSHZc8677CZrlL70Ap8os/QIhRjeSs1PCT0mIhmsyRVnx9DpuLRGi3hnpSlZ9YKd5cEz2ouiQg==",
+    "buildID" : "81b3feb7a89da52cfd9e8ddd88843e6f"
+  }, {
+    "name" : "target/qnx7/x86/bin/slog2info",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "34000",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Rf2tMKevARXMnOvKiDDIsBXbWw51RtfAUsOTkYTwPU2gVzN7hrOd7eXLKeHq6Xnj8SXATZDhkdwovPQtoqWuyg==",
+    "buildID" : "7281730d0312c96c218817e8ffb4aa72"
+  }, {
+    "name" : "target/qnx7/x86_64/bin/slog2info",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "35328",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RY1Xxpq7DfacSjZ1zrrCqhauwTUM0ls9SR6TQ0izFrc6KdayP8ZlC3HgcS1n9SLem9MWlm0BS8WDO4h90WAtQw==",
+    "buildID" : "ea13c1714938729432b5b1323be0c970"
+  }, {
+    "name" : "target/qnx7/aarch64le/bin/slog2info",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "35888",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "5KkrlfBCJjvwNbyQ+iSydPO713BgiplJ0Xd4DxgrwHZtncYpuqlRSV+Zj3K7maby0jtrK/wAhLT3hTxQkxKMWQ==",
+    "buildID" : "9d193bf4a577498ee3cd4eb7fe291a8c"
+  }, {
+    "name" : "target/qnx7/armle-v7/bin/slog2info",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "31048",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HJjq7KzPxotvJ9K84kqhCCWcm5dUFXKJAAUMpe7GwQemA3gGF9o87CxgTOpkloorbjOol3d0efvxcjZqR8Uc6Q==",
+    "buildID" : "eaa54bcabd6815022efe5f164530c438"
+  }, {
+    "name" : "target/qnx7/x86/lib/libslog2.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "38952",
+    "linkto" : "libslog2.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hMfsD7yVEfRJkYHfU6f+MpVzsSirAnVy4VflBeXOO4Rly33Rj3B3f180kK3Ck4BwJXcVj6zYGqLiEKueRsqA7g==",
+    "buildID" : "9d54115983594594ba5367755df310b2"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libslog2.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "40408",
+    "linkto" : "libslog2.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ByoD9YSphHy4FxPKDMI8AB8A9L/r09rACeXM+g35kV65HFQhWP7cKfBzYXbfpyw5CejsTJ3ojrNHcNgjC30C8Q==",
+    "buildID" : "1b01076cec15457b3c88c84978d605a0"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libslog2.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "40960",
+    "linkto" : "libslog2.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NN1hqDzkiM5BJ4ZwTBne2O0jFTqKIhxvDiXnt1xSU3Z4WjuvlrAs0T9Oyhsaas6aK22UPu2Il48zpbjr28amYQ==",
+    "buildID" : "07168d872ac5b0a6f9e8f49b14595533"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libslog2.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "28624",
+    "linkto" : "libslog2.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YaueZA3Xn3eTlSMGC+nbJQjaqyCJf1mHnQUnFtlXyPCOR4b6N8Vg6frsOEKupRUVAaET0xX2jhcITqoQ6zBe3A==",
+    "buildID" : "447ad12b3b1a280c6ecf59170ee862cd"
+  }, {
+    "name" : "target/qnx7/x86/lib/libslog2.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "38952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hMfsD7yVEfRJkYHfU6f+MpVzsSirAnVy4VflBeXOO4Rly33Rj3B3f180kK3Ck4BwJXcVj6zYGqLiEKueRsqA7g==",
+    "buildID" : "9d54115983594594ba5367755df310b2"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libslog2.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "40408",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ByoD9YSphHy4FxPKDMI8AB8A9L/r09rACeXM+g35kV65HFQhWP7cKfBzYXbfpyw5CejsTJ3ojrNHcNgjC30C8Q==",
+    "buildID" : "1b01076cec15457b3c88c84978d605a0"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libslog2.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "40960",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NN1hqDzkiM5BJ4ZwTBne2O0jFTqKIhxvDiXnt1xSU3Z4WjuvlrAs0T9Oyhsaas6aK22UPu2Il48zpbjr28amYQ==",
+    "buildID" : "07168d872ac5b0a6f9e8f49b14595533"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libslog2.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "28624",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YaueZA3Xn3eTlSMGC+nbJQjaqyCJf1mHnQUnFtlXyPCOR4b6N8Vg6frsOEKupRUVAaET0xX2jhcITqoQ6zBe3A==",
+    "buildID" : "447ad12b3b1a280c6ecf59170ee862cd"
+  }, {
+    "name" : "target/qnx7/x86/lib/libslog2parse.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "44464",
+    "linkto" : "libslog2parse.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7cR3dto5dKfk8AsYY+cCV70VG2aW6ruYgdiCNp2rc8ER16aWGBPkQ4makPEeWwFVe+E8Q/jTihQbwPuLThAtVQ==",
+    "buildID" : "c8be96fd34b19334933e7c7bab50ddf2"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libslog2parse.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "42016",
+    "linkto" : "libslog2parse.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "wCPaJ4Mpw37SIyaFblHRSkLBGnPCVJ62pqAIGQ4MUg+h0op3hXiu8Lhw7omlowV29q7X3uIDlq8BTTZ2O7F+hg==",
+    "buildID" : "1955a957876af818fa34878db96e78c9"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libslog2parse.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "38648",
+    "linkto" : "libslog2parse.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MOlea3JP2t3Lh6f1EEs6I+mDtu/gs7Ni3qfvWMS+zj+HRMPHJk2fMWSq/zOBdtvoMzkZn8eOyOO3r4X2ZTOJCw==",
+    "buildID" : "1f031788cea8f3d9c6e83abdbf586535"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libslog2parse.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "30696",
+    "linkto" : "libslog2parse.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7VW1aPDM9Dh5+xEhTz/nVLrIUru7IosSYbr6S7FpfCTB3uqT3ON1twGTOhkcZoWjj4jMJM7WFhjBUreiNkxNaA==",
+    "buildID" : "44483736b8d904112f7db996ddcd74f0"
+  }, {
+    "name" : "target/qnx7/x86/lib/libslog2parse.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "44464",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7cR3dto5dKfk8AsYY+cCV70VG2aW6ruYgdiCNp2rc8ER16aWGBPkQ4makPEeWwFVe+E8Q/jTihQbwPuLThAtVQ==",
+    "buildID" : "c8be96fd34b19334933e7c7bab50ddf2"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libslog2parse.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "42016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "wCPaJ4Mpw37SIyaFblHRSkLBGnPCVJ62pqAIGQ4MUg+h0op3hXiu8Lhw7omlowV29q7X3uIDlq8BTTZ2O7F+hg==",
+    "buildID" : "1955a957876af818fa34878db96e78c9"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libslog2parse.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "38648",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MOlea3JP2t3Lh6f1EEs6I+mDtu/gs7Ni3qfvWMS+zj+HRMPHJk2fMWSq/zOBdtvoMzkZn8eOyOO3r4X2ZTOJCw==",
+    "buildID" : "1f031788cea8f3d9c6e83abdbf586535"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libslog2parse.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "30696",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7VW1aPDM9Dh5+xEhTz/nVLrIUru7IosSYbr6S7FpfCTB3uqT3ON1twGTOhkcZoWjj4jMJM7WFhjBUreiNkxNaA==",
+    "buildID" : "44483736b8d904112f7db996ddcd74f0"
+  }, {
+    "name" : "target/qnx7/x86/lib/libslog2shim.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "17252",
+    "linkto" : "libslog2shim.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lNLrW/W9ZweD4MxcxP/+qwdfNiDucBOIfKoLUU34zg6K1dJrbjW2zlx2tACyRWRVtyN6SFCO9D9hWDDjcz51eQ==",
+    "buildID" : "130aba5f56e87e99e868159265fa447f"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libslog2shim.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18656",
+    "linkto" : "libslog2shim.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Skmx2JBxC6yD/VNFKnniYkntkFtsF/eTWdTUkGOwhT8BKQWxaVC8AforXei7Sp4jujcmC1dd75PmavyEIWr8Fg==",
+    "buildID" : "e379a5794a8e9c6e95a05d9b1b9b4bcf"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libslog2shim.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "19008",
+    "linkto" : "libslog2shim.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Vqws97an/d75EVwTVEi5GoIQcOXs/3ouTwdjUnDXnxmoQ7ZQEhXNx13JKHOWuioBAztQwXYGyqav1fJxM7VnSQ==",
+    "buildID" : "2b901f5eda3326c6ef0952dbb91d0f88"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libslog2shim.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "14632",
+    "linkto" : "libslog2shim.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "wLiT1/Gk4/qif1ht9TsElT0JozQ0bIIPOAGKYe5IgHGWUgzX8pMNHf8vPkqPeOJbcy0R2qKzukzZtVjPlM0hTA==",
+    "buildID" : "9520996730b5e0ac41107247d8d50ce9"
+  }, {
+    "name" : "target/qnx7/x86/lib/libslog2shim.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "17252",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lNLrW/W9ZweD4MxcxP/+qwdfNiDucBOIfKoLUU34zg6K1dJrbjW2zlx2tACyRWRVtyN6SFCO9D9hWDDjcz51eQ==",
+    "buildID" : "130aba5f56e87e99e868159265fa447f"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libslog2shim.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18656",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Skmx2JBxC6yD/VNFKnniYkntkFtsF/eTWdTUkGOwhT8BKQWxaVC8AforXei7Sp4jujcmC1dd75PmavyEIWr8Fg==",
+    "buildID" : "e379a5794a8e9c6e95a05d9b1b9b4bcf"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libslog2shim.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "19008",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Vqws97an/d75EVwTVEi5GoIQcOXs/3ouTwdjUnDXnxmoQ7ZQEhXNx13JKHOWuioBAztQwXYGyqav1fJxM7VnSQ==",
+    "buildID" : "2b901f5eda3326c6ef0952dbb91d0f88"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libslog2shim.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "14632",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "wLiT1/Gk4/qif1ht9TsElT0JozQ0bIIPOAGKYe5IgHGWUgzX8pMNHf8vPkqPeOJbcy0R2qKzukzZtVjPlM0hTA==",
+    "buildID" : "9520996730b5e0ac41107247d8d50ce9"
+  }, {
+    "name" : "target/qnx7/usr/include/slog2_parse.h",
+    "runtime" : "false",
+    "size" : "9822",
+    "digestSHA512" : "wrnUGE1A27Ed91Ptvy449h1XXxGW7cNIVb/8qw7yt18zun/HjO52Q5Wuicy1Sn5XW/bKMCCWrXaZxPMDTu1lRA=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/slog2.h",
+    "runtime" : "false",
+    "size" : "20013",
+    "digestSHA512" : "16ob8yEPle7dD+kdnOS7Ks1Mc+Ujig1Xj+5OA3FqkHTrkmPofOOjhxKTrPaf05mxY+T2wNOsfW2FHbi29DJipg=="
+  } ]
+}

@@ -1,0 +1,334 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.am335/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "1357",
+    "digestSHA512" : "hKXx9o3BBxW+GODmb4xJ2vDG+RqKQxp++HSCKJreY2NI4KRNE4y8BnPCANpXR6x89pHT+zXuL4zw/DMoZgUNvQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.am335/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "2796",
+    "digestSHA512" : "KscWnlTQKB0JAePFranc1qr5QmrvyfZwg+bijz1egpqVUWGCuUNPSd2L9SzUSNKqBNJj/G4eW6FmwyBr7zyZBg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.am335/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "283",
+    "digestSHA512" : "jyqxqHV/0XEgNzhJ8lmeFji0GPy/R3LiU3QE8IKnixKwDgmUcS6cntClQaZ/fcB7sIYUG99Jj/ZBLHRnG/yeng=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/graphics.conf.bbb",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1403",
+    "digestSHA512" : "b62Z4NU5qFF3QHAHCfLFtbbVMi+gdduZ4IJIfPX/FHvyoXWDvgMtgGmSDfyJaRGf9P3M+0QbJW5WmAdhwJuA4w=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/graphics.conf.evm",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1120",
+    "digestSHA512" : "l0Ob9Ou5oERnav4kAs1VjM/n+1sGovDFeh29d40QHA35s+upVoWKUfNRWgRF1xXQVqg5eDaRBU3aW9+ByDedHQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/graphics.conf.sk",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1125",
+    "digestSHA512" : "NB5FCgSGTRIfB3tLDLtgwnhjCy8Spa3bMVVFEfk8jHxPf8WTP6qchQ/ooQ8iFh0C1AXqPrBJnRNIpaqflepJUg=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libIMGegl.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "252144",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ZgNfmmbpAoe0RJ3yRPQyToa/dYrqCKDH2SCN0hu9zIgFwfQDCBdro4TtyMZo+H3VMYVLbmxCxcTn5lusnR2qNw==",
+    "buildID" : "b85dc50f0b232725cbe1af8e2b8b4a25"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libImgGLESv1_CM.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1428500",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "trwCeEN2sa6ieGlYOIKzQV6/A2qhJ4T1F+MhGrtk+s8x8l86xta4cMHa3jEMglOpGR2Gvu2TBVHtt9pFNt4jNQ==",
+    "buildID" : "7a26b553020949052750b81af1e1e86c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libImgGLESv2.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1446208",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "8q+AuKKRk3V2MlG7VjM3YnC+8uomZitvu3cqXM6fTgl4Kl6r5etb8NZEmPZVxC2KUKozyrSo+YjMtbbD7IyANA==",
+    "buildID" : "b45aedcc136b79bf9e1cf1110190f61e"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libPVRScopeServices.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "17608",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LGhCZf6ZhTnqBULZp7I3gumhPRJwCoLPrQgHGOjqyajmhUNKX6+QsRgbhtEFce8qePvMqkDdYpusrxMQ9yzPAA==",
+    "buildID" : "53bfa2118ce193fc020afe96eee16766"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libWFDam335x-bbb_g.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "59228",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mAVrtNzNXCuYfK4SsE7cr/53Q6ZvZI/nkrbQf94hYezVDsW8ytZkbrH9/96xregc+ahqb67BLtNqNJDMYU0W7Q==",
+    "buildID" : "470468f44729301f364832e54ffbf597"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libWFDam335x-evm_g.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "59228",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EUs0FzBFVa8+wK9hWXZJ2ByNGzaO0xK3ZJf1CtBUsCu8Y1c9bp8s7XS5xj+ZXcEo+Ek6xhOr/EfpKBOQYjdfuA==",
+    "buildID" : "9a0b395eac5687c14bd181c175a76389"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libWFDam335x-sk_g.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "59224",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "y9C/K3mw7W2Fx9zTaIjfW2OdKnvyBJYpa9YIlwLaSxWeFgOecHukRSV+OT9yiBTQEZhrj10SSFz4jgDJH7/t1Q==",
+    "buildID" : "f843658eecda28ce7ce8950e64614389"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libglslcompiler.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "643160",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "shaQVwfoMg2My/ARajO9XbXg4x4FX0XqBQMJ2+9b4cx3M+Rp+OcRkiprldpXFG/gz1jU/JcobMpcP0nIqMZvzQ==",
+    "buildID" : "1c378bb66eef50290d7de4850b280682"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libpvr2d.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "49272",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "muhbyQ72TFAeqL9yEJLzZr1nCVF60Nm/QEd5w+nAJd8OvmnRFxRtAgtp4dne1ijkEGNhCZuueS2DqPyfNawgcw==",
+    "buildID" : "b64e2b809f658b2f8f2209bbc1afbcfa"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libsrv_um.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "366692",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hAlpfyPPmpReaVfUEbZcMN6fsfjXa71mYYEj2RaUpugv9UpFyeDHGoCjHpaBL07QApqJRxgk9v0g8hwkUMiDoQ==",
+    "buildID" : "38a51beeeba19bb16129b58e73562f0e"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libusc.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "2140832",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RnYxHxDvXilvgfLKbtKWY3psjdMk/KjAhYVcYQOQJxXRaYoK+Dfdj9UCRIDQSFa8UHBmIm6egfWCk5NMMCbWkA==",
+    "buildID" : "593a56c5a083369060da91a759a530c6"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libwfdcfg-am335x-bbb_g.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "23060",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zsP4FrutZ4AmmwVc45YIE/txIyOynDVDxOf4tMKAzjvmMZIs3q5WhtgaxBMdvYYziwYKUun5ue3njijplsG/ag==",
+    "buildID" : "3318293dda1136feb048a6a80813af5f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libwfdcfg-am335x-evm_g.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13976",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dqMQSl+YHbYSSD4O3OeFpTA9isfYC6fbJfYfzpZSzNt3OJXvEO+3LvOUX0U+aPGru30ulLLCk5Zm7AnS8kEfeA==",
+    "buildID" : "ecf43a9fc6115ea176b25c5b4f41e3c3"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/libwfdcfg-am335x-sk_g.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13448",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "A6NGwjGigtPIF6bQw2QfusbwfOiHgvTQVfJbLttpYHQ3B02pwcCTb4oZG3j4LfLTE5F5gtMagQAzCUzM4NSc2Q==",
+    "buildID" : "3e0d6705701cec6cc162e18e9e709c48"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/pvrsrv.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "381476",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HKkuwUH+5FhdTMjToSXtcjia+qkg29aIqqXgCzi2p40B4mBO2YFlmGmVeD4FpOFi1uTCYIPwfLgya/8jEn1o9A==",
+    "buildID" : "efa4f239e226bcc8f7833119b2a12cce"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/pvrsrvinit.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "140536",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "N0iUf8QHtUz/uo6QUSj9itZVlkuPHVwB4cZgF2cjDpH9kBPbUCJFa0O5Z2hNI4p33Qj0HPCSWL26HFBIjZZlPQ==",
+    "buildID" : "cb091f72f9f6439ead38734c8edf04b7"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x-debug/wsegl-screen.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "42360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "trZwnxgQqE35d9Loe1ORbp97y3/ngTNY5Hjwht7rpZjix2W4x2O78MaZtFHhOAGapK8XVVHyovfsh9gaIQBjvA==",
+    "buildID" : "22b88754d7783f5b731fbb5cb649572c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/graphics.conf.bbb",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1397",
+    "digestSHA512" : "pFYSjltlNKVI62EDKUXdLwGviZ1Jv5qj53Ljs1W3bdOoaFJT/LWXf/wLzBHr0T+MlU13uokDXGvVCTKDHyOD0w=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/graphics.conf.evm",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1114",
+    "digestSHA512" : "640A0Ri8oFWNwk1689fJjl3cWUVu+oZe20MFuRiem9pt3jdl8dYXZNQhQoUCzYrYxudpfeZ0a4cQk2ic+h2bbg=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/graphics.conf.sk",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1119",
+    "digestSHA512" : "R1mUNxHleTjiDGjaJHWwW/cqy3D1UUspH84P2zBE8FbYUALwOsQy43gcfN5kL23qA/50tKcyTj8xOJZSwSjYIw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libIMGegl.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "116164",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FaRk8VZ6y4LW2hAoMQTivAL4Jek+YE+TyuJOgK3yj2xkJhdiXQRpjDFMUI5sYy67Dto7Lf/ziOZPCztR9NWm3Q==",
+    "buildID" : "28dffe6bb48423e65bd3ac07220732d8"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libImgGLESv1_CM.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "587976",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dMeMFYCIafiaAV/EaawTKN2CUMlVVON7L5fnO0Bp6JVn1gSENPzd2G8CNIGa7ZQUycWxyOpKpSu2V5guTK6ZLg==",
+    "buildID" : "b58512418a5e0211129207d28abf4d3f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libImgGLESv2.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "600136",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4gcGW6yGuNbFZ0H3ZKUfmdoHYmxeWYLKjAu8JSSRQkzFOuYaOxx7zRoDpEJrR1UuVWo3mBvtMfNAloZQIP9f7g==",
+    "buildID" : "f45fb5c271f25b8ebc867e5a8baae070"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libPVRScopeServices.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13340",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uVPwQ1G0GYwJqrsCV98rHTWgaSTUr82WnObRuNlcHSAdceY9o2TIbWbGZAv5584TYkVJZL/lyZItbPaMmDGu5w==",
+    "buildID" : "328ba0fe5c9b03d27d3efdff0d829f63"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libWFDam335x-bbb.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "37552",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CQEe3uQW9Gu0r6RwS2TRFlgrW9GJlokBYiwdS1AqUVwlmmNgq8ryCRrEy5AGVlvkFJyqVnBBi8lCfM4U8y47yw==",
+    "buildID" : "443d91e3a562af8fa58ceac47aa948fa"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libWFDam335x-evm.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "37552",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Tuflq/jygEth/ZBq9LrbxrqahQxa1YBuhTDrh+JTWGTxXbbMabZXabqe3AP3HdxfoIi6wI98UPUcJApOPJ9n/w==",
+    "buildID" : "d306dcdc4a36c603c62c0a78730a996c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libWFDam335x-sk.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "37548",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "F7HY+EGupfa+TBLlrBEjd6hpUH0+UfVN6JCBWQEPXmTbADe+wdZy2+GmF77W91xj8FiQxcfiRLyV3JvFkrYVOw==",
+    "buildID" : "d3fc46ea944e88e952d1f91b1bedb980"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libglslcompiler.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "333988",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "G0Khy5hsgIORXMd0rIrEyDU7c6fz/p8oH2dW4UdGLiJJXQK9gtsclyWVVx6uShAJb7VLNPLcmDxD0pEtHJIXag==",
+    "buildID" : "00d88a49c0fbfcdc93a2aa0feb839748"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libpvr2d.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "27936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sHFu6crGUVXW/t9UzoPj5pNjZuFTpfvLm+6SSaODdVpOa5J34lqAX31p8MNbMtLNxQR/qAjxS61UxGLiGuc0xg==",
+    "buildID" : "2e71dcd1aaa8ce8e6db4badfb8e8a0af"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libsrv_um.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "235980",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "xsxQracHBvYC6CG6pjEWox4a3ynPXAp2JEFOkJ1oSkSle6Y6Dpwu9ENi4IinVy4tbRTfX89qf45eB/a2Ob8Gnw==",
+    "buildID" : "2ec70a46c21ebdcc9ff13159ce6c832d"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libusc.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1159560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/uY2mjMGo8r4opZdIrcGK05vDGqiptk6Tz6B8RD7Meu30yki7LVBFThMlkNqcuv/GrpVr5EToknvbU65jgt6uA==",
+    "buildID" : "08b8d324779f82c791d5cabe4ba75918"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libwfdcfg-am335x-bbb.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "18724",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "//NzO4+as11wwIMA3KxohEJ4csv9m4OdRIzHrrYlj5WBWMU2IV6C+2bKgRJ5E78kPzfyJvn1ojZbhsOncuCrZw==",
+    "buildID" : "4fbd575d6b4235257230e758fbcdfc8c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libwfdcfg-am335x-evm.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13764",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "U2UNL47JzUgcDQtd5Ekbn6j/at4za5oM5Hx7FJLo2+yDzHIV2FkYk0PYvxtT9B5VjywhW6G0trDvlgnQPX+SRA==",
+    "buildID" : "4765b70cdce3f3d867b9cb2032fe823d"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/libwfdcfg-am335x-sk.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "9128",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iJSxjhjvtaK/AzVPYe78cwU5pOLxXz/nUTcjJwF/DCC2PqzQyJdZanjQ/5+P3dvVTWypy2I35DcoNE54N/YNgQ==",
+    "buildID" : "89b60f586ebc6061e9c6aade281fc7d0"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/pvrsrv.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "274812",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QbmcYHD0u+toN32zKvBrPHHe8cnzpc8jKvlSQ/DrmMprXFN0gLDFkmemaizzWi2aG611MtHKljanXRfLosLXfQ==",
+    "buildID" : "7fb04d02197acf5767c942b8622f0106"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/pvrsrvinit.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "111928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QlYjCs9FAq3kiTU3CfAOizeCIHRClNhMZr2w8F0P/koxtEG8vIMFm/lxBYubRKjovDem6jCvCF3DL/oYhQZDcA==",
+    "buildID" : "d7d728176d3a666e46e274b0e734adf7"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am335x/wsegl-screen.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "34136",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PvaZwAaklc7uBquCVKXzpG4JkGi45/CL5ZZpe2kGalL6FzUyH9/6JlRkdn/FZS3sZlmZMsedOJpMmeA7gfaNJQ==",
+    "buildID" : "d2ce01b7f8d1963dd1720e3d8c823860"
+  }, {
+    "name" : "target/qnx7/usr/include/wfdqnx/wfdcfg_am335x.h",
+    "runtime" : "false",
+    "size" : "2891",
+    "digestSHA512" : "Q7MPHdbXLXW3NBn1XfLEqOr1uaH/fRwgMH3kF+TgIUunHoRRM+23TsJ7BGdXakMVwTnPnEkbNlnkZobzohnA3g=="
+  } ]
+}

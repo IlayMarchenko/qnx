@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.libsocks</id>
+<name>Networking - libsocks support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/lib/libsocks.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libsocks.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libsocks.so.1" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libsocksS.a" />
+
+</shiplist>

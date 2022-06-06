@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+
+    <id>com.qnx.sdp.target.security.qfim</id>
+    <name>Security - Framework for Integrity Measurement (QFIM)</name>
+    <category>OS Security</category>
+
+    <!-- Headers -->
+    <file name="target/qnx7/usr/include/qfim/client.h" />
+    <file name="target/qnx7/usr/include/qfim/common.h" />
+    <file name="target/qnx7/usr/include/qfim/hash.h" />
+    <file name="target/qnx7/usr/include/qfim/meas.h" />
+    <file name="target/qnx7/usr/include/qfim/meas_log_parser.h" />
+    <file name="target/qnx7/usr/include/qfim/type.h" />
+    <file name="target/qnx7/usr/include/qfim/type_ids.h" />
+
+    <!-- Binaries -->
+    <file name="target/qnx7/[ARCH]/bin/qfim-challenge" />
+    <file name="target/qnx7/[ARCH]/bin/qfim-print" />
+    <file name="target/qnx7/[ARCH]/bin/qfim-record" />
+    <file name="target/qnx7/[ARCH]/lib/libqfim-client.so" />
+    <file name="target/qnx7/[ARCH]/lib/libqfim-client.so.1" />
+    <file name="target/qnx7/[ARCH]/lib/libqfim.so" />
+    <file name="target/qnx7/[ARCH]/lib/libqfim.so.1" />
+    <file name="target/qnx7/[ARCH]/sbin/qfimd" />
+
+</shiplist>

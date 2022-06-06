@@ -1,0 +1,286 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.dhcp/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "600",
+    "digestSHA512" : "cTgI3SzxLwaGsaF7rTW4eZLj9h3Czn2/IJsNhdVCDrY0RHvocZBSTW4eCt83CPA8fjZR5se0/cPOuEhjBqgukQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.dhcp/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1626",
+    "digestSHA512" : "SEcy4LtZJ9/FnqM0oXkMPZ5N4wttTw39b64S2orx0ghCWGzPCkKfLp1sEPo+Rs2Ux41wBqVD8Tu03TBDZkhVbg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.dhcp/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "1271",
+    "digestSHA512" : "Ukhqa3ueJ4joMgEjELZyRiPQR97v99CMZEOvK3p9Cq2PqLSeAcjXMJWu/z0KS0iqkD4dvqzUZpoSOO8lwr/3lA=="
+  }, {
+    "name" : "target/qnx7/x86/sbin/dhclient",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "773844",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zBqyMSfBIs084AUiSctK4GZm0VzePC8yfqFVM0Qp/iQIKLfGroF9AEtLxOiIutm6o7s4p3HRzAkyzjkWw2+L+A==",
+    "buildID" : "a88d5f5ee19e60f16c99ff3cce5201f1"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/dhclient",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "677520",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nTumCgel0zdijOuxuRCX6VF3B1D74KQx1Gbj3r3HKp4pzlatMeh6aglAL6A+M864DvIY4EKoIBXzUFUgdCrAbg==",
+    "buildID" : "7f427c88308700346060d09a48b8b577"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/dhclient",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "616504",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ZSgaFdIaELKQY+YdNj/VD5+pqKosaMq5DsvuADaze8dAnHls5CpzK3J0w+8wNNKVGnH/qYvvXOTDbyVengPdQw==",
+    "buildID" : "23a622af6c55d98c8360ff306b366e92"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/dhclient",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "485040",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QmqPU+ii8iIxonXbjcbFIc/oEWI6rX7v5cbhUpAdJvQ38iLehW55Knz9WjQFk/OX++ZuWUj6Wq/zJtYyFTA2bA==",
+    "buildID" : "b436cac22a68a2b62d7b6a0bc501141e"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdhcpctl.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "208524",
+    "digestSHA512" : "1J6aIoVdhXCYH1vfH3YRp3UY0tpEndf8A5hv8Cf0n9qObYtyWvo5Lk6yLINDh+2O0N243k2TgZqxBINjvWCGkw=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdhcpctl.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "300606",
+    "digestSHA512" : "LRZMcfmx19P8W3gpsKzV5FY+CkVY+d4nPVIWxyJpwzDvpBSV96KGQCmkFmB2OxE4B12el75myzFbuGJ5Nj9xaA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdhcpctl.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "299758",
+    "digestSHA512" : "1nVJBQiFvmeWDpXQ1CEUCPro805AWktOvd7wdPGQiRzxw9ngMNYETdS3XkKu5vw3Q6223Ca8NLoz5a1yR6Kd3Q=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdhcpctl.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "213590",
+    "digestSHA512" : "qF5exw6l4fRakO8x5VFvMTkXF5vPAUbTOO+fwYselWEkFoncq79uSmVO14afOWdGO6cA30oaXfOnQI9wGjLSrA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdst.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "176066",
+    "digestSHA512" : "/b+bUY//qtebLLO2GBrpa27kYR5aPEf8GWasotjjQauKS3+PiuSCz+7SLpGrSPAO04bqBecMddTXUXY/OK/72A=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdst.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "248508",
+    "digestSHA512" : "iPzjRgPrvtUef5aN7MmMZmrhnmuA/UY4yuC2T1huxnX/cukz6jwfSHkLG4Y+ISRtuitp8ilmuSLxGU/arYGfUg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdst.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "251052",
+    "digestSHA512" : "xZ1hkta/2SlRD/fMlB8m3mQyg9vjp4Hg09wNM6N+jRt27pT0t5t2ZqooFnDXM1jzC9Cm3ygXu98cfLhKwSmnTQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdst.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "175680",
+    "digestSHA512" : "RnnYDKoi7eaEeQWu/aBN1wO7kqBmyxjqgOgcQMf0tIlVljaSxzajJHhTT9t5pl7gxrMfD2M/VBhjTNLy6mA5zg=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libomapi.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "1580180",
+    "digestSHA512" : "gq485q0mSLbGQ2xJrGGjx05JeTHTsuIyKpok3/Y0lea3mKcYthZJfwJ6M56jRKSONf6d0kYa7K4dkX7WQt4tzw=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libomapi.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "2269552",
+    "digestSHA512" : "tX9rvHaXRIDRpxmkeL2KWxdlazzWUJxIV/Z/OxJ2rNWFjfgTBA8ZSS+7/oES9L+ze1A4DK+eot0nxc6p7blL/w=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libomapi.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "2286656",
+    "digestSHA512" : "1J/v9EjJZMGdKDb+2PTAqtvyrAvRU1HcvT5tLapqg420zNMH+Ac4BLpnjrA3nFgpbnB/3DdsiuBVDxdL19UCog=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libomapi.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "1599852",
+    "digestSHA512" : "8EGgh32RFd3Qff1RXnP6gh9Na+Yw4uIVY7g0E1hGGU2Tv5x9TdDzcUiMkg430GuWjB1s501fv+0ed06nGkDCLg=="
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/dhcpd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1099996",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "6g4Rs8TOt0BydNB14xOb5gWHos13bNbx0whW2X60hQ+qyr5x35TkTFgsagRgGPhkrncg14XIyqvJELPMgyM5bQ==",
+    "buildID" : "f6e8ad1a2ddaf14c9c3a496d8a2dbd14"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/dhcpd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "943456",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LlLyQhHpCNf4LhFMVLE62ukE/iJXzqpHEgeZxDq8RCspDhF7O9bApsvAgwTgXNl9H4oMvELwSBIEiapouucgFw==",
+    "buildID" : "e41965ab1ff29d5aa6a686434378f704"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/dhcpd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "850736",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OIhxEfdjyzm311syjq1IZ+pl2QO53dI6/QVxhfkQK75qo+pqGXDe8VKrq/lReOXv/dJhXRbStjFcfwbkQuCYNQ==",
+    "buildID" : "77f1072980396b95cb76939e99737933"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/dhcpd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "677784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "loWRrsQv+NGBK04aw+sowFaGfThH5kS7MT8SH1yz4k3smbawOXVbCSaaIYy8jeS1fGwT7yUArLDb1/ToG1UZHA==",
+    "buildID" : "837e74819e194935989c844ad2a10c1b"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/dhcrelay",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "628864",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "czI8uxRjqcpH/Zmc2XdoKLHxPfY/N6Aa3bHE9gAqI0csNhCEmlc2i/wwcg5ZXI6nIStHxPZAKiMGzK7na5lGQQ==",
+    "buildID" : "74b98b4e2e35e2cabb7314a9940bece5"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/dhcrelay",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "556640",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iyuermy3yGWzCe8RRqWtZIoWoWLpilYEedN8dM1pBNo6qr0lShcP43o2q6MPiIkfghbJSNzR56lL2WGR+Ay9Ug==",
+    "buildID" : "f7f440a00c78bbadc1cf792d4a6cb9c3"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/dhcrelay",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "507752",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DLdeGtw4ARFjBISdUbFJXw8kGWJg2QB/qf6l0lSxacpAFpRiRhBMP4xbTcGIWz+lTWntZ3rlVD26c89yUWoQiQ==",
+    "buildID" : "d448c51e122f29227368bd2f3bfd238c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/dhcrelay",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "397808",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PHennoCFOBnVOvXES586sSSPqeKezpm3aRkmJfN7vFgnejbkFsANpeYOC5AjZr06ZjOPHIvQEdAhrSBdW1y7gA==",
+    "buildID" : "947f944a659b9750393df1302cbc8045"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/omshell",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "625244",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VpZP594xY9V/AQ/wa+8S98irgr7PZD0dZ4eqZbPCSKmodFP4uI8z3BhRWflda9YhRxkzaOtDISYhnH5OZ8ReSA==",
+    "buildID" : "8c77b4bde2c0a898317af97433f381dd"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/omshell",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "548816",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "cZkWpVptJZrFeCsEEBdxLxmEDHMnd4WK9E+iUKsV/v90BoVdwnhgC55+6QEDBE2mfLYCgU7XFiM0/quZeOgVvg==",
+    "buildID" : "f36c87b0c693c9422f86cec37c5ef245"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/omshell",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "499920",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0QlMbKTxxurnZJxHaokOpMJUaqngI8gIIJ3wT7YEMKVqDremK2x4fGn+Y6bdJ1t52er9rlycgeN4QOtW57ZiSA==",
+    "buildID" : "84a410bfd12b300598327ee023c9f501"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/omshell",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "390776",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7mpoTE62yWLriZDGr7L+AvH0YF+pfxCQGqpMm35016ui9F2MCtWNZYtS55T7UYou2rw/BESAF+mbCsfHYxHl6w==",
+    "buildID" : "0b64df14d63aa22bdfd921323ce35364"
+  }, {
+    "name" : "target/qnx7/etc/dhclient-dhcpv6.conf",
+    "runtime" : "true",
+    "size" : "382",
+    "digestSHA512" : "7NiDB1vpWDx2Zaug+vgPuu7pk9jTTeo8gYzZBU8MyK69baBzj0U40+EN/bSOrlMPJLnagA6rGfV5IpCoDdigrg=="
+  }, {
+    "name" : "target/qnx7/etc/dhclient.conf",
+    "runtime" : "true",
+    "size" : "477",
+    "digestSHA512" : "4eQj0y5uVve5zXUtbR9fsAb+DTmzjxeARx8jKJJxdYOUGf4ksJkFkY0krs2gz9QRbFivQTbiK97PUg0PAjVSEw=="
+  }, {
+    "name" : "target/qnx7/etc/dhcpd-dhcpv6.conf",
+    "runtime" : "true",
+    "size" : "3123",
+    "digestSHA512" : "IhspYNDfspxjWO1j6fjNIQ1aifGxKTPx67192OsqccAHLNrHXzutnKTq29v5qiqru17FsNxYtkik5zInc3fOmg=="
+  }, {
+    "name" : "target/qnx7/etc/dhcpd.conf",
+    "runtime" : "true",
+    "size" : "3262",
+    "digestSHA512" : "lD6aaQQZbNR3Z5qDCz2EoWf+jpHGcpMrMPKEoxLMSecbEhJ3vOSHT/z896YWODJTAUzDAnRO+uMLDZGe20tFMQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/dhcp/dhcpctl.h",
+    "runtime" : "false",
+    "size" : "5076",
+    "digestSHA512" : "KDyI1Yp20Q0M+jvZxQTEovO5wQLidVAup43ReqRlPX0o4rQlcN4xPROS5EmUnrj+lFkeYy6hqU3HMsX13Uuwqg=="
+  }, {
+    "name" : "target/qnx7/usr/include/isc-dhcp/boolean.h",
+    "runtime" : "false",
+    "size" : "1513",
+    "digestSHA512" : "GGFQ1cWqzh1r08k8C5lELJ+IhHXF41EE9Q2V8Q/L5E8/Pov5Nm7ApTpE+ir/GVinpVHa9Sgz/tp8UaIgsGh13g=="
+  }, {
+    "name" : "target/qnx7/usr/include/isc-dhcp/int.h",
+    "runtime" : "false",
+    "size" : "1624",
+    "digestSHA512" : "KDWIIhzNupQL5DYitCB4arvSyrLruo25no6f3TPfcIB/vM0hkkTvyd8bbm6zl3FYPL1TaU6fos8MtBSoW8Gmew=="
+  }, {
+    "name" : "target/qnx7/usr/include/isc-dhcp/lang.h",
+    "runtime" : "false",
+    "size" : "1441",
+    "digestSHA512" : "4GXYNrQgWXBndFH1w/G5s6vxvGME6OA9gW09q6AKLKqx/RDuNiDq5sin37fZ4Zpi+FssivuFuC00xg5PwuAtgQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/isc-dhcp/list.h",
+    "runtime" : "false",
+    "size" : "3988",
+    "digestSHA512" : "A94wbWcq8HyMCKJEg7YwiTIM3yis9rte3H8UaIc6L+I3rzOYxjMlkF5l323BCmPNKEmr491OSj7CYxBcpqV17A=="
+  }, {
+    "name" : "target/qnx7/usr/include/isc-dhcp/result.h",
+    "runtime" : "false",
+    "size" : "3329",
+    "digestSHA512" : "GV81BfdY5ERvW/rFjL+4XYMZeHlonKgTpMRbNw633zeTsesCJOnKum7K/i73oVNMJpQBUnkjUdXUfy9XJ2jdhg=="
+  }, {
+    "name" : "target/qnx7/usr/include/isc-dhcp/types.h",
+    "runtime" : "false",
+    "size" : "1788",
+    "digestSHA512" : "m78HLlr9Qtq8h24mwrnzJidHpCcDX18J2HZCC8pBt9cjsGbMtK+8e7R36wyV+GYFN1UtFi985HxkiwNAVsz5tg=="
+  }, {
+    "name" : "target/qnx7/usr/include/omapip/omapip.h",
+    "runtime" : "false",
+    "size" : "24534",
+    "digestSHA512" : "cUCw5PiCnNrQpdbXb36z7haXOmEg2JRXz5KwaTiFr0EOQ6vlyekihl3jQUPilBDt0/DgdRng+utBFgy3gsz/DA=="
+  }, {
+    "name" : "target/qnx7/sbin/dhclient-script",
+    "runtime" : "true",
+    "size" : "15323",
+    "digestSHA512" : "a5BgZ8PiLeit946L6uQovVcEsPrcXDH2SGXKdyCrkxZJx1LVBLkNpgnyV3xUREqSwlrH5P1UNAgBPqVJvs3Q4g=="
+  } ]
+}

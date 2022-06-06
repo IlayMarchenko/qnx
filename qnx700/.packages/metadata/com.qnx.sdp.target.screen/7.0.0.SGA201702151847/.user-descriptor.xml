@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen</id>
+	<name>Screen</name>
+	<category>Graphics</category>
+	<includes component="true">
+		<file name="component-base-graphics.xml" />
+		<file name="component-board-support-am335.xml" />
+		<file name="component-board-support-am437.xml" />
+		<file name="component-board-support-base-sgx.xml" />
+		<file name="component-board-support-imx6.xml" />
+		<file name="component-board-support-intel.xml" />
+		<file name="component-board-support-jacinto6.xml" />
+		<file name="component-board-support-rcarh3.xml" />
+		<file name="component-board-support-s32v.xml" />
+		<file name="component-board-support-vmware.xml" />
+		<file name="component-device-input.xml" />
+		<file name="component-fonts-dejavu.xml" />
+		<file name="component-fonts.xml" />
+		<file name="component-img-codecs.xml" />
+		<file name="component-video-capture.xml" />
+	</includes>
+ </shiplist>

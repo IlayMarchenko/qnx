@@ -1,0 +1,4 @@
+#!/bin/sh
+fcmd=$QNX_HOST/usr/bin/find.exe
+$fcmd $* \( \( -name CVS -o -name RCS -o -name .svn \) -prune -o -type f \) \
+	! -name CVS ! -name RCS ! -name .svn ! -name Makefile ! -name .#\*

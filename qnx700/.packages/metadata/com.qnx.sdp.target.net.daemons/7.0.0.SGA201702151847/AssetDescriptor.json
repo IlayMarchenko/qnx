@@ -1,0 +1,403 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.daemons/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "627",
+    "digestSHA512" : "RLcpOpq9SSk9I3E6m0FxIllDf0MJxEjFfGdV1Cx812c2D06pFPG2hLfSTIqgmzcEiNEZZ5719gcucWVntddguQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.daemons/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1858",
+    "digestSHA512" : "F0q0zBuRyHUxX/M6+nEt3oGChTJDdDZrcjJDKv0w/+cpSn9iNum43qtKy0V8+0xAB5Iw/ssWvIpi2QQ9yYCrJw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.daemons/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "1052",
+    "digestSHA512" : "nx0R/izIthSKFCl3hXw0zwR3jpKjfwPu5B8u29pZUeF4ZHIgTgNFX4vUaboO0cAkTqUs9a5NLvghUi63vrlh3A=="
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/bootpd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "51684",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dyY43h4/n4X26kY8ETX/ppY1h+v5Pzit37H2AoppIm7L7NYXzBX/5HlfHjg0UyP/hEpmY7vSrv+QFhsEHJ62ug==",
+    "buildID" : "c5febe4e1e4cecb184e139dfa6c8b643"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/bootpd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "53064",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uiOKnu4WHB7+Lu5F1Ch26OSj5zbcw2JpjY2JxDfxvJpmNrXUVlDdCLptDheqPNW3IoekVSAOSVLvLEJBoTCuug==",
+    "buildID" : "4f667a1573d151e701c39c2637546ca0"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/bootpd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "49848",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fwAAQhKAqYapZJ5M4qxBFRZIutVf2/CRjyYpCSpGyoqGmxKFrpqymsfiJ4DTDF376xyQRtEYCe7BGFlnIshckw==",
+    "buildID" : "545d05f562939b24c549bd154e1b77e3"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/bootpd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "36824",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fvTYtVe1xW8g6tZcTW4y+C04ZW471aq1BcNJPcV1CcBW0vuW7ylH5a+q6Chd1I7amh4EUPpcPmXWc5XqhuwIBw==",
+    "buildID" : "c0bdcfc488a7814e65b3264684f097dd"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/ftpd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "210120",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "XtOntwTd7NpKtlLGBT7Xixf06vA7iuhkqJRx+yZf42ZwCTASx3dqSrn8XfJWbJumPmRxO3tdigpmZr3Ta/7Jwg==",
+    "buildID" : "7334a0320c18d6004c927c05ae5356a2"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/ftpd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "187680",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "WT4RJJ5l82JD1fHbzpetGDNBMKiu/H7Lk2BDqA1k8SuM12EQFLHuIc5Em3pjf9d5gNrUuhM9JYGZR1Tl91JW9w==",
+    "buildID" : "7910cff1ab049143cfaaa192057488f2"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/ftpd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "178440",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Y/jZ1CFA9juUceD2uvJNkeiMLM5U2c+zkknIb7UJLC91C7Xf5Z7y6qBPj3uvFWwxt7aJH4gtKWv+yQDZC+uAQg==",
+    "buildID" : "d903e025ac355cbfffef608adc8d0467"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/ftpd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "135752",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4Wy+Cho6lp0SVANzTqI6iIB4EZc+3LWIRoNoNaPfLrBlBXz4t9+KTNP23mZjVlPBaGahfmk8U4I1rZK2wiiNFA==",
+    "buildID" : "90b13ef593c33c56a291248bf753a857"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/inetd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "75888",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MdbklDRobj/5O6R/KrNEAtfH6VKo9pjdSZo2yPplaVgltucyPDHeGemx367BWR2sJCzkkuCAHFaQpCi0ZV47CA==",
+    "buildID" : "1a50484d65f670d71e96660e459e721d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/inetd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "78440",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QGnzBAyHC0IUdL7b6j0klecPFMfTL2yCNIkqd6S80hgoKiCXVK3qHUv7oYYuJObWijL+ImHj2+FqXg4hZ6nCLg==",
+    "buildID" : "5cc234c6178f883a29cf5060293f20fe"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/inetd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "75448",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4/GZ+tM4vTArXQyQy8oma5v0FhWkjFXYs/XOmQJAo6AogW1DBSYgYyy2Yejq7AG2xV6Vsp+M9E4FheYaiEtbKA==",
+    "buildID" : "8d0b8d4b1bac9c1ee2faa57e50e3afb1"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/inetd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "58324",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VbWK00F6TPGQpmWODgG5dJFCtzwrGnGaJLR0hfShDWoLXELYlERvBw7ep4m4/ZW0Ch911aHPSAMvFby3MA2biw==",
+    "buildID" : "2b2fbdbab674d7093a12c1ca67f457be"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/mrouted",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "99548",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FpEpZBYNh9tiKDPHwh0zSvDOLGZ0oR6E7PAEaR8mBgsiOaMUH1Z9UltOrXK4Hzon+HUZvzkUeFKrPIN02FXimQ==",
+    "buildID" : "faaa7eed88645cd6729de22db5813fc4"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/mrouted",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "92944",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "c+0pKCuTFLsTKqrds7hoeGdTRgyN1kl8yvbyqQJBmSvwcx/hYjep316+E3A3Zty+1DsJVES7TEOtNwfoKOXjOQ==",
+    "buildID" : "3bf7d21d93f3b838c58ae2e21bd6de56"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/mrouted",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "90056",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hHZ/8lCD1mAEeKog7RrGLJdb5pJOSbpqjw2x/W5FKDzJjSUJylPco/w6ohnFxKqekNHi/WZRdEG4TjnhVj6acQ==",
+    "buildID" : "8c52353ac646de88a200a74ecaa7205f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/mrouted",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "71316",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qtz6Z1++/3LaurnHitB+ZRjjqQI0Zp+BGDe+VWW7FnPmSOT1Z9cxeoizw3EBCAZJQ9+aRvrPsfoOm79/JzokIA==",
+    "buildID" : "7be39e071b643132a47ed8704b395440"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/rlogind",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "28152",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "u+H88iuIPgUd7oMCzk6fY8o9q289mj5Jfs2efUejiZq0om09niHZgeUptq+a1XL08HIKqr/j9ZLKqo/7fTUbZw==",
+    "buildID" : "7458cca8c1f0a9b20e2901dd01561f40"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/rlogind",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "30360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jzZnoJuj4Ghl7N+xMHdqU7aGp7gJNfMnLvg4CKCCbdBsefwPhveOf53i91YJLHawxbr/3mV9ZzodvASpB7AnsA==",
+    "buildID" : "0855d435289736c8471aba1f1b7b42f5"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/rlogind",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "30984",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OOUlHmNuI1gdewTdS5JYl4vLPUyiY/tiC1U1/HiHlu+IdRBGfLer4EqF1aG8NSpxqwebNpeMTfZV2Jupbm6cTQ==",
+    "buildID" : "2f970e2632ed623156fa78bd01ceee9d"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/rlogind",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25892",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Up46mDULEUj0cGwNm+kpAKnktFBoYEA0WqNSyasgE9NTW8DVnleNaAL2S7CUP7IbUB9Me8NKfXu4DmNu5hl3DA==",
+    "buildID" : "a46427a0324be95674c96025601bbc87"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/route6d",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "63920",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LvJaXAHqqoA5F7BmvUuGdmaQ8FhynWZ9nP54cn4lFhKEWdy+Xtpjtwhg8mkJ5L5XbKSLPF8vui+5/bAYm2dVEA==",
+    "buildID" : "82a54ad7b7324c5e2e015ba7f375d963"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/route6d",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "61760",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RP1EVjrhoHbGNAASQ5TMrgCedl//CEx6rzvZ1jc6FLvYOvHpewiC7iV6yqFNS1FgRk/EKcr5DrWwNEKFLINhNw==",
+    "buildID" : "cdb3b12670bfb461ba8e56bfb7e7ceb7"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/route6d",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "58320",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "C74jWsSpT81Vrc/hhVk/i/VdDiBJ6QkZ0hylJdh+j3ZuS2LP1Ih4UAJSw4fosWRed5P/er5zGCzPn2aFdM54qg==",
+    "buildID" : "f56f9b78b52d4dc9a9c1f579eab37639"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/route6d",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "45392",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "89tOz3Ea3vrIHSdz0v1PIF+MVA/UybYZWikOydJlCaewICrJlaEocpcGN6Op6sMqpWRa6/9FD3ooPZAzvt6AzQ==",
+    "buildID" : "a0369ae7072598a6bab347ed32d2309b"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/routed",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "136464",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "E06HX6ZVz7gs5BSia3G1X5/xA1uwGwT8yH8+5w7DJl2CMcj7LjTYmO8Xr2Ny1V3S9EefQ2TeVhkNhzx/ToKzRA==",
+    "buildID" : "74f1736030ad2613a4503a65278a185d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/routed",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "132344",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "GRPrU5jnMp17VGpt0dZPrG/J2kO2ChrKI9Z01PZdefSZuVJHHr/kUnah7nYE77exvu1Pzkyw14yrUD+Mi9xCug==",
+    "buildID" : "d0fa7947535463c9b45ed3dbf8f34c6b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/routed",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "129712",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "xufk9ks0Tu1Fz9qRMRll4Io/b0h/c/qvKu5WLpMkxXMZx8fm8zHOEBlzaIDXX+b8NFwHj0ihkFaqtMDgCNoA/A==",
+    "buildID" : "a2872cab278b9490fc692cca54a9a494"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/routed",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "97648",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rS0yMkb5iXN1ahE0QR5tQ0DbK4xIrEy9vGbUj/zzh2j9y6SFX0uD/p8wdmqAesnZlUbSZLJ2XOoB5//dvV3zNg==",
+    "buildID" : "e37efc09c417f25698f59bdb7a995d97"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/rshd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "23308",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Vc8ju8+PaYZo2TzdIhj9MDtHzGmL7EiCoYpAyog+R8QbJZF996/DhvUWc5pCZeOqTVgKE/P4MeC9Zq61JIaZKQ==",
+    "buildID" : "982479c062cda1bff2f23f8efebde358"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/rshd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "25264",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "08aSjiLwED7QKjkQR53oer/U+L1jvfXrJrhjJ/pJRBupmHEIDU/U+NDKpaY63RPPFYe8m5ifrk2vAN2NG6GDnA==",
+    "buildID" : "66054896b83580241b45b662474fe88a"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/rshd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "25736",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KqD8FBUCdc8vFAaRpbkzz2esj40s2T/B/nrlA3oPa5CUvbot3QwtHV8SkNKVbUYSxyJsfFX00Iom6PtZa+d+xQ==",
+    "buildID" : "a040255ac955cc4c07399398517df2f3"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/rshd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "20500",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QSnOMINiKjJgihNJ8MybLWe7YL8xSeAtmNscdENAWIKh2qC+CRwgn5uveTSGLyWTehA8xIPsFFLJBcWQiWyFyA==",
+    "buildID" : "3175dfa664dbd189b88ec737b76b9bfe"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/rwhod",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "27452",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "A/eHGDjAj9cuDtpUn1rkqQFRFH3vE1m8CZjEtNHrHUAfTm4peDo7Y6PyoHzsJcHjjfBXT9szoEZUSW9dmSwNcg==",
+    "buildID" : "41cae8e4c7478f1ff89628dbe0833432"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/rwhod",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "29512",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "wPtAVl+mCzWpJFU0v0IFh9lqp8PRf+nkSTopczsNCp0UYtVolf7jmEnyV3GuSxoyEGy55tsw+JQOChbs0Tm0lg==",
+    "buildID" : "b9bd2fa068d9b564761213c28cb0d602"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/rwhod",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "30344",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MljDoMMXp1I3hyxsSPmrzJjFUgcdEG254BnvNh7erSJKfHq1mRZkyI5Es5vtd+PctDWQk2/IY4P//Ii7CMPxTQ==",
+    "buildID" : "414da90396c63e519be9c0567a0e3f8c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/rwhod",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25508",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Wei4RUJMRj/hW9pyq4nxNq36izufqJN6pMv7u1WzydxvRAV/WOYg5HmesH/z8BhqajBS7rG3pZxnrKMd7HkOPg==",
+    "buildID" : "ede25a6541cbc97b96ee23c7e48f66b0"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/telnetd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "62884",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "2nNhl2z9RukbUSxrgVjWofir/7ZLUFnyOWzFTYAgXznwPfkjAG9+Tc5HGKgKZrYs5SKiQnvdyd55SZFBRphJNA==",
+    "buildID" : "b199d455046705302ca517e5ffdcc19d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/telnetd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "64360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yhqnfQFBYMrzaPLquG8J7ngO+3y2xb3b5tqT9gwh9wkn1pWVQclnj7EA4lVnfCR0WsDC1Q+d8i8bCrmHiKKyRw==",
+    "buildID" : "33565d9c66af92f9ebac41db69695b60"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/telnetd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "65496",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/qZqKl2DFHWzLYnrTX4CukMbn64ECGEGcSrMhwunQiZd1SowsC7nyISRTOk5yNWte5YJ4EYN/JJaN8TZP7vFBQ==",
+    "buildID" : "de9a1f5db18babc370d76c7c1a8e6db4"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/telnetd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "48508",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dpLo+AkoU+xZO49OpgXlu3W5tt0T5YJ4bIsJNImsM7XMv9dK67ORpRcQ3za9E2rXzn3nWhdKa6owHTXHJUGn2Q==",
+    "buildID" : "7ee82c296f72c15e2e56fe30c611be04"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/tftpd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "38264",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EWoEjoKcnPaz5PFX5qlAgWjy+7u7M3UywlLWhV2FZAqRp2BFXPMxCUKHeiKs15e4KbU1dz1lWg6Q9Q5TS1I7iQ==",
+    "buildID" : "e65b68fde7b401f5264d740043172ded"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/tftpd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "40304",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OIIqw37Sdi0UJmrk4zDVVHD/U+Vc+gzXqeNUdNMYBx+T9tS46jR7pVtdc9bO2hOfVdfI3z9D7Rv5Xik4eCsxKw==",
+    "buildID" : "7bba68f36f46d83fddec2b512082f755"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/tftpd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "41136",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "p6K+3t3K4BQyxFTSHsg+Hi6OM7tytAun8c5saUFX9LL4OI7Zf+QPtXrUg5j21FdZWOv8v0kbmzqqkX8NySj62g==",
+    "buildID" : "16121a4d92080b6987893083908a51dd"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/tftpd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "31740",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4EhBZtVRX9Ra6lCIT+1AVGBU50Nhxq793kCb68IC5urVV20VsKLu7Sjx7D+wvlV+pEdgVPVKAgORVLt8yWGWbQ==",
+    "buildID" : "319faf8d1137d3c97b2b354e4f94568c"
+  }, {
+    "name" : "target/qnx7/etc/bootptab",
+    "runtime" : "true",
+    "size" : "2304",
+    "digestSHA512" : "L55aYS7rtetr62rx9f+GT1GjdjRwOFmSDhd8BVqWXy0s+qVeskhSdHR9SBVqmQQeAkQV1cyZAen4XqJ/3YDCSQ=="
+  }, {
+    "name" : "target/qnx7/etc/ftpchroot",
+    "runtime" : "true",
+    "size" : "140",
+    "digestSHA512" : "X+Y7pHydZbWb0MpgabEasNgqqIWcFqzvKWDTAZvWsdC42Osa+Qbh+MFB7/vd5XRZwSEYDxGINj9zmgEVmR1ZZg=="
+  }, {
+    "name" : "target/qnx7/etc/ftpusers",
+    "runtime" : "true",
+    "size" : "401",
+    "digestSHA512" : "xyKDmn9mSFA+BnsA/EDu8gcAMZLzv1B+XboEHNXuv4zBsRMB3lyFKeIjC9VFbS+tvjTgTXtRua2wVyrcMkIBCA=="
+  }, {
+    "name" : "target/qnx7/etc/inetd.conf",
+    "runtime" : "true",
+    "size" : "2596",
+    "digestSHA512" : "d1JvnVMpy4uVOZ5NFx2IfTz8Ga2/g6aWo4DhTRZXQmeUm07ECnjT8AL9E4vQS4yIkAWaNgr3dbk4ou0KoWQtQA=="
+  }, {
+    "name" : "target/qnx7/usr/share/examples/ftpd/ftpd.conf",
+    "runtime" : "true",
+    "size" : "1841",
+    "digestSHA512" : "KiO6coi4/N53wHHDD81+M7vUl71WFy8rD4xPqHtULCeI7oL18dm4uv5a+70D9s2gZ6MfX0cCmsh4nGatmbxcoA=="
+  }, {
+    "name" : "target/qnx7/usr/share/examples/ftpd/ftpusers",
+    "runtime" : "true",
+    "size" : "915",
+    "digestSHA512" : "CNKno2WLfxZLM0mmhZjqa9/TOCS6EMJPWlPiWHT1F9KtRzt9jEQRCKNrmbgQty0YlbZr4lcrmYEgQUP8cAFGOw=="
+  } ]
+}

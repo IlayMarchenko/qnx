@@ -1,0 +1,792 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.qdb/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "946",
+    "digestSHA512" : "wR4onzCQ2grKgCS2kfgWkIEuT9aW2rKfQ8vlHKw9O6tsPCl7+hj8GtKmj3ytHxFSZ0auviCJXm0MRFQuZXwimg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.qdb/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "4317",
+    "digestSHA512" : "AH2CxcyTcd/EJARKNvgYIxB6+t5bHrot1mpMwsp398S5fnshNos2g1pgN2QTbKIhtxywKNudeYpB6fR+4P80mg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.qdb/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "251",
+    "digestSHA512" : "VP40/Jncm6SXNcVhJmu6pgC2m52yEKfovmmnTs9rWhHWeZM1Rcu3w6K9cNaVjElm3NCETWOo5UUq/l+kwLtVSA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/qdb",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "227928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "j6FCc8t5qcdGDj+i9zsC8d2oiUBsXIfSdP8wAhYnr0TLAP+4cZfvC93EGC8gTOeOAXR7hlUadbma+D7emPyn9Q==",
+    "buildID" : "28d2e9007a6c20424640b20885724835"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/qdb",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "213832",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AOBD/gHCQJ5RTAKErdcaWvGu/QcjwMf9v21Id5NQ494pAQkxahExFtEESw+7jGivPZ2Km4AeDTmCESWgOcMOOA==",
+    "buildID" : "a16a1b1d7fc9ed9d430bbcc2f5ad4895"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/qdb",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "199024",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dCmyaq8bsW4vmiXPN9M9+ioeeZpLxENSmE7vefL4Ae0vqB/dQvEN24p2v2XP6u3YoQdY1tdVMh9JIo+TxbCLzw==",
+    "buildID" : "69a7680562d1f63be39d6cb5a0f8165b"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/qdb",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "139148",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "26nsQLpi7cyF4rSEgHXo86JPmMKybjFwriGyuq3pZJRV6gnXbdjXFpiYuR+hpbTp62fhoSovKgXnCtpm0hqitA==",
+    "buildID" : "3ad3181e3dec8669f9b0c1ceedb3933a"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/qdbc",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "50760",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "+ZehJT/pzajQqxlFBw1ikfE+MO0n5V4ptmIbUErgcdkTaJEs+xKd8m80yhDOKfmGVfdFIKBM3Rd1t/Zx5VnhGg==",
+    "buildID" : "a950b4a3879755c29841430e1d320e97"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/qdbc",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "47160",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "pPuYpL4loKyOX6sXe8I8LtBIsT9qkr9/5DuJwSb4UNkYUJ1G63prWyeMBj1E/xhW3YxryTDj2I3h2KRh+OflWg==",
+    "buildID" : "df9c144e69e87ffcae3ab8cf03f4ede0"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/qdbc",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "57024",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NZTySH2Qu74E/7GiRmfiJaTcnMd0CZFQMY1sIfbcs6Eovo3Vbv70XhGCQ8gJCv9HWUaXb9/KgwChZjZCexN9Vg==",
+    "buildID" : "5c35e9245a912982e95e1f41e736f6bc"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/qdbc",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "36212",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uiL0DY6gAnLd3/CFw/ICc9jIbete9zK6+eA1+nhliHLgrf2/PAK1sitKKWwTJaNhitSiyQD0oHTtSUqRgaYQcw==",
+    "buildID" : "b352dd86e992e9e91c00c448db015e2d"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "125228",
+    "digestSHA512" : "T7MQ04Uf4YkLXWKKxm4YamYtCA184HX+R1ll3e2LQtx75HK49z5ViyreeEXcW4s8z34zvXF+jloCTK4yEzxgnw=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "187906",
+    "digestSHA512" : "YvGFG/R1nrMi+c1tQxIX3ZsRiCg4wS4ZP8ZVMAo7ajxsinbO1b/O/Xc/jKhjI33oLc6lk5CGIT3dIqbzKC+FIg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "197754",
+    "digestSHA512" : "HQfpeQewAzr0TdZGsC7lS+pG1ZlEQX3U5x7xSlUIp3tY9VH82huSjplAwEYRY/LP+UgpsbD0gge/1IzZLShKDA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "112258",
+    "digestSHA512" : "6oOmR8f235Zg7WK68blhvLdzWxFIE+MNN6jpECDKdGbLcT6Rm4Ckrh4UOIEH1+gl/ArOb4vXDAibGJMaWtPGcw=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "39332",
+    "linkto" : "libqdb.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IMSbNfZt1mRncV4yaJNtsfIMKaSLZkrKFQ2E0CvZbJrQhpLLZ/bXYPAm7STrsiWgonja2iromURJLhtm6BmjFQ==",
+    "buildID" : "38857c3dae360d7d89bc729e182fc6d3"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "35792",
+    "linkto" : "libqdb.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "6B62F17fBJC7jFsJ6o5nDSvVcKMRgD167WquOliQ3mOXhwphZxg63ZUhCkiTBYNV9mq00ymjtsGwsrPA52wAGw==",
+    "buildID" : "f46e46eb3f002572b5423849306ed97b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "45464",
+    "linkto" : "libqdb.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IFukeF4y9NvqP5mYPjX+MSnJnH2PPudzp9S6a3K5qpwF3AVPx/v4na0vGJYQgYhComCjY/tLnoPogRzF8W6t9w==",
+    "buildID" : "89df3a66298959cbff6bb657f51aaff0"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24592",
+    "linkto" : "libqdb.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "k2t4JPv9fnHw/5nUQPefZ2Rbl3SHGNQYVPe6KqpzO4hIfmwwmUv1NQeQ19Yw2ghNgx5S7a54C+SICxTxrvvukg==",
+    "buildID" : "18ccf323d58f28e32c17e3dbd8de78c0"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "39332",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IMSbNfZt1mRncV4yaJNtsfIMKaSLZkrKFQ2E0CvZbJrQhpLLZ/bXYPAm7STrsiWgonja2iromURJLhtm6BmjFQ==",
+    "buildID" : "38857c3dae360d7d89bc729e182fc6d3"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "35792",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "6B62F17fBJC7jFsJ6o5nDSvVcKMRgD167WquOliQ3mOXhwphZxg63ZUhCkiTBYNV9mq00ymjtsGwsrPA52wAGw==",
+    "buildID" : "f46e46eb3f002572b5423849306ed97b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "45464",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IFukeF4y9NvqP5mYPjX+MSnJnH2PPudzp9S6a3K5qpwF3AVPx/v4na0vGJYQgYhComCjY/tLnoPogRzF8W6t9w==",
+    "buildID" : "89df3a66298959cbff6bb657f51aaff0"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24592",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "k2t4JPv9fnHw/5nUQPefZ2Rbl3SHGNQYVPe6KqpzO4hIfmwwmUv1NQeQ19Yw2ghNgx5S7a54C+SICxTxrvvukg==",
+    "buildID" : "18ccf323d58f28e32c17e3dbd8de78c0"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdbS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "124078",
+    "digestSHA512" : "jwHhQ05LYWDpLMwnr6AANYqBg07DjGeo0MMZ6KxedTII5V688Xx+KLLv0PJF/LgU0oagM1aEoAvTaicoMLTLHg=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdbS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "186690",
+    "digestSHA512" : "eW0pJJM9LEVX5fIz8wFwnvBOUyJs+F/QrQRvYYUbvlwu6Jwi2qKJ16dJ1Vh0fF2gix+5bQtlb5cYckMEBNMB6Q=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdbS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "195914",
+    "digestSHA512" : "Z7yrFL6cbelZD+nCO1oiNmAalx4uH5bwhV1RMXrmddh2HTBnkNn0K4yCrLPj/trLmAyp7HarFJJPPU3ISglzrw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdbS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "112354",
+    "digestSHA512" : "1Ut38Ioe511tVJb5rr4H/CvWXPHc3ImLwGVoamPbci7KbW3hdOk99bJl7T0qBT7KWI21AFFjnqPon9XYovg8MQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_cldr.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "16656",
+    "linkto" : "libqdb_cldr.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dUy/bPUZRUyPMOL6BRrR91yZVA3ztP2z6k9rJVizhRr7G/ap9y9BfqwTT0b/C4psWNoGIbPKj71LhK+DwmbM5g==",
+    "buildID" : "7a4c20ddc0ccd80ed5d535713239eaed"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_cldr.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18096",
+    "linkto" : "libqdb_cldr.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "gy8zZRRZRtrrcufe1CbgX3jZSpI5bM/ahyoBIKQE5KQbEG/Td7cdjzrOIL2v92o/fldAZ836QXU9kAJ51y+jPQ==",
+    "buildID" : "8730a29d0987cbb2e4170a3223915f03"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_cldr.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18400",
+    "linkto" : "libqdb_cldr.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7g1x3NBbiwyhnX37xXK/zU3l5WEMO60S8he9IApYdNJGprcj+TTf6Z+P/5wswTTPb2w1Fp7xhqR1Hr0yATBBNQ==",
+    "buildID" : "b7bcd2c1806697e4b2581f23af87230b"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_cldr.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13840",
+    "linkto" : "libqdb_cldr.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FqOYqteS4vihm1QpKxwemcYHa8L2Dgt5OXKvU3C4pFJ996l6pN3fK6zsIGAvTM+VJmq+IUkGkeudRUOaBER7/g==",
+    "buildID" : "58ea9ab1942ae27f7daed0cc9eb6af7b"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_cldr.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "16656",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dUy/bPUZRUyPMOL6BRrR91yZVA3ztP2z6k9rJVizhRr7G/ap9y9BfqwTT0b/C4psWNoGIbPKj71LhK+DwmbM5g==",
+    "buildID" : "7a4c20ddc0ccd80ed5d535713239eaed"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_cldr.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18096",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "gy8zZRRZRtrrcufe1CbgX3jZSpI5bM/ahyoBIKQE5KQbEG/Td7cdjzrOIL2v92o/fldAZ836QXU9kAJ51y+jPQ==",
+    "buildID" : "8730a29d0987cbb2e4170a3223915f03"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_cldr.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18400",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7g1x3NBbiwyhnX37xXK/zU3l5WEMO60S8he9IApYdNJGprcj+TTf6Z+P/5wswTTPb2w1Fp7xhqR1Hr0yATBBNQ==",
+    "buildID" : "b7bcd2c1806697e4b2581f23af87230b"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_cldr.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13840",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FqOYqteS4vihm1QpKxwemcYHa8L2Dgt5OXKvU3C4pFJ996l6pN3fK6zsIGAvTM+VJmq+IUkGkeudRUOaBER7/g==",
+    "buildID" : "58ea9ab1942ae27f7daed0cc9eb6af7b"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_cldrS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "35868",
+    "digestSHA512" : "JDU/yEAqXqifcxxi2KCWobbpILxgjCdg/wVZU/ZxvAMJ1fZXYIV4vxnJ29mRH6TLaZgiX2XM8hGdSmoUpbGrrQ=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_cldrS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "50504",
+    "digestSHA512" : "WRzKkM/ELZSD1Jpbz9dyf1GrAengSOebPPt3M2xwPB7QwjbWHOQbx3BAoUflQPzO1IqPtdqQTadxeZxSaDnBDQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_cldrS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "50088",
+    "digestSHA512" : "Cqje9ZhinpmE9SfPiXCXlCbpn1vdgmVsbhl0cUX26mnWFpn7ajpl1C+/OD38r42YcPD4PC5kJZcXf33Hn2dwPg=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_cldrS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "30924",
+    "digestSHA512" : "O9KfoI6XBGPN3OuPq3sCSAcCqRhQ2uI9lNL1VtMZfJbHZNpOPvReCRwvUbFpBHwjTODO+vI5R7YIAGtSVg4ijg=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_uca.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "51724",
+    "linkto" : "libqdb_uca.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mWWtV1A37Lz4OKROYwhUyjg98h1hMXVjCTLow1Gkx5NbSEVjHHp8OUaiqBLR+8TbzY9I7ekU5uagz8demyHYYw==",
+    "buildID" : "743c8cd25b54226e2f0cc61064dab0e1"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_uca.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "52928",
+    "linkto" : "libqdb_uca.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fPMRmlVK1YxSji5s/574fix+/gWsE/oKKuHilGFaIzW9F4zOkzhd7xi0Ri4MsqxN+Hyg8D06Np8zh8S2rN4Bjg==",
+    "buildID" : "8d4d5159150816dcb029e264d13c62fe"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_uca.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "53256",
+    "linkto" : "libqdb_uca.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rKXX0C0Z8sCcXPjugMz7jWB76nZdYtYTZLTvw1/RCjlXPamRHyg2NC8Am/9aeEdOoZhMXEttro7gV+63dzy8AQ==",
+    "buildID" : "c32cf857dfe37e054f676014284f0c1f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_uca.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "52400",
+    "linkto" : "libqdb_uca.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "pbvNTI+JgTLOTZWCqHqXi7ZxHvCBpUn/o8dg9E+/+femPz+paej2mz+RRKqDwDvaHwO5xp6O/oVFdOobLWdgSg==",
+    "buildID" : "b5705b096329b987b4dc97dab53ddf4b"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_uca.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "51724",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mWWtV1A37Lz4OKROYwhUyjg98h1hMXVjCTLow1Gkx5NbSEVjHHp8OUaiqBLR+8TbzY9I7ekU5uagz8demyHYYw==",
+    "buildID" : "743c8cd25b54226e2f0cc61064dab0e1"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_uca.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "52928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fPMRmlVK1YxSji5s/574fix+/gWsE/oKKuHilGFaIzW9F4zOkzhd7xi0Ri4MsqxN+Hyg8D06Np8zh8S2rN4Bjg==",
+    "buildID" : "8d4d5159150816dcb029e264d13c62fe"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_uca.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "53256",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rKXX0C0Z8sCcXPjugMz7jWB76nZdYtYTZLTvw1/RCjlXPamRHyg2NC8Am/9aeEdOoZhMXEttro7gV+63dzy8AQ==",
+    "buildID" : "c32cf857dfe37e054f676014284f0c1f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_uca.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "52400",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "pbvNTI+JgTLOTZWCqHqXi7ZxHvCBpUn/o8dg9E+/+femPz+paej2mz+RRKqDwDvaHwO5xp6O/oVFdOobLWdgSg==",
+    "buildID" : "b5705b096329b987b4dc97dab53ddf4b"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_ucaS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "64822",
+    "digestSHA512" : "tEhqSUgYVXbeqQF4KRaUkEw8glL7GV4xysszmcLTOIwrx8+huCERhNFPrjdjgqcsDe3oPsFJWJlCu1U1ykAnGA=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_ucaS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "75658",
+    "digestSHA512" : "2QHEV9ULw0jsLgBpWqgQlYdPZUxZ/SnRdkfP8DALc2vgra4WLvepfm5xnYAbe68eKu9CPooaIPksQ9CNLXDVmQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_ucaS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "74890",
+    "digestSHA512" : "OUyT1/5jxTHWmpZC1zxCIKUw5JFnDCjzf9Y0ZFXBW3UusA3G8U6dLd0FBkYKLa8WZAB23Tp69r4WqelxtXyjVw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_ucaS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "61914",
+    "digestSHA512" : "3V3P9nwx95QjyUg466H6aQociTkh1w0rPCkc+IF0CTVgPhD24XIBB6rNmt7Lup254Hi0XDoxfbcLE/xOCPgwyQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/sqlite3",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "100996",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "haAfpeJ8z7r2Z2tIhYYWegmxKt71hmX3w09nCndfTa/eJeI4oZEj73imSCYCVetX58DsGODPXMyRG31ghMycWg==",
+    "buildID" : "03aefa423c18dda325e67ab42eb48226"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/sqlite3",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "98984",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "BbaRkZa07uHGL6AO75D/pXQHyXRqGlw45c7Gnww0XAbsnM5KG40A87yf0YNo/pduwOcnoasC7P39yDp6VQZtHA==",
+    "buildID" : "8d1aef3c014ba123271b31046d13ade3"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/sqlite3",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "95720",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "B4WZjeaHYRFz5oM2nk70Yz/y9Nr3CP4hVpBZJ2WzqSdbdJKT9Nk2P3fpc+FygsHQQuDFqSrBNH+RqR3VpVAWPw==",
+    "buildID" : "c7b45ab83065ff893397160627b19831"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/sqlite3",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "75564",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "++D7pbHh4HGPzt9IaxK4x9WXEXzHShGXsgLf4MkruUophYS5j6GVdISKgwkgMa6BBFEqGFUwKu0wijre1rRnLw==",
+    "buildID" : "f4fd52af63e32de94706470da18fb46f"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsqlite3.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "5250338",
+    "digestSHA512" : "B5XbNV380q2w6lhFS5co+9XRfn2Dnlnxg+61HZihFYOdWHVjIjWOvn+/STzvWPO2ydVL1T4K7R40WsS3MbNB8A=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsqlite3.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "10385448",
+    "digestSHA512" : "EV6tfAIvlt0dIMQd8TA7rOTYdPo7q4DtgE2mvS+ZpsIiC0Q15xrw/YPUJVDQfoViowEmp4JjfbmbY4DHLCZKrA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsqlite3.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "10435718",
+    "digestSHA512" : "WM/a8fT8nh5no2lngHbgoINTwSAkFgi043YPROxCstni+NE7tFrtf47hcJB+h8+r0GgIYZgb4SAay8NVNp9JPQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsqlite3.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "3562140",
+    "digestSHA512" : "PTHCuYvj6qhV27GqOGiRNEtvSn7EGuFGFHstUNLj0ayX4SJNY3zrIVCbuM6zvwt/7Iw58Z+NicNgrFW7EM89MA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsqlite3.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1057488",
+    "linkto" : "libsqlite3.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "SD9bGpHe/P2SRkkwwhNOgM/8evC4cVU3/3F3dlsHKKVRG1AMfcmIO8sEzX7Qd8mxCEbj9j74cQc34GSeQUpGeQ==",
+    "buildID" : "15040b3a178cca71613ec88bd45b0937"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsqlite3.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1006664",
+    "linkto" : "libsqlite3.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "h7cSa+6itnvMU7actUf89Qam0ioDNACp4IA9d3kwzP3ec2BMtEArET66tdjlOu81CrSpJYuRFT8Zfi1a5JQn1Q==",
+    "buildID" : "b01926b269c1357c4bb04e06586d8baa"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsqlite3.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "899856",
+    "linkto" : "libsqlite3.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AbS7r5N8RNerGsbfBkh5BnREJd+oIVfjLGx1GLsi5RI/H79LbTyFeTvQOscrnGb80GkQuLwGTWOUbvPo6GV4hQ==",
+    "buildID" : "c3b0f559b55105c4a9493794cf822368"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsqlite3.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "594700",
+    "linkto" : "libsqlite3.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qIIO2uD+EFL1qo0Ako9uEnyHcChHdoWRgZUiGgj/Y5wDoFUmJn0mUysO95AOKU5J55NXfuVPQnxwhT+h3XKGyA==",
+    "buildID" : "fa46f676e0312888689da5406153d000"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsqlite3.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1057488",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "SD9bGpHe/P2SRkkwwhNOgM/8evC4cVU3/3F3dlsHKKVRG1AMfcmIO8sEzX7Qd8mxCEbj9j74cQc34GSeQUpGeQ==",
+    "buildID" : "15040b3a178cca71613ec88bd45b0937"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsqlite3.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1006664",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "h7cSa+6itnvMU7actUf89Qam0ioDNACp4IA9d3kwzP3ec2BMtEArET66tdjlOu81CrSpJYuRFT8Zfi1a5JQn1Q==",
+    "buildID" : "b01926b269c1357c4bb04e06586d8baa"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsqlite3.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "899856",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AbS7r5N8RNerGsbfBkh5BnREJd+oIVfjLGx1GLsi5RI/H79LbTyFeTvQOscrnGb80GkQuLwGTWOUbvPo6GV4hQ==",
+    "buildID" : "c3b0f559b55105c4a9493794cf822368"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsqlite3.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "594700",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qIIO2uD+EFL1qo0Ako9uEnyHcChHdoWRgZUiGgj/Y5wDoFUmJn0mUysO95AOKU5J55NXfuVPQnxwhT+h3XKGyA==",
+    "buildID" : "fa46f676e0312888689da5406153d000"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsqlite3S.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "5101330",
+    "digestSHA512" : "cLZW81LE5xqCPFI/a6tI4h7ePqs02hVU8AccOA86fTT1x+Af/uuuE33ese5FnDUxms3Am3Sw6o98hmPLXWgptg=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsqlite3S.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "10041952",
+    "digestSHA512" : "iaS+xZ9AGj5wkyUuRVKpwa1Rsq0vyCqMe265rsERT4ZIdNMKC5bL/8Ric3KCCGVoLNRZLijPKEYDEpmXtKioLQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsqlite3S.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "10078790",
+    "digestSHA512" : "UAudqC4ejc2XrkiQ/TStiey/GVpk3r6nJoWUzRzImd0sjY/6+n8q6L3xy0G39RiHBvHR8vIzU1xadUIT6RglWw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsqlite3S.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "3552940",
+    "digestSHA512" : "eAhXFoeLNk1Z4t4LM/aWnf5zPeo68JQSssXgDkNIErdSvv+oG6rl2db/NuQl0/qmiul9UUAc0vOUJZE/N451ww=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsqlite3-noicu.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1048184",
+    "linkto" : "libsqlite3-noicu.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "brogPFw51/4CqVwNi6Ynpw7PkZAzzJcVDFZuFzHLut94tXto++DbtDppIGGtuClZurEMTAEiqtnZCMfN/0zGBQ==",
+    "buildID" : "be06a50e60ceaca2a6f48897141b681e"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsqlite3-noicu.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "992936",
+    "linkto" : "libsqlite3-noicu.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vQIf6vjrlAmJ5zXqA2vF05IYnVSz8Ti7a9BXhPKbVDgmNNzpnsAJefImIw997F6YA33wSfOKOUyb1YE8Ch+4Rw==",
+    "buildID" : "a4a2685ea188db13f7aa3135d446469c"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsqlite3-noicu.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "894320",
+    "linkto" : "libsqlite3-noicu.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hF8vqqn6hOoxH9R5kQa8fWMC1SVhyy+eMW0nD/la8ljO+F8uUyw0JYfqoqCXd3ompGtSC5k5AfoZELPSZwWEJA==",
+    "buildID" : "c4d278d04e36bae6320521bafd53529f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsqlite3-noicu.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "588968",
+    "linkto" : "libsqlite3-noicu.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HC0BLyEwnbCM8p0zog8V8GPpVd8dv7mozPwnV4A66N/DYfKqWW7Nmcxb1ysgVmSRG3lNk9vKM2sKcUug8jAgfQ==",
+    "buildID" : "a7e6d5ce813e1a805b9291c22cb1fcfc"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsqlite3-noicu.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1048184",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "brogPFw51/4CqVwNi6Ynpw7PkZAzzJcVDFZuFzHLut94tXto++DbtDppIGGtuClZurEMTAEiqtnZCMfN/0zGBQ==",
+    "buildID" : "be06a50e60ceaca2a6f48897141b681e"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsqlite3-noicu.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "992936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vQIf6vjrlAmJ5zXqA2vF05IYnVSz8Ti7a9BXhPKbVDgmNNzpnsAJefImIw997F6YA33wSfOKOUyb1YE8Ch+4Rw==",
+    "buildID" : "a4a2685ea188db13f7aa3135d446469c"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsqlite3-noicu.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "894320",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hF8vqqn6hOoxH9R5kQa8fWMC1SVhyy+eMW0nD/la8ljO+F8uUyw0JYfqoqCXd3ompGtSC5k5AfoZELPSZwWEJA==",
+    "buildID" : "c4d278d04e36bae6320521bafd53529f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsqlite3-noicu.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "588968",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HC0BLyEwnbCM8p0zog8V8GPpVd8dv7mozPwnV4A66N/DYfKqWW7Nmcxb1ysgVmSRG3lNk9vKM2sKcUug8jAgfQ==",
+    "buildID" : "a7e6d5ce813e1a805b9291c22cb1fcfc"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsqlite3-noicuS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "5045434",
+    "digestSHA512" : "0RmdILoCqByCP2prUY3UUGIz8xlwIl49Uw1j2A499c5KJ9EfsfvqwkibAjBnP7AXSUuHrcFHFo+GXvp2XY2cOA=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsqlite3-noicuS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "9946928",
+    "digestSHA512" : "YUprHah7kLf/u5FiyA0+DmSA2velDIrZA1uxD6kYb1NK37JVnNX+uQZhAh5OFVuGuXvlTgHsiYlCkBwQEz1teg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsqlite3-noicuS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "9981062",
+    "digestSHA512" : "IlAcK08LY9pBsM37z6zSqZxaBOg2KVZCVrZNbU4o+KLU/bWga+y76PIZfysT02LedJfCAnqXYYO4XLQInLgrog=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsqlite3-noicuS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "3498664",
+    "digestSHA512" : "I/PjtQUdbZe/GDRGfjtmwHMRSIyTYvLkykQihYREQ9VODCbcx3z30x8kgsACBXkJhtAxl6BAcIfm3a28+KNVSA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_icu.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "22180",
+    "linkto" : "libqdb_icu.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rMq/BnnjQ2RLBDIcq1IKMCjOGiQBjDX2ArcMR95AKcTLOw437zrE84dsvCek4LdeN3CsFLUDCteQEa8hTLu2rg==",
+    "buildID" : "0cb13582b123c35c6b24e4130f8ecee2"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_icu.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "28936",
+    "linkto" : "libqdb_icu.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sjISz8PoAke2sT/Pe1Nu+KRfaYv/4OtPy2Y6vmsvKyQLsXeSlKAV4d+B/qRsFN9CjY4u4KT2G4Scw+3PaOJX7g==",
+    "buildID" : "501ab01f70362ed42f59070cfe0ca539"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_icu.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "24504",
+    "linkto" : "libqdb_icu.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1APoG8WW1iET+fDpMbMp9X9wWILN0f5JA+0XHokvg4LCHyB5L+fBnJTO18g77cxyFC2mBsIzIm+oIGvpHbqrsA==",
+    "buildID" : "4c0babc224d126eba65d9b61bdae1a0b"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_icu.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "18452",
+    "linkto" : "libqdb_icu.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tuayLFSRQY/Lmc6GjXLJg2ba7DHaebFO6E9vwZJC1aCsGMh6/xQcst4e0rMxVzf2iWtofQ+i7ULDNwdvzz/GbA==",
+    "buildID" : "07aa2301c2c7772529f8211e8fff9822"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_icu.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "22180",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rMq/BnnjQ2RLBDIcq1IKMCjOGiQBjDX2ArcMR95AKcTLOw437zrE84dsvCek4LdeN3CsFLUDCteQEa8hTLu2rg==",
+    "buildID" : "0cb13582b123c35c6b24e4130f8ecee2"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_icu.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "28936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sjISz8PoAke2sT/Pe1Nu+KRfaYv/4OtPy2Y6vmsvKyQLsXeSlKAV4d+B/qRsFN9CjY4u4KT2G4Scw+3PaOJX7g==",
+    "buildID" : "501ab01f70362ed42f59070cfe0ca539"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_icu.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "24504",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1APoG8WW1iET+fDpMbMp9X9wWILN0f5JA+0XHokvg4LCHyB5L+fBnJTO18g77cxyFC2mBsIzIm+oIGvpHbqrsA==",
+    "buildID" : "4c0babc224d126eba65d9b61bdae1a0b"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_icu.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "18452",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tuayLFSRQY/Lmc6GjXLJg2ba7DHaebFO6E9vwZJC1aCsGMh6/xQcst4e0rMxVzf2iWtofQ+i7ULDNwdvzz/GbA==",
+    "buildID" : "07aa2301c2c7772529f8211e8fff9822"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libqdb_icuS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "51464",
+    "digestSHA512" : "HJxpUxLKiXs+2QUGjN0vBqpOTcPbaTGxmu8vRvDlrEEnp6u1DRl5PKDGr1YfzYIufWsFP1QsYDb45g0xP5wdPw=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libqdb_icuS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "73806",
+    "digestSHA512" : "sHHItFU2U+iD1UFYc/eCNrE0amvsDgtvzmtoA4mFSKYRfnOJy6m0kF84VufyNZx4zkaBxKjZpEA0ANuEFpYXag=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libqdb_icuS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "73726",
+    "digestSHA512" : "Nf9tSKBKjB6Eaq1A7bcm3jk+7MqLsXJqEj3qoSTcroPqwsaiJXXGTUc9vxs/aZdZI/3fEJqDGyETlfdFVd1WeA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libqdb_icuS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "49530",
+    "digestSHA512" : "fvblsJiLj7Ef0x04C5IkJQT/c5Spk/AQOMJBp8VwXxX+7su3XZjnyiEaht7JgHLHndaEhJBIkMTV+MrfdJ5wrg=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/cs_CZ",
+    "runtime" : "true",
+    "size" : "24856",
+    "digestSHA512" : "jp3u+9Lvo6Zd5ABFIMSb6sHDb8vk9L9KsoIyk3UZBRntXBFHOCn8ZCvmjQNwX8GGeVoN++DosZWo8BR6nFp0Ng=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/da_DK",
+    "runtime" : "true",
+    "size" : "24744",
+    "digestSHA512" : "GP+eGWsqt0Q4y7d2sb40WJlIgkNNPMyoX9Go8/4UuDqdVu/3phl7DRZIbiVmpCEmWOXJ2iva4CufcCjVC6CQWA=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/de_DE",
+    "runtime" : "true",
+    "size" : "24832",
+    "digestSHA512" : "BkuJSivDpCcjUsbs5swGcWgT/ds7IZG7ve4RYxlXp/YYcwYyj1tb+LLG7FQaCS5NgsjuB+ekDFl44P+mrOctHg=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/en_US",
+    "runtime" : "true",
+    "size" : "24832",
+    "digestSHA512" : "LJbi32MJHl0n3RWvE9Xwcl7grDyO1flwYV0OKzl+3wmEfh5uYLcGmywZpMGpIjU5uXAyJJyM/k+GGqaP+rIdCA=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/es_ES",
+    "runtime" : "true",
+    "size" : "24800",
+    "digestSHA512" : "jiD73H5azP5AhKIUZUZ2e7+NLz4gjGuyF3Us3OzWjJUJIAfQQr1HG8NSO2Wsk+ZidlNBVmRv7yqK7w8Npzf36A=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/fr_FR",
+    "runtime" : "true",
+    "size" : "24832",
+    "digestSHA512" : "W7kkVOs1mbY68/Cz+xP60z3OmJ1wOyhHPqJh+uP+kx7ZHdm0bkAR5TKg5foZqTaPXUIJlcoHemie8HuxkP77vg=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/it_IT",
+    "runtime" : "true",
+    "size" : "24832",
+    "digestSHA512" : "obBOwb6OrbGNo7iRtpAsYtqE5p3WCXMCaRXC/kAep59HmJExOccKP+4IgYedTy88j/NhrAPwUN6E1xi+02ihLA=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/ja_JP",
+    "runtime" : "true",
+    "size" : "202484",
+    "digestSHA512" : "P4cdAoxC4xcylHRXj5f2Patr8LffZ7Ik91v+igZzozp0U/E54eia6Y0lTM5FCuXff2lP4Io+QkbMiXf44bNBPA=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/ko_KR",
+    "runtime" : "true",
+    "size" : "747736",
+    "digestSHA512" : "n1ISNFbFYwdCKJ4UWwgJvUfHA8zDKWetIK5ex6eLR2TAOZnihvf267sBLoJ6eJDGCHq8NbR1NApXRPsAl1YWiA=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/nb_NO",
+    "runtime" : "true",
+    "size" : "24608",
+    "digestSHA512" : "7AuJhnflvaSUjunpO6yMYN3z6FTGFpGLVbTXskq2pcLmfSDfKY0Dsd8BeN9No6Zx7TszVh1S6TvTNIvuHl6Eug=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/sv_SE",
+    "runtime" : "true",
+    "size" : "24608",
+    "digestSHA512" : "aY8KzZsBd/KjDGGgTjDthvtERLDIt6oQD2/1wt0WSnslwZSNR6IiPvKHPDZ46SN+Py3aGwhH8PdPjHOONffzdA=="
+  }, {
+    "name" : "target/qnx7/etc/cldr/zh_CN",
+    "runtime" : "true",
+    "size" : "183520",
+    "digestSHA512" : "mlbs4aBUVCLDKizCeWESg7erUHtS9kuD+Je5widYPndytviBgn7ypATONzxg2uKlyAHf7paKfsdPxMWHzo7d5w=="
+  }, {
+    "name" : "target/qnx7/usr/include/qdb/qdb.h",
+    "runtime" : "false",
+    "size" : "11082",
+    "digestSHA512" : "txvIEyq2SOgV/2YaanMElfsBKqJJ44V8TP4C8k/y9ntXjT4w/Kcyk1jOCHH4x57baMkgt41+yoly9d/PKYqB2w=="
+  }, {
+    "name" : "target/qnx7/usr/include/sqlite3.h",
+    "runtime" : "false",
+    "size" : "493905",
+    "digestSHA512" : "bSYSoO2wt7FiPYpA8BkVj++owut7kK904+VhuIfpsYhLK0Q1UAB5V/TvqgByr+jxB67WqmJV4t6t1L59XNhsTg=="
+  }, {
+    "name" : "target/qnx7/usr/include/sqlite3ext.h",
+    "runtime" : "false",
+    "size" : "30220",
+    "digestSHA512" : "JAdXoXu9qGWdl4k19wvlwwy13VpC2CUDYBgBGwVIQchXLTlYWHNHBXy92yRoNmHXRXQjis8gRmTEI+1Rt/71FA=="
+  } ]
+}

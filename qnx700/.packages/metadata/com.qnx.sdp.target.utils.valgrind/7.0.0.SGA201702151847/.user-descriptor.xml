@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <shiplist>
+<id>com.qnx.sdp.target.utils.valgrind</id>
+<name>Utilities - Valgrind</name>
+<category>OS Utilities</category>
+
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/cachegrind-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/callgrind-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/drd-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/exp-bbv-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/exp-dhat-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/exp-sgcheck-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/getoff-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/helgrind-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/lackey-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/libcoregrind-arm64-nto.a" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/libreplacemalloc_toolpreload-arm64-nto.a" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/libvex-arm64-nto.a" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/massif-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/memcheck-arm64-nto" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/vgpreload_core-arm64-nto.so" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/vgpreload_drd-arm64-nto.so" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/vgpreload_exp-dhat-arm64-nto.so" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/vgpreload_exp-sgcheck-arm64-nto.so" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/vgpreload_helgrind-arm64-nto.so" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/vgpreload_massif-arm64-nto.so" />
+  <file name="target/qnx7/[ARCH:aarch64le]/usr/lib/valgrind/vgpreload_memcheck-arm64-nto.so" />
+
+  <file name="target/qnx7/[ARCH:armle-v7,aarch64le]/usr/lib/valgrind/arm-core-valgrind-s1.xml" />
+  <file name="target/qnx7/[ARCH:armle-v7,aarch64le]/usr/lib/valgrind/arm-core-valgrind-s2.xml" />
+  <file name="target/qnx7/[ARCH:armle-v7,aarch64le]/usr/lib/valgrind/arm-core.xml" />
+  <file name="target/qnx7/[ARCH:armle-v7,aarch64le]/usr/lib/valgrind/arm-vfpv3-valgrind-s1.xml" />
+  <file name="target/qnx7/[ARCH:armle-v7,aarch64le]/usr/lib/valgrind/arm-vfpv3-valgrind-s2.xml" />
+  <file name="target/qnx7/[ARCH:armle-v7,aarch64le]/usr/lib/valgrind/arm-vfpv3.xml" />
+  <file name="target/qnx7/[ARCH:armle-v7,aarch64le]/usr/lib/valgrind/arm-with-vfpv3-valgrind.xml" />
+  <file name="target/qnx7/[ARCH:armle-v7,aarch64le]/usr/lib/valgrind/arm-with-vfpv3.xml" />
+
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/cachegrind-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/callgrind-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/drd-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/exp-bbv-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/exp-dhat-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/exp-sgcheck-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/getoff-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/helgrind-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/lackey-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/libcoregrind-arm-nto.a" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/libreplacemalloc_toolpreload-arm-nto.a" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/libvex-arm-nto.a" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/massif-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/memcheck-arm-nto" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/vgpreload_core-arm-nto.so" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/vgpreload_drd-arm-nto.so" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/vgpreload_exp-dhat-arm-nto.so" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/vgpreload_exp-sgcheck-arm-nto.so" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/vgpreload_helgrind-arm-nto.so" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/vgpreload_massif-arm-nto.so" />
+  <file name="target/qnx7/[ARCH:armle-v7]/usr/lib/valgrind/vgpreload_memcheck-arm-nto.so" />
+
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/cachegrind-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/callgrind-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/drd-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/exp-bbv-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/exp-dhat-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/exp-sgcheck-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/getoff-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/helgrind-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/lackey-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/libcoregrind-x86-nto.a" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/libreplacemalloc_toolpreload-x86-nto.a" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/libvex-x86-nto.a" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/massif-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/memcheck-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/none-x86-nto" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/vgpreload_core-x86-nto.so" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/vgpreload_drd-x86-nto.so" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/vgpreload_exp-dhat-x86-nto.so" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/vgpreload_exp-sgcheck-x86-nto.so" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/vgpreload_helgrind-x86-nto.so" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/vgpreload_massif-x86-nto.so" />
+  <file name="target/qnx7/[ARCH:x86]/usr/lib/valgrind/vgpreload_memcheck-x86-nto.so" />
+
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/cachegrind-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/callgrind-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/drd-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/exp-bbv-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/exp-dhat-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/exp-sgcheck-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/getoff-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/helgrind-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/lackey-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/libcoregrind-amd64-nto.a" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/libreplacemalloc_toolpreload-amd64-nto.a" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/libvex-amd64-nto.a" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/massif-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/memcheck-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/none-amd64-nto" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/vgpreload_core-amd64-nto.so" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/vgpreload_drd-amd64-nto.so" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/vgpreload_exp-dhat-amd64-nto.so" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/vgpreload_exp-sgcheck-amd64-nto.so" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/vgpreload_helgrind-amd64-nto.so" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/vgpreload_massif-amd64-nto.so" />
+  <file name="target/qnx7/[ARCH:x86_64]/usr/lib/valgrind/vgpreload_memcheck-amd64-nto.so" />
+
+  <file name="target/qnx7/[ARCH]/usr/bin/valgrind" />
+  <file name="target/qnx7/[ARCH]/usr/bin/valgrind-di-server" />
+  <file name="target/qnx7/[ARCH]/usr/bin/valgrind-listener" />
+  <file name="target/qnx7/[ARCH]/usr/bin/vgdb" />
+
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/32bit-core-valgrind-s1.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/32bit-core-valgrind-s2.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/32bit-core.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/32bit-sse-valgrind-s1.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/32bit-sse-valgrind-s2.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/32bit-sse.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/64bit-core-valgrind-s1.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/64bit-core-valgrind-s2.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/64bit-core.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/64bit-sse-valgrind-s1.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/64bit-sse-valgrind-s2.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/64bit-sse.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/default.supp" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/i386-coresse-valgrind.xml" />
+  <file name="target/qnx7/[ARCH]/usr/lib/valgrind/i386-linux-valgrind.xml" />
+
+</shiplist>

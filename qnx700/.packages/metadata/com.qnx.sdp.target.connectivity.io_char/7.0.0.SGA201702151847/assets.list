@@ -1,0 +1,12 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.connectivity.io_char/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/usr/lib/libio-char.a
+target/qnx7/x86_64/usr/lib/libio-char.a
+target/qnx7/aarch64le/usr/lib/libio-char.a
+target/qnx7/armle-v7/usr/lib/libio-char.a
+target/qnx7/x86/usr/lib/libio-charS.a
+target/qnx7/x86_64/usr/lib/libio-charS.a
+target/qnx7/aarch64le/usr/lib/libio-charS.a
+target/qnx7/armle-v7/usr/lib/libio-charS.a
+target/qnx7/usr/include/sys/dcmd_chr.h
+target/qnx7/usr/include/sys/io-char.h

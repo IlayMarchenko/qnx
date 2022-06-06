@@ -1,0 +1,79 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.connectivity.io_char/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "516",
+    "digestSHA512" : "GcojljhAFujs5aVMPt07sd5YFWwAP/WzqXD+qptl5BlJkc6QYG+eHlndwh7p70QuWGp/oIbkIjIbP1XKE7hquA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.connectivity.io_char/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "528",
+    "digestSHA512" : "cU4CJ6t61h+lFvqlt7WkARxZ9ey/gKNUzILw9UO2yMW/T/ddB9WvD93R4xrHmBsmmUQClOtVKs/RtUkAXbUCCg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.connectivity.io_char/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "403",
+    "digestSHA512" : "pVjNq9t77cCfCZKcPwggbpN0UQ++Ceyy3KLBab02OiQ1y9EKJgLPPow4D8giI8DpaUL+KRJTZUBRBgIbXE2ERA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libio-char.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "1008746",
+    "digestSHA512" : "0WuzzKFYDyEXaW5GEvLL+l0EeoAqX/mN3aLe7fS1K8MC4sNRvankSCM2+pSPVMfStaHinKRnKpwHwdmTk+pJQw=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libio-char.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "1408748",
+    "digestSHA512" : "sWewt6QhY4K4apKO3zq1jh4HZqjdcM9Or2MKvacR+Sk2tV6Zqo9NWr+l1WbRteHoDeZ6tHF9X63GNnLFS/GfSg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libio-char.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "1404308",
+    "digestSHA512" : "E0cgYPBE94lbK1YCMNv3OF3qo80fAbEhG+KJqW3+ecdmTjC9OCRmsWc3mfwFVgRmcgpbd6SwkNcAgLOd0YdQcQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libio-char.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "983936",
+    "digestSHA512" : "s0N4A7GuRdFovziqAfmp0h0v4gF0lM6VmlzQQMvwkin30uQhrCzI00TqBlGv4hMiQynY2sK6ynEsH5sWm0DBmQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libio-charS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "1008748",
+    "digestSHA512" : "vy1v+ZAxQXj+jp2Zd6Zy0leCQzQFchGv9nz8GEj9GM4t7NaStAPH/EP9MFMUej5nrl/i94fIIBW2I3f9diTN7g=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libio-charS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "1409644",
+    "digestSHA512" : "e0fWEgCPAMp44fjLc5G+V/7FQuttdh8Xf2Vte10V+vfUAxhcs0Y5e0HpZa8zS43NkvuiOieqvLjP2as1pQzG7Q=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libio-charS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "1404988",
+    "digestSHA512" : "N3U0FdMODtwJw3k2BO6W7/RB1YziBLzHqPyDgiapn0hlav2tsta4SFRwtfnnjXgJs8z/XGeMbRqLfp0iBBkSfQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libio-charS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "985408",
+    "digestSHA512" : "0BiMHZLtyA9EoYx26kTfMneXV6tx7NnP+J/0dYfuC+LBnvNiev/qnE4pRZ6e5gbbPdbuuq8woh1uuL6bndRu9g=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/dcmd_chr.h",
+    "runtime" : "false",
+    "size" : "15724",
+    "digestSHA512" : "Wmmc3da2f6yKNdaKp+v5NHCkcoswCFUW2EPPAY+2s0fPkplU9UYgdn9rn7Sx2EdwrJlAMBkWTdMIyTeZ6125EQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/io-char.h",
+    "runtime" : "false",
+    "size" : "11571",
+    "digestSHA512" : "h5b06ZtmhVdxBcxLb1JOZcuClDWHBpYW4Fds89iHZOwZPvjXROHvbVXvSn6ic0u4uE4SgR2Vz+PrN/fbEj6y6Q=="
+  } ]
+}

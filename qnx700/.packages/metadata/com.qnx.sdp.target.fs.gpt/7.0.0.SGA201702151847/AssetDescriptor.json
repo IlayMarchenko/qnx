@@ -1,0 +1,147 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.fs.gpt/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "583",
+    "digestSHA512" : "u933G1GHaSYDOPcHYvRQLiE5D9nzVxPBd0PRW6UbAbMciGvnyI7Z852oY+J/MFu/TZ/6PW9MTITieTcSiAPGNg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.fs.gpt/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "778",
+    "digestSHA512" : "fKsnZdOPoo+bDe2R7SF+CoWDkTp0BS83RCmcuEt/Yfs/z9sNJNnP1KZe3ugiIMAlVLvlPhxWnXxWXHNsvu+Udg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.fs.gpt/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "487",
+    "digestSHA512" : "r4NcYzfKur+sUIRFzkWjj/7hJwqlrEU7nUptlNUUutHI81+DXK0XkKuzJ+e5/q4o5y3pslb2O5CdFvkWEBWOQQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libgpt.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "75034",
+    "digestSHA512" : "U/9GL5tkqCRdONZfEfqQvXzhwMk5TaK5Q4udkV8To3QqhpEyITG5JrTmgAl7YUe/W3XfBpwqQFKcmU3QBGAeHg=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libgpt.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "97076",
+    "digestSHA512" : "HL3J0IvRzcGrHhhgIDQOUwC7pHpsLUaYH+BJ614if7BV5fMOU8d+sItLqhIkpDVA+/BEim+VVTopPHJOZZzypg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libgpt.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "97988",
+    "digestSHA512" : "kYj2tTdk3zlXSwxzkK6Fnh8emoa7bx1Kfr9IQcsjv2OQOdRGh/XhY1005EoIT6Tbiz5jAd7QEqcYN6HS6qF1Yg=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libgpt.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "69956",
+    "digestSHA512" : "hYGqwnFEA/P4FOPcc9v3GfhoToO2r+sIqCPwXv3iwOkDWrwt8MIZqcUtKmcFAc7Peu3fpZoZcsR5cNcBB01pHw=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libgptS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "73118",
+    "digestSHA512" : "sFl7+CmXg2Jubk51ZNIDOT+4IaR7W++xtUKQOPgBuj/bp2aVP/K4/Ebv2iQHFsDMI3Q9WpdjuD7Cf42ddvAdnA=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libgptS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "95468",
+    "digestSHA512" : "Rj6pFg5V3xhXi8oJb7q/Ne9ig3VwRoDDEM5seU18xNV66jewLIqG0hHlTS6k5BxtlPsZbh78ica1NH/8ld512A=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libgptS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "96172",
+    "digestSHA512" : "kB6JPhSvDuxiEsD1Kt51lbbJLFAOTZXuKNklIXIqk9ry/02TNm6S34K1ghvmESQOtUD30fzUuSwaN3c0JvIvyg=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libgptS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "70196",
+    "digestSHA512" : "f8WWK/L+/cg6/kjFSr3MkKZL6JAwXRyOMJvqE7KiQJiS6SdFUXMpEvfpRwL6lwpsk2WgS8xG3WOoLJ/9+ByOew=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libgpt.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "27720",
+    "linkto" : "libgpt.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9mvuKs1MJ4H3RfeDx85rwIhHr8PrULFddxkbJjo040SQg2Whhj0YAJn1dGhWasamurCdhgOzJapRAUT50FmQqA==",
+    "buildID" : "d98fdca4767e04ad3b0d8f2ae83ab4e0"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libgpt.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "29368",
+    "linkto" : "libgpt.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kGRPc1HsonBZeJFeAeg4KijLQGlIzleupNdenh+cHuj26cFiu+g9SHhJWKJ8ltVW5WtE6hzBEyQyNUNqrMcKfA==",
+    "buildID" : "3e4d3aef6a7290d871be84598cfa7338"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libgpt.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "29944",
+    "linkto" : "libgpt.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "suzCNpJFqLUXEXzgNbuhS0aLHHFHqwpBkjypbXHjh49eiXuY75U3n1C8I3ycFXP4/FJl1TqIoXxxDG8WGuh+Bw==",
+    "buildID" : "9aeda3d7586e9229420c77e44e9683e4"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libgpt.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "20620",
+    "linkto" : "libgpt.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RDnaRNbNaB/5vLpV+fcmD1lL7e+iD+Pr4OBODmyjnrrvlrmEVIcqOEvLW07/c2CS0OAtK8gi+GmUZt4p+JpPRA==",
+    "buildID" : "6b9a14f633fe5c7fa135d6a502812230"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libgpt.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "27720",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9mvuKs1MJ4H3RfeDx85rwIhHr8PrULFddxkbJjo040SQg2Whhj0YAJn1dGhWasamurCdhgOzJapRAUT50FmQqA==",
+    "buildID" : "d98fdca4767e04ad3b0d8f2ae83ab4e0"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libgpt.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "29368",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kGRPc1HsonBZeJFeAeg4KijLQGlIzleupNdenh+cHuj26cFiu+g9SHhJWKJ8ltVW5WtE6hzBEyQyNUNqrMcKfA==",
+    "buildID" : "3e4d3aef6a7290d871be84598cfa7338"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libgpt.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "29944",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "suzCNpJFqLUXEXzgNbuhS0aLHHFHqwpBkjypbXHjh49eiXuY75U3n1C8I3ycFXP4/FJl1TqIoXxxDG8WGuh+Bw==",
+    "buildID" : "9aeda3d7586e9229420c77e44e9683e4"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libgpt.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "20620",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RDnaRNbNaB/5vLpV+fcmD1lL7e+iD+Pr4OBODmyjnrrvlrmEVIcqOEvLW07/c2CS0OAtK8gi+GmUZt4p+JpPRA==",
+    "buildID" : "6b9a14f633fe5c7fa135d6a502812230"
+  }, {
+    "name" : "target/qnx7/usr/include/gpt.h",
+    "runtime" : "false",
+    "size" : "11083",
+    "digestSHA512" : "m47S32+BTvRDCd75v1RV1rmiSngTqAe62Tuz5tpgWJF9ZZqJ1IcSjaUgd2oy1n2rX+hL+PRK1fVLmZGzz35y6g=="
+  }, {
+    "name" : "target/qnx7/usr/include/gpt_guid.h",
+    "runtime" : "false",
+    "size" : "22778",
+    "digestSHA512" : "ZlcT+Wso6usXWEjPDV7QMYX9Vymypf4QfqXlK1kcL7mtAbvRv9qijr+naqWoTvqofUWlAyGBsC6tlR/i8Q9S+w=="
+  } ]
+}

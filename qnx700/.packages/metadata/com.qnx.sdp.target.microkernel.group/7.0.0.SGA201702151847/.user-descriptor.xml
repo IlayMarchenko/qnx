@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.microkernel.group</id>
+	<name>Microkernel</name>
+	<category>Microkernel</category>
+	<includes component="true">
+		<file name="kdumper.xml" />
+		<file name="kernel-libc.xml" />
+		<file name="slogger2.xml" />
+		<file name="tools.xml" />
+	</includes>
+</shiplist>

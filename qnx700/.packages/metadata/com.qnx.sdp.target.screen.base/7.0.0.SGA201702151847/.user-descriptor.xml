@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen.base</id>
+	<name>Screen Base Graphics</name>
+	<category>Base Graphics</category>
+	<includes component="false">
+		<file name="base-graphics.xml" />
+	</includes>
+</shiplist>

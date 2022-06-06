@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.screen.board.imx6",
+  "name" : "QNX® SDP 7.0 Screen Board Support i.MX6x",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "Screen Board Support",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "provides" : [ "library: screen-imx6xbuf.so", "library: screen-vivante.so", "library: libCLC.so", "library: libEGL_viv.so", "library: libGAL.so", "library: libGLES_CL_viv.so", "library: libGLES_CM_viv.so", "library: libGLESv2_viv.so", "library: libGLSLC.so", "library: libGalcore.so", "library: libOpenCL.so", "library: libOpenVG_viv.so", "library: libScreenBlit.so", "library: libVSC.so", "library: libWFDimx6x_g.so", "library: libimx6xCSCgamma.so.0", "library: libwfdcfg.so.0", "library: libWFDimx6x.so", "library: libcapture-board-imx6x-no-decoder.so.1", "library: libcapture-board-imx6x-sabreSMART.so", "library: libcapture-soc-imx6x.so" ],
+  "requires" : [ "library: libscrmem.so.1", "library: libmemobj.so.1", "library: libc.so.4", "library: libm.so.3", "library: libscreen.so.1", "library: libsocket.so.3", "library: libGAL.so", "library: libVSC.so", "library: libc++.so.1", "library: libEGL_viv.so", "library: libGLESv2.so.1", "library: libEGL.so.1", "library: libwfdcfg.so.0", "library: libimx6xCSCgamma.so.0" ]
+}

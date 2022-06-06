@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.bsp.sdio</id>
+<name>BSP - SDIO</name>
+<category>BSP &amp; Drivers</category>
+    <includes component="false">
+        <file name="all-sdio.xml" />
+    </includes>
+</shiplist>

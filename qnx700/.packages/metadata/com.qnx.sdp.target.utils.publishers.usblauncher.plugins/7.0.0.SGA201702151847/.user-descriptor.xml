@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.utils.publishers.usblauncher.plugins</id>
+<name>USB - plugins</name>
+<category>USB</category>
+<file name="target/qnx7/[ARCH]/lib/dll/pubs/pp-audiocd.so" />
+<file name="target/qnx7/[ARCH]/lib/dll/pubs/pp-dvd.so" />
+<file name="target/qnx7/[ARCH]/lib/dll/pubs/pp-generic.so" />
+<file name="target/qnx7/[ARCH]/lib/dll/pubs/pp-mediafs.so" />
+</shiplist>

@@ -1,0 +1,241 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.ham/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "613",
+    "digestSHA512" : "l5tXRzDNg/n0nXfvApMg/3LmpG4ufuHtB7xBh/iIm9BkhmxDQu0jh04c5agArLJIwfR/cDHtXgWJkwfrt9/zgA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.ham/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1274",
+    "digestSHA512" : "OmcoxQjfN8CnfUWj6rMDUUXZBcpT1+XPTqh888JwIPbRiAsH9tOArKHDb3E/b55ZWMMGSPU2ka+QHL3AcVTl9w=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.os_services.ham/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "1059",
+    "digestSHA512" : "ORFk5BpyAH35rUnKOsMMqxU197SHVLwgoMXnvwvKkqEmZW8iFKZoQ8/wlLCub1VzlrrzFcq2W+Pk0rCt+A7FCQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libham.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "696888",
+    "digestSHA512" : "+Ztbm4YIY5gZvVe3jTy26CS5MkqUc/tybCKUcrEcYDbi5Wwnk3Zm8jN6JftP9RPULSEgCXMtqfsO9Ayw+V0YqQ=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libham.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "872700",
+    "digestSHA512" : "5UW5Jv9VwQaY39cAZ5VrCMkNluTP/HHk8t1Toj9vGljLf/57pb0MHj2NSlNtjJdvcizCeT5Wz/H5MSZ9N1imDA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libham.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "879436",
+    "digestSHA512" : "GD/O4ZFs8nE1oIGJALtJ0BBNy53u/Qx4xUnaVxeGPeGVg06Uq5oYmegKPpkAZY/rLRFc1kcvuf1VVjH+WdB90Q=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libham.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "692404",
+    "digestSHA512" : "yV+/Ru4tWrhwgdTliPdUFGkez/I5YIhN4dF15YoASMhqN67HZETX3cYMJTonCMZEfIPABxwcmy90YXjvcCv6UQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libham.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "66440",
+    "linkto" : "libham.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rqr1nag1ylLPq32ZICko2h/eXn6PoJCtdOlTvvYzH45G43A48085nmnCpo0ubM4saSHfyRbti7qgMEvYgRR8rQ==",
+    "buildID" : "f654429c6b8aba2f4f33d94f5e41c01e"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libham.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "60920",
+    "linkto" : "libham.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Tpd4lBALM7bsKladUtiNbGwMIxsAicMrBCCYoVoGC3YVvJMT6G/GMLlumIQyPcEkOZMvskKOIt1mXuFDnx7jtQ==",
+    "buildID" : "4cc2c1b50fb7d7596ed0489cb405946b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libham.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "58464",
+    "linkto" : "libham.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "H/dLhPlW96uox4rt3OUEm8+3sLD/Vj+gmWTCDQfT7UmZZ7LedecWvjtbxqkd6pYq1gfmxAgeQPQRCq2Qsraqrg==",
+    "buildID" : "f74903dbaa614efae283827763cc86bf"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libham.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "41188",
+    "linkto" : "libham.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uE1lvrd4o2P9vYxG0RQ+15UrDU2x8yWSZeHp8ez/7izL3rIr+Pb/0FdqMwiWs1Cbk5YP/ZLXEWiVV1qrUwkWYQ==",
+    "buildID" : "b6b83d46d54b187235b5ad28285f2d6f"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libham.so.2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "66440",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rqr1nag1ylLPq32ZICko2h/eXn6PoJCtdOlTvvYzH45G43A48085nmnCpo0ubM4saSHfyRbti7qgMEvYgRR8rQ==",
+    "buildID" : "f654429c6b8aba2f4f33d94f5e41c01e"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libham.so.2",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "60920",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Tpd4lBALM7bsKladUtiNbGwMIxsAicMrBCCYoVoGC3YVvJMT6G/GMLlumIQyPcEkOZMvskKOIt1mXuFDnx7jtQ==",
+    "buildID" : "4cc2c1b50fb7d7596ed0489cb405946b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libham.so.2",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "58464",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "H/dLhPlW96uox4rt3OUEm8+3sLD/Vj+gmWTCDQfT7UmZZ7LedecWvjtbxqkd6pYq1gfmxAgeQPQRCq2Qsraqrg==",
+    "buildID" : "f74903dbaa614efae283827763cc86bf"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libham.so.2",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "41188",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uE1lvrd4o2P9vYxG0RQ+15UrDU2x8yWSZeHp8ez/7izL3rIr+Pb/0FdqMwiWs1Cbk5YP/ZLXEWiVV1qrUwkWYQ==",
+    "buildID" : "b6b83d46d54b187235b5ad28285f2d6f"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/ham",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "135432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/hxKXg8AniAlwgO4XDODPpURPLBwdBRnBW88/r8O1gWYuuG5N0CKuY9pbzsc5OOuneP56THswpEKY1LKTHMLdw==",
+    "buildID" : "68e7a3e292ae97ef23ffe8f41ebcc2fb"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/ham",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "122248",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jXPV9nytCHcc6wUeey2l3uk2TOimWCtGYXjN7kYJDX5q1ck0dSpToT8MTSldq2E21XLIF729M3RH9TQjh5ifLg==",
+    "buildID" : "b585ee705b04023bd5e61f3664f912d3"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/ham",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "119184",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "o0mgDFNOqsNIQ8Xw/JiUdTcC7rdekx63MFa7f9K8tvLSKUSUPpc6N6vIVTn3VEiG1+wuokHtyHRazgvahnLpng==",
+    "buildID" : "4c6d3f8a2a3cb9e1eb614f0878e4a51f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/ham",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "87200",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lvU/jDHYUGMaxIOC86CNSm+OSkBV+wmnLibKnGY+8n323PbpcWVx9Lk0TypOthZ9y6OCox8yaBvbzBc5SgYTkg==",
+    "buildID" : "80af9b690040b6b790ed424b423efe13"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/hamctrl",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12224",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "WWQaleeBsVLgg4M8kTjuSAVDQbJ/zWRq41JAAzDLSRyrQTkOD3UDDtggKmxa7UcKB6xbj+jr6DcIqWHwIUgb8g==",
+    "buildID" : "cbd10c5beb19f590bc7e54d2afe65589"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/hamctrl",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13464",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "R1eOG5XrG8/f4Ki1j1uGOtx1J2kzvXKXeXFCTPeymd466HRZZYEfAXooxTI375pWrcqkZFSI9284DWfIZPNRmg==",
+    "buildID" : "819a7a407e856a3ad60233c27d863bea"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/hamctrl",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "13832",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qmwaw2HM3prNyCu6rRYRz6alrvYnvhS/XM9WV1fuOx/DZ9CwVlsF6N1yMVEN553jNTLHqYK1MEIDAWtjeQJEWg==",
+    "buildID" : "015dbd1638ab35ec7ec4705345151426"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/hamctrl",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "9016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dWiiRvQbKJly2IotHqYf76KPRoBzyeuPQrry7CxO95FOV5Y08bsZmCSZSQUFIyjzPJzqaVhjPPGIMtCsugshFg==",
+    "buildID" : "0a29c3c625ddc43b7f0a77bbbf2f6749"
+  }, {
+    "name" : "target/qnx7/usr/include/ha/ham.h",
+    "runtime" : "false",
+    "size" : "11388",
+    "digestSHA512" : "gTMc2YXzVHPHkZPfm4vHiNXFn2ACZTGk67it4F7RP2vAcOg5hPQv9FPhV2ZBrCrJY6hqXzfLRQ8632HbjgohFg=="
+  }, {
+    "name" : "target/qnx7/usr/include/ha/ham_msg.h",
+    "runtime" : "false",
+    "size" : "13284",
+    "digestSHA512" : "QozQGIweABCyyBa5NZplUAwFiE5DkuTWa5TXFiHc7HNPx603XFHjoC+CHR9gaQESSoWQLDzcq7wyjnzkfeuKVw=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libha.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "678968",
+    "digestSHA512" : "KYLOHUDU1WPkRrFpLgGgO38YwoYdo2n+2KuLhS02kPIttqU1123wor+wGAburWXgPsXBobId12ncd9a5KF2v3Q=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libha.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "816422",
+    "digestSHA512" : "KUbFKQ9LrsWOnBgZ44sjt3VGkpNdVhSVHwtwADJv6EISmNV1m6fUDcVkHppUY32smU834DjBBI3MQHG5/JhWqA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libha.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "815198",
+    "digestSHA512" : "SZopsQfcgNaIZ6WBaxEs1qC1miVO0jBdzsR3ynYxVQhaUHjpbYDKAcO0/afrCZNOnuQ/zRZFwR7UdYfPXmS2vA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libha.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "684814",
+    "digestSHA512" : "CFIaNYd2t64f3OpZuGwuYgwlGOilZzOkcjD5DJ6dcCALxMnm5xUb98Q1uF6hlUjm0gqY0QHtkSWfIa72xSv4yA=="
+  }, {
+    "name" : "target/qnx7/usr/include/ha/cover.h",
+    "runtime" : "false",
+    "size" : "1645",
+    "digestSHA512" : "TuQsxe0WYWgiW+k4x1hnxAeMKcK9IGbugqUPiCFtmUHkUGwcRkSmPHp9P2Y1r2DqjSAfdJGXMFD55T5nRVMzrQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/ha/fcntl.h",
+    "runtime" : "false",
+    "size" : "1920",
+    "digestSHA512" : "/LOQx5BcBog3EYUWgIag4+yjQtr2FrPh3sHjW1cNAMrzPVunVlcTHqAkYJnOYFRWJHIjmxXHOHQ1+EajTgngjw=="
+  }, {
+    "name" : "target/qnx7/usr/include/ha/neutrino.h",
+    "runtime" : "false",
+    "size" : "1792",
+    "digestSHA512" : "KqR5jdta3K84IN9Tbh1BDDeqr46f8MM3cW0MSQZ7iRFvyyyeaCy4D7lkB2D7k3nv/wfOlZm0p/3l9c1Djxh7jA=="
+  }, {
+    "name" : "target/qnx7/usr/include/ha/stdio.h",
+    "runtime" : "false",
+    "size" : "1465",
+    "digestSHA512" : "wv5uyts3hmCzaYPdcMoAcZBQ7WrdHXckktDCtJ0EEjqob2com7hiEOW3anwQnYbIqhoqCakIWwrboOQiXefXEw=="
+  }, {
+    "name" : "target/qnx7/usr/include/ha/types.h",
+    "runtime" : "false",
+    "size" : "1510",
+    "digestSHA512" : "4D1FVlUGp2shrnjq3e6hE9CbMi8AvmaxxQNioDASG6M9HqJ8Ne9MmdQxZXHhBlMppFV+f+wc1Jc1SOtARCMesw=="
+  }, {
+    "name" : "target/qnx7/usr/include/ha/unistd.h",
+    "runtime" : "false",
+    "size" : "1234",
+    "digestSHA512" : "7f2krL0+ZN+0gygqanzFOm6j9Ob0D78dPAszAabt1oSgQvj/2O6NTbZY/5BuM85Y2lWbXHO4q51feXmX6y/35Q=="
+  } ]
+}

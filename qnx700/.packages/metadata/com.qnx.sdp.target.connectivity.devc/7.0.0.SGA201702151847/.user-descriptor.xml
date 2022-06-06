@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.connectivity.devc</id>
+<name>Connectivity - Serial</name>
+<category>Connectivity</category>
+<file name="target/qnx7/x86/sbin/devc-con" />
+<file name="target/qnx7/x86_64/sbin/devc-con" />
+<file name="target/qnx7/x86/sbin/devc-con-hid" />
+<file name="target/qnx7/x86_64/sbin/devc-con-hid" />
+<file name="target/qnx7/[ARCH]/sbin/devc-pty" />
+<file name="target/qnx7/[ARCH]/sbin/devc-ser8250" />
+<file name="target/qnx7/[ARCH]/sbin/devc-serpci" />
+<file name="target/qnx7/[ARCH:aarch64le,armle-v7]/sbin/devc-serpl011" />
+<file name="target/qnx7/[ARCH]/sbin/devc-serusb" />
+<file name="target/qnx7/[ARCH]/sbin/devc-serusb_dcd" />
+<file name="target/qnx7/usr/include/hw/8250.h" />
+<file name="target/qnx7/usr/include/hw/cp2103.h" />
+<file name="target/qnx7/usr/include/hw/linflexd.h" />
+<file name="target/qnx7/usr/include/hw/s2681.h" />
+<file name="target/qnx7/usr/include/hw/zscc.h" />
+</shiplist>
+

@@ -1,0 +1,55 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.sdio/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "493",
+    "digestSHA512" : "fojfck5x+1FQ3rZyMIZ4IHnLps4WJj73+J/RLpW6j8IUTUCNAe9fAicDRpZUb/9WnFftr4IwQxrWoN2/LF01hA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.sdio/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "332",
+    "digestSHA512" : "CpfhPf8I6F7Fq2UbQZlOGP/4hu/rnQ5gHY/H2beX+C6ENiHtSPuDUEy4kos+Ar7apvAG30S71CTJ+e37vx2Q7A=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.sdio/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "257",
+    "digestSHA512" : "hB2ubsJdVrCU4n767QnRCDNuV3gpVv6tbijYbqpzySAS/NYqtU1BJ7L9esK8LsTD9u6ea2qIfwfOTHWaYzXN0A=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsdio.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "72846",
+    "digestSHA512" : "foZI84daUFaihdFBVk0vyYF/8KZWmxQF28i3lGUeebTr+X0uxBB966grSp4ZihKMeDUvw/OwT7Hu3zonIge/HQ=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsdio.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "90506",
+    "digestSHA512" : "5vQcDISgP56wzU73lR81+/sNgYo/T243OBDqbOB/QnoZM6SCTALI/lPigZEe8UMpLoKTNx9IaUUQP9px0w4o2w=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsdio.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "90794",
+    "digestSHA512" : "NxpvsbKQRTzbWfbwGNh6pIzKyQ1rUjctChwQS6kU2HrZfo/xkxiAKR+Lu4aUFD84jzhTj3HhIZ1EVm86PmH51Q=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsdio.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "75014",
+    "digestSHA512" : "/eLd/AUpP8dmZbCllUKS1QznUM0YIed8h+otKqihNu32TiHcdG7U5tbQDFc50vEEj4NqgWB7/C7r0bwDZiBimQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/mmc/mmcsd.h",
+    "runtime" : "false",
+    "size" : "9449",
+    "digestSHA512" : "iUwVrZBQKH6ZEPavuDpqBwfph7BW53PGjY/JNeHf4M24OjYYdb8OP/lrINDsbcHos6HSJiI9loJxb/dD/5F7BQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/mmc/sdio.h",
+    "runtime" : "false",
+    "size" : "8904",
+    "digestSHA512" : "2HYRAzg7tsUtxvti3xu/9n76bMNw05KQsHeE+Bww05WnPdqvF24J2zdVXZsDVjt5Z8AYATUh8gMm5nixf+XEqw=="
+  } ]
+}

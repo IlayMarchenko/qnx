@@ -1,0 +1,85 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.devnp_usb/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "656",
+    "digestSHA512" : "I6LmVDEVKeYhg1lb8cx7kli9wur0JUB/nihIlo2sei3a/dalA2lEbrm66ctyb3iSB1sqf4Fa3w2uc0NKO9eHyQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.devnp_usb/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "464",
+    "digestSHA512" : "jpwTdKI2CHVDShAAalL/zdxnlrxcF3sIPWyJN3NsfUKQG6BLw4j7v2Tm+WJs+5JzMx9RJSv+XsXuRNqMTMYwAw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.devnp_usb/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "303",
+    "digestSHA512" : "kE7d0LDLNPzpZQ8F1aXZUiOTRdSllcYzbciLWvDsaffhT9X4o+Yk0MpkZAjUp6GnAwxwn7D3B29Lwb8CnU1BaQ=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devnp-asix.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "97336",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "geuirpniUjPJW91EO1snkkRUxThHCEO5zX6fUhxus56Y9HrMFFfHb+R6emqJC+ehDGZ9Kh+U9Vo/w2ERsG3jYQ==",
+    "buildID" : "f635db3edeb7c55a23723fc85abd6226"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devnp-asix.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "95368",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0dqTv2BmgwHppWtIrmRPYk8bDhD6ML3Dyuv7bAcPJXP9mWfj4XXZlSVNkaOHrKGUq7xPmrA2Kl9PP/9+O01PBw==",
+    "buildID" : "f1b6f205052aad4c6fab1e02a19f9f1a"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/devnp-asix.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "88232",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "JxMSe4DbBF4dHniBEvofBf4hyFxxyJ+pIMENwcQXpy5UQEe497YVUqwzX5MAgfmgEeL5xSw9LsZEyk0yDzuNiw==",
+    "buildID" : "8b584425f61eabbb964cdcb20c26b345"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/devnp-asix.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "63368",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "I/i/fGuL+LioiwT4ddmvMC8q3owmZMqWPpqc+5BWTzCNVCGIosie87reIYa9wZOHXc0MmYdNaUyWm++2QUEyrg==",
+    "buildID" : "c1ae4346d8567b9f98a68d317602d85c"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devnp-smsc9500.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "68080",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4kw+eskn8jTQqgIjypUCcTBKR4rabATOe3sGfYEMlGYMnJbnst8BVZF8rR+faiKO497XgFGZn8UhuvNzdfGbWQ==",
+    "buildID" : "ac39d4f24d7f97066a12e2a6818b7c68"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devnp-smsc9500.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "66040",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lcZbcwXcqc3sAehUmsRbzJP/8nLGuwVv2yOCuZ+RSrM46qMYPknyCDt+E3UNOkujVEn72X2X/4asJUiM4j7J2Q==",
+    "buildID" : "0f3347773b653139d88dc9ccbfd999b1"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/devnp-smsc9500.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "62896",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rBcGYxfwSPrg5dpG8BAyBrmb06+OSF2jSmXDZN3VnDP/FagyoEuwhVkovUGa4IgoP/+i5uxpu6cmr5CPuEIWIg==",
+    "buildID" : "e7eab6409ddcd9ac69d4faf395a995fd"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/devnp-smsc9500.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "45508",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "UETb2tUhkizPz6011iUuQqbYmYS9XCO2OGQuoaC3/9e9sZM/cJBvPcSz2JdcMxSz0TAK+j+HrFeDGUWAabu4nA==",
+    "buildID" : "91180533ee9e333aec788abb495e34d7"
+  } ]
+}

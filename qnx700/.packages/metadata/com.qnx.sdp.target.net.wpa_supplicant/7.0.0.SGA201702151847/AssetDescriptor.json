@@ -1,0 +1,196 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.wpa_supplicant/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "679",
+    "digestSHA512" : "1zpg817gpTFTRD/5vo6e1B+G/YxQPeFuf8ACyX7sEpcjx8PXSoS5mvwD4+t8M4IkO60H3FiHaqwWvTl0DYlJUQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.wpa_supplicant/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1115",
+    "digestSHA512" : "u7NVxoChmN68RTgwvljBLchaDgSecBJGjMHJIZlmBWLZruo2l5YXGPkLO6zDqH5Aie8SGlF90qUhT5GzJNx8Mw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.wpa_supplicant/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "675",
+    "digestSHA512" : "N5a2XsB1YcAzJf2R0TC7ubojQt20c4Swxjba0EsioHZDuw+yKmfQN8bih1p7zBBTD5UZcsFmBuxLgAGh+YO8bQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/wpa_passphrase-2.5",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "45496",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "it8CNFFZ8+Jj4JCyqShA3EP6wLxi8QnDKlddkpHYELloaFCo4yeQtx2ZSsdsic72FDrI4GUkgYsOwhYnC42obw==",
+    "buildID" : "0143b80c9d0cb2abe17b3d1195ddc890"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/wpa_passphrase-2.5",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "47424",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CAs/Br0UJMlzzE1akIcFqQkw/mUE8nWX1dCHI1V/hlZyyFXJ9mv1OPH16C2Z0sZhVXwMW4cYx2Rbkg9TI/EqPQ==",
+    "buildID" : "335dfde346b8df5920a01417115337d2"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/wpa_passphrase-2.5",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "40032",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "COI4dtOzANT+dfBp4ei5ZbGzP2atreA1jTMPtK/RPRLQGQyAGjXeIUeOJBhxW5Q92XijqTdFNFw5UagdzDq2uQ==",
+    "buildID" : "6378d9e9e7e137dc8683433eb17e655c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/wpa_passphrase-2.5",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "31948",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/oj9tvl6reMYGczP2jvHVaJGme4UFqFzu4AUrxzMxgJZ0301hvVNVtIymbOoqhonnVvbgSpoPb+2TuV6E78rTQ==",
+    "buildID" : "c6834d9bf3139f5fe19927e3773c1506"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/wpa_supplicant-2.5",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "2036772",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NJXAGYfR8zame1yfi4PUQ0jILce2upik8iebfU0G9TuQGN+3ulQou9eBcPkdDhWwadmJWzQCfvL7edAXvCOs1w==",
+    "buildID" : "485fca4c68f78ee1a03dedb36e74f5fe"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/wpa_supplicant-2.5",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1792768",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MOSIF/6Oe+U+cjKIaOz/iPrUgZ2lhBME0ZEgsZXT/AB6lFDXHMudXo0r7wccldqraKfmsOKBKjmaoZ9eXKTFiQ==",
+    "buildID" : "fc3f146c8e0068e3143f3d41ab8028e8"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/wpa_supplicant-2.5",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "1540808",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Cfc+Xlt0tk1//MWe+KPi6hbqG39UPL/fFJDtTzOOjGRLNpri3jnRHltpWlXvx7pDSB8Bhfy3VCzVLnfAlajmwg==",
+    "buildID" : "910fd026888e3f7cea3594c55b72fc7d"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/wpa_supplicant-2.5",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1237376",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fpYc4rytUsxMyj46mxAtEmcTlRlrCqbjWgvdSXa8cbe4c1GorQeA4Fm+LKlAWxhBsQnMwKAhv20yf6lpcWG6kw==",
+    "buildID" : "cf8472ce8963b5b77f8829927ebe4793"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/wpa_cli-2.5",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "144240",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9NllQlXMppJMlpwJj3IkPJHC3HKgOU7dSvp029p7PVxYHyyrqy9ZTfuB0ppBvro4BkJpz21EziSxb6unG5yhOg==",
+    "buildID" : "b55bb00003669c33c5b146271224c9c7"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/wpa_cli-2.5",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "152088",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7gLBIm//bJOc0FZRYbxeZRqdd3xpXOJ30pPVTB3oUElDhfbkt/FjpU6y5CFdwBTHeJIYvcAsorLDD8/78xWLxA==",
+    "buildID" : "7a83307ed8108e21a753ffd796a13a8e"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/wpa_cli-2.5",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "140952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zbRaRxGbl6GgOqK3FgUO9wvBfGtXmK4VNj6RBTP1pOJhsEq4X1iAELXhmzVVkTyXJMOaFstUPWQaGef+wecnJw==",
+    "buildID" : "c4ccd8fd2a6c0b56490b6d1618845907"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/wpa_cli-2.5",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "103620",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "07MMQ5ZXZcov4IEJiuWx9+MYF1WM9vKCiREBpuq4VqxcVPWzFrKdDbHgqLwLGfgRjjpxMQCXgrOZqzcttyF/pA==",
+    "buildID" : "61c7854759fd078b2873dc941a6ae5a5"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/hostapd_cli-2.5",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "96120",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uelT/hWwRptjrOAvV6dHjkVVpO/BH/Ii7kSqk8n9f1L+G3GFYk+XAYnjgwhsmV5ap1D3ZRnO63gSrmh5y3E1cQ==",
+    "buildID" : "c42aae5310c827d967babee1cea9b67c"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/hostapd_cli-2.5",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "93888",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KYnm77Y0k8bYk05ZhigsKqV67Ai/bZWl+1mLuriThwCFTaybSaWdz/XZ5CoaCw/yUsKXog8cCEXeYZDkM5XjZg==",
+    "buildID" : "e11c80ef5d72f696c0824a6d37a4fcc7"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/hostapd_cli-2.5",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "82800",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/BoT9T4Oa/VSMFRRdx6dIRqUXoMy5gdPTw4c8YqTqv8D+NWP2ilPTiO5y/31rYYrn01D9MFMKvtzniulYD3dgQ==",
+    "buildID" : "609ab2349e65f4548416422e5731180e"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/hostapd_cli-2.5",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "68176",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EAqRtXI9aj3N47CuJG2iBlbaHSN7ajVclXHpjHq7j4Ql6CSTvZS/Zyw4rk9KAlHTn6bBhe3h7Y96xTGewmmaCA==",
+    "buildID" : "843f1c3a6a48a2f82ec7f60f68074fd3"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/hostapd-2.5",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1256536",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "O4VJWhGm6Zybseq3DggibPt0L/Z6rU8K/GVOvXxY4LZ2Yi1zmA3ikrMMJZX4YJphMYV8VaaNBFh8yeXBYPvmSw==",
+    "buildID" : "69d9df381e4dbf4b7e531e907e93dc9c"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/hostapd-2.5",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1097440",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "GvvMT69Wd1KLE3n7CRWUcR+rjmQK4IU4WWFwpEgmqwRCbCHUS9WE12B2kjBtGxf45xIjBRDXKVkMuG/C2MFMVA==",
+    "buildID" : "51b58895e28301b13395fefdbf92f149"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/hostapd-2.5",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "958088",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "G3Qnr/tgXLT6Uvo/D4BOH3VbT0kGqirPwfAyvnLx045JIr9RAMBvt6fFFBCxxhLKTqkWxQ7Var1xJIvkLvgdcw==",
+    "buildID" : "9cff54a86e8c1e81640d12e9a0c0d8e8"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/hostapd-2.5",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "770564",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7CGUFVNCYbLbNpGmISPm9izrlk0vo6pDIjsIOU3VDcr5zZAl7W9bB/YQndf1z5f0SfF6C74CpL9m1k6c2j/xPw==",
+    "buildID" : "b66292e5648c9a47c8d3ee85bc5b9f3d"
+  }, {
+    "name" : "target/qnx7/etc/wpa_supplicant-2.5.conf",
+    "runtime" : "true",
+    "size" : "62429",
+    "digestSHA512" : "OhABQe3as8GKCBsg7YEfadbkDsntydEMjpPgiSXv0OxWPtjEcVZUK5Nnkop8W8mz/KySUPtmznskk+Eej61bhg=="
+  }, {
+    "name" : "target/qnx7/etc/hostapd-2.5.conf",
+    "runtime" : "true",
+    "size" : "77283",
+    "digestSHA512" : "HcnGXezPZClidNQQ+vCFC/shsAbMYHRWhZToVAz447oaxCFV8pBfEk6uQ/bWC732wV2MYoX33LEUffQvLwn4tg=="
+  }, {
+    "name" : "target/qnx7/usr/include/qwdi_msg_2_5.h",
+    "runtime" : "false",
+    "size" : "44870",
+    "digestSHA512" : "alxgbf+E9gmHiwfGQuoK+yxzYjb6/kEoj8KPmgh8Y8D2RAl/SUEnhkB8Rn900Kodtv4B4+al1yFhUBk0F84irA=="
+  } ]
+}

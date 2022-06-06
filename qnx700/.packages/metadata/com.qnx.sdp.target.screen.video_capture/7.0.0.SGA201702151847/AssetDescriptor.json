@@ -1,0 +1,235 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.video_capture/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "906",
+    "digestSHA512" : "PlG1VuEH+Tl/Y0Q0ctlgRxtIBUKY94771789wbgVXoUa8UqI1m01UEtvYGTOIFa7wWzmihRxOsFMe2u8Lfk6yw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.video_capture/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1414",
+    "digestSHA512" : "GYb7Dg0bjiS75+whKQOPV2i4iX8n8XRIj0Sj9j/eLbRz/12YrzIwjXTGMt9eRNKl11dbzpgCrNSyspVCO/zxPg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.video_capture/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "272",
+    "digestSHA512" : "TymqR7R89xKMKKYMgBmCOBzUvpsrlrZagMyiPhb3eiNhsYoC/zUwvMHHb6g8UTOYksCgnySyBCpzDxqDVTdtSg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/vcapture-demo",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "30352",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "BAXhJWyqJL3Hh5FhBYu2tm+lBRmm70wQ3pd+3IAc0WhSguj3oEhNAuBeo8cPsBEbHbZLwBjfczPBjexP+pLWEg==",
+    "buildID" : "c31f2756197c802b82a1911d3deb7c7a"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcapture-decoder-adv7482.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "23816",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "o2dqgc/aWgl4fCFohBs8ZMk9Jjl/TAVDDnA7STBygCX3Dq3SDVufKt4CP2FhgLsBReE1aTNhRsuuX4X16rIMtw==",
+    "buildID" : "66c2fbda9b87844fffa3ff5de269e5a0"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcapture-simulated.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "19088",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CQmKAbCw9Jj1iGMuPUWKxGj3tyWh7ZUy1LfSczuSgjobmRD1LcEA5mFNEvCqa4ohNQc3CCyb+OAH+Kgr+3jqAQ==",
+    "buildID" : "3d9bf6f3826dcd1cf962da81d80bcae8"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcapture-usb-uvc.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "49272",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YelJI0mkz7wjxrl8tjkq/LrQK3ZKjOB7AOxCRaJZ0I6FuwLRyWMKXbCV4Z2WYIA9vMarO0nTd8/VGPbh6lPxSA==",
+    "buildID" : "e91ac469ea850610ea4d6bcc5cf858cb"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcapture.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "13904",
+    "linkto" : "libcapture.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "es1E0Zp+1nG/a9fUXXXnOVwFP7SepzN9CcI4CGJX9ioDfoQmGNOay5tn50mJ6WM01jaRJ3Fmkqy3KxqwjxpMSA==",
+    "buildID" : "8ce99b4e01e5287a05889edae8cf1f5a"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcapture.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "13904",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "es1E0Zp+1nG/a9fUXXXnOVwFP7SepzN9CcI4CGJX9ioDfoQmGNOay5tn50mJ6WM01jaRJ3Fmkqy3KxqwjxpMSA==",
+    "buildID" : "8ce99b4e01e5287a05889edae8cf1f5a"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/vcapture-demo",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "21056",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4j3944XW116Xc8GLVBxtByjjMWPfu0hWKi9IsKH0Fu2xLgyl7hrkpO2NqLp13rEOmezVKYauZgE5rAOKx9G2TQ==",
+    "buildID" : "5835addc83608b7190e98761d11399fa"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcapture-camera-ov5640.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "70900",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DkB6kxswfAOUhQycNZMEiLyb47Qp+6wsREcgAQxX6OLh2APnTR4W4YWPd/x4fZyUeEO5/1nGRD/2e1YX3MvLyg==",
+    "buildID" : "84f17a728448c6cdae61d49cec4daec1"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcapture-decoder-tvp5158.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "14280",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vUmRHG7oHIodel0VUUWN3oAXlZC7hHuDS6RkKWNi5PfCEVG8EDLc7OdNPsHoddEnAH6qcLPUfFOMqdHeOL0xCQ==",
+    "buildID" : "9cc049330488ad82f5fb963bc1f8b0b3"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcapture-simulated.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "19176",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ht2o+FVglxe+fn3QEwiOLWH46XQptIhk90iPJ9Nsln1ifx09FrGVyY9vdMyOeV0U/JayouTeLBeEdxcoh5yg4g==",
+    "buildID" : "6175f3fd30cb76102149dda80f82822d"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcapture-usb-uvc.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "40800",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IaKDCCRT/bMzffE3VcVcp7LNAN2Z6YCnGK+J1aE7tQbEYiusDmPcyHbqQZEoR7qFyo5aDD/z0k6ujNRtm7caAA==",
+    "buildID" : "d516d67dbcff14dc5c1fb4f4fc6436de"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcapture.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "9244",
+    "linkto" : "libcapture.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sCCyBcXs6jfhiEAvOnyT2ysbLq9IpCX2wglU639gwVQdt6i7DqbrUzr9sqUDjfsazNRYI8u6+an8Jab0FYujAw==",
+    "buildID" : "8c6ed4628bee7de20b292b37b66b05eb"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcapture.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "9244",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sCCyBcXs6jfhiEAvOnyT2ysbLq9IpCX2wglU639gwVQdt6i7DqbrUzr9sqUDjfsazNRYI8u6+an8Jab0FYujAw==",
+    "buildID" : "8c6ed4628bee7de20b292b37b66b05eb"
+  }, {
+    "name" : "target/qnx7/usr/include/vcapture/capture-adv-ext.h",
+    "runtime" : "false",
+    "size" : "5234",
+    "digestSHA512" : "3dgX/FO32PfA5pOYWssYiUeZq0LD0WC0DQS7N7U/u11LC20Sst2fjYFRf0af+mxUg2Q/c4RrgH6hndGc31f2Ng=="
+  }, {
+    "name" : "target/qnx7/usr/include/vcapture/capture.h",
+    "runtime" : "false",
+    "size" : "58434",
+    "digestSHA512" : "1GIHFAQuFmzNkYAS7U78RUJ1k1yyrjxaMCfU05xV6YZmmeVpq9sFFCs6ZVea5letvF9UGIT8TRSMkRUAohujJA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/vcapture-demo",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "24248",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jsIJth3YVuQCX3tCGI3ReRIh7ckMIHIlxsENmgfRK+5my5Vnu7KnbMnVzgI4i2hOt4qUn2qWSvIWNOl4S0XIKQ==",
+    "buildID" : "d20083a4b70edf6889bc3d3bdba02b9a"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcapture-decoder-adv7481.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "21892",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "aFHzr/Axz+zO4DxkkJ5lf7b9dwfpT9yN4ZO7zHOW45nCNcJQuMs31qXoNtlX4QYe8rXoUZFkn1saYgpRKWqsgQ==",
+    "buildID" : "51cf5dca7c42e3e2449ce99db81e1c1e"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcapture-simulated.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "21384",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "cG26YND22ILmCpBRlsGGhZQphqjkzSvNE+7hgnzTNmH1vPcvjPOhPAF1b/9/WHjFFlMnj7KJQ7iIvrDm8ffBbw==",
+    "buildID" : "903128363ac23ad48d08af6a404837b6"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcapture-usb-uvc.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "49996",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ePKexgrMK9QRE69K3iHTAL/aVD2VJLSKQM7UHm7vdCcajbfgiNgWP1JPmVMZJZrtz0y68Qug2e/2uitWvDvn4A==",
+    "buildID" : "18d805752232a63acce09ccf9a707d4f"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcapture.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12212",
+    "linkto" : "libcapture.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "flHaLnFNqrfaIhhdGLcP2HQseWq/Zp//nU2mNX1//G8hiQfQE7Lb7nm62UJ0C/3iWn34thPwRsHMVmIM5f++Tw==",
+    "buildID" : "0fcf164e3b7624c56fa5505e4ed53c07"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcapture.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12212",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "flHaLnFNqrfaIhhdGLcP2HQseWq/Zp//nU2mNX1//G8hiQfQE7Lb7nm62UJ0C/3iWn34thPwRsHMVmIM5f++Tw==",
+    "buildID" : "0fcf164e3b7624c56fa5505e4ed53c07"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/vcapture-demo",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "29920",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "T3UTu1v+ZTe985PkYg8XsPCeTSjZSujxQXw9clqWRIlEAInHvf+Qnlzd5Sh7zZmciEeSvmkB2hfzFPOT3nXmQw==",
+    "buildID" : "21c0f2f214658972d2f4e4152d41db8a"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcapture-decoder-adv7481.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "23352",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tYoqC0hgJq8+yTcxCkJiPcF5xXW4PFxBfGo9iUw6qe561d1WLwuDRpe/MOMTgGs2XcJv0kYoD6BqxmKBo0gQew==",
+    "buildID" : "2330b09a4a4dd739d891d024f4aa7722"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcapture-simulated.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "22744",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QCk4EKGNEf5+khjXS7If+sqC7VlLMlTR2ufh+8j8yMMe91MvfFNGHjR2aTO1VrVlCdEYfJOvFOQRuYznKYU/AA==",
+    "buildID" : "27d1ef830a0003544d8a2abced6b8bb4"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcapture-usb-uvc.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "52384",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MnCX3GEtUR6D6isMlcDAxF2p70BUl5GAH//oBW9uOnHBi5NuqrxGEUMGqD28/8IYJLs5b1uNtxg+qqZLMqjSIQ==",
+    "buildID" : "9271cc8a8bea1445b72a9eaef4ab3823"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcapture.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13488",
+    "linkto" : "libcapture.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "D61xxNoPGt/Lu9tlrmun3WmyMhKFQfiBD3aIMxMKsmI+PzrUljR7PPz3wc8720RFAXHsxSIujS0oLRxSO7mbHg==",
+    "buildID" : "33aa0a7d8bb01285e68648f1c2cc05df"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcapture.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13488",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "D61xxNoPGt/Lu9tlrmun3WmyMhKFQfiBD3aIMxMKsmI+PzrUljR7PPz3wc8720RFAXHsxSIujS0oLRxSO7mbHg==",
+    "buildID" : "33aa0a7d8bb01285e68648f1c2cc05df"
+  } ]
+}

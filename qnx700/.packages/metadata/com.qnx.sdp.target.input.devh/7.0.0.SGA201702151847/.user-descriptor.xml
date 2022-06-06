@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.input.devh</id>
+<name>Device input - HID drivers</name>
+<category>Device Input</category>
+  <!-- Headers -->
+
+  <!-- Libs -->
+  <file name="target/qnx7/[ARCH]/lib/dll/devh-usb.so" />
+  <!-- code for devh-ps2 is actually in devi -->
+  <file name="target/qnx7/[ARCH:x86,x86_64]/lib/dll/devh-ps2ser.so" />
+  <file name="target/qnx7/[ARCH:x86,x86_64]/lib/dll/devh-ps2ser-vm.so" />
+  <file name="target/qnx7/[ARCH:x86,x86_64]/lib/libvmmouse.so" />
+  <file name="target/qnx7/[ARCH:x86,x86_64]/lib/libvmmouse.so.1" />
+</shiplist>

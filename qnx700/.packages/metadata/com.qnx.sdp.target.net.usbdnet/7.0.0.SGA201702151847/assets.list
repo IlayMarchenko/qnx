@@ -1,0 +1,6 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.net.usbdnet/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/lib/dll/devnp-usbdnet.so
+target/qnx7/x86_64/lib/dll/devnp-usbdnet.so
+target/qnx7/aarch64le/lib/dll/devnp-usbdnet.so
+target/qnx7/armle-v7/lib/dll/devnp-usbdnet.so

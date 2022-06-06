@@ -1,0 +1,14 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.net.avb/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/usr/sbin/avbmonitor
+target/qnx7/x86_64/usr/sbin/avbmonitor
+target/qnx7/aarch64le/usr/sbin/avbmonitor
+target/qnx7/armle-v7/usr/sbin/avbmonitor
+target/qnx7/x86/lib/dll/lsm-avb.so
+target/qnx7/x86_64/lib/dll/lsm-avb.so
+target/qnx7/aarch64le/lib/dll/lsm-avb.so
+target/qnx7/armle-v7/lib/dll/lsm-avb.so
+target/qnx7/x86/usr/sbin/ptpd-avb
+target/qnx7/x86_64/usr/sbin/ptpd-avb
+target/qnx7/aarch64le/usr/sbin/ptpd-avb
+target/qnx7/armle-v7/usr/sbin/ptpd-avb

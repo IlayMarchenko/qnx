@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.devnp_usb</id>
+<name>Networking - Ethernet dongles</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/lib/dll/devnp-asix.so" />
+  <file name="target/qnx7/[ARCH]/lib/dll/devnp-smsc9500.so" />
+
+</shiplist>

@@ -1,0 +1,12 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.bsp.spi/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/sbin/spi-master
+target/qnx7/x86_64/sbin/spi-master
+target/qnx7/aarch64le/sbin/spi-master
+target/qnx7/armle-v7/sbin/spi-master
+target/qnx7/x86/lib/libspi-master.a
+target/qnx7/x86_64/lib/libspi-master.a
+target/qnx7/aarch64le/lib/libspi-master.a
+target/qnx7/armle-v7/lib/libspi-master.a
+target/qnx7/usr/include/hw/spi-master.h
+target/qnx7/usr/include/hw/spi.h

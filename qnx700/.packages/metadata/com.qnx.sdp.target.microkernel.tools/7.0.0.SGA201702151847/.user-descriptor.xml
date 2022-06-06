@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.microkernel.tools</id>
+<name>Microkernel - Tools</name>
+<category>Microkernel</category>
+    <!-- lib/elfcore -->
+    <file name="target/qnx7/[ARCH]/lib/libelfcore.a" />
+    <file name="target/qnx7/[ARCH]/lib/libelfcoreS.a" />
+    <file name="target/qnx7/[ARCH]/lib/libelfcore.so" />
+    <file name="target/qnx7/[ARCH]/lib/libelfcore.so.1" />
+    <file name="target/qnx7/usr/include/sys/elfcore.h" />
+
+    <!-- services/dumper -->
+    <file name="target/qnx7/[ARCH]/usr/sbin/dumper" />
+    <file name="target/qnx7/usr/include/sys/dcmd_dumper.h" />
+
+    <!-- services/tracelogger -->
+    <file name="target/qnx7/[ARCH]/usr/sbin/tracelogger" />
+
+    <!-- lib/tracelog -->
+    <file name="target/qnx7/[ARCH]/lib/libtracelog.so" />
+    <file name="target/qnx7/[ARCH]/lib/libtracelog.so.1" />
+    <file name="target/qnx7/usr/include/sys/kevfile.h" />
+    <file name="target/qnx7/usr/include/sys/tracelog.h" />
+
+    <!-- lib/traceparser -->
+    <file name="target/qnx7/[ARCH]/usr/lib/libtraceparserS.a" />
+    <file name="target/qnx7/[ARCH]/usr/lib/libtraceparser.so.1" />
+    <file name="target/qnx7/[ARCH]/usr/lib/libtraceparser.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/libtraceparser.a" />
+    <file name="target/qnx7/usr/include/sys/traceparser.h" />
+
+    <!-- utils/t/traceprinter -->
+    <file name="target/qnx7/[ARCH]/usr/bin/traceprinter" />
+
+</shiplist>

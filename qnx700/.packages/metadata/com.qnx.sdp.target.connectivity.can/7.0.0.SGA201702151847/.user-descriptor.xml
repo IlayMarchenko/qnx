@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.connectivity.can</id>
+<name>Connectivity - CAN</name>
+<category>Connectivity</category>
+    <includes component="false">
+        <file name="all-can.xml" />
+    </includes>
+</shiplist>

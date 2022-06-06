@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.fs</id>
+<name>Networking - Distributed filesystem support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/lib/librpc.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/librpc.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/librpc.so.2" />
+  <file name="target/qnx7/[ARCH]/usr/lib/librpcS.a" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/nfsd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/fs-nfs2" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/fs-nfs3" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/fs-cifs" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/pcnfsd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/rpcbind" />
+  <file name="target/qnx7/[ARCH]/usr/bin/portmap" />
+  <file name="target/qnx7/[ARCH]/usr/bin/rpcinfo" />
+  <file name="target/qnx7/[ARCH]/usr/bin/showmount" />
+  <file name="target/qnx7/etc/netconfig" />
+  <file name="target/qnx7/etc/rpc" />
+  <file name="target/qnx7/usr/include/rpc/auth.h" />
+  <file name="target/qnx7/usr/include/rpc/auth_unix.h" />
+  <file name="target/qnx7/usr/include/rpc/clnt.h" />
+  <file name="target/qnx7/usr/include/rpc/clnt_soc.h" />
+  <file name="target/qnx7/usr/include/rpc/nettype.h" />
+  <file name="target/qnx7/usr/include/rpc/pmap_clnt.h" />
+  <file name="target/qnx7/usr/include/rpc/pmap_prot.h" />
+  <file name="target/qnx7/usr/include/rpc/pmap_rmt.h" />
+  <file name="target/qnx7/usr/include/rpc/raw.h" />
+  <file name="target/qnx7/usr/include/rpc/rpc.h" />
+  <file name="target/qnx7/usr/include/rpc/rpc_msg.h" />
+  <file name="target/qnx7/usr/include/rpc/rpcb_clnt.h" />
+  <file name="target/qnx7/usr/include/rpc/rpcb_prot.h" />
+  <file name="target/qnx7/usr/include/rpc/rpcent.h" />
+  <file name="target/qnx7/usr/include/rpc/svc.h" />
+  <file name="target/qnx7/usr/include/rpc/svc_auth.h" />
+  <file name="target/qnx7/usr/include/rpc/svc_soc.h" />
+  <file name="target/qnx7/usr/include/rpc/types.h" />
+  <file name="target/qnx7/usr/include/rpc/xdr.h" />
+  <file name="target/qnx7/usr/include/netconfig.h" />
+
+</shiplist>

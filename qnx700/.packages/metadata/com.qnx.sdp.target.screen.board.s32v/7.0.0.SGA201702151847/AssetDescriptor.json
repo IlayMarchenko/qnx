@@ -1,0 +1,51 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.s32v/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "779",
+    "digestSHA512" : "EmC/PU8L/BOeHQHMgJkfAYMmz/4LPUNkj0v8IsVTEOKF49JWtE4aWzBpiSipfDud/BdGgmXjG7uL58dShudgcg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.s32v/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "371",
+    "digestSHA512" : "FSUb5gBK5GfJtNaj+JpSnEoJCuCPb+siGOg+krLiTka1geXZdU1dulOuc7nso1PN0nJN1AhB+zU6TWL8hogGyQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.s32v/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "280",
+    "digestSHA512" : "nzCyDUf37otbCCBJV4QX2d35RVjf4NHfNcFwt5UVCn59l2yiXHD93DxvDu8LK32QdelvWSvjefuWuLAHHwpjIw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/screen-s32v234-alloc.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "13896",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1Zgp4bSXzBjSOTNeBj+lSZAkfWjYBiLe+mNp8wnu6hRaqZ2EjRjunmqYsCsB2Vd2NoGAzAJbc952Uk9DX2lIBw==",
+    "buildID" : "3ec64a1018c39dc07ded7306a478845e"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/s32v234/graphics.conf",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "4153",
+    "digestSHA512" : "8qm38qrT/aPoGCz0TcUcc0yUBtpZplx0+aJPjUbvgpmp7Naljm68p5llGJghbdsw+nnezIDCQ3tNX5r58okHoA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/s32v234/libWFDs32v234.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "62672",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VNx0Aix1OlHR40QMpAp3YqarVuX/7ufEXR8zhZOriOiXwf4TAV8VNrpxCGwosKJy1edF9CjGbbJDB8d6fqTycw==",
+    "buildID" : "060e7316bcdc6307a15fbd5f6f30275f"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/s32v234/libwfdcfg-s32v234-evb.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "14408",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Y+5RfACXW+apM5LSk489PlZiEDe8f1p1kHjyhiGLztJlCfYIUOjIA5t/xhXIWzEJlcjJHk7p2sNk+/2TzsuEVg==",
+    "buildID" : "ec7ce6a5e012d49b88b1bdb333b3f4d5"
+  } ]
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.drivers.libfdt</id>
+<name>Drivers - libfdt</name>
+<category>BSP &amp; Drivers</category>
+    <includes component="false">
+        <file name="libfdt.xml" />
+    </includes>
+</shiplist>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.input.group</id>
+<name>Device input</name>
+<category>Device Input</category>
+    <includes component="true">
+        <file name="devh.xml" />
+        <file name="keyboard.xml" />
+    </includes>
+</shiplist>

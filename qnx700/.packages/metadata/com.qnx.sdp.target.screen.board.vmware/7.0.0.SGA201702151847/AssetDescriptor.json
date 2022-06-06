@@ -1,0 +1,433 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.vmware/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "1492",
+    "digestSHA512" : "w9n51uWE4BAPVgTv8DJSaJmWqwLc/o9q3gj5iYIVlSHudwZ2rlQsUGYc6UHdNZurX5xbH3go156hm/ke7shubg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.vmware/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "3014",
+    "digestSHA512" : "Vvav3ZB24MNqwz/ckPAntWFXnUY5DCpc6ITwrc/S/o8fMW8Ow6QjRaS9InbwZ8W7RJgSMvLJsG2SV4BX5UC6Yw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.vmware/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "282",
+    "digestSHA512" : "EN9aBNdGdY/jR7W9OXTXMbk2m4cOq8fFP7u6UjJ7alj6LWTUpVR/7+0ttcwsyBQPy/j1RD2tIiORGbxjFykMLg=="
+  }, {
+    "name" : "target/qnx7/x86/sbin/gpu_drv",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "85656",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ZhCSqBvx3KVo1dvnUfkQOUXEmTcNIAB2e+xQWGWCatR9XYLCSsMdt+6/VIvSYjQhkGEabcY0DN/WcEnfJYDFbw==",
+    "buildID" : "b0cf2d4825b78d6ef62d66a643429fff"
+  }, {
+    "name" : "target/qnx7/x86/sbin/gpu_drv_g",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "90844",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jgACOUnpfo0YE0fj3PIBP4xrX7V5vSbxt3kTSWloO0iW2y9pWB35q+eMmRyVIjpvKm5VkKM/JcOCsTeFs70JeA==",
+    "buildID" : "a8e891809b495cdfd9d4f9e77cad6b95"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/gpudbg",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "22272",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/C1Z+6a1DSjrcyCpT720EEAqmWoEZPJHUbniXlvAYbCHk+z1l+1oxOX8Bvqacb+k4SoUUVZTCZX1ArG8+VrJKw==",
+    "buildID" : "65d6ba80b3e1841aee3c41c5a789ebfb"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/graphics.conf",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "725",
+    "digestSHA512" : "5SiOTMyP24jdSCu5JVlkKvH0xc+kVAfp27CiLU6hatg0FhW06SMFhB8y+KREsrTtjvoYzByeziZbg2uKOCLW7Q=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwEGL.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "90508",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "+qoVcH+rOvaKoY9UEDNqlHcaGCt6jK7Hfjfm6wtI3D5HopmZxV9eGjxuzTUpr8S2djsbv76MCtuYN/60guAW+w==",
+    "buildID" : "0e6848766b4488eccf168ae49750c0bc"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwEGL_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "95208",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "SBhd0ZOcZpjjG3XAHXlkWvOIuGH8kL19EXK6QKPRRE+hTn5hK+BrRMJXQ/PLSPrnISwIUbDSZyRcFe8z8rKO7Q==",
+    "buildID" : "b6a03fa4bd305849ef7a8af2905e06ff"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwGLESv1_CM.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "30928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "G3t4dr+4wYPhnCNj7xLEXQiyTMofluZLzcwVO38174bldyI9jI83Z0WbY/9k5wVLTmKcDTPr48o5c1DtRAbrsg==",
+    "buildID" : "caa8dd4dc51725a1758ad01b57f0c2b1"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwGLESv1_CM_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "30928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "34dR1fBwUye8Rm818jhahC1BNjJgZRCduFo4jm9XpEhgOVxifsFzOXhvd57ArMJs0gKD+bXpuFdIuwqSziEiOg==",
+    "buildID" : "a36cf22db8000c602f58f4f2216957f2"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwGLESv2.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "40816",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Swx+2oC4ICOBjA/RFwyKsF/VX223XW9k5KaE/NfBlxdDDYlMXDkdoq+aS/EMo3YUC63TPWRU/5ShApGSkSJveQ==",
+    "buildID" : "d8001beeb402d0860441c2960607b47f"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwGLESv2_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "40824",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "x4akcQEfKiYEELe4ZKZelSZyDaLsGQgJm5TVL9sWxl6To6qwySjUuxbzn3kcjFZ2DXiG4peg0DijUjvbo9ECqA==",
+    "buildID" : "6827d07f0a39073a2486283926f97c73"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwGPU.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12128",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "v/mwBZvYCLuv5cfsxSz6W9LhajzoC9IvQiP30BcxPAeXyaKQLk+Op0HwY21eSfLF3Lr0FAieoLb/pSJGSYzbpA==",
+    "buildID" : "a195a359b3c36274c47b3f8a2ac23033"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwGPU_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12232",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fZSy61bytLjEH468zcM8u1DvEv8RKooK1Y9+4KHbrZSMaHJ7WnPAwb+8dmKq1v4wDDnMzQEYuZPkrNIFQg53hQ==",
+    "buildID" : "20f6ff4dfd70bedc944ecac52f540644"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwWFDvmware.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "58520",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "S48AJAeTI5tTz7ilcFEsnXzH84Z1utaGt845LKsT8VI8yQVxsOp4fDIXaBsIa7pXNuykjQ6dqpyGveYwkWcUTg==",
+    "buildID" : "5a7d31ce12a3e5f99c0e450fcd7be72a"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwWFDvmware_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "62624",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EmzMhsthoovanjoNzWY7l6g3V6ZEZ4+T306VdqBH+KTrILdkEMHY374a/am7Dha9Tu6oWa5DnjTKNqfHSygHHQ==",
+    "buildID" : "ca825571b8db912d66be229ca82fe731"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwglapi.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "158460",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "bpVWh5gEjRqpwZmtilYuV6FpRRdfl9KygLGoeXQFEzhrKQQ2b1bTFvn9hXhQG5FLA8DQ8svGnA8X93rkbJM45w==",
+    "buildID" : "cd5626a24f6c86c8d1478db23d13b031"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libHwglapi_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "293276",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KtQnod/VEvdIso2BS8T66+LeaGRJ7FUTOh3zU2OpvP2CWF2bHyr8SnVShLCuDunkpL1sUOX1QLEQc28QpC00xA==",
+    "buildID" : "766ebc42ea0b24fd0aad3f74cac154cb"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libegl_gallium.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "4923452",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rk2lZDhhijxxruZNwnHJWtqTmEH9oNJ1wzCIjXCFhqkR1gSMvGiQ7nQ31A6FRqfDFhGgQi3ZymI7NFPiLZhCyw==",
+    "buildID" : "35cbc79ac9a8b99093a6bba272dfcc7c"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libegl_gallium_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "6324292",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9onnN7rMY3jXuqfna28vxSVlufDunxwzd8TgMxx7Tz+QKiUK+c2M7Gadk8Cmd6ieEW8sRobngcGpw/Cs3pG/qA==",
+    "buildID" : "9be1e2d7f7169f16eaf712fc4db44bc9"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libmesa_texcompress.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "7572",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AoiaPJM+UbteJ25GZdA8Ff4bsvzlClQa9quTBFzqWmyg59Dmq2ihsfSqlRghhwL+VLBpf9j7FpLhcR/sVwgwvg==",
+    "buildID" : "6f7de5b516d7da1593c59eb035600e88"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libmesa_texcompress_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "7612",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Vy7mMRJ+3+ltwRlJBWNsI+7D0juEkV8mK4UqWhAP7zYheGT7lcKKwzLZKEsXIwoIYN2UUZ9DWw6UVnehg07uTw==",
+    "buildID" : "63dc3f1ddf4e02e91c56ab5d905584a8"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libpipe_vmwgfx_drv.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1279200",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "gFQdoSZrILYKoR8VcIDcZzb4lUc4Cp7h5nAFEUZSEm5p7n+K0d8MIqhBOTx4ZjktCYLdZQ9DSBkcEvchxGqxdQ==",
+    "buildID" : "28d5e95e424150921f489a3f751edc7c"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libpipe_vmwgfx_drv_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1779224",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Ru9P62yysI8eacJcDKUNJC0djAXOA2UsAaObFk5l3gq5nbyuM+5juzAosGOdvzlP+vlnHa4fDFyiKqhJGT6kmw==",
+    "buildID" : "1db40a48fc4ed5eb8efe3d6c2fffb4ff"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libst_HwGL.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "4553156",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MtV/LkEKogQgo1IMWfVQ/1eB9K+ybITdBj+TPo/EsiQGwR85aAPSp6vDNAfI5PrmkqvUeHLPRD4ICsRUcrBARw==",
+    "buildID" : "9f3ef6592a7830422933c9ecf6cad8eb"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libst_HwGL_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "5641360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MrPQ9mEsSpJY70xQkwApkAsyL2+IGZ+RAVKodMHAXNqqWOVfhw/xU2ncjjG3Q07rWYcp3zC7mFNI1f43ecrcjQ==",
+    "buildID" : "cea6d885cda2f275f1c71508c331917a"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libvmwsvga.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "31476",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QKd+F5u7VeUz4naSFVcQz4wV4pQhIeoPzayyvKjrAma3zN0g5FmATJ08kEh5mKjFGOphNK7+bi9H+8+6nQiecA==",
+    "buildID" : "a0169f386014477cb9d11fd00502deb0"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/graphics/vmware/libvmwsvga_g.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "31556",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iVsN2S82tGDBZYUlqCQBX/wIYkv2MqaGp2D3saI3KgP3OzbbIfvKo+zOP1I7WuBAPa0Un3HXv1SUuaG1+D2wZA==",
+    "buildID" : "bad53310d89b6fd87a814f57c0721b12"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/gpu_drv",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "88328",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QzUS7vlJi3oOaV9pjoYx0TE25rMbJCZQa6ymtvEBiZeZk/Zy8IhUh0DwZDd5hPY1K0u8noE8kksyXzp3vV7+dg==",
+    "buildID" : "854b68bf1e051b6d909ef207f620da3e"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/gpu_drv_g",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "106248",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "d8FFWW++DpEELDBcLIar3WnYJq3L6CvtuC0Wzr/K/8Q80OF8raFfFTkb6W9xyMZj0ngGGjSOijl8GHREwSnyjA==",
+    "buildID" : "f15e97add3a2f182e0700e6711dfa93d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/gpudbg",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "22640",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FTopJLkV9cqIHc/9J+BwQxSPXORgTl/1supVniZcDoLfjtbr02+/nyaJUWeuE8k6Kgm4pidFf2QZ7wO9ngA60w==",
+    "buildID" : "983d9dab2302619d22d98331318a1566"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/graphics.conf",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "725",
+    "digestSHA512" : "5SiOTMyP24jdSCu5JVlkKvH0xc+kVAfp27CiLU6hatg0FhW06SMFhB8y+KREsrTtjvoYzByeziZbg2uKOCLW7Q=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwEGL.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "81640",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YH7J9MskhNKjRVGZniQT0zVOWbSTXnDxrgYWGMVs8rhiZSVBGb9PllwfqNQafKFuyGDQl+u3GaxdKJDBxEWShA==",
+    "buildID" : "8a2531286f0e87f7772c94b92b0228e4"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwEGL_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "103032",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rjco8nmuHvUyN9griPjhTS5BUCtPFDSg7QOxvkldgVqhA8NGfwLu+z7JUd3F0614oIVRnzdUFIBEQnpJ2JWCQQ==",
+    "buildID" : "9dcab037f32b0dcc916e7eb91af1506d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwGLESv1_CM.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "56824",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OFmf471pfTuy/IUP2rcCBcJxLjuR9PJBhi3pksrQ2OsPey62krBovNwyYieOZPRLh26Vzk2LAyWudisgaMus6w==",
+    "buildID" : "9ebaa2daf3696fec4852fd5d67dea519"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwGLESv1_CM_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "54432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yCXvr/cTmMGO5tH2wN4SULMrjOXbuzIHnHnidDmQdXoD8lDrHTYdGFa1KGPiRdzcV4lK5DJSYWe8ubjO+wrI6w==",
+    "buildID" : "619b3a577330629589331702be532e70"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwGLESv2.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "65496",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RpM4xVvOkYaZBYHaIguFuUsUFvWFEc6X1UG0h2iRJ0b9bhksfwEs+J55KpQ9XnCwwXs0Q2OM3nLRWrXBAqRpww==",
+    "buildID" : "897dd03994dce26aba81b4d3cc6fbc68"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwGLESv2_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "60496",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "+Ng9zgpiYQ5v+1AU7q814W3XGtAs/rA7QvtNEfAH9cqL8Xu2i80ipv3iUdVncVZQKg7Aq37/k8in1YRpVHRlbw==",
+    "buildID" : "0c914a9e18cd3b7b9cd47b9e791d88a4"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwGPU.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0DGldQSFDXFL9Xdf1pNuTDGtfJinDr2IKhavx1y7WmSSTgoQTxVGuc6M0yhY+YClNosDZaNlFPHWArEh9lzgKA==",
+    "buildID" : "de235fcc3116aa31bd54e5dc70cd8c29"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwGPU_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "5JaCYxjWeulJg+q1xbxDeM33RI9EtmofLo/IYK88SOmkZJ3bi03cgAVXrk6j2oMmZ0opfvVhywTjXnp2PUgKlw==",
+    "buildID" : "98a54d7701c16699dbe90bf0b872e4bb"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwWFDvmware.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "55992",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OonYBT2ihbi1ySbyEDNpAL3exbRVwHYiPhHBwVcWgAWIb5OX0E0j85tCXRixFsHcyrEERunFBEk1LmjYfzFDfQ==",
+    "buildID" : "dee4cc738f3afffe9b08fdb3bbca7c67"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwWFDvmware_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "60088",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fWvG+OknRhfPEtu4uEhNEUONt5JQUg8ScL359YegaL3XQtwD/Pl6mVnfMbhic9Wfez0smKsfj1MBDzxTrEjXzQ==",
+    "buildID" : "91ebf431bec6fca65fd65f599cc18652"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwglapi.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "315688",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "eMd9ItUtP/nfeqytV+Jm9f6gjjUyr0wbIZNfwgKYeINp1Mh+z5oLhasBfSlQNawekFXPZ4S0EeDg0yTj6R9/ww==",
+    "buildID" : "8bc47086547178d4a555ddcf0f4bc319"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libHwglapi_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "450776",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OYwUpUbuEcVk1xTDraT5yEIV+WjUvMv7WMs1R6eDwrXxGZBnxT36CCnGxedIck1DpnxS3Xkb+ICmLNrrOOGzrw==",
+    "buildID" : "97293f4da6dac5118ebe1980bd4675b9"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libegl_gallium.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "4784088",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vrjdd9D+Dd74FDhIZFChK56nUQ9dgLsejSLjs/nXtWQt2Y44/ypTLHcy7UEX0gyGyzKsrWMNBE25xAVauUwLdQ==",
+    "buildID" : "8a2f8e85988354ee5635508d136b103d"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libegl_gallium_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "6908312",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "D1IP1eOG/ml083skslGxfEm0PR0Jku0hSMI1hRqgIP9kFIkj4UKbx1qfW4sIFIzthXOQSbZYvJnVMrmlQYaZgQ==",
+    "buildID" : "0ad016307ada69d665e80fadb5e24add"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libmesa_texcompress.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "8680",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "+ANjucO0LIxNv1bp1Ej0Mg6W9/lGbPBZXW6lOry98Yel3kgrQbwkkTOWiba2jRxQeml1QIqpbFHl9ccerHBwiQ==",
+    "buildID" : "591341f6fa2d2c9c4966f7e6f018e66b"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libmesa_texcompress_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "12824",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "h2h7zN1MyBjeF+DmM6emcNtTNPN5f7p77mabFsWMJiokaYh6R77Xm7U4hhXkFnmhVOuCZqCWfL3J44D15pnRwg==",
+    "buildID" : "91722e7cb2f2ae40b9380d69e3681e78"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libpipe_vmwgfx_drv.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1220752",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1B+UN+bbAyrhzyJxxyCyc6HH4hI8/w5vrcHmIrzgL7y1Tv9I4hpGzlEGtXc8ymrH9MacOlqXsdPh1RA7k7XPZQ==",
+    "buildID" : "283228f39fef4951577e363936955476"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libpipe_vmwgfx_drv_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1949832",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LTF70FQp577vNrytYypNlIxbCSeig8V1OWMS2J/wC3q+A8lLj/6oVNErT2rr2R7nqnZRQw0JPzbEA+rFgXVHPQ==",
+    "buildID" : "7bd54b0c8ee32c33736b6539e2e4f910"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libst_HwGL.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "4450064",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PE2fhvA4xK3NgUWYmVo6FADJHAsDJ8ymbVwmnyfZijqiESM10sYFG+azCQVoc8SIvMT373O/XdaDtbvwyFVMNQ==",
+    "buildID" : "b56156f481996d17401b01594fe65049"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libst_HwGL_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "6179432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "5NhRtGDNzQFxGwRkoESrfFW0D6z9yNPtGyzjgXxeM/Ky/0D9HszoD9mFWpxEnDuY9oeU1zIFPi8JF4nSw70BaA==",
+    "buildID" : "b551486303c541c873df185198c39ed3"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libvmwsvga.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "33328",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "8NsaE1mNnPr8MNvg/ckdWryqcvsSn5XmfMEDaEMbTvQlbmxoUCerTb0h3ROGpMX+Ru/dSbe9Z9RPQUD4rMA0mg==",
+    "buildID" : "617eddcedebb434d75029563129f9fb4"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/graphics/vmware/libvmwsvga_g.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "33384",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FQJpO3M2qA8c8QVPUofr/Bga6CdkGhaeU2NnIF8KpXdgfHD1d4sD/+pF7F7H08XpRVmIgybaKhNopHdBx9fpFg==",
+    "buildID" : "ee4126ea20b217e25b7e45aebe1a651a"
+  } ]
+}

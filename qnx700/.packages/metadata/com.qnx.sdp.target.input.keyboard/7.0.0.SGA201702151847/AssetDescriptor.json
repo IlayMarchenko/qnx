@@ -1,0 +1,341 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.input.keyboard/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "511",
+    "digestSHA512" : "l2KcXlqHFUGViIXyveQ392emLKNwrHpD9vXMVJ7AVbtQ8h+goZYXw4OuNfBXw5atXQcU87xnmPhXKsAFTc+kfg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.input.keyboard/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "2967",
+    "digestSHA512" : "gO1pMz1qKyV8VDaABSnoP1h9KadWfeqRzt+6AnpmkmKxebSgypassKq41Mm3TKJdlgJsROn1ZO1ZcQ2Odl/3Ag=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.input.keyboard/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "4265",
+    "digestSHA512" : "PS1N20zMZVjML/LCmCiaf9UfrU1SVuyhnTdK6iwTxuxZGz+tjuR5I/6arnuV3Bd6Jh4IL9JHz+jTSsSRlSbRpg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/CapsLockFull.inc",
+    "runtime" : "true",
+    "size" : "3295",
+    "digestSHA512" : "/348qwXOmpldr3vqfR3VyJPpq3ynJJNHHl8yhpw4aFM5Pcvr/jpF/KAEg9WANbuR6hzDAd43+1jHwRof2I/cEg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/ShiftLockFull.inc",
+    "runtime" : "true",
+    "size" : "3186",
+    "digestSHA512" : "ZMB6b0m6L460p5HMHPbYpy2WNvhBbaY41YE2r694RP0rbeciwF/ph7el/5T6KkOl85dFtJydGJFenRlqAwskYg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/altgr.inc",
+    "runtime" : "true",
+    "size" : "5239",
+    "digestSHA512" : "BsaRS+SCjDiRwepXdJJoxHltMjlAy5qdLqI5MugD3br7Cl6ZotEacPocWspbzAyhRf3uYoQFd8tTzc41LXScyQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/common.inc",
+    "runtime" : "true",
+    "size" : "3385",
+    "digestSHA512" : "wrqbJCrnZmBfUTDZKkc2jgbcpZ/O5zivuUCCr0MPpy9Akzz+wxQRYzc4ayMUyFPbVqVyYWGf4DrUeQ7z5Vi8HA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/compose.inc",
+    "runtime" : "true",
+    "size" : "26205",
+    "digestSHA512" : "8HRpT94MQqcLdhtkVhUu9bgXKu+OThrl0qe1H6wxeeW6+iBk+ottbQNxu98Fa5/JTJXXEnEnxI2v5FxPCsHFcw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/cs_CZ_102.kbd",
+    "runtime" : "true",
+    "size" : "27114",
+    "digestSHA512" : "p1nUWT/EKHjzHYJFwVIj9Bsert+4GyJsccevBAYptfvuzXE72mIOMm3/WT+MiA/xw6FjRkKEw618Fug2C769Zg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/cs_CZ_102.kdef",
+    "runtime" : "true",
+    "size" : "4566",
+    "digestSHA512" : "xyiFzvjJf7wAwMGMVo5QU+FkvW/N7YL9dwG5gbBTvANR0L4hd3Teh4YerC+YKL6E5hLNr22eat5FU2B4PVhr7g=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/da_DK_102.kbd",
+    "runtime" : "true",
+    "size" : "23445",
+    "digestSHA512" : "+zWDeO4zahpu44s90o/OJSg9Y5w3/2fCF1l0vfJ2HSQ2GLE4bdoSzEA634sM4bLPIVEXlrIVwgjkrYqrJT3YWw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/da_DK_102.kdef",
+    "runtime" : "true",
+    "size" : "3145",
+    "digestSHA512" : "Ws5bVfdlAzy4lHJh7HVtpAp5z5MeIqbUoY0Xri5LGN7KeCOPPheJ2oJRliU677JlLjD98pqb9vp/Wzn6EhFXSQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/de_CH_102.kbd",
+    "runtime" : "true",
+    "size" : "23647",
+    "digestSHA512" : "lCeNGqtw/ck+uJAE+xykIJR2SUhS03mOme65PppyxUUWcRp60CjYL0XQGYaiBARMJDd2WsWKT5Xm6syiZPVTMQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/de_CH_102.kdef",
+    "runtime" : "true",
+    "size" : "3369",
+    "digestSHA512" : "iW0FX/m3xApP5zKy8ksPuM1QPoXx0bOzKCmOoXwGNQoORNOFPojlNyXEBJBqUqIx8gUKu1F5cn2frNm9gp4BWA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/de_DE_102.kbd",
+    "runtime" : "true",
+    "size" : "23625",
+    "digestSHA512" : "87BFBwW8YvQF5GSscRnNmM6IHcdhq4s0bGVt1Na0kZsaJHb3Nv/tIs5paljFhi9L4hcLbzouJefO5jx0V57Y3w=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/de_DE_102.kdef",
+    "runtime" : "true",
+    "size" : "3274",
+    "digestSHA512" : "15L8rLWvLLhCCo+p/9/5dOhV1VKLcn4NQmTueL2uSvrpUwTJ9yFyOAcR0WehB+HNPYWqiLRUz+ed2FN6Lh0eHw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_CA_101.kbd",
+    "runtime" : "true",
+    "size" : "21665",
+    "digestSHA512" : "HEay2XN0O86LoHHGT6H03Cozm6K6k2IFv3ZntS1f3CoA+N0FT84M1NZB7IMausPZuEHh8HkXKdRUtspMacY57g=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_CA_101.kdef",
+    "runtime" : "true",
+    "size" : "2938",
+    "digestSHA512" : "dL/FOPSs3AK3c2O9BD3hN5Y76sTIyaM2saGNUBgtE0ZGZryrwQgwMjd80wga7lSE2k2X0CnvKXHg2b4XlXT5ZA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_CA_101_dvorak.kbd",
+    "runtime" : "true",
+    "size" : "21750",
+    "digestSHA512" : "81Wd0Ukl5heKhpVMOxKTgJ8NgEav7UM/Zw+rKYmy/Ug0Gciq4WAC0KKmZ9G/AXNmQp8qBFtht4FHwTrJy0HJRw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_CA_101_dvorak.kdef",
+    "runtime" : "true",
+    "size" : "2952",
+    "digestSHA512" : "sNYqDXDu8NopIUcHUiE5X+rEK7iUZS3YXlygnzlxGJ4btEl+PROl4ipYiyn0pYDgm6Fb88pgD/k79RXgAZ/i8g=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_GB_102.kbd",
+    "runtime" : "true",
+    "size" : "22755",
+    "digestSHA512" : "7FcEUen1fj2TMOxNu3RVXkIFXsLr1V3IpSzNiLVjC140RqCW82GlqUGgnkasGpJ/BEXLzicUHk1nXo2n+UwwpQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_GB_102.kdef",
+    "runtime" : "true",
+    "size" : "3026",
+    "digestSHA512" : "zBUvN1f2LjJD9ofBFH/ZgEW3amfbkE799xGQf0XY0K2TU8dPYHP63uACIRv02hs3WIVEolmh/Cug7Ux4T3rrzg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_US_101.kbd",
+    "runtime" : "true",
+    "size" : "21665",
+    "digestSHA512" : "q4/eG79kpcpdl4pHl4TZpC+UZmgbSPoCOwX0cIv4a4Z2A6koaAc6raIVBtwSS1NK4JkaAwmx7kwep1ZstRlRNQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_US_101.kdef",
+    "runtime" : "true",
+    "size" : "2938",
+    "digestSHA512" : "VOjblzOFyKKrYPlPLh1UkOEaKfjXGezgMBgzuuquc/MSXSA11XmS0hrPRtBOetiNrPMdSZSDNfOM0WzXCxQnqA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_US_101_dvorak.kbd",
+    "runtime" : "true",
+    "size" : "21750",
+    "digestSHA512" : "hQj1YC00nd88F371CYL7kaswFoZN9OXJXIEqOPY6ZviZhvurFOh0KDoyz83GwtPRFZN2EnZOGXbDYCMNNEhS5w=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/en_US_101_dvorak.kdef",
+    "runtime" : "true",
+    "size" : "2952",
+    "digestSHA512" : "fZvluPlbX/5OGLYSUugz+MRf8s9jkF9Di4EpQ4WnsLXcMsmQnjzlwD8g3taQerAO+70v0Rbcd3R1C2POb3VmUQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/es_ES_102.kbd",
+    "runtime" : "true",
+    "size" : "23399",
+    "digestSHA512" : "Ak6wtPmmAcUxWZY0C/FlBMOGDq8clzZMipCgMIRO1LrKrkUfBpPP6stlqIcPwT7YiQYfk/pUdIVc0/8KL2irPA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/es_ES_102.kdef",
+    "runtime" : "true",
+    "size" : "3161",
+    "digestSHA512" : "yhvciLIA7V9tVeci0lfWxcH6l9Yj+Kpyft9hTqRWPvmp9OgI7RJnlQ9u93TkiVgwLcYROBvjIofqMQIKbA2vCw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/fr_BE_102.kbd",
+    "runtime" : "true",
+    "size" : "23611",
+    "digestSHA512" : "9WJGYIf+/9rZsQlCTjabVjm7M7Lmyv4f+97SHZvLkuLlIrHSZmu0UqeepbKlqXF8GeF3rQUl0t9dEB3Emudnmg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/fr_BE_102.kdef",
+    "runtime" : "true",
+    "size" : "3225",
+    "digestSHA512" : "+C8rLuU73EFby/mBbSb2Fxkgmx1g/YA09QuSLQT6k8kzdDc2+lR5ErOJ5LTQ+rbWZ5Rw9tr8+Ukvq9pKycDEwQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/fr_CA_102.kbd",
+    "runtime" : "true",
+    "size" : "24243",
+    "digestSHA512" : "sul/voN7kkbOxyzWTVtKQ5yf3AIvpPzzlc6xqvJXrJhE6osXImoZHxyzcslttZMU4Onn6S8KGWEx4UIwpTRQaw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/fr_CA_102.kdef",
+    "runtime" : "true",
+    "size" : "3608",
+    "digestSHA512" : "JjsvCjZT8pTO3cZhitEkCtnh4ZwUPqwpB48b1NTzED8Ib66VIQViad+guLyeltqnNlsop1ApRTDYVppj6aI35g=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/fr_CH_102.kbd",
+    "runtime" : "true",
+    "size" : "23647",
+    "digestSHA512" : "k/7hDdLJ025R9tKhVTsLMviAvtU25/BdSgQZeJLaatXM675lmcexE7ENAMHESxtkoSisLDLvSibXca3fQUSPMg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/fr_CH_102.kdef",
+    "runtime" : "true",
+    "size" : "3369",
+    "digestSHA512" : "4SJmK21/55XQpuyFyIqiQdbU5fRI7LBmnmyF8bxICa7NZ+LSQUg7BJHi0nGqaoyaLAIDfJ1xIPp00Hmz0sViBg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/fr_FR_102.kbd",
+    "runtime" : "true",
+    "size" : "23618",
+    "digestSHA512" : "cZBRceP2AlsGjNjMmAD70/Ah/RNr/d9mH26fJ+SfPBTES7gtxbasTwhboL1cx5z5k0IKNmWKEpxi8kdirkqwiw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/fr_FR_102.kdef",
+    "runtime" : "true",
+    "size" : "3184",
+    "digestSHA512" : "Xa5NGGoGpBvAe/OgMVTELYS4DpruY7e/nlYDjOM0P1hyJni9S/d3YWGL5Cff8Xa5YNfzXi8HRdnnuJJZlMd7zA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/it_IT_102.kbd",
+    "runtime" : "true",
+    "size" : "22975",
+    "digestSHA512" : "ROy/d+qFpMvgfOAmsZQ3K2jUYbWZcnrf1kXCLYRZPDIndvELwTlBBsdwRhOohX+5ha4GrJ/OJb0pwGC2RR/JVQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/it_IT_102.kdef",
+    "runtime" : "true",
+    "size" : "3088",
+    "digestSHA512" : "0Sixy2NXPiUfFKTUgDMlf5sJEw7fgBE74HGXvRtcJ23Lnj6gW8yr+wKOEZxkHjvZ65+VsOINFfJJCMb+i7DmzQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/ja_JP_106.kbd",
+    "runtime" : "true",
+    "size" : "26135",
+    "digestSHA512" : "Fls2hhTRqzC2PMymwvCgUi2+bDGKNPjF6sJlEFCdURkPLQnnBznpGwInJMBDHrjIvCAbn0OvVn3u+LjmsjVXlQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/ja_JP_106.kdef",
+    "runtime" : "true",
+    "size" : "10007",
+    "digestSHA512" : "lcuyM3t7+E2vs6nz4mX45uLEKoYbvhfKKzNah3qM+gpJ90GdDcqZw28kCqGQu8hh7XB5yyGixm/CZVEl7rHkbQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/nl_NL_102.kbd",
+    "runtime" : "true",
+    "size" : "24068",
+    "digestSHA512" : "bqAiRyAMpkWILqvmaB1YWQYx+JSj39uO/PtiZsxEomHfnXhnHAqCQKLGApH8FFZrx84hMP5oZ7PZuzdmPWek5w=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/nl_NL_102.kdef",
+    "runtime" : "true",
+    "size" : "3434",
+    "digestSHA512" : "nOsEiuww+3bHI+G8jOAxXLg+i0ik3KrTythEecHzRP4UPDuAjlIgTK6Iiw8gg9XPkZMRxcz5c5L4jH6SeZYgVg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/no_NO_102.kbd",
+    "runtime" : "true",
+    "size" : "23384",
+    "digestSHA512" : "DpUf/sgfh3/Jc9GcTOPJFVPvT2y+13EoyBD3zsE96jy/TrHh9Gb5ffSiwcZoTFGI8vNMpKLiGIoKTdSyrymyag=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/no_NO_102.kdef",
+    "runtime" : "true",
+    "size" : "3286",
+    "digestSHA512" : "Px2thgDqhAq1OC738xP04hC3sXwIzwUZfxFI3/RSlKvNhpwKHYFwPFT0CuZgc0JO8AIvye+rIIKJstE1pZulFw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/noaltgr.inc",
+    "runtime" : "true",
+    "size" : "4186",
+    "digestSHA512" : "8lp0zZ/0Gb8jAqFM7024YZOiEo3SVAUjIN2qYuK6JlY28avYSYM48GH5YboXY89xxH1FuJ8gWDI3DLim1f8/AQ=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/pl_PL_102.kbd",
+    "runtime" : "true",
+    "size" : "25413",
+    "digestSHA512" : "XotIRZBzVNxFk4OEEuNBQT9+NnBhG9cFMrP0t534Z5XxLdtyitEKskms0AqcOsPX8l4X6B5o/vq40boRiJnnwA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/pl_PL_102.kdef",
+    "runtime" : "true",
+    "size" : "4223",
+    "digestSHA512" : "RxAl6rWWHuDcuUPI6uod+bRuZeAzeGCpf0RZKs4etY9lbbm7EjNuzZfQ0muvPXCMGK3kEKapqwccF7ppZeddow=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/pt_PT_102.kbd",
+    "runtime" : "true",
+    "size" : "23277",
+    "digestSHA512" : "QFIsnmre5AFds48Z3GL3wJpOdmWDnQ68+ODWNI//OsUZkvC7QUXbXNSp5U/BIkb/fb6fDHArYlCG9NPKdfv7xA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/pt_PT_102.kdef",
+    "runtime" : "true",
+    "size" : "3153",
+    "digestSHA512" : "cE5bL0wnn9GFgfT7h2adzzvWQvIZ8n6Hu0wtGkfdN9B5O1hgQzxrKcOh93WVaRx4GospqNNH7mKG3kzhc4Rnpw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/ru_RU_102.kbd",
+    "runtime" : "true",
+    "size" : "25086",
+    "digestSHA512" : "fFyuIoaJSS0hXRTAJzQAG8LFhgy9gLdW3nJXOOUS4QBN7QtaReubPCLgtR5ZpA0VHv2VrMtCdWXUmptPTKDmmw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/ru_RU_102.kdef",
+    "runtime" : "true",
+    "size" : "10795",
+    "digestSHA512" : "xf5ey5G1WggxYzVltWi+K/CE1KsclApwuHCTwG9gGZqoeqY8vM8Dh3EaB2vQz2rsPaXAIf7YBkYTykvn3RNBNw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/sample.kbd",
+    "runtime" : "true",
+    "size" : "14324",
+    "digestSHA512" : "KefhZ05ZzCj/dEvy2S8+jKiKnpvNIEwLM0KfbiDLR2pto4di9heCneQwmjHHAiDu1fdo5tTMXbckLcCI+Ya5pw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/sample.kdef",
+    "runtime" : "true",
+    "size" : "32414",
+    "digestSHA512" : "IyF5hP7S+rP0tGM1tFoWMUMa9Uik/OWOgGWIXvcCUuMt5TieyfcP1rA/nK3BdmFj7tV66A0Xyo9vR2Na8GOWnw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/se_SE_102.kbd",
+    "runtime" : "true",
+    "size" : "23445",
+    "digestSHA512" : "4CCT/bd7mcsCMYbsjYX5rkQlGQiPgcsrpo/YBCQQHiUEfwj96HI1y/B68SsOIY6K4Zewu7UWDLBGzsDJFLWDYg=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/se_SE_102.kdef",
+    "runtime" : "true",
+    "size" : "3161",
+    "digestSHA512" : "zAUQgklbsuid0Odc9/j0k3+LnZ5FwIc74o7zz8AEnmyB5HUzBn4VrISwi14rOnpn418043CS+Co+Ht8uTSvKqw=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/shiftlk.inc",
+    "runtime" : "true",
+    "size" : "5129",
+    "digestSHA512" : "g0IGYpq8+wQDiNwNb6il2++UkWyopfO0fbsSTX2LFMUk6J5T31kbws7VXPapzcEghhKZ6Perd9xcRxPAdODUFA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/sk_SK_102.kbd",
+    "runtime" : "true",
+    "size" : "27307",
+    "digestSHA512" : "ptmptELJBeHwhNEmzN5YF/0U31C8ooIXT2ZokBiDQ8HPsyK+yGDiPXeVxI3AIoYgSj+hxu6YKU6duUVVQyP69Q=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/sk_SK_102.kdef",
+    "runtime" : "true",
+    "size" : "4728",
+    "digestSHA512" : "0EGeN2zWtSLGPVRxs872sv7gZ/Q7hRB3En7LjL2ylPg0rmfEHSZMOxwbjzKjEYRKO+xnZqNCnXtSLc9HoF9pTA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/symbols.inc",
+    "runtime" : "true",
+    "size" : "3611",
+    "digestSHA512" : "jUVYL5MhT5Bm1zOzqjEgw4zlLxtjESp3BB0dRvgUD0AbB1trQpOlGifL6/H4UWrQ3lrDxVqZgQLm2Mg59SfLDA=="
+  }, {
+    "name" : "target/qnx7/usr/share/keyboard/uc_keyboard_t",
+    "runtime" : "true",
+    "size" : "1405",
+    "digestSHA512" : "BkWw5nayBfuDMDRc9H7hVDeEEngOCAptZEh28XQZWrkcJtWor2g/hkW4t/yACPSzZKknuOeFCmwIrfh+tMwCVQ=="
+  }, {
+    "name" : "target/qnx7/etc/kbd.tbl.us",
+    "runtime" : "true",
+    "size" : "6191",
+    "digestSHA512" : "OTF5ox5bSGB+bbqOovfDiazKvVM1xaEZp5jsM7fgEYjT17CGwXHLyLwqr9SU39YHF4XC4m+YQz8dlsDRn6aAvg=="
+  }, {
+    "name" : "target/qnx7/etc/kbd.tbl.de",
+    "runtime" : "true",
+    "size" : "7252",
+    "digestSHA512" : "tzKaM5dvY3oEgu2W5tVRyDLg4M76nyWdg9eDw+6zU8v3/TtzThudEPSFwXwzwmly+FuAUX/WvzwLWNFh1ltSkA=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/keycodes.h",
+    "runtime" : "false",
+    "size" : "58408",
+    "digestSHA512" : "MJ/iGPB9ma1UV6zchzyYcrMqSVWdRToz8Bi1Z2QuZAc8/AFPiIbLko63ibGLX+mXhzj0pO+GftqvE3+QlwCfIw=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/usbcodes.h",
+    "runtime" : "false",
+    "size" : "9981",
+    "digestSHA512" : "6qJuEga8WF6kmrQu/BZvNy96U7lcSBt213SjoFAQLoCMgj63+/0+rfhWl3YX2fMzt82ryodkTLtg5uPN3f9u6Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/keymap.h",
+    "runtime" : "false",
+    "size" : "6213",
+    "digestSHA512" : "RWu7JY59RzyGHgshg9UojbONmqMgFvqPvNjR4PQqjv+a2YFcUF9HDEFhgoCk5gXXZ7PvlanuJyTMTwHC/EHL2A=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/keytable.h",
+    "runtime" : "false",
+    "size" : "2536",
+    "digestSHA512" : "CmRhQB8Uaty2eIOeFrbCDW+D2lCmyDhM8TfYpoIxeyPHDONwExT+PAXkpgzgIwcUcUbBQ/CrIMx9GxdHUlgGLw=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/PkKeyDef.h",
+    "runtime" : "false",
+    "size" : "69512",
+    "digestSHA512" : "jL/KjqZ2kPzDiqQIOijcGmXHMIGEZ0zUFZvRP9R+wohF5PVL8/VofPq52FyVkcGWAq0JS8V5qy2Y61a1dN+3mw=="
+  } ]
+}

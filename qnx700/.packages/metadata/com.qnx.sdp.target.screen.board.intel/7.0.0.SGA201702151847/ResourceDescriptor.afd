@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.screen.board.intel",
+  "name" : "QNX® SDP 7.0 Screen Board Support Intel",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "Screen Board Support",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "provides" : [ "library: screen-inteldrm.so", "library: libintel-ipu4drv.so.1", "library: dummy_drv_video.so", "library: i965_drv_video.so", "library: gpu_drm_g.so", "library: i915_dri_g.so", "library: i965_dri_g.so", "library: libEGL-mesa_g.so", "library: libGLESv1_CM-mesa_g.so", "library: libGLESv2-mesa_g.so", "library: libWFDintel-drm_g.so", "library: libglapi-mesa_g.so.1", "library: gpu_drm.so", "library: i915_dri.so", "library: i965_dri.so", "library: libEGL-mesa.so", "library: libGLESv1_CM-mesa.so", "library: libGLESv2-mesa.so", "library: libWFDintel-drm.so", "library: libglapi-mesa.so.1", "library: libcapture-board-apollo-lake-gordon-ridge-mrb.so", "library: libcapture-soc-intel-apollo-lake.so", "library: libdrm.so.1", "library: libdrm_intel.so.1", "library: libintel-ipu4.so.1", "library: libva-drm.so.1", "library: libva-tpi.so.1", "library: libva.so.1" ],
+  "requires" : [ "library: libintel-ipu4drv.so.1", "library: libslog2.so.1", "library: libc.so.4", "library: libWFD.so.1", "library: libEGL.so.1", "library: libGLESv2.so.1", "library: libdrm.so.1", "library: libdrm_intel.so.1", "library: libpci.so.2.0", "library: libm.so.3", "library: libva.so.1", "library: libva-drm.so.1", "library: libc++.so.1", "library: libscreen.so.1", "library: libglapi-mesa_g.so.1", "library: libwfdcfg.so.0", "library: libglapi-mesa.so.1", "library: libintel-ipu4.so.1" ]
+}

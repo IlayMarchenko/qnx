@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.os_services.ham</id>
+	<name>High Availability Manager</name>
+	<category>HAM</category>
+
+    <!-- lib/ham -->
+  <file name="target/qnx7/[ARCH]/usr/lib/libham.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libham.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libham.so.2" />
+
+  <!-- services/ham/ -->
+  <file name="target/qnx7/[ARCH]/usr/sbin/ham" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/hamctrl" />
+
+    <!-- services/ham/public -->
+  <file name="target/qnx7/usr/include/ha/ham.h" />
+  <file name="target/qnx7/usr/include/ha/ham_msg.h" />
+
+    <!-- lib/ha -->
+  <file name="target/qnx7/[ARCH]/usr/lib/libha.a" />
+  <file name="target/qnx7/usr/include/ha/cover.h" />
+  <file name="target/qnx7/usr/include/ha/fcntl.h" />
+  <file name="target/qnx7/usr/include/ha/neutrino.h" />
+  <file name="target/qnx7/usr/include/ha/stdio.h" />
+  <file name="target/qnx7/usr/include/ha/types.h" />
+  <file name="target/qnx7/usr/include/ha/unistd.h" />
+
+
+</shiplist>

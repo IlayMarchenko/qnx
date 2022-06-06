@@ -1,0 +1,769 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.device_input/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "978",
+    "digestSHA512" : "eO24606iPgugzpB51rDcbkbJ4bamKg9Phc7K4s1MMGsJ0FXUNjDNRi68XLOrOfvyD4GU+4/fmsSstgP3UVWqzQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.device_input/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "4321",
+    "digestSHA512" : "0UdpyA7oHoGJuZMCHlhr0mh5290uW6+j58VqoZfUXHMMAJE7OyUI7B4TNDEnoumq/3SHsRd1JIgxuAV0LU0/Ig=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.device_input/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "259",
+    "digestSHA512" : "5x5b4XOfUyDsyFGfZx9kUiLgUHbu43xkNsk/OKFLifoPBPm2/oT2hL8ZFQiGSv1CiWUhP270rDecT3ViGttvXw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libgestures.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "53984",
+    "linkto" : "libgestures.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jtFg7lc1RBwhPAe1G9pZ78ZxxWIZcHu/oniobMvw7VW/EwPltgoX4ZVrgZ4MsfPdu8YOPzzQqjG/+YFansDT2A==",
+    "buildID" : "64ace226a50e6efd0f56de751bca5467"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libgestures.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "53984",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jtFg7lc1RBwhPAe1G9pZ78ZxxWIZcHu/oniobMvw7VW/EwPltgoX4ZVrgZ4MsfPdu8YOPzzQqjG/+YFansDT2A==",
+    "buildID" : "64ace226a50e6efd0f56de751bca5467"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libinputevents.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "43280",
+    "linkto" : "libinputevents.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KC+dOKdSqgzU9FJRph0clhzE0owCCFc3fe7kMCOoJHmFZhJhUISYemPIEmQIVaPq8XRacHfxL1dFRhqs2FZcNw==",
+    "buildID" : "87f22c1f9fe0a5d2ec3e5e6aa399979e"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libinputevents.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "43280",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KC+dOKdSqgzU9FJRph0clhzE0owCCFc3fe7kMCOoJHmFZhJhUISYemPIEmQIVaPq8XRacHfxL1dFRhqs2FZcNw==",
+    "buildID" : "87f22c1f9fe0a5d2ec3e5e6aa399979e"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libkalman.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "8736",
+    "linkto" : "libkalman.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FrJmaBb1mF6/hDORt6EaQPQqsAZX8WtGDCuhoxCqUnivpx7Rdtj3sHM0NL6MV/vXHh7fzMd9iHM5RFduW2XKzw==",
+    "buildID" : "a521fcde45533bafcaeb2fc9114cb514"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libkalman.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "8736",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FrJmaBb1mF6/hDORt6EaQPQqsAZX8WtGDCuhoxCqUnivpx7Rdtj3sHM0NL6MV/vXHh7fzMd9iHM5RFduW2XKzw==",
+    "buildID" : "a521fcde45533bafcaeb2fc9114cb514"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-calib.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "17856",
+    "linkto" : "libmtouch-calib.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "y3lsv6CyRcwOdrx8WjlCS53p2XYFSRer4d69wjtqIYOuo6br2CWtTmvOuqdavWtQG+orDltjYb+E1N7fDnhRng==",
+    "buildID" : "917c277306c778ec6cdacbcbda30d68b"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-calib.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "17856",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "y3lsv6CyRcwOdrx8WjlCS53p2XYFSRer4d69wjtqIYOuo6br2CWtTmvOuqdavWtQG+orDltjYb+E1N7fDnhRng==",
+    "buildID" : "917c277306c778ec6cdacbcbda30d68b"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-devi.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "14128",
+    "linkto" : "libmtouch-devi.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "M8BRgxk9TWEsvBu4MIkWkNUPjsDLmn22Xlaheun3SyZa8ynpdk4vfphnrfqASgTAXbAiI5p3hiK8AE+rBZRZyw==",
+    "buildID" : "3c0804d0b88055f8d2ab9ff6d5887c0d"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-devi.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "14128",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "M8BRgxk9TWEsvBu4MIkWkNUPjsDLmn22Xlaheun3SyZa8ynpdk4vfphnrfqASgTAXbAiI5p3hiK8AE+rBZRZyw==",
+    "buildID" : "3c0804d0b88055f8d2ab9ff6d5887c0d"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-fake.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18776",
+    "linkto" : "libmtouch-fake.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EtxJdci1SssIYZV7sffZEVpRMRlMxIE9121iWgY4ZJqx1Gh669n2WiJ0KW4Ozxa2gkGrDMbE3YZo2Uf8Y0AcYw==",
+    "buildID" : "be1b45cbd3ad6a9506deb4914438f138"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-fake.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18776",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EtxJdci1SssIYZV7sffZEVpRMRlMxIE9121iWgY4ZJqx1Gh669n2WiJ0KW4Ozxa2gkGrDMbE3YZo2Uf8Y0AcYw==",
+    "buildID" : "be1b45cbd3ad6a9506deb4914438f138"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-hid.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "23144",
+    "linkto" : "libmtouch-hid.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EKjbxSYGBrDT0hLJBi3r6ep/YRglRaBsmKLdjWiQ3pak9Nh38nNcJ9uxI4bRoWGn1rdRY9h02dILyEJVEZYc9A==",
+    "buildID" : "65866b0b448f413e928e2a0a0a1e5fa4"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-hid.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "23144",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EKjbxSYGBrDT0hLJBi3r6ep/YRglRaBsmKLdjWiQ3pak9Nh38nNcJ9uxI4bRoWGn1rdRY9h02dILyEJVEZYc9A==",
+    "buildID" : "65866b0b448f413e928e2a0a0a1e5fa4"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-inject.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "62496",
+    "linkto" : "libmtouch-inject.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CyMLNSD9mFKaTqmz8f7to5+e0o40CRIO8UoBFxPUtoGGc7jxkS+/xjowuMBbwVAQL/prc7YEXWDHNPySWk/7xA==",
+    "buildID" : "4f03608a772cd45a839ac3734eaf13d4"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libmtouch-inject.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "62496",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CyMLNSD9mFKaTqmz8f7to5+e0o40CRIO8UoBFxPUtoGGc7jxkS+/xjowuMBbwVAQL/prc7YEXWDHNPySWk/7xA==",
+    "buildID" : "4f03608a772cd45a839ac3734eaf13d4"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/calib-touch",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "231480",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zAZzaISU4tvtr8yEQN5n737vryqUPHsZC78xBx0mkGNBn75JzrF52X+mr7qsXJ5IImzR4/D1unk4G4UVYqptRg==",
+    "buildID" : "190fdefd9ad3d44a57c2f8735a2e089a"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/mtouch",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "38680",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Hx92edJaIguj+v8A/oNPMyZdo3Go1Z9zi21Ayk0VnB0xwKVWdhic3YKFl98XadNWsQylul0KqQ3qxf/0YZalqw==",
+    "buildID" : "31b6916c6acd343f43c11695620189d6"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libgestures.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "41240",
+    "linkto" : "libgestures.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YfM6Nt3r/HHSKuofl3niV2Ud850XmzOpbmb2Q+QCERxy+v223xFCatHzY5is3u2WyKhpLYsO73XbJ5Y1/goOSA==",
+    "buildID" : "08532378ba94b46d5751ccebd8f6d541"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libgestures.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "41240",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YfM6Nt3r/HHSKuofl3niV2Ud850XmzOpbmb2Q+QCERxy+v223xFCatHzY5is3u2WyKhpLYsO73XbJ5Y1/goOSA==",
+    "buildID" : "08532378ba94b46d5751ccebd8f6d541"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libinputevents.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "35476",
+    "linkto" : "libinputevents.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kskeJDiTsKue8vqPJ2NXQZsIOgebe3MkOE6NqMVAPqiUWzkPstl07tOVdPiKp7zA+6jNL3EvZ0Xqsm5xanNkNQ==",
+    "buildID" : "402d8efea33e5a2db0ec675b04a2f6f4"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libinputevents.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "35476",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kskeJDiTsKue8vqPJ2NXQZsIOgebe3MkOE6NqMVAPqiUWzkPstl07tOVdPiKp7zA+6jNL3EvZ0Xqsm5xanNkNQ==",
+    "buildID" : "402d8efea33e5a2db0ec675b04a2f6f4"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libkalman.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "7976",
+    "linkto" : "libkalman.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1PrvMvLjnERXlU4jivLOLdDp622BVfgsOnmBc0zZZcwAG1OgYiHKTJhEVJDGmlpo5JDZrD9vxMJBwRb5XECNlg==",
+    "buildID" : "9a412d2cafa73e2d9ad2d1d8566f16c7"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libkalman.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "7976",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "1PrvMvLjnERXlU4jivLOLdDp622BVfgsOnmBc0zZZcwAG1OgYiHKTJhEVJDGmlpo5JDZrD9vxMJBwRb5XECNlg==",
+    "buildID" : "9a412d2cafa73e2d9ad2d1d8566f16c7"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-calib.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "12952",
+    "linkto" : "libmtouch-calib.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hFfH2Mw4VY+RXp+Fz0QqdnKOCLuot3uxJQ6ULuBS1hFjtyNGHSHZFGU8bRXVcZTlhblmuXVW70ldUQdXblgUnQ==",
+    "buildID" : "35bec69de044648cd10ff94040961f10"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-calib.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "12952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hFfH2Mw4VY+RXp+Fz0QqdnKOCLuot3uxJQ6ULuBS1hFjtyNGHSHZFGU8bRXVcZTlhblmuXVW70ldUQdXblgUnQ==",
+    "buildID" : "35bec69de044648cd10ff94040961f10"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-devi.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13264",
+    "linkto" : "libmtouch-devi.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "UZMkB7xoVKjWDsHAmG2Wz5LJQlmAokrXjD1UHGOHJ9079bRuWo+9yq/uFCIkwDp6q1TZPlS4XY0aUTbcqJMDSA==",
+    "buildID" : "4e28bb99de1409486e2aa7d48e3170e4"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-devi.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13264",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "UZMkB7xoVKjWDsHAmG2Wz5LJQlmAokrXjD1UHGOHJ9079bRuWo+9yq/uFCIkwDp6q1TZPlS4XY0aUTbcqJMDSA==",
+    "buildID" : "4e28bb99de1409486e2aa7d48e3170e4"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-fake.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "14176",
+    "linkto" : "libmtouch-fake.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LZHMLXrecrQCQ9BAZ8ZsIxo14i2SKK1HgnqDhbstbNp0kO6QoTHv0mWq2pSRz6xhDgnjq7VEDDuP9H+puiFhRA==",
+    "buildID" : "d14de3eaedb420dd61ae9a72713fc397"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-fake.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "14176",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LZHMLXrecrQCQ9BAZ8ZsIxo14i2SKK1HgnqDhbstbNp0kO6QoTHv0mWq2pSRz6xhDgnjq7VEDDuP9H+puiFhRA==",
+    "buildID" : "d14de3eaedb420dd61ae9a72713fc397"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-hid.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "18512",
+    "linkto" : "libmtouch-hid.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Gpa08ymLDn/n96ez2RllDYim2MbB6JfyTvb730FE67TdSO6IKNhKazNMoXY4j+3yZJ9O67Ys8ggLY0NRCCAlPg==",
+    "buildID" : "cc581b1aa0705198c809a9392c12d848"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-hid.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "18512",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Gpa08ymLDn/n96ez2RllDYim2MbB6JfyTvb730FE67TdSO6IKNhKazNMoXY4j+3yZJ9O67Ys8ggLY0NRCCAlPg==",
+    "buildID" : "cc581b1aa0705198c809a9392c12d848"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-inject.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "53852",
+    "linkto" : "libmtouch-inject.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "t55NONUudrmz2lW8kgc9mTcoztlEkELQWi9ycL+kbWfjGidnCNdHLCCjZ7TlQGxXT2WtG5zFXOfVVQHQMdDfCw==",
+    "buildID" : "a1f8aba5b0a7bd335b91ee75f62c8e27"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libmtouch-inject.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "53852",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "t55NONUudrmz2lW8kgc9mTcoztlEkELQWi9ycL+kbWfjGidnCNdHLCCjZ7TlQGxXT2WtG5zFXOfVVQHQMdDfCw==",
+    "buildID" : "a1f8aba5b0a7bd335b91ee75f62c8e27"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/calib-touch",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "188056",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "gk1cAUq4P43sexNrJJ1kZ03vNWbM9IhnTzpE5K+CAB4915ZLa/8du44bssM+y6CY7ygGXZDnCWrlvVxVoXYY8Q==",
+    "buildID" : "cd82314e802133ee9d6f81f030bfcf5e"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/mtouch",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "33484",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RzwKuFKkdV+FzJkeJD1AaVCJ7IHs8qr+BjAB4vrYp5RnfeE8bdY+OgrmxL7/z9nspx8DbipQotjo2k6xkQBKOQ==",
+    "buildID" : "2f093f5d2487852a3f834e2b8e4ff653"
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/bucket.h",
+    "runtime" : "false",
+    "size" : "4691",
+    "digestSHA512" : "wjIsW4jtV5S/M2MggcdnAeye3lvoBEiCUlwTKBJvvmJsGe54Voi2kl7uUCqBzj1GiS4+8DvAfvhN+da2sFQPlw=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/defaults.h",
+    "runtime" : "false",
+    "size" : "2108",
+    "digestSHA512" : "IphvJBx0BPb5lJwNRCIkzfcxgMj0P9IU0CYLLv1F+EM/qR4JnqRCnPi5rpLImSxKiHaT1GJhz2tGvvaFXafOEA=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/double_tap.h",
+    "runtime" : "false",
+    "size" : "4517",
+    "digestSHA512" : "lsh8a6fGgQMG4cUuvHP2O3at5HZWJTOI4knLbYl78hN8TR17fggZIZBlNI259hFdnR87iYVMxZxqvueNSIOW2g=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/event_list.h",
+    "runtime" : "false",
+    "size" : "5656",
+    "digestSHA512" : "kT7siG+tDUTIQUtYZ8/vOlbjr12/EPPIQAopZzJPqmS7ghoL1iWEXo+/58gC/kXbKZKIl8NjBnB0xSoMqzZxRw=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/long_press.h",
+    "runtime" : "false",
+    "size" : "3320",
+    "digestSHA512" : "15HsnyCTkGlCW648T13Ya2fhjYTQWsxJdGF9rTS5//t2qCliVY2FKca9NyJM+2YcWo7cMGmA62i2bdD9nW/pvA=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/pinch.h",
+    "runtime" : "false",
+    "size" : "3685",
+    "digestSHA512" : "iBXrjDBUS3xZgEcprU5n13nkhK8CRynC1lgRTcl9YFlasaoOcjnwAuGdjuLkz4SwOhGp+fyzchDsyxN0UZrA8A=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/press_and_tap.h",
+    "runtime" : "false",
+    "size" : "3864",
+    "digestSHA512" : "y3xJIf08RR45gQcrYuDCLoXHnDsyJ2rhF5HPvzw4jylJM8UNkN2vTN4aW6+Wig2Wj/1odr+lDKKDemJqJ61U1g=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/rotate.h",
+    "runtime" : "false",
+    "size" : "3597",
+    "digestSHA512" : "gR9ot7jMl1sFyBdwfJGSUqxIYIMJruV30vqGNvkuqtjO2x064Op7W4ynUq09bCd1tQikDOKf3XlTj9g2o33qSw=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/set.h",
+    "runtime" : "false",
+    "size" : "5076",
+    "digestSHA512" : "p50QQmd28rNn4RgIlo/I105LsYxKGnVykNN+cKaDAdmcsI3oj6BXCFwuXUYIp3OC9vYG92V9MmJC8+c68zg9GQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/swipe.h",
+    "runtime" : "false",
+    "size" : "4087",
+    "digestSHA512" : "tIU3jFE/as/y46QLnnypHiuwTDSOG/PfviRJjW7p3QjAarF3GKrzh27GdDsh9BX+sKhgjbC+DL6nRZAtg0od0w=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/tap.h",
+    "runtime" : "false",
+    "size" : "3102",
+    "digestSHA512" : "k8i7py/x3PGrsNatmUEsb6qmALJAMiFHT9h3cFiyAFfVeMYdVjsj6O/Duz9FQUkc1i3gdax8cnl1UyNb9dqQKg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/timer.h",
+    "runtime" : "false",
+    "size" : "5494",
+    "digestSHA512" : "+JC0OzC8yoAR/Ij3JqVsxd+p4A+rIknuM2PfgKh/GeujUaW+B5g9jNakicWNEUVVWcrgbv29rah3kS/MgA8QVg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/triple_tap.h",
+    "runtime" : "false",
+    "size" : "4391",
+    "digestSHA512" : "IpG8da5GWbABp8bNBGwFdVbk2HZKfOvjYo/hOq3LLeq7kaF9F2k7/ur2bvJt9QO9LNDhBnTfY8gKyJm7olDh3w=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/two_finger_double_tap.h",
+    "runtime" : "false",
+    "size" : "5315",
+    "digestSHA512" : "WFgxAk8OITcl4+UtH8jYHdRlylT78VWPOp9fVt26CyA9rUUFhXRZba8oIQPCcQWk//1EItqenswkyc9HCBufRQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/two_finger_pan.h",
+    "runtime" : "false",
+    "size" : "3466",
+    "digestSHA512" : "n4vsnTe/uzg9nRVeovcQ/9VqUmAElqTtAaLB1xf03Y28oTUof6f/dSC01RBP/U7cyvbHa4v2KbXwvkts5OuMMw=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/two_finger_tap.h",
+    "runtime" : "false",
+    "size" : "4056",
+    "digestSHA512" : "2fUwPMhs1pwt11weU+XNrnzls5R3RhjBTB7ZcIvBXU5YUZV5U8mSpdh2XPzG5wvpe5xAJZ7F21I0o+S3kaagXg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gestures/types.h",
+    "runtime" : "false",
+    "size" : "16095",
+    "digestSHA512" : "vJtLaHR7ojftlA8xOoxsHHqDnKy9E+DRRIQk6w35iEMopRje4E6Ibkk9xgv7ABqjVYzRry+dzZQmouV+FY3D6w=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/calib.h",
+    "runtime" : "false",
+    "size" : "6181",
+    "digestSHA512" : "rmkLcblUeYRHmrJ2nu++Pu6bEhreGJxeTrFfiBXb0allSjXmmanPKqbKmZh9hAD7pMNdRMIJFcI53hpMl93b+w=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/client.h",
+    "runtime" : "false",
+    "size" : "1742",
+    "digestSHA512" : "FHkLUbZeSz9BH8AJzf9IfqD9pHX85L8GlSESKAp8WOn+Fm9ZrlD4fovBelHJp3ynMo5Ll7gslIvZ02gdR95Iqg=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/event_types.h",
+    "runtime" : "false",
+    "size" : "5782",
+    "digestSHA512" : "klLB3dzqD6mtieYZZ1EK1/sJIjP+ldCu9LI8XBLlWKksQhDAesLJDoI3T3nSRiqiIltRdhmwiBglVzexrmj9+Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/inputtrace.h",
+    "runtime" : "false",
+    "size" : "6528",
+    "digestSHA512" : "g0Kle2VEBrImjQB/y26YacCXg6ikjHPA877ne+ovutL7IZ45eCmd0Yls+qw7O+D07bXpD6NbkO5ktPKwjuN98g=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/mtouch_client.h",
+    "runtime" : "false",
+    "size" : "2552",
+    "digestSHA512" : "yEmHuHpCMpbGA+rrceMmEmJSqNuFu0BpzDtU0CAZ2UeSKJkfiVs9eeBoa7Dlb8M/XYuos5evdg8+4fG2EDVmQQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/mtouch_driver.h",
+    "runtime" : "false",
+    "size" : "26931",
+    "digestSHA512" : "hjjclkO5CXIClNwjjhM2EuIHtHIpw3w6sZ/STUZe8jRu81OtKcFnM38+O1o98rL02xhuOHDWKf7fT67zHfTQxw=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/mtouch_log.h",
+    "runtime" : "false",
+    "size" : "6861",
+    "digestSHA512" : "PhwYND9bYbvOZamp2R4+vOIOpOMoafkVpDxcGLKTPSXBQxH/KbeZ4vpweP/iKqitG9EzcP3iK0hvurkbyFPlXQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/mtouch_params.h",
+    "runtime" : "false",
+    "size" : "5217",
+    "digestSHA512" : "6yI80UKFYEDTaXUWr+ql1Ep31D7v08SyFMA32+Dg0a/k7/Q8myVjZMy9P5Odxu7fJe8uJVPKLaJVy0F6ZP1kpg=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/parseopts.h",
+    "runtime" : "false",
+    "size" : "4735",
+    "digestSHA512" : "GIn82zZZy5iyz1K0K1VTiEWvXEMvApRZ/RQ5KeqkWMlSkRI2b2hv+6ciBAx4yw/QVad9EzRUPSmfZqSUJ1KzVg=="
+  }, {
+    "name" : "target/qnx7/usr/include/input/screen_helpers.h",
+    "runtime" : "false",
+    "size" : "3597",
+    "digestSHA512" : "dPdyDDb2dlvkEZdPWaQPe66sWASH9lWAj8ccc4tnBf1uivAX8wUu4IioTq0B13/ve+T6W3CYe8OfguYHl/ggaw=="
+  }, {
+    "name" : "target/qnx7/usr/include/kalman.h",
+    "runtime" : "false",
+    "size" : "3939",
+    "digestSHA512" : "hC0dTGAn3CxH3ywiRknPPBcvVu1/vZerpgaUxZUoGamvln8NuwEUE5jbfy6HPr4550Xi2nBL6AUjJu1/uR0DEw=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libgestures.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "59884",
+    "linkto" : "libgestures.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yQZEjzaHA4p9BJiFHOFAEG1oeZsbOXXOuCTbNvnTads7j/yO750WHw+cAcPOyGvX3w0CjeUfD1YJEfoMrLx7vA==",
+    "buildID" : "a94e0cea61683c24497633b389dd81f5"
+  }, {
+    "name" : "target/qnx7/x86/lib/libgestures.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "59884",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yQZEjzaHA4p9BJiFHOFAEG1oeZsbOXXOuCTbNvnTads7j/yO750WHw+cAcPOyGvX3w0CjeUfD1YJEfoMrLx7vA==",
+    "buildID" : "a94e0cea61683c24497633b389dd81f5"
+  }, {
+    "name" : "target/qnx7/x86/lib/libinputevents.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "48944",
+    "linkto" : "libinputevents.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VLIp6PumuCULFJIdHZp6dV/YqbV8lfavmqIx6M7OINTCANgYmUWp0JspkSK/YXwlmL1w17fqvB42rL83HAholA==",
+    "buildID" : "c33a68de33efd7ad27e5b99965263ee5"
+  }, {
+    "name" : "target/qnx7/x86/lib/libinputevents.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "48944",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VLIp6PumuCULFJIdHZp6dV/YqbV8lfavmqIx6M7OINTCANgYmUWp0JspkSK/YXwlmL1w17fqvB42rL83HAholA==",
+    "buildID" : "c33a68de33efd7ad27e5b99965263ee5"
+  }, {
+    "name" : "target/qnx7/x86/lib/libkalman.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "7416",
+    "linkto" : "libkalman.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "JBf2GB4jG0iZFufdNAv60XIG3O3Xf+Gl5pEXKSzbbBPTpiHzRJNIz89Mt5DZCTGgrcAcwAwJYjdU/JZDnao0fg==",
+    "buildID" : "657d46395c9e2e8fb1b7ee416fbb3d77"
+  }, {
+    "name" : "target/qnx7/x86/lib/libkalman.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "7416",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "JBf2GB4jG0iZFufdNAv60XIG3O3Xf+Gl5pEXKSzbbBPTpiHzRJNIz89Mt5DZCTGgrcAcwAwJYjdU/JZDnao0fg==",
+    "buildID" : "657d46395c9e2e8fb1b7ee416fbb3d77"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-calib.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "16404",
+    "linkto" : "libmtouch-calib.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "y7tgwXEhl3lbvj8WeWa5JTiKCgyHiYQdR06AieQd7u6ebDvCO8vJ+3WowAsWJDFdyfvOpiEkaCjWqC/7r7554Q==",
+    "buildID" : "7e482c290f1842e2acb937828e7cd0d0"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-calib.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "16404",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "y7tgwXEhl3lbvj8WeWa5JTiKCgyHiYQdR06AieQd7u6ebDvCO8vJ+3WowAsWJDFdyfvOpiEkaCjWqC/7r7554Q==",
+    "buildID" : "7e482c290f1842e2acb937828e7cd0d0"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-devi.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12420",
+    "linkto" : "libmtouch-devi.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dE5rsPEprpQep0O8NjJ5lJtI+e+ZB3Fe3z2D0aH4/mDgTLDbDNHubsbNs9jnOdhWP0Z2MzsHjaZIX5XRFJY39A==",
+    "buildID" : "23334b7d8e745b98822894903c38777d"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-devi.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "12420",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dE5rsPEprpQep0O8NjJ5lJtI+e+ZB3Fe3z2D0aH4/mDgTLDbDNHubsbNs9jnOdhWP0Z2MzsHjaZIX5XRFJY39A==",
+    "buildID" : "23334b7d8e745b98822894903c38777d"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-fake.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "17032",
+    "linkto" : "libmtouch-fake.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PsWLbsX8/Vj5rOwviVBkBkL9bq9AOCOaCZ+ia+3txb6QkUrPY53nJpAu6KEE/6Pk72qNn13ugJKywQInHWDuiQ==",
+    "buildID" : "0ceaf2cf7d62021cfb28136de52ada21"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-fake.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "17032",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PsWLbsX8/Vj5rOwviVBkBkL9bq9AOCOaCZ+ia+3txb6QkUrPY53nJpAu6KEE/6Pk72qNn13ugJKywQInHWDuiQ==",
+    "buildID" : "0ceaf2cf7d62021cfb28136de52ada21"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-hid.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "21180",
+    "linkto" : "libmtouch-hid.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Wur8L5EML4Ros57nHiH7WSqIRIvJu9Trx2URwDYEYSiUYD079MsIU/OObALJGRlQsMqxK7vLmA1KPkVf+PuzyA==",
+    "buildID" : "8115273ca9b5fb4e3a5387f4274bc257"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-hid.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "21180",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Wur8L5EML4Ros57nHiH7WSqIRIvJu9Trx2URwDYEYSiUYD079MsIU/OObALJGRlQsMqxK7vLmA1KPkVf+PuzyA==",
+    "buildID" : "8115273ca9b5fb4e3a5387f4274bc257"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-inject.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "64480",
+    "linkto" : "libmtouch-inject.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "gh48QInka7e5WsDqy4CI6MxOOrvt1TijkBH8Iz5sHKt6mZO+8+pm4h4MGunVXBJx2/TLb/YTpHRg3dPCgxiWww==",
+    "buildID" : "66b61264e2b71e24d6af51a60703da02"
+  }, {
+    "name" : "target/qnx7/x86/lib/libmtouch-inject.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "64480",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "gh48QInka7e5WsDqy4CI6MxOOrvt1TijkBH8Iz5sHKt6mZO+8+pm4h4MGunVXBJx2/TLb/YTpHRg3dPCgxiWww==",
+    "buildID" : "66b61264e2b71e24d6af51a60703da02"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/calib-touch",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "289180",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vcy0gR3k/DDz/P5tjTpQezvU3K06l0Sug2UEKXoJGNivxNylQ1Q+YED02LlQ25Xi6yxWb1qCddL+eqCzRzQw5Q==",
+    "buildID" : "76ec21adba47f61d17e1a18b65bd885f"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/mtouch",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "40412",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "whiRLUHV7V/AMkWFbjJoUbHR+PRU5HpRWOValcV1OyMwpP6BawEAEE7GLWgOoOUdB8Nw+3zZPUJYdDByKzrw/Q==",
+    "buildID" : "2092986a5f0cff394fbd4f791324a6e3"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libgestures.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "60752",
+    "linkto" : "libgestures.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VII/owqwUpZKdLVXOoRUy+/nF59mAaxuqNN6cgR/t4d41hy6oBXJpjaXLA3IJA7Qwsca/Ro4h3CCkuHghcbjkQ==",
+    "buildID" : "4b209f9ed316fa6f9f9c169e510d5311"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libgestures.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "60752",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VII/owqwUpZKdLVXOoRUy+/nF59mAaxuqNN6cgR/t4d41hy6oBXJpjaXLA3IJA7Qwsca/Ro4h3CCkuHghcbjkQ==",
+    "buildID" : "4b209f9ed316fa6f9f9c169e510d5311"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libinputevents.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "46296",
+    "linkto" : "libinputevents.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "t/RY5z4s5rG1ViVjsC4M11BPcKkLR2q3N2YCq+2mJrDdRP9bg0OJd7CxBCOEmTF6AaMSupVj+ZyKe+zbgxF7XA==",
+    "buildID" : "a14e2e2b5030e3b816fdce7aca9470c3"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libinputevents.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "46296",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "t/RY5z4s5rG1ViVjsC4M11BPcKkLR2q3N2YCq+2mJrDdRP9bg0OJd7CxBCOEmTF6AaMSupVj+ZyKe+zbgxF7XA==",
+    "buildID" : "a14e2e2b5030e3b816fdce7aca9470c3"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libkalman.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "12520",
+    "linkto" : "libkalman.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iLFNyzu5Lv61f29FxokUYV22moFlIA12r1nRWnkUKjH12M9PeIU0EaqTBHG9cOZ4yi3C/Z70DevJmMHWOe/fMw==",
+    "buildID" : "c86e173d854297073713abbec0d64be9"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libkalman.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "12520",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iLFNyzu5Lv61f29FxokUYV22moFlIA12r1nRWnkUKjH12M9PeIU0EaqTBHG9cOZ4yi3C/Z70DevJmMHWOe/fMw==",
+    "buildID" : "c86e173d854297073713abbec0d64be9"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-calib.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "17528",
+    "linkto" : "libmtouch-calib.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DFY59Y+55nLPaUvru47Te0h6hIvYQap6tbuM1yIbxWUy7YKz9Xd5BSyM+npCWh+SoPxWvLloO7cHRJRaUlXKPA==",
+    "buildID" : "378772d244402191541965f8248d7517"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-calib.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "17528",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DFY59Y+55nLPaUvru47Te0h6hIvYQap6tbuM1yIbxWUy7YKz9Xd5BSyM+npCWh+SoPxWvLloO7cHRJRaUlXKPA==",
+    "buildID" : "378772d244402191541965f8248d7517"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-devi.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13696",
+    "linkto" : "libmtouch-devi.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NuCgKPt7lOD/Sa0eU7mxzQJtbrr447KnhsUxyHxvEKbRqFup3cuizOvg2buOiCoVwuJRmZWryul5S43Tvu7xWg==",
+    "buildID" : "aa6d9be84fa6b3b949d3878e3d8ff829"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-devi.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13696",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NuCgKPt7lOD/Sa0eU7mxzQJtbrr447KnhsUxyHxvEKbRqFup3cuizOvg2buOiCoVwuJRmZWryul5S43Tvu7xWg==",
+    "buildID" : "aa6d9be84fa6b3b949d3878e3d8ff829"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-fake.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18224",
+    "linkto" : "libmtouch-fake.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "W4mu+aqZiKPDOJEvgQKt2Pm/YLhKEH24Om2lve5FdgJZ6odloy+daU/HIpYbY9kuvg220JP+J445n1Ov92pUMg==",
+    "buildID" : "cb2a8858629f02556aef7a3e9a98fc62"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-fake.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18224",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "W4mu+aqZiKPDOJEvgQKt2Pm/YLhKEH24Om2lve5FdgJZ6odloy+daU/HIpYbY9kuvg220JP+J445n1Ov92pUMg==",
+    "buildID" : "cb2a8858629f02556aef7a3e9a98fc62"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-hid.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "22624",
+    "linkto" : "libmtouch-hid.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "izWKDYFDVzOh9G6Hk4k2K2hghTFBtv+T0UMHN08VQtEkJafzTYHYdEf9XG1ztBYRJHifrNuHTA6MGpGnSiWxuA==",
+    "buildID" : "ce56ff766fd3cf55ee6370d615db076e"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-hid.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "22624",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "izWKDYFDVzOh9G6Hk4k2K2hghTFBtv+T0UMHN08VQtEkJafzTYHYdEf9XG1ztBYRJHifrNuHTA6MGpGnSiWxuA==",
+    "buildID" : "ce56ff766fd3cf55ee6370d615db076e"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-inject.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "65880",
+    "linkto" : "libmtouch-inject.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3i/h6qcSRFlsWH9I9P1qEXQDiolQ72AGWMSi2G9tGNP3Oq0D1Z1d+GC0hF5vRyGoh8fR37fGMvGZio8SXRXcjg==",
+    "buildID" : "b6941455e973fedaeeb3d71beb5e27ea"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libmtouch-inject.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "65880",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3i/h6qcSRFlsWH9I9P1qEXQDiolQ72AGWMSi2G9tGNP3Oq0D1Z1d+GC0hF5vRyGoh8fR37fGMvGZio8SXRXcjg==",
+    "buildID" : "b6941455e973fedaeeb3d71beb5e27ea"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/calib-touch",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "261120",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jBIXU4Tpk5i1l4GFe+AmF1ui/DN06GxOVLe9flDtAxDLpfDLAgEKZMLff7Qce9xe8zwT5xWeDDSlp0nG7xEALg==",
+    "buildID" : "4402f075842917493c537d18c6d47054"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/mtouch",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "42232",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lvkguC7fH0tTUJE+E6SmjlIISh2UJn4I4GHdbZwZnOOBZ//Gz24e3HU7xA/0Ny2NVYbzflT5DJPJxlwnH8bsLQ==",
+    "buildID" : "77ef79f3dd5e87272e149031d31e6248"
+  } ]
+}

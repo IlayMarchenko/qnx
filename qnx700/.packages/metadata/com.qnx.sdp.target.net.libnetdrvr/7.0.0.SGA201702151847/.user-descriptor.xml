@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.libnetdrvr</id>
+<name>Networking - libnetdrvr</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/lib/libnetdrvr.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libnetdrvrS.a" />
+  <file name="target/qnx7/usr/include/hw/nicinfo.h" />
+  <file name="target/qnx7/usr/include/netdrvr/avb.h" />
+  <file name="target/qnx7/usr/include/netdrvr/common.h" />
+  <file name="target/qnx7/usr/include/netdrvr/mdi.h" />
+  <file name="target/qnx7/usr/include/netdrvr/nic_mutex.h" />
+  <file name="target/qnx7/usr/include/netdrvr/nicsupport.h" />
+  <file name="target/qnx7/usr/include/netdrvr/ptp.h" />
+
+</shiplist>

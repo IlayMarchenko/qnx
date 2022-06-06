@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.devnp_pci</id>
+<name>Networking - PCI drivers</name>
+<category>Networking</category>
+
+    <file name="target/qnx7/[ARCH]/lib/dll/devnp-e1000.so" />
+    <file name="target/qnx7/[ARCH]/lib/dll/devnp-ixgbe.so" />
+    <file name="target/qnx7/[ARCH]/lib/dll/devnp-rtl8169.so" />
+    <file name="target/qnx7/[ARCH]/lib/dll/devnp-speedo.so" />
+    <file name="target/qnx7/[ARCH:x86,x86_64]/lib/dll/devnp-vmxnet3.so" />
+
+</shiplist>

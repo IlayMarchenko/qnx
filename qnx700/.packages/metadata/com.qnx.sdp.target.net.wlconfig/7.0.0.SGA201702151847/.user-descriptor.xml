@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.wlconfig</id>
+<name>Networking - wlconfig</name>
+<category>Networking</category>
+  <!-- lib/io-pkt/lib/wlconfig  -->
+  <file name="target/qnx7/[ARCH]/lib/libwlconfig.a" />
+  <file name="target/qnx7/[ARCH]/lib/libwlconfig.so" />
+  <file name="target/qnx7/[ARCH]/lib/libwlconfig.so.1" />
+  <file name="target/qnx7/[ARCH]/lib/libwlconfigS.a" />
+</shiplist>

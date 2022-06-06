@@ -1,0 +1,498 @@
+body {
+    margin-left: 0px;
+}
+
+/* DITA stuff */
+
+.spotlight {
+    background-color: #EEDC82;
+}
+
+.reltasks, .relconcepts, .relinfo, .relref {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    line-height: 15px;
+    margin-left: 0px;
+}
+
+/*[dwh:10.Sep.2013] Addressing item 10 in SRC17600, cmdname styling.*/
+.dtype, .option, .tt, .cmdname, .userinput, .systemoutput {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.2em;
+}
+
+.xref .cmdname {
+    padding: 0px;
+}
+
+/* The Courier font leaves more space below the baseline than the default font,
+   so to prevent slightly enlarged lines within paragraphs, we reduce the line
+   height for these tags, provided that they're not within a <lines> tag, which
+   is meant for multi-line text with preserved line breaks */
+:not(.lines) > .dtype, :not(.lines) > .option, :not(.lines) > .tt,
+:not(.lines) > .cmdname, :not(.lines) > .userinput, :not(.lines) > .systemoutput {
+    line-height: 0.9em;
+}
+
+.envar, .apiname, .varname, .parmname {
+    font-style: italic;
+}
+
+.filepath, .key, .uicontrol, .wintitle {
+    font-weight: bold;
+}
+
+
+.topictitle1 {
+    font: 18px  verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 24px;
+    font-weight: normal;
+    color: #0183a9;
+    margin-left: 0px;
+}
+
+.h2:not(.title), h2:not(.title) {
+    font: 14px  verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 16px;
+    color: #003366;
+    font-weight: normal;
+}
+
+/* Properties for "normal" notes and default settings inherited by more specialized note types
+   (e.g., caution, warning) */
+.note {
+    margin-top: 1em;
+    margin-bottom: 1em;
+    padding-left: 35px;
+    padding-top: 15px;
+    padding-bottom: 15px;
+    border: thin;
+    border-bottom-style: solid;
+    border-top-style: solid;
+    background-image: url(images/note.gif);
+    background-position: left;
+    background-repeat: no-repeat;
+    line-height: 16px;
+}
+
+.note > .p, .entry > .p, .li > .p,
+.info > .p, .stepxmp > .p, .stepresult > .p,
+.sectiondiv .p {
+    /* Define top and bottom margins of 9px and left and right margins of 0px */
+    margin: 9px 0px;
+}
+
+.li:first-child, .p:first-child, .notetitle + .p {
+    margin-top: 0px;
+}
+
+.li:last-child, .p:last-child {
+    margin-bottom: 0px;
+}
+
+.danger, .warning {
+    padding-left: 49px;
+    background-image: url(images/warning.gif);
+}
+
+.caution {
+    padding-left: 49px;
+    background-image: url(images/caution.gif);
+}
+
+/* Internal use only - Oops! Don't shoot yourself */
+.attention {
+    padding-left: 48px;
+    background-image: url(images/oops.gif);
+}
+
+/* Make-believe stuff - like a unicorn */
+.restriction {
+    padding-left: 54px;
+    background-image: url(images/unicorn.gif);
+}
+
+.tiptitle { display: none }
+
+/* All note types should have no display title */
+.notetitle, .cautiontitle, .warningtitle, .dangertitle, .attentiontitle, .restrictiontitle { display: none }
+
+.remembertitle { display: none }
+
+.importanttitle { display: none }
+
+.sectiontitle, .topictitle2 { margin-top: 1.5em; margin-bottom: 0.5em; }
+
+
+.h1, h1 {
+    font: 18px  verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 24px;
+    font-weight: normal;
+    color: #336699;
+    margin-left: 0px;
+    }
+.h2,  h2 {
+    font: 14px  verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 20px;
+    color: #336699;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-left: 0px;
+    }
+.h3, h3 {
+    font: 13px  verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 13px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: #666;
+    margin-left: 0px;
+    }
+.h4, h4 {
+    font: 12px  verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 19px;
+    font-weight: bold;
+    margin-bottom: 0px;
+    margin-top: 0px;
+    color: #666;
+    margin-left: 0px;
+    }
+
+
+table, th, td {
+    table-layout: auto;
+    margin: 1em;
+    empty-cells: show;
+    border-collapse: collapse;
+    border: 1px solid black;
+    padding: 5px;
+}
+
+/* [dwh:06.Jun.2013] Added rule set to remove borders from tables and cells
+   that result from the QNXEclipse OutGen transformation of gridlayout code.
+   This is a temporary workaround until support is added to the IDE Eclispe
+   plug-in transform for grid layout outputclasses. */
+table.table.containsgrid, td.entry.containsgrid {
+    table-layout: auto;
+    margin: 1em;
+    empty-cells: show;
+    border-collapse: collapse;
+    border: 0px;
+    padding: 5px;
+}
+
+.tablecap {
+    font-size: 1.1em;
+    font-weight: bold;
+    azimuth: center;
+    display: block;
+    margin-bottom: 6px;
+}
+
+th {
+    background-color: #f0f0f0;
+}
+
+td {
+    /* background: #fff url('/images/template/bg.gif') repeat-x; */
+    font: 12px verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 16px;
+    color: #333;
+}
+
+/* [nlamb 13/08/14] Define padding for cell entries to provide breathing room around cell contents
+   without using a line-height setting that produces too much space between lines of text */
+.entry {
+    padding: 9px;
+}
+
+/* [nlamb 25/08/14] Use the background color of the enclosing <td> tag instead of the standard background color for <codeblock> tags;
+   also, turn off padding because without a visible containing box, there's no need */
+.entry .codeblock {
+    background-color: inherit;
+    padding: 0px;
+    margin: 3px 0px;
+}
+
+
+a:link, a:link { color: #5f83a8; }
+a:visited, a:visited { color: #666; }
+a:hover, a:hover { color: #006699; }
+
+.shortdesc {
+    line-height: 16px;
+    /* Define top margin of 0px, left and right margins of 0px, and a bottom margin of 12px */
+    margin: 0px 0px 12px;
+}
+
+p, .widetext p, div.p {
+    font-family: verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 16px;
+    /* Define top and bottom margins of 12px and left and right margins of 0px */
+    margin: 12px 0px;
+    font-size: 12px;
+}
+
+p.copyright-notice {
+    padding-top: 60px;
+    font-weight: bold;
+    color: #333;
+    padding-top: 15px;
+}
+
+.fn { margin-top: 0.5em; }
+
+.fn sup, .xref sup {
+    font-size: 1.0em;
+}
+
+.lines {
+    margin-top: 3px;
+    margin-bottom: inherit;
+}
+
+/* [dwh:13.Jun.2013] Added rule set to provide styling for ordered
+   lists in a <choice> element. Temporary fix. */
+ol.ol.choiceol>li {
+    list-style: lower-alpha;
+    background: none;
+}
+
+ol ol {
+    list-style: lower-alpha;
+    background: none;
+    margin-top: 9px;
+}
+
+ul.ul.choiceul {
+    margin-top: 12px;
+}
+
+ul.ul.choiceul li {
+    background: transparent url('images/bullet_round.gif') no-repeat 0px 5px;
+    list-style: none;
+    margin-left: 10px;
+}
+
+
+ul {
+    margin-top: 9px;
+    list-style: none;
+    margin-left: 12px;
+    padding-left: 0px;
+}
+
+.entry > ul {
+    margin: 0px;
+}
+
+ul>li {
+    background: transparent url('images/bullet_round.gif') no-repeat 0px 5px;
+    list-style: none;
+    padding-left: 18px;
+    padding-right: 18px;
+    margin-bottom: 9px;
+    line-height: 16px;
+}
+
+li>ul>li {
+    background: transparent url('images/bullet_2.gif') no-repeat 0px 5px;
+    list-style: none;
+    padding-left: 18px;
+    margin-left: 16px;
+    margin-bottom: 9px;
+}
+
+li>ol>li {
+    margin-left: 16px;
+}
+
+ol>li {
+    background: none;
+    padding-left: 6px;
+    padding-right: 6px;
+    margin-bottom: 9px;
+    line-height: 16px;
+}
+
+ol {
+    margin-left: 0px;
+    padding-left: 18px;
+}
+
+    span {
+        margin-left: 0px;
+    }
+
+    div {
+        margin-left: 0px;
+        margin-right: 0px;
+    }
+
+    div.related-links {
+        margin-top: 15px;
+    }
+
+    div.refsyn {
+        margin-bottom: 25px;
+    }
+
+    div.refsyn div {
+        margin-bottom: 20px;
+    }
+
+    div.section {
+        margin-left: 0px;
+        margin-top: 1em;
+        margin-bottom: 1em;
+    }
+
+    div.sectiondiv {
+        margin-bottom: 18px;
+    }
+
+    div.context {
+        margin-bottom: 1em;
+    }
+
+    div.step {
+       padding-left: 18px;
+    }
+
+    div.info, div.stepresult, div.stepxmp {
+        margin-top: 0.67em;
+    }
+
+/* This styling class must be defined above .codeblock so content tagged with <pre> has no margin
+   space above or below it. The .codeblock class then redefines the margins to provide space above
+   and below multi-line code samples (which are defined with <codeblock> in the source). */
+.pre {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    line-height: 18px;
+    margin: 0px;
+}
+
+/* doxy2dita outputs individual <pre> tags for the #include statement and the method signature;
+   these tags are back-to-back so it's more readable to have a blank line between them */
+.refsyn > .pre {
+    margin-bottom: 1.0em;
+}
+
+/* [dwh:31.Oct.2013] Modified margin and padding for codeblock elements. */
+/* Font settings and line height are inherited from .pre. */
+.codeblock {
+    background: #f0f0f0;
+    color: brown;
+    margin: 10px;
+    padding: 1%;
+}
+
+.codeph {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 14px;
+    color: brown;
+}
+
+
+.image.icon {
+    vertical-align: middle;
+}
+
+.fig.fignone {
+    margin: 12px 0px;
+    background-color: transparent;
+    /* Make line height non-existent to suppress extra whitespace created by <br> tags when placement="break" is used.
+       This attribute setting is needed to make the caption appear on the next line (instead of to the right of the image)
+       but it causes redundant whitespace to appear above the image, unless this line-height setting is used. */
+    line-height: 0em;
+}
+
+/* Default of italics to set apart figure captions */
+.figcap {
+    font-style: italic;
+    azimuth: center;
+    display: block;
+    margin-top: 3px;
+    /* Set line height here to ensure long captions requiring multiple lines of text aren't wrapped onto themselves
+       as a result of the line height setting for the <figure> tag. See the note above for an explanation of why this
+       other setting is needed. */
+    line-height: 1.33em;
+}
+
+.figdesc {
+    font-style: normal;
+}
+
+/* Use @frame to create frames on figures */
+.figborder { border-style: solid; padding-left: 3px; border-width: 2px; padding-right: 3px; margin-top: 1em; border-color: Silver; }
+.figsides { border-left: 2px solid; padding-left: 3px; border-right: 2px solid; padding-right: 3px; margin-top: 1em; border-color: Silver; }
+.figtop { border-top: 2px solid; margin-top: 1em; border-color: Silver; }
+.figbottom { border-bottom: 2px solid; border-color: Silver; }
+.figtopbot { border-top: 2px solid; border-bottom: 2px solid; margin-top: 1em; border-color: Silver; }
+
+.ulchildlink {
+    font-family: verdana, tahoma, helvetica, arial, sans-serif;
+    line-height: 16px;
+    margin-top: 0px;
+    margin-bottom: 12px;
+    margin-left: -12px;
+    margin-right: 0px;
+}
+
+/* Simple lists do not get a bullet */
+ul.simple { list-style-type: none }
+
+/* Used on the first column of a table, when rowheader="firstcol" is used */
+.firstcol { font-weight : bold; }
+
+/* Various basic phrase styles */
+.bold { font-weight: bold; }
+.boldItalic { font-weight: bold; font-style: italic; }
+.italic { font-style: italic; }
+.underlined { text-decoration: underline; }
+.kwd { font-weight: bold; }
+.defkwd { font-weight: bold; text-decoration: underline; }
+.shortcut { text-decoration: underline; }
+
+
+/* Default of bold for definition list terms */
+.dlterm {
+    font-weight: bold;
+    margin-bottom: 3px;
+    margin-top: 9px;
+}
+
+/* Use CSS to expand lists with @compact="no" */
+.dltermexpand {
+    font-weight: bold;
+    margin-top: 1em;
+}
+
+/*[dwh:10.Sep.2013] Addressing item 1 in SRC17600, line height in dd elements.*/
+.dd {
+    display: block;
+    line-height: 16px;
+    margin-bottom: 6px;
+}
+
+/* nlamb [29/08/2014] Added spacing between successive <dd> tags */
+.dd + .dd {
+    margin-top: 6px;
+}
+
+
+.liexpand, .sliexpand, .dlexpand, .ddexpand, .stepexpand, .substepexpand {
+    margin-top: 1em;
+    margin-bottom: 1em;
+}
+
+
+/* Display filepath and wintitle content in monospace font when inside a title,
+   to make text visually distinct from other bold content */
+.title .filepath, .title .wintitle {
+    font-family: "Courier New", Courier, monospace;
+    font-size: 1.2em;
+}
+
+.linklist { margin-top: 1.0em }

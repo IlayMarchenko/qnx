@@ -1,0 +1,361 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.openSSH/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "674",
+    "digestSHA512" : "2hdNyr9jX2ZJnfJ5fguwAXOayS9wzonfHkpX47tZARmdWfKqyrwqr9Vmame5moIeZQucv3w5K8mpUOSL0CUrvg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.openSSH/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1704",
+    "digestSHA512" : "f21WwROcXmDn63jVEDvvfNyV0TnC9MH9hCwXyhRn1oaDMLdT0z3yYcLqtWxCtzYIaBUO83PGyEkEVit3LrZZRw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.openSSH/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "906",
+    "digestSHA512" : "jfHf4EEnebiIBcKdEW8vTnFJfk5fRPB10t9/uQwjnTKlupb3MNXXxZgjJva72T7eNmeO78K27PKDKR/q2XSbnA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/scp",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "82432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fMIok4wGNjoS9LsrrzIcUOo4/naPy53bFi6QZWVYPKjzCuNQ5E+jY0YpyaACtSv1G5AUdQbAdT7ytorKaIU9mw==",
+    "buildID" : "cf6eb545decf31f6f4ac6734fec744e1"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/scp",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "80784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rAngr9HK+cU1gWPbkdthmOSABQTNYaIKX5NyGvka835cixPdjVSs042zMs9W7RLNczfRCgEHsaVI5bN2JhU6VA==",
+    "buildID" : "6e07a0270d61dab8534c90e509ec2c93"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/scp",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "74136",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QwXPmmQ1Ns5dBKS6BgPXZ+vOUL0Mcew0H/0WibzBKuu6FAR0QWPUdD9+RWxHCZJiJ6MG2F4yJbKoyunb4+xPDg==",
+    "buildID" : "2281b0e8cd19889207d19355c5dd53fa"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/scp",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "58952",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "N6p1/LxRzhjyrAeIpLZla8fZVL/mHcALjvIZM5V11s9B5dXSGZV2WwvCQgyxk5uIaJpOL9j0H95jR1Tg0E32mA==",
+    "buildID" : "c8f4feca61a3e6b4c507fa0d53204f47"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/sftp",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "172044",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "grmvDC7L1OUqOlqJ9vySRk7NdKZxAUUS9G98jzw2GhcubuPiYNykdZBQ/20Oo+p5rL+tkWRmYKWiwVAi340RtQ==",
+    "buildID" : "937362df9c1b4f0c636c701c91562bc2"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/sftp",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "152688",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vMCJ2Pj+PBLFmJRPf9rC63dNhiJE/BtYXQuWOZlNyBlQl4UTDgN0K8ocnV6cIbBTBTeLpPiHbvOORM9x6Nn0AQ==",
+    "buildID" : "0255738fc1ca4bb23955c61f99d5526b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/sftp",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "138504",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "e3b8I15ueAMiHN2XKf+Yg0af3cR9qmTCfcv9Rvuz9biYDNSkEd4pKNOPM6GrtYawPgxlSZed08ylgnnGlxjIIg==",
+    "buildID" : "fbfeac82c0a10dc6aa8e9f65b030e8b5"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/sftp",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "103728",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "XRC6ltrX+4BeFKY85b1fwDvpNLqm8sB2Go/3eyMkKBc/DLc+Q2FPYivHF1MxQ3u0lDjc2yfqrOEhPYagMDDBlA==",
+    "buildID" : "d950729c6e0cb23e4633a056781ac9c9"
+  }, {
+    "name" : "target/qnx7/x86/usr/libexec/sftp-server",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "116488",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "S2B50cw0arQ3rK60aZDczVcMhXr2NcuxecCB5iztDbl9qdkcI4beMEAzAx5Gi59ZxQ0wajnMvNY/UXSMToekxQ==",
+    "buildID" : "92a42c6d787da01c74674582a570a8fb"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/libexec/sftp-server",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "110712",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LW+JjvKdt1kCYlWuUpuiyrYFCWd7NRp7gDbcjs7wMfba+FqqsPPv0jt6wHoAefpm0+nbjco0H6oeLcqK8JR6vA==",
+    "buildID" : "c32c81af6b47bb6bd58b5d7b8b17843f"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/libexec/sftp-server",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "100400",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "m+ER9PwPL1HR24maBG7QU80/CKvzW0qq+/eyxKRsyWlnvowLgN1fYtQCqx2+1AdZj0dStlsKOSWGg5U2WVOS1A==",
+    "buildID" : "ef22420d5f4a300208b4b112d7e43a87"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/libexec/sftp-server",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "76660",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "y5wCwsmUAKAx7VJek6/InKYDP9dycH5Omf985P6TgtgLErRptH3hqfWw4HxulyzCIrFz461TgOBJoYeWI/LUrg==",
+    "buildID" : "20cadb3bf7c747f65cda75af0130ec26"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/ssh",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "937736",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ixxjDoJxAjDr47BAhJxp3M2lzD2gQAC0Zjp+6ywv2CcbT8kc21VlEQH9Q8f1T8KxNV5a1PzoeePzK+iRGlwrmg==",
+    "buildID" : "951a65a93528a5a33b898370379d742e"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/ssh",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "792976",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QBWU/Tpu8DEnDa1Ka9Vgc86zaggQVUo5qYf1j2NwHUXcu9jFK//coS43Jqi/FqJf5CrRCYPXRNR0UEaTUH+4EA==",
+    "buildID" : "70d4bddf1f18ad1f8a35f9fecc9c5a44"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/ssh",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "717744",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AD1bTYTx2GlkhVpG3DO2lI47CurlvCl7Yz5rJuPK0GbFkFuz29XLae7ew/hlX3SlRGoXy8aV6UjsjAl1+dRK7A==",
+    "buildID" : "4b498082a515e9f40b70687c5a30712b"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/ssh",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "604476",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "GrjA2mQyHaQ9UYvBg3YlXsAMh1CCFGzpEiyuuNgUfeGwPdINkPp20GEvDLBeX4CZcq8oFLrR4q+enS5/fUYH6Q==",
+    "buildID" : "dc9689e913470367f8a2ab2bb8f6a113"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/ssh-add",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "446448",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nXdedWE8289Sv8BcgoIHg5WP9d7rh6pvye4alZnHxVz2jQDSGuobwIqPYixMUePLhMm1naExTTlpj0r99w1JZQ==",
+    "buildID" : "80ec3e56cd75b69f96d605864a8aa678"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/ssh-add",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "376160",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CJBpmdNTgPfKcU75APvKriSZQtC7JPnMTJ7AypZqW2+Ds9i5g0iWRPH+qKlB7lDvqufG/8InTSmf3aHiRvRr6g==",
+    "buildID" : "9c67c9974cd352517d0873d561450d46"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/ssh-add",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "342640",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CVg5Kzdrz2uglyOgYs8z+riP+pOWBswCVCmPzKPf1Kmy1pFR1GAY+OavdyHE7RsaBh9MBsYMqGp9bOGN/mbpOQ==",
+    "buildID" : "65453390ddcf1e21452fb0f98f7f6151"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/ssh-add",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "316472",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VdMrDCZwcJOiXTiF4FF8JfDZqEeyd5rQGQf81F+IlqQvi15t0TKOJSV3Xy8nhEaQd0++RhAe0TPjqU5WRStlSg==",
+    "buildID" : "afa9fce64d13ac6bd7690b756aa679cf"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/ssh-agent",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "477016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "w2Sc5l2zDC8nr8NF6jjctRIYxPF4yJRStlAiu12qEQijbrULn7t8g2Y4wU1sEKn3zJYcdDTfSIIM5Ucvm4JjGw==",
+    "buildID" : "3c911743703fa541f72100229a998d48"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/ssh-agent",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "403872",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Y87/lMZlHxzsY2pDtnwVplXdJqy3O7Psy9aG3dpAch6BQNeBJxBjUd2u0OvfnGqoLj2gtqBMcFolyZ8YZG9IWw==",
+    "buildID" : "fdcd9c260790f03785ac0abac40b1ec7"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/ssh-agent",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "370776",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0nElhxM3aZQuxtO8Bl7fK2JxS52iQtKepl/mj0umVwnKRQeqZM5vc3P5D2P8NgchdUL+rQe38GXcct4bu9UpYw==",
+    "buildID" : "f3d56ead73efa5a1ac2244ca869c35ff"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/ssh-agent",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "337236",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "maC52ldRtfEa1zU6l1yK5Rf/af3UffKxEjINr38C5+GmT+AU72+Avg2IRnRMnH6rDtTXqReml+MTcr6if36nqQ==",
+    "buildID" : "2a2c6f5b9d9abe2a9c1c6259974a5ea8"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/ssh-keygen",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "519348",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "oC8ii8iUxNRRy+qX6AZE8km9udY28kcRGJes9yIRgcNKiriQxctj50qo8Limj1p7mh07IlWCTnb/JtFkUXLmHA==",
+    "buildID" : "1b7f867ef1cb0dcd321f073860942d20"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/ssh-keygen",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "440888",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yUosH0OZoM0Wu2kJlE1RWFWA5h/legbRlv+dKA7TPMbcoGPiPr0qW6BLNEEoIPvqpEbAhx4UO3DFu2ZBplXt+A==",
+    "buildID" : "587dcf2e5215798f3478d3fb9b211d2a"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/ssh-keygen",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "399592",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "J0Lw4xBE2QRX3VjuHqGpW81wwIX8HPLsY7TLc3WrdQFV5wr4In98oLUVFWDLJ6zl3DQpASxWap8N1rTpfhIjgg==",
+    "buildID" : "b53f7e1a3ff7fb38cee4e3f3f320ad07"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/ssh-keygen",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "361056",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ATlnoFmpDH40EIvnUKmBi+kb9kD742ltOnNHljxj9xAneZ+YtQ56BlwBfTEWsoxYnEncXK+DOgwvkf0YCdbS/w==",
+    "buildID" : "3bd295c710b65e6a261f68836114e3bc"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/ssh-keyscan",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "560276",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vH8HDPuvbI3nrjCBCDl8G3Z3UUUbhnFda+dGujEVn4BTW2c6cg+EWZjJbtZijrV3Fi3X5tcsclxet1bd+SGdjA==",
+    "buildID" : "ca85245262aa9f1d1b7221848798b3ee"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/ssh-keyscan",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "471912",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DeL2Ki6suas+QIFAfRYDo28TGeW75Eb1tX9XqyPSQLRANLZHhXgR92xnxt3LGWoYROBuSOGWg4AI7vUQbvcVOw==",
+    "buildID" : "7921efcab278d8b5f86fdfcc63dc6fc4"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/ssh-keyscan",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "427560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AciI2XtXx7HxXi/KAEkL+mYi9oBORJor37ZsNqes1H2zbvu8GcAV09XLvdx/f+grgXcywX4f99SIUSQMWIruRQ==",
+    "buildID" : "8f882ac6308fd8236f6554e246b42c54"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/ssh-keyscan",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "382688",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "c3lcJrYdfx+D9bPdHUEn9uy2X+gJfaJjhwPel0zhLTWGqIltSOReZ7PRi7W8CxyL2V77upq/2dOwCvvfgSALng==",
+    "buildID" : "a42346ae710f97b07a18cf0b8f9936df"
+  }, {
+    "name" : "target/qnx7/x86/usr/libexec/ssh-keysign",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "582988",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "efK1olDe7EGb+0Igp+MZUgl98W0Zt/XG1LiUnHJRQrgTDjp8IUpxbzqkd/QlYAGZJsx6GkD0Ar/iFe3hDM2qBw==",
+    "buildID" : "f3009410dbd9998a278412915117a597"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/libexec/ssh-keysign",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "492648",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Idym8kLHHtvJkpNAs/3v1IGSItza4gs51PnzL+EBspdNEdxYwXykzyjzGkwQGJN0CclOkksda0+w1HZ9vRHmZw==",
+    "buildID" : "8d1cd7c1b8467670a79e2aaeec5ed297"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/libexec/ssh-keysign",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "443640",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3PNkyPSluJCvNpJEbKETouRtF+o/RKsu5OXlbFAPVkuVBOvn8Zj1E8jaf12kabojo8qalXWlSY8y93VJKPrcEg==",
+    "buildID" : "9aca7bc0c039f71146ca6af61693cf64"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/libexec/ssh-keysign",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "395152",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iqIwDRu38rbRaK+5NaHMcy5ownmzrPyxauJUcU06hlavrrOa5MGrw26xfJ69AfI2WpyJ5hJ6Hpl5v2yGV7Kfrw==",
+    "buildID" : "e4558f9b14ba50203625a734efffd532"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/sshd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1024168",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ACdTVg+eXppBUKnMNdoIuBbviJ0by47A953DFN7b22i93bBOWGcUWRZpBdvA4aiurthcICwimvK8dE32CRQKLQ==",
+    "buildID" : "2561f3970c7b093c4392d72e17748eef"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/sshd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "867560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "UzkMwxfDL+TR1H3T5100RwS3/vw0xZgSiqFHy+lbaoUJ6HMv1KMue7WdDpRZL7KC47br8IEWk+4AyVP8Qusdkw==",
+    "buildID" : "e4fce0a43b6a0633694f57459d9e763d"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/sshd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "791112",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kqIk/7pJCiB+jpNsvPAfjzOtw5mtsCAqwIbey1g8CyTeU1ofTP154lfuO4LIkkQCfPow7wK4//BdkuU9lfeq9Q==",
+    "buildID" : "3f5bd6abab6dffba1f7f5a4438eae075"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/sshd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "656916",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HZ5xLi0rX4vfTZ4hUmoxC2XFECMxZcy+AmZC4FyNyKxxh6XW1tXzco832nprcibX6bBTPyDPcksXhBjBuJAGHw==",
+    "buildID" : "f2258f0d7b8775085865655499f9a027"
+  }, {
+    "name" : "target/qnx7/etc/moduli",
+    "runtime" : "true",
+    "size" : "111892",
+    "digestSHA512" : "8ky84+cyfqiKdOBqDKep7jkT2sFMwjbTBamHxCDEIz6lg61iiu+L7w5Or0gD8dH9GxskApJx4zbvo5aRfrARDQ=="
+  }, {
+    "name" : "target/qnx7/etc/ssh/ssh_config",
+    "runtime" : "true",
+    "size" : "1644",
+    "digestSHA512" : "7SxcOSMfPywuc8vstoTBZ+o8wB/yZNvGJM4E3sKzQJki7t5gnh6NLgNzuPgKlW0MaTMn0jgtCY7tY2goimUVDA=="
+  }, {
+    "name" : "target/qnx7/etc/ssh/sshd_config",
+    "runtime" : "true",
+    "size" : "3159",
+    "digestSHA512" : "70rpGQ4KZ+4s89hafw9j1A1Agx84trjYsaFaS3uiMataNG3n3trfYvlF2qwtcWYU1P+KuzGOTK/+awAUe5dlBA=="
+  }, {
+    "name" : "target/qnx7/etc/ssh/ssh_known_hosts",
+    "runtime" : "true",
+    "size" : "0",
+    "digestSHA512" : "z4PhNX7vuL3xVChQ1m2AB9Yg5AULVxXcg/SpIdNs6c5H0NE8XYXysP+DGNKHfuwvY7kxvUdBeoGlODJ6+SfaPg=="
+  } ]
+}

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.utils.cpufreq</id>
+<name>Utilities - cpufreq</name>
+<category>OS Utilities</category>
+
+    <!-- From hardware/support/cpufreq/
+    -->    
+    <file name="target/qnx7/[ARCH:x86,x86_64]/bin/cpufreq" />
+</shiplist>

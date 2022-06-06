@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.security.pam",
+  "name" : "QNX® SDP 7.0 Security - Pluggable authentication module (PAM) support",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "OS Security",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "provides" : [ "library: libpam.so.2", "library: pam_deny.so.2", "library: pam_echo.so.2", "library: pam_exec.so.2", "library: pam_ftpusers.so.2", "library: pam_group.so.2", "library: pam_mac.so.2", "library: pam_permit.so.2", "library: pam_qnx.so.2", "library: pam_radius.so.2", "library: pam_rootok.so.2", "library: pam_self.so.2" ],
+  "requires" : [ "library: libc.so.4", "library: libsecpol.so.1", "library: libsocket.so.3" ]
+}

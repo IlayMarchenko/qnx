@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.llmcast</id>
+<name>Networking - llmcast support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/lib/dll/lsm-llmcast.so" />
+
+</shiplist>

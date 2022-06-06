@@ -1,0 +1,249 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.am437/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "1251",
+    "digestSHA512" : "ZWhXlI055CwrvmGqJvPYr/ER6JnjiDDz6vxdlLqCfOzjYiOidt+AJiMXQ1aYncc8Ml4/Wy+Z+6o4Z9Yf0hkBrw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.am437/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1950",
+    "digestSHA512" : "cxxnsv/wcCs3vDZhsfWikgtac17Ek4i1hWJI5TpWIGfKGQY10nQpWn3/zq/qRqoFR4LkeC6w94W6pByJrc+KIw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.am437/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "283",
+    "digestSHA512" : "bCye03xYyRSzVJ90Ck7NkZDdQIUcxzZ+AdpT+ffzhYOqSCCnIWfV2ALT4osnxpvQrKgKyF+Wgjf56e6qbIYaAA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/screen-am437xbuf.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13776",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fCbh++xS2ZLfAXXyJhkDw5UY4jxNw5Jw/AlZvFxqlN0pI/iaNa2jnwTOuuLvMRI8d55VjEgOmVrgW/4r/GoluA==",
+    "buildID" : "5787bd140390419f1531be61b1c8ee3e"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/graphics.conf",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "954",
+    "digestSHA512" : "DVk8x6huMOd9n2JovvgyVjJIURm3TFuuw5nbGK3YaLCKzBvw2l2av6xAOQLLn3To9WWziVOf+TdF/99lDsUKaQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libIMGegl.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "252144",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "evrcyHguVobXz+p7GzDcJBedttyiE/Gs8F7KR9IsRdt0YrW8kUbWl+ZHVIJ0GwSuLLU27mVBuBb3fgDhd51fUA==",
+    "buildID" : "b85dc50f0b232725cbe1af8e2b8b4a25"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libImgGLESv1_CM.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1428500",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MNhSxw7pFEF1dlqZobfUHbDg2b3qzhvEriti9E/Ws7XDdImcKWWM5SL6tb+C6Ke24QwlC307HJ4tsJLNN4/bDg==",
+    "buildID" : "c9f4a0fb9beb073432b154bf6e8a27a6"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libImgGLESv2.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1446208",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Qfdqw+nbosbZvl66sX9xYvurOr/WmG4KCAOJbqMZR0zWUFcPrnB+tMKPuvqDV6yNv2/oA9C0VbYMzpEN1jqs5w==",
+    "buildID" : "02ded3f53d9c1103ddfbc4b12152b315"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libPVRScopeServices.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "17608",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IISc8FuIJrAkXWvLo6+8QsSq4yJR8hU34uGAJ33S5m7TnGBK0a6438fED41Svnrl1r5V5Oj3iPkc4qNigidIZA==",
+    "buildID" : "53bfa2118ce193fc020afe96eee16766"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libWFDam437x_g.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "252084",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OMAALIUZKIokGTncvoH8F3Sj9N7Sh9gx/Qk2/GiCYoL2cAeMuDoOWVDfFau7UnZ2/J9s1YWPlJMu4mr2xzD/cQ==",
+    "buildID" : "2fc11b738a1a5f32f7b241871ae10a4c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libglslcompiler.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "643160",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "HvwTsLOZ0FPDa6kAuCkWvYgJ7H/kp1OeAbswDhk7s+bEkqE4cW0rARPSxUf0/4eHBxVMZizLMUuY1ukQNbXJ2A==",
+    "buildID" : "89ef7d4b87ff675b6a479ecdaefa7831"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libpvr2d.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "49272",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OlEnByqWDfodVl7F8wwYi6nazapGdvkfAv2RJ5BpShUYhFc/iN7pjV9i1BxZN9wt+Twq4jXBytc0Qm9sZsyjuQ==",
+    "buildID" : "b64e2b809f658b2f8f2209bbc1afbcfa"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libsrv_um.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "366692",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FnY71hO/APKpC4284Ocl06tYAy7TM1/4kmBMpeouw43xHnefazH9rRD84+ou3ju1o8lKQn7qD/s4ropRwj8I9w==",
+    "buildID" : "e2c95cc5f6ea8b4986478cede595dc51"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libusc.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "2140832",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "WwZzfbzVLcz0Aru2Gn19UYIynvxcHVCdTQJ/g/1koJ6Za4StgGtXVSIALUFPt7RGAO4HgGNUS9XBaV5nMYUZ1g==",
+    "buildID" : "0bf7f45638795789dbeb7d977ce98e88"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/libwfdcfg-generic_g.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "8844",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "pZ8Hu2S/L/OhjacxjmQuTblz//3Uj4RhUc/J8tvaCw8gFtUR4ZxMFJGRzjDtvofRozJSu5Mw3wnMyFfhIJHigw==",
+    "buildID" : "fa3c265e8aec901852f922bf8ee103cc"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/pvrsrv.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "381476",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "GAuFD5fv3/Usgk2kzL4S1JW2feO9XJzotoZiiNFDSm7NO7v8RxE0QuSkByvKhTy9kW7N0IBommrcdxhLT67new==",
+    "buildID" : "ed9e0d6071f1bf07955ea9bd9462142a"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/pvrsrvinit.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "140536",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "B0EL81sqRdbk5gkr7JoX+I1HdLNiQAOF2vkvAeVm2fgKSt5ZVSqOpvPjKLXwUvzGbHWVT18xUFrw8dz4MW2Wuw==",
+    "buildID" : "41f78d3e0969073007bc1bb3986ded84"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x-debug/wsegl-screen.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "42360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YbrnAxWcCutiLKTg82/68qX1pinWpYm5rcoxcs9zhZ0xQYxHAaniKEJJdUU7GmtLFPppKQJnac3XadCBCibTBw==",
+    "buildID" : "22b88754d7783f5b731fbb5cb649572c"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/graphics.conf",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "950",
+    "digestSHA512" : "fyQHvy9kA1Ntx0bfIHRJghvPCs3rBXg+0uRHxVPW1K15kMJba7hpsP3pubgVxUbMv80La8H7wDf9KaA40LELHQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libIMGegl.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "116164",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PBdS9EhT7sNU09hAIk+ZCv+fHzI/cXZMJYrE5iDNUJFzNY+QarVs9EymyKap/iKtoJAjBJn6AljCStlvGXLSbg==",
+    "buildID" : "28dffe6bb48423e65bd3ac07220732d8"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libImgGLESv1_CM.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "587976",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "JGnB9nxBI6USwE1u2SaVby9O9yxgeUrRL4pDLWYmZE3FhSoWnLMHRD1M9VhVayioFcZVbeuXyXIytImpwMRMjA==",
+    "buildID" : "b58512418a5e0211129207d28abf4d3f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libImgGLESv2.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "600136",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "6mZH4+uQdfY2PlkSEsYpleeiwUCuphx2g4Qx/MBT7WLuRAtWXeoY3V+r9pSSDhRN+dvQDuq2LZKFoVnkOVnUOw==",
+    "buildID" : "f45fb5c271f25b8ebc867e5a8baae070"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libPVRScopeServices.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13340",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "cVT/vwlHswTlon7leh1Y9rFPsUysRRwKpjEJcMvQl+B7g5QTouirqN7NIJLhX7CBK8vwIsDm+F5uA78zlxNkBQ==",
+    "buildID" : "328ba0fe5c9b03d27d3efdff0d829f63"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libWFDam437x.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "178192",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "E77uQ4Lpxiqsdn3ca7/xujcJgEgwgqaCeA1py4FfcwIqMJWxazLG+tsIxzORLe5fxz4PxB5F70TvqYLPmqZWmw==",
+    "buildID" : "6e99ec2e4b240acfb36a41a7baeeabeb"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libglslcompiler.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "333988",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AVCwlI+220j9FHsenZR4Y/b09mc1bSBMSVqbL69QmqPBo6lPbS/FYCqfHrYU6JyAVMrRt69pI2FrbVQ1GE+lzA==",
+    "buildID" : "00d88a49c0fbfcdc93a2aa0feb839748"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libpvr2d.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "27936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "w+nFC2o8ZnMH09dC8ySMEt3ODhDScZzK0phPjxm6UqR0GWtya51P03egtxIwO4ZAvN+ioxXlYQt4lPDZOUUzNQ==",
+    "buildID" : "2e71dcd1aaa8ce8e6db4badfb8e8a0af"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libsrv_um.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "235980",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "gRtRlcxiHBFCtztXv0GCy5zfsq1NS7vJWiXgyMaZ/EEaZSjj1myUY2XDSZE73+DzKEMkVm0Pkm2bqMe0G50LHw==",
+    "buildID" : "2ec70a46c21ebdcc9ff13159ce6c832d"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libusc.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1159560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vCI91kZVfegLXVAKphp7bDr9ELN9VsL4I3eHOTSJ02UAhHSx2TodOLyxOEPj7Sfm/KI45GdXnXIEuh6qVo1QtA==",
+    "buildID" : "08b8d324779f82c791d5cabe4ba75918"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/libwfdcfg-generic.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "8648",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "caVg+xSKiAo5BbvTVsn5/CZuyKDyNlStu47aBU0j3fSxgtrDn3TpjN+Ajjg4e5qbEO4WudYTV21wap/eJc6OoA==",
+    "buildID" : "aafcd87a6c90472eae3cbcbc8ea9c6e3"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/pvrsrv.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "274812",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "XGXJxTSW8/xmB3z8N71Tgpi6lI+6aKc38qdzM92kAWcOLr0OW4dPFghN7jpv+ZvIdd2DBAADNBw2cmTsRnvFAw==",
+    "buildID" : "921f02bb1d98595a5822ab2cdc60f4e1"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/pvrsrvinit.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "111928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ZmMyPw82XTshkIBZiRDYywr+Xz3HvBMDTfv3g+3jhVlTicG9iKP1Mwg6JXssEswEt3tZRoBU055s6N/TzlUG4w==",
+    "buildID" : "d7d728176d3a666e46e274b0e734adf7"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/graphics/am437x/wsegl-screen.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "34136",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "SF+Sqf/Fs+cNa3DRj6IiDQyrOzxS5TGzYFR5Qy6EJyM/dlgoYdq8Z2I8sML5ZgJoXkPB6qKSH17fxl5M0iqsvg==",
+    "buildID" : "d2ce01b7f8d1963dd1720e3d8c823860"
+  } ]
+}

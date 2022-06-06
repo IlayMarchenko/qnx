@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.base",
+  "name" : "QNX® SDP 7.0 OS Services - Core",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "OS Services",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "provides" : [ "library: libbacktrace.so.1", "library: libm.so.3", "library: libz.so.2", "library: libutlfd.so.1", "library: libaoi.so.1", "library: libbz2.so.1", "library: libc++.so.1", "library: libedit.so.0", "library: libexpat.so.2", "library: libintl.so.1", "library: libmq.so.1", "library: libpcre.so.3", "library: librcheck.so.1", "library: libstrm.so.1", "library: liblzma.so.5", "library: libiconv.so.1", "library: libcharset.so.1", "library: libgomp.so.1", "library: libquadmath.so.0", "library: libstdc++.so.6", "library: libxml2.so.2" ],
+  "requires" : [ "library: libc.so.4", "library: libexpat.so.2", "library: libm.so.3", "library: libiconv.so.1", "library: libz.so.2", "library: liblzma.so.5", "library: libsocket.so.3" ]
+}

@@ -1,0 +1,6 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.utils.publishers.cdpub/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/bin/cdpub
+target/qnx7/x86_64/bin/cdpub
+target/qnx7/aarch64le/bin/cdpub
+target/qnx7/armle-v7/bin/cdpub

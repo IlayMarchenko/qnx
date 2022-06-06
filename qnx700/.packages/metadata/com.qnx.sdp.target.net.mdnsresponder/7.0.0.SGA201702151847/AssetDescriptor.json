@@ -1,0 +1,238 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.mdnsresponder/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "758",
+    "digestSHA512" : "YwfYWp9Ak+SwX9RPly63vXA0fy0mYh5FSfxpOhmwy6KQrqLen4ijp6V0L4lrrCUYOdfL421/7koJSd0h+Kpx2w=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.mdnsresponder/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1243",
+    "digestSHA512" : "LPWuXtXBgbXW1M7WVogCGSNnTid13uKrHHQGoftx6umAQcfVD6Qcb+4kjyYVxGUwbdj9V80+FvXznbBnqFXVxQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.mdnsresponder/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "628",
+    "digestSHA512" : "pwQ8wat5o421UMBHgGMK0QttrJJGxUvMVfaCDC1SL8U5iHcpBDQ/grIIP+f58vp6UX7YpAIL+3pUAUWhvA8fJA=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/nss_mdnsd.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "21784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/qhMIN6rFACfk/HHzZFhP+gY3q9fPF45cJDegugJhzP5CHWD+nLtowPOf7BvOy4vTbkj2KgQtTkV+lJG7YQQiA==",
+    "buildID" : "c9fe0ff3f07144e46afd8ff3bc55aa98"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/nss_mdnsd.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "27424",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zp2OwmdDhFC/2UcEz6ciY+bSp9M/ge4XdPxIgQgxrSdOmAM6O/EBvKDJO2l9okSPshttki+/OAh2FDnZHHEOKA==",
+    "buildID" : "a256b18a9f5b9d931e2eb2cf7f5b336e"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/nss_mdnsd.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "23768",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MQzFB6RzzfQ4K4MbYJOQ7X+RdJlyXRad0VMdo/bRfnNW3K7auGYRIXEZ2VvKJEh1U/BfnrU3890MwzIdcqpIzA==",
+    "buildID" : "6108784223f3824f25e02f509f866e5d"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/nss_mdnsd.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "18948",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "a1O58rT6QurBzlD7TrxRJtOLuaQMnciklecO66SdIjzyCpp+P/rVoI/wh0QEUeCLZBkeix6FhfqAuv2qUOqadQ==",
+    "buildID" : "57600565c365509fe0810e4be2ba0a12"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/dns-sd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "48244",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "laNFTPip72pjZrPZR4JFpTKkmxiCxc7p8hNVzgU+UkMIHh/LsmGf6bA07zx0r+1p/LXlQpXUnKYFTN0/1Ws/hg==",
+    "buildID" : "dd23ccf8683f1dc87274a2c6663729e2"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/dns-sd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "45520",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rpONIIxn+IKMvnX47j+lEsKk70OhLZCbIMpdFRgABuNy4Y4mbn3NbIzeO/iqvPqU/+s3NsJRpj+LPOoRFqjDVQ==",
+    "buildID" : "aa8c90736309c85eb229d25d6f6b6801"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/dns-sd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "46048",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "UCv5DXe4BVnoe/WU7Y6bh5QMGJhTOfP8LYwyHJmr0ETF6qTlAz1NkD0mHN42a/w7se4fY647RA6KuRxBhHX0SQ==",
+    "buildID" : "6115de87437dde023a37e6930068e08f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/dns-sd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "37748",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "RosC/6IKXKdK0JEBxL0fOULeEAR1T4ZKAwCn4kZJubU3JJVk1MRY3pdJoibSHzAxwcbqV2C6Do/2ypk7yWXh6Q==",
+    "buildID" : "dc71295e9e74437e1998373e539f6222"
+  }, {
+    "name" : "target/qnx7/x86/usr/sbin/mdnsd",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "702616",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jbOTokTOQU9JaKyraC1F50N39nxW6+xEXB3pd00mGeUpwdWXpdHd8aK6BEGicklAyZX9/83uFtsKqsuCS/AQtg==",
+    "buildID" : "445dded5f62be1601ebccb94fe92d73b"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/sbin/mdnsd",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "633592",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zGkuCdhN8Lex+0oawUl9tRwC/3Mk62AY1BoZxNG9y5z4WeNY07uU3eG5gRB1Mgjv35CrIje0F9NfYN/hgpdTGA==",
+    "buildID" : "7c43ebdac7fc1254875b9fed7150ece4"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/mdnsd",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "577840",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4zxmvje0oIrqhPQuotMet7z2667oJwwqaNJ9kjRABL2I+EeQ3WyC9fM0LbVk7rAOUXdE9XH7WYgunQl+Z7+zYg==",
+    "buildID" : "e314de1f220c333d9443e379bf402810"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/sbin/mdnsd",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "450180",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mrQtKLBcHQZfnnizXNzSm6Oh8EagWag0m8HC03oHLpbt6QtVN50EC66njmRH4NwupAJ3YdGiXYhNYU++8PvjGg==",
+    "buildID" : "1e1f35200f3e740ff2e66b049ce5630f"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdns_sd.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "47576",
+    "linkto" : "libdns_sd.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "10t7x+RzArFNPxVfFKhubqKF8HbHAUhVBKlV3k9Pshh2BKgWkXTQBEON53/QVwKkbkwuRtNk2k84nhz60db64A==",
+    "buildID" : "942e255094a5cf6ea3ea4d23329460d0"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdns_sd.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "49456",
+    "linkto" : "libdns_sd.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "XVYcVX0weKV7bt3dbwTWvK2N5WFrOs1zPxmM28Wxk4nde/cWaIfY3CEY8d+wVRYdaL7c36egfApWy62GxLsSPw==",
+    "buildID" : "b145812fb2461503c6bfc629b353b398"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdns_sd.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "45928",
+    "linkto" : "libdns_sd.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4Sr2JPY3Y5Ml5BlQCOfEDGpu+zd9Xr5YAGNJ26S/VTAQbHoFmKJq2OzX8+DFYli5KhNpX9g54W23NCcXF2Q1Pw==",
+    "buildID" : "c24382ace3a95e67598aec4f3edc94dd"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdns_sd.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "33432",
+    "linkto" : "libdns_sd.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "oJPk1T4mxldU3y7nooAFjOQQyGymcFRQ0MutbqIDDoRRXRcgDHnvW+AFNgWnKowoBpffkNY48z7ohTN5LMVPdQ==",
+    "buildID" : "718e78ea222b8d8b84d6b3c1882afe33"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdns_sd.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "47576",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "10t7x+RzArFNPxVfFKhubqKF8HbHAUhVBKlV3k9Pshh2BKgWkXTQBEON53/QVwKkbkwuRtNk2k84nhz60db64A==",
+    "buildID" : "942e255094a5cf6ea3ea4d23329460d0"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdns_sd.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "49456",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "XVYcVX0weKV7bt3dbwTWvK2N5WFrOs1zPxmM28Wxk4nde/cWaIfY3CEY8d+wVRYdaL7c36egfApWy62GxLsSPw==",
+    "buildID" : "b145812fb2461503c6bfc629b353b398"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdns_sd.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "45928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4Sr2JPY3Y5Ml5BlQCOfEDGpu+zd9Xr5YAGNJ26S/VTAQbHoFmKJq2OzX8+DFYli5KhNpX9g54W23NCcXF2Q1Pw==",
+    "buildID" : "c24382ace3a95e67598aec4f3edc94dd"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdns_sd.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "33432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "oJPk1T4mxldU3y7nooAFjOQQyGymcFRQ0MutbqIDDoRRXRcgDHnvW+AFNgWnKowoBpffkNY48z7ohTN5LMVPdQ==",
+    "buildID" : "718e78ea222b8d8b84d6b3c1882afe33"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdns_sd.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "127760",
+    "digestSHA512" : "4/d/mhI5AKGVFx19GkT6GGp3zF9HQSTlMi/HCCZYVN7MMjI2lutTYE1kpdfitu8yveasBMGF4u7RFePednIFbA=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdns_sd.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "202206",
+    "digestSHA512" : "EiixR1DNYIYFOuD/2r7eEo8x89Do4supF8j9XBzyRH4brJBkiX0owj5ielb+u0ZM5lMgm37HwrGxWqRNHQLKOw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdns_sd.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "206702",
+    "digestSHA512" : "m1sk7AOQs7K8XR51QgnB5qVsXFZZtjD54xwnuibdBviPGqXWwZNsiqRMPMlkdgLPQ3yUzYRc8APdrBovTdbINA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdns_sd.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "125702",
+    "digestSHA512" : "tiWu+09O3F7wMSZfYgv13Z/Al7/wtUKSlbCN0r/OVEVEQ9f/fZgIOqLGZQ0ajrrb8ziiXPSheiGYQnm7jrFEnA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libdns_sdS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "127798",
+    "digestSHA512" : "O2qZpU/kHnYGvUxchS1A+UEc3wFEhY09VwgRdFYti2BrZ91eehKHfSmecCwNFmUI/0pFfvDc8UuD3myJQmDxIw=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libdns_sdS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "202406",
+    "digestSHA512" : "CclgSZoED2tQ0jX8F6F5qNrHUlz8OLcTpoP+TC0H5Ji5uRqxqc7QH7PaxNJLwPSC23Bcg6I+pWQKRDU3G2c8fw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libdns_sdS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "206894",
+    "digestSHA512" : "fJ+WpDw+h4b1dNFQ1dAlWfcphRfzJoFCzzOgbyNHc3DLP8u+097Y6ZdtGOq2l0fr1SfN2wbAf7c4jgY9LhzSHg=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libdns_sdS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "125846",
+    "digestSHA512" : "Q96NE6Y/AmEp6qXM6ACgExjvONGAXVBq1FP5ol5MEAbRFqVm0dfinrKIZP9AYwSSfo3xtKjrkxja4hzEAxLA/w=="
+  }, {
+    "name" : "target/qnx7/usr/include/dns_sd.h",
+    "runtime" : "false",
+    "size" : "129484",
+    "digestSHA512" : "DFHuInk8RdJanka1xVXMhXhDbc94ESgx6UK4ala2/UaR1fxmBEQKqM8N4LV+GRE4pR+EWuteyDuCD6819wxX/w=="
+  } ]
+}

@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.usb.base</id>
+<name>USB - base</name>
+<category>USB</category>
+
+<file name="target/qnx7/[ARCH]/lib/dll/devu-hcd-ehci.so" />
+<file name="target/qnx7/[ARCH]/lib/dll/devu-hcd-ohci.so" />
+<file name="target/qnx7/[ARCH]/lib/dll/devu-hcd-uhci.so" />
+<file name="target/qnx7/[ARCH:x86,x86_64,aarch64le]/lib/dll/devu-hcd-xhci.so" />
+
+<file name="target/qnx7/[ARCH]/sbin/usb" />
+<file name="target/qnx7/[ARCH]/sbin/io-usb-otg" />
+
+<file name="target/qnx7/[ARCH]/sbin/devu-umass_client-block" />
+
+<file name="target/qnx7/[ARCH]/lib/libusbdi.a" />
+<file name="target/qnx7/[ARCH]/lib/libusbdiS.a" />
+<file name="target/qnx7/[ARCH]/lib/libusbdi.so" />
+<file name="target/qnx7/[ARCH]/lib/libusbdi.so.2" />
+
+<file name="target/qnx7/usr/include/sys/usbdi.h" />
+<file name="target/qnx7/usr/include/sys/usb100.h" />
+<file name="target/qnx7/usr/include/sys/fbma.h" />
+
+<file name="target/qnx7/usr/include/hw/usb_devices.h" />
+<file name="target/qnx7/usr/include/hw/usb/usb_cdc.h" />
+<file name="target/qnx7/usr/include/hw/usb/usb_cdc_ecm.h" />
+
+</shiplist>

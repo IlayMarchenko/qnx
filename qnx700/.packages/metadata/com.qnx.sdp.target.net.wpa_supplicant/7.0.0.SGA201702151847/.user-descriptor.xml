@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.wpa_supplicant</id>
+<name>Networking - WPA/WPA2/IEEE 802.1X Supplicant</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/sbin/wpa_passphrase-2.5" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/wpa_supplicant-2.5" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/wpa_cli-2.5" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/hostapd_cli-2.5" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/hostapd-2.5" />
+  <file name="target/qnx7/etc/wpa_supplicant-2.5.conf" />
+  <file name="target/qnx7/etc/hostapd-2.5.conf" />
+  <file name="target/qnx7/usr/include/qwdi_msg_2_5.h" />
+
+</shiplist>

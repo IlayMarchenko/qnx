@@ -1,0 +1,53 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.usbdnet/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "627",
+    "digestSHA512" : "UYzeadjqBQ/YOHUD392hNbn6KNxbV1fHbIdNIkcJ92XEw4lml1kwkmRQVN6x91dkGPy8lF6xZfJjKnxnXUDAVA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.usbdnet/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "292",
+    "digestSHA512" : "/rptYpD8ZScoDqpo0HMyF+rbtu4OjROPmLk772zKav0t66XRIEHSUURUPfjuXgL4GZMVt0+4qPTlOj9gBPqtXQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.usbdnet/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "240",
+    "digestSHA512" : "iWZhHlGGFuOpzvQdGCstjCw/afI9uNphJquX2aG5yxLZz0pa/Q9xL8AAhI0wAEsiDKwAaJB9INLGwOE9jXfezA=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/devnp-usbdnet.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "135888",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IR0b6ceoF/B47aUTJ9uuk3/MuDSelmDNFLq8TQvovsNRNEUyC+kQcM14umHKw8xsfv0yuioI+QIZLs18TfnIaA==",
+    "buildID" : "620a5926b2aac55fc5833009e00dc6b1"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/devnp-usbdnet.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "127088",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0oi//k9WGhMSa4Nd+v5rhPGUlFFAKCuxzMzJ9Nm/pyThjxSySYsr6bgxhi6ZNMnvY9kpuwZ5RrwNeQC3v95aiA==",
+    "buildID" : "22907b163881c7259a8a4b9b47253268"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/devnp-usbdnet.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "116144",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "o2Ik/j+7SdF7ubtz9vESPcp2V/tiMFefexVzKlfwx3x/gnM21nuVXtx36j3kZb2OZP4sBolG9EgBwmb5UNYhSA==",
+    "buildID" : "213b5a67e86ad88759f3dcf5b13161d5"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/devnp-usbdnet.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "91016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3Zya1OxHlmGxn4qaBT4inx5jhPQjHNgPh6uFM+BBNdaFg4gqBfC2XIzDsPlfm8wSkbVhiyLPLoTrnFpgv5l0xQ==",
+    "buildID" : "7818e3191c23351f4a06541bf541ed6f"
+  } ]
+}

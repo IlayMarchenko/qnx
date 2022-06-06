@@ -1,0 +1,26 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "1375",
+    "digestSHA512" : "1+WQnYx9ClC/b4n5wdlcHQNknLGVOgC0IcqmuNAOOQ0xaA8oDlZf7jheY4x2rlZTvo4RyIXzYD4dafgsTqgT8w=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "121",
+    "digestSHA512" : "3KY20GWNsg8FB5ZSLHgAFUQNLxN/QHhaxZk7ig0kSYxrASQkSGR/ICZiHdcqBidmWlMKk+LOiKQYSaBRaFPT/g=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "1610",
+    "digestSHA512" : "/l+qFrDRF3kNzyQ7Z4yHmnFBGFrwK6hC528edIngi4E3kHDLKcObtjtZ25vfD5PCpvPMZknA6EYCZ/CiIC9bXQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target/7.0.0.SGA201702151847/buildinfo",
+    "size" : "239",
+    "digestSHA512" : "3HWctcnC/z4SSYEgJTN2mhJt4QNodF2TAWt+wpDPzyoIUZSMC5/s63D+IixXmcGChDxlVtud8IRBvmtJVTUYsQ==",
+    "meta" : "true"
+  } ]
+}

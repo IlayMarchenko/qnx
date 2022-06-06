@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.fs.cam</id>
+<name>Filesystems - CAM layer</name>
+<category>Filesystems</category>
+
+<file name="target/qnx7/[ARCH]/sbin/devb-ram" />
+<file name="target/qnx7/[ARCH:x86,x86_64,armle-v7]/sbin/devb-ahci" />
+<file name="target/qnx7/[ARCH:x86,x86_64,armle-v7]/sbin/devb-eide" />
+<file name="target/qnx7/[ARCH]/sbin/devb-umass" />
+<file name="target/qnx7/[ARCH]/sbin/devb-loopback" />
+
+<file name="target/qnx7/[ARCH]/lib/libcam.so" />
+<file name="target/qnx7/[ARCH]/lib/libcam.so.2" />
+
+<file name="target/qnx7/[ARCH]/lib/dll/cam-disk.so" />
+<file name="target/qnx7/[ARCH]/lib/dll/cam-cdrom.so" />
+<file name="target/qnx7/[ARCH]/lib/dll/cam-optical.so" />
+
+<file name="target/qnx7/usr/include/sys/cpt.h" />
+<file name="target/qnx7/usr/include/sys/disk.h" />
+<file name="target/qnx7/usr/include/sys/cdrom.h" />
+<file name="target/qnx7/usr/include/sys/dcmd_cam.h" />
+<file name="target/qnx7/usr/include/sys/cam_device.h" />
+
+<file name="target/qnx7/usr/include/hw/dcmd_sim_eide.h" />
+<file name="target/qnx7/usr/include/hw/dcmd_sim_mmcsd.h" />
+<file name="target/qnx7/usr/include/hw/dcmd_sim_sdmmc.h" />
+<file name="target/qnx7/usr/include/hw/dcmd_sim_umass.h" />
+
+</shiplist>

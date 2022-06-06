@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+
+    <id>com.qnx.sdp.target.security.sandbox</id>
+    <name>Security - Sandboxing support</name>
+    <category>OS Security</category>
+
+    <!-- Headers -->
+    <file name="target/qnx7/usr/include/sandbox.h" />
+
+    <!-- Binaries -->
+    <file name="target/qnx7/[ARCH]/lib/libsandbox.so" />
+    <file name="target/qnx7/[ARCH]/lib/libsandbox.so.1" />
+    <file name="target/qnx7/[ARCH]/lib/libsandboxS.a" />
+
+</shiplist>

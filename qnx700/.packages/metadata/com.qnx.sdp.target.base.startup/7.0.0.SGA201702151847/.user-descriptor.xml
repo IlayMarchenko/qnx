@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.base.startup</id>
+<name>OS services - startup support</name>
+<category>OS Services</category>
+
+  <!-- X86_64 startup files -->
+  <file name="target/qnx7/[ARCH:x86_64]/boot/sys/startup-apic" />
+  <file name="target/qnx7/[ARCH:x86_64]/boot/sys/startup-uefi" />
+  <file name="target/qnx7/[ARCH:x86_64]/boot/sys/startup-x86" />
+
+  <!-- X86 startup files -->
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/startup-apic" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/startup-apic-32" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/startup-uefi" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/startup-uefi-32" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/startup-x86" />
+  <file name="target/qnx7/[ARCH:x86]/boot/sys/startup-x86-32" />
+
+</shiplist>

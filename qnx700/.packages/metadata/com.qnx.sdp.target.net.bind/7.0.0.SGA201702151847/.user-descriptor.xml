@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.bind</id>
+<name>Networking - BIND</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/bin/dig" />
+  <file name="target/qnx7/[ARCH]/usr/bin/host" />
+  <file name="target/qnx7/[ARCH]/usr/bin/nslookup" />
+  <file name="target/qnx7/[ARCH]/usr/bin/nsupdate" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/dnssec-dsfromkey" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/dnssec-keyfromlabel" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/dnssec-keygen" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/dnssec-signzone" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/lwresd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/named" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/named-checkconf" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/named-compilezone" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/named-checkzone" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/rndc" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/rndc-confgen" />
+  <file name="target/qnx7/etc/named.conf" />
+
+</shiplist>

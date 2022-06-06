@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+
+    <id>com.qnx.sdp.target.security.qad</id>
+    <name>Security - Anomaly Detector (QAD)</name>
+    <category>Anomaly Detection</category>
+
+    <includes component="false">
+        <file name="shiplist-qad.xml" />
+    </includes>
+
+</shiplist>

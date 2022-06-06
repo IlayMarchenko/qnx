@@ -1,0 +1,18 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.connectivity.devc",
+  "name" : "QNX® SDP 7.0 Connectivity - Serial",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "Connectivity",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "requires" : [ "library: libc.so.4", "library: libpci.so.2.0", "library: libusbdi.so.2", "library: libdevice-publisher.so.1", "library: libusbdci.so.2" ]
+}

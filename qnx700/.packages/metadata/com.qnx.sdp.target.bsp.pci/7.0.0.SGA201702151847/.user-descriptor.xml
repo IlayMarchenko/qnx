@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.bsp.pci</id>
+<name>BSP - PCI</name>
+<category>BSP &amp; Drivers</category>
+    <includes component="false">
+        <file name="shiplist-sdp-pci.xml" />
+    </includes>
+</shiplist>

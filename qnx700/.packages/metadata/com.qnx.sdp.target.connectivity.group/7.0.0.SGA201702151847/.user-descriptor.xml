@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.connectivity.group</id>
+	<name>Connectivity - IO and driver frameworks</name>
+	<category>Connectivity</category>
+	<includes component="true">
+		<!-- Characters -->>
+		<file name="./characters/component-sdp-characters.xml" />
+		<!-- I2C Components -->
+		<file name="./i2c/component-sdp-i2c.xml" />
+		<!-- pci -->
+		<file name="./pci/component-sdp-pci.xml" />
+		<!-- SPI Components -->
+		<file name="./spi/component-sdp-spi.xml" />
+		<!-- SDIO Components -->
+		<file name="./sdio/component-sdp-sdio.xml" />
+		<!-- CAN Components -->
+		<file name="./can/component-sdp-can.xml" />
+	</includes>
+</shiplist>

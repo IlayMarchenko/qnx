@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen.board.jacinto6</id>
+	<name>Screen Board Support Jacinto6</name>
+	<category>Screen Board Support</category>
+	<includes component="false">
+		<file name="board-support-ti-jacinto6.xml" />
+	</includes>
+</shiplist>

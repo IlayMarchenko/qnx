@@ -1,0 +1,93 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.base.startup/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "514",
+    "digestSHA512" : "PmZyASnLW5DVbGChCzLl4UrtFUBwV6vnryvzVXSY3lN3pOuROWTzynDN1R0pGz5MZ5SXG3zC7x2eOWnUV86i/A=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.base.startup/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "472",
+    "digestSHA512" : "qfmw7uvw3wIa37ZbhgWVSXv0eC27NqruuZ0r5xIXlYTdJJFYoeW0Y89rw/J0gwEeRSbhnv98yc+fxZu68egIuw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.base.startup/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "825",
+    "digestSHA512" : "QDnLaBvnV4sOswcqdeJO2ktuDIZDjBuwmfIY1WWf4+o7sNkl87xXB3pmofGrVDWybVSZE75mMb+veR1dhJCwnw=="
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/startup-apic",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1608080",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "TSNRTU/srEshamKZltX3tjpv81KIldUm5wD7Y/vHixHZJMhBiCPhSVo3va+Aifm3HiNn2fbpQLvs9YznydoG8g==",
+    "buildID" : "0be468230a061806b2167872ed6e5946"
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/startup-uefi",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1604016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "bGitFm8rZYf0w+cJhIPHmWGQ4J8EfFnJOZfIgit2BtSe2+5TY7rU45rRrfQaX8tdP1yEctaEllluWsE7kTAt0A==",
+    "buildID" : "850018ec3828aad960cf68f19266d3a6"
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/startup-x86",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1629560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Kw94503qFCFmbyMK9bJHW1wQt0r9GvbyeknvRUVUVFFMZ3vyNv11/f6/MTfsXTk58bn24UA8Roygr9DBC7iWDg==",
+    "buildID" : "54a66576ddb2dedb156638b26f2253c2"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/startup-apic",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1442720",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "haEk2qPBR2urygzW0kNB1TatpUV88mgoxXF3PshDaLQV3/g3SU4Y/OIQ4XSNStYx1R6WVsK+oWQlXdaKpvbaYA==",
+    "buildID" : "6e5ea0dc810426db9bedafd746de1540"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/startup-apic-32",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1438448",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7hs/kmg679QgdIP6wCsuxcrmHbF2/F9tVdZcvnHThOD9kW/A2zOpYhi5mPgiEYTsfnXc8xc7U+76SVjF7rcCjw==",
+    "buildID" : "305380a497281acd01c0e6195d28cdc9"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/startup-uefi",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1435916",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FtQZJ4l5i/sFFn0KZJGWXWuI66bteyACORYCGkTXbUhk/h3gGC/FG4X93YzNxIv3N5DssTWCQozJMdzHXhj+Yw==",
+    "buildID" : "9509e4f83304bc830b897f4d06f4c97e"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/startup-uefi-32",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1431548",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "tSXQrq4rUgmoAbrflddFe5Wanx3mgaKRTIeUbVl1JqBTJch6JwjKv+pFYuRjjhRh9gbGzNvuPlqCJQ0ggzwtcg==",
+    "buildID" : "3bd8a3103dcfe6e5d02f258da898e2a4"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/startup-x86",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1462464",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nnRa3HTw26V9H4SPCj9QfuYJh7kAgUTBFJaKFlMT0UVPLf4WV0lbOYUQ2uFy0T6CqY9BgYp7zP1zmm+h5UTJQg==",
+    "buildID" : "d35128ac5f245ceb66da4268eaa41a1e"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/startup-x86-32",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1457916",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MxaNUZLc5t7CUiNnTzjev0Kk+/MyB4GSIsyBjuzlEi1jApDEI4DEXm/2B06aHkWD28x/pV+aGOMgabXX6nLVhQ==",
+    "buildID" : "c995cec889a2ee8f21d97c78d2626afb"
+  } ]
+}

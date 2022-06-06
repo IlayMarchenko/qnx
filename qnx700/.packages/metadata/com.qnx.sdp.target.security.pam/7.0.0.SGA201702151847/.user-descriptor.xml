@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+
+    <id>com.qnx.sdp.target.security.pam</id>
+    <name>Security - Pluggable authentication module (PAM) support</name>
+    <category>OS Security</category>
+
+    <file name="target/qnx7/[ARCH]/usr/lib/libpam.a" />
+    <file name="target/qnx7/[ARCH]/usr/lib/libpamS.a" />
+    <file name="target/qnx7/[ARCH]/usr/lib/libpam.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/libpam.so.2" />
+
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_deny.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_deny.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_echo.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_echo.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_exec.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_exec.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_ftpusers.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_ftpusers.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_group.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_group.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_mac.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_mac.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_permit.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_permit.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_qnx.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_qnx.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_radius.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_radius.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_rootok.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_rootok.so.2" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_self.so" />
+    <file name="target/qnx7/[ARCH]/usr/lib/pam_self.so.2" />
+
+    <!-- PAM config files -->
+    <!-- lib/io-pkt/services/ftpd/config -->
+    <file name="target/qnx7/etc/pam.d/ftpd" />
+    <!-- utils/l/login/config -->
+    <file name="target/qnx7/etc/pam.d/login" />
+    <!-- utils/o/on/config -->
+    <file name="target/qnx7/etc/pam.d/on" />
+    <!-- utils/p/passwd/config -->
+    <file name="target/qnx7/etc/pam.d/passwd" />
+    <!-- utils/s/su/config/etc/pam.d -->
+    <file name="target/qnx7/etc/pam.d/su" />
+
+    <!-- lib/openpam/ -->
+    <file name="target/qnx7/usr/include/security/openpam.h" />
+    <file name="target/qnx7/usr/include/security/openpam_attr.h" />
+    <file name="target/qnx7/usr/include/security/openpam_version.h" />
+    <file name="target/qnx7/usr/include/security/pam_appl.h" />
+    <file name="target/qnx7/usr/include/security/pam_constants.h" />
+    <file name="target/qnx7/usr/include/security/pam_modules.h" />
+    <file name="target/qnx7/usr/include/security/pam_mod_misc.h" />
+    <file name="target/qnx7/usr/include/security/pam_types.h" />
+
+</shiplist>

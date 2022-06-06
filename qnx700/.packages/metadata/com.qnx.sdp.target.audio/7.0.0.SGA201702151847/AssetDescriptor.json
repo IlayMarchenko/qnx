@@ -1,0 +1,477 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.audio/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "1004",
+    "digestSHA512" : "Nj2gtvMlRT5vqRb8k7QkllS7gBisyiENtmnIt2+9ii/FnLy79uL2Wmprx84vwSuVa0UHMM1661jVNhMsKAA4wg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.audio/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "2690",
+    "digestSHA512" : "LCcRjHznTdG2qc5aFMBv2GiWrHaRJBIDA5lJ2I2UXa7zfil6Wc5YC/8yT4mV0xF1WuCclejp7l8lI1pMg5tvzQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.audio/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "229",
+    "digestSHA512" : "WJvN/M6GO/vKshBjrd49GUqp9lGCOEG4AqX1TL6SNVWHL1yX913mVoElKgVhj00BRS4sLjBVC+kYWvUy7q1qmg=="
+  }, {
+    "name" : "target/qnx7/x86/sbin/io-audio",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "530772",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KnfQpRVcfbc+6W3m5u7xkjBdLamtz+J5xmD9WDGvvktjZMx6MSxX9Cd694iR/uJN6rsu32rgA8c1Fpe98JGpPg==",
+    "buildID" : "f87b6e6a759d1f3f590df37f0f58748f"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/io-audio",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "482944",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/X6o7U/JifwzQcuQE25nfkzC9JlQgfFGES/fG6MbcR+5zOzXqDEz52tLLLdMt3VtK0HYIS/zsJeO7M7Y2bYJIg==",
+    "buildID" : "0d99bf9ef2c279bf7ec29955a40ef72b"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/io-audio",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "433128",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "BSpCqNJWcmqy2g7M1+RTJqw1YNCwmVU+eMPW1c2PDL/bfXpmCHa1JeFBliEpIXbxL74ypGl/g4boRCPHyaZOBg==",
+    "buildID" : "6f9751410510da1e6e80d2959925ca31"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/io-audio",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "388012",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NxnDynnHuQOo5Aw45mqxgEteWD9E+C9ec3u5QtVuqOtxu+BS+5Hb6eayz4/pY//hlFmjy4mvBfp1zWZcX1m/ag==",
+    "buildID" : "a66c0a685f1582a528bdfe56f0c23aab"
+  }, {
+    "name" : "target/qnx7/x86/lib/libasound.so.2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "380276",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Zcw1guqOoR4dvszBQnEuFm8TFMmop9VO+6Qgm5CTlACZ4mgXiVIzRGDstkMyLzvLtvGUd42p1RY5DdR9iktZLw==",
+    "buildID" : "daf40afb2044e7a371f61ff28d436ef8"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libasound.so.2",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "367176",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hwFviHo01XLEBH3zpAdSBTYDT0mZxwkjHFuP9VJrA+Ft4rCrgiwQ7lZ2P1hZVP3qP7mNDqZflPkDiiDtq/nJJw==",
+    "buildID" : "3c5c3dce1ddb1ee124ce5e0c194d3f44"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libasound.so.2",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "325240",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "h+G9HfdeUYOOpoexP+JZWuD8gmGUdAuOVcX4AE1KulbYvsJmejIaRHpduH9W5I62HvZinJ5Chj19jTsFgz6WPA==",
+    "buildID" : "54598ec5e11fb9c201fc16c180b6e5d2"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libasound.so.2",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "256228",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0HhxUhinfYfD8UIE2PQaf1RqExt2s/nFcLYHJ+/5FzQc39nHbYbZWgcO1siHgdMc+THDuMKX+MypYwnu6t9mgg==",
+    "buildID" : "a77516aa4d3b48e60d2bb0faa4b99c30"
+  }, {
+    "name" : "target/qnx7/x86/lib/libasound.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "380276",
+    "linkto" : "libasound.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Zcw1guqOoR4dvszBQnEuFm8TFMmop9VO+6Qgm5CTlACZ4mgXiVIzRGDstkMyLzvLtvGUd42p1RY5DdR9iktZLw==",
+    "buildID" : "daf40afb2044e7a371f61ff28d436ef8"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libasound.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "367176",
+    "linkto" : "libasound.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hwFviHo01XLEBH3zpAdSBTYDT0mZxwkjHFuP9VJrA+Ft4rCrgiwQ7lZ2P1hZVP3qP7mNDqZflPkDiiDtq/nJJw==",
+    "buildID" : "3c5c3dce1ddb1ee124ce5e0c194d3f44"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libasound.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "325240",
+    "linkto" : "libasound.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "h+G9HfdeUYOOpoexP+JZWuD8gmGUdAuOVcX4AE1KulbYvsJmejIaRHpduH9W5I62HvZinJ5Chj19jTsFgz6WPA==",
+    "buildID" : "54598ec5e11fb9c201fc16c180b6e5d2"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libasound.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "256228",
+    "linkto" : "libasound.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "0HhxUhinfYfD8UIE2PQaf1RqExt2s/nFcLYHJ+/5FzQc39nHbYbZWgcO1siHgdMc+THDuMKX+MypYwnu6t9mgg==",
+    "buildID" : "a77516aa4d3b48e60d2bb0faa4b99c30"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/mix_ctl",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "22316",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CWTdI6qNOUTFJGv4L0I3FmlUntEIpKXr+uMaWwDov2Nh38Gmw6iFZ3Z1kMhv/4OS98RexikhpntXG/RmhtiKdg==",
+    "buildID" : "4bef3630ae65461d4d8533ac0fb713d9"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/mix_ctl",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "23816",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "brRKDRefxADI+XuTDK9DFeCUBuOEpGFOonE4UUTOTKB/uznKVkyexu8CqeLnUWp6+53AXmOzx1hFVMjLxvYXgw==",
+    "buildID" : "fb1ec38b27aeff976a32fe8c3f91350e"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/mix_ctl",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "24288",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "TUJKbkD+mm62bsBui8GLPwYIyVmaxrPjMeEGCHt4tBmD9+lff/HJuyRrTivSipXlbZVh7ne95mOENQasWwqjrg==",
+    "buildID" : "a7d7fed50e31bc1fe025ad7e7f26058e"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/mix_ctl",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "19788",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "aNR0Xh8kBlz85syzPL/NwjkZl/vJ0UdAzTFqlSewQPtul0NOA5LeugGECgXH11zmfWYxACDM8QGKPWx9S2TfFQ==",
+    "buildID" : "4e29fd8b4eb80e08d924609d377771c2"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/wave",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "34188",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MluM1sj/v1piJ2O+4l7nKJ3Ix968Kfl4H3UF5xN1JTmdZR2vNo4vCsBRZjh8qpRQhY6hvLFlnMReBzZ6HGMpIw==",
+    "buildID" : "98ca540c463e9700bb096e17bd49b7e5"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/wave",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "35560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "27wUcO/twfvk3X3ZqMyRR4l10ygn3C0CpnadxBSb/XSHcVVhcxBQ/t8qQovAOOAWn4SO888sQ4XMYe2N8hW5kw==",
+    "buildID" : "64e4beb396eaaf74e465c2ab246a826a"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/wave",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "36208",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PbHKGfucHCqw/knjs0BRDTg8iX1X5ttRMzJG6sPyPNMLUNqIQEFPQatKPEqywP43hkZvZaNILLDEaK3o1bt7Qw==",
+    "buildID" : "45c12d3cfab04c1e01f5302d3a998c43"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/wave",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "31636",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rYHeRDSfuSBT95vdtFraLRHI9s//9D5cXBXRNEOjg1iantY3EPADy7hwmRlKYGZ80Kab9w76DjT4Xiyqe9EMIg==",
+    "buildID" : "5a921201f0e87026710a9e7f5ee22980"
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/waverec",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "24392",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Hl6yJ3EpWzOojRNMgUrSa0LlbONxUr6tqnvTuWzvvCMqvRGqVv3ND1UwY4NTS+tjEk2x3ejEY7NnorQFdJcMFA==",
+    "buildID" : "b2498f08952950158e353770fd24948f"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/waverec",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "29432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Q0tos4avFVcNMQsM0bhLVXB8XXyYyRuV4b1r63ba6Hp01tuh1F8H4jnCby7/+uQqFp2Fyg7wKyxiuL9IMwqKXA==",
+    "buildID" : "96451dfa360234695fc14eee02d309c7"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/waverec",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "25872",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dYbb48IFIXgt7fd4bdqaSPflw5lBu2RI8wH/hdsAy3FmgiEEDMwNL4sdNZGQIgfPVKDQKEcPGomLsMxbpChmow==",
+    "buildID" : "6f0d91a279d7abea050d2c2b7e575e0e"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/waverec",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "21016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "+yHCwt8G78dwA27SRC6FlNIzF2AaSBDanMReA9jtyWoZGox7Sh1dKrRiUg/nSIXApIglB3Ym5MAnxzXulx+oxw==",
+    "buildID" : "79129eb21139d846e2a70c465e652286"
+  }, {
+    "name" : "target/qnx7/etc/system/config/audio/audio_policy.conf",
+    "runtime" : "true",
+    "size" : "3683",
+    "digestSHA512" : "xbhTqx5+GSnrtof28XT6xAUzNrpd613GQJA6Yf7pSEl1Da/BuU3b2Au1/NHirLfCsSLi8EtwkTv6/GA2PbbUyw=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_pcm.h",
+    "runtime" : "false",
+    "size" : "15556",
+    "digestSHA512" : "o1RvIgLOeneVjOg7Lqxec6zAP5NeupYiK0+WwfIwfMwG500cAgJNYRpAUZv3PtvAOhypu5nFTv5aCrHu9ITpsg=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_memory.h",
+    "runtime" : "false",
+    "size" : "3354",
+    "digestSHA512" : "GGAgPD+aIfrHGurP99ARtmPjnt60sKBvcrBRcQABDiKEJ/oWrIH2DBhkma/fyyhAGjvsNEXt0XiEH4U8Vvc83Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_pcm/dcmd_radio.h",
+    "runtime" : "false",
+    "size" : "3392",
+    "digestSHA512" : "AN4A4Mrj8QdLcqJycSrhgaqC57o/MAw4fwBXb8ybL0cvoHiYX7isiwuzXdn2uGvQP4Uz4x3yhWzvH8dXXclfvQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_pcm/ipod_devctl.h",
+    "runtime" : "false",
+    "size" : "1845",
+    "digestSHA512" : "P3WIrqrWxxag2cwt8dswL3iymdffl5/KVjSGG3qcKjh+WgXZ8HK4lBgWCnKjxUGL+Fp8w1l1fvlooALOjmkxrg=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_pcm/dcmd_bluetooth.h",
+    "runtime" : "false",
+    "size" : "1147",
+    "digestSHA512" : "tTHJ0iECTag8+n+4aPUDnvoLh2hgp7BI3yHKYVJzhpMBstTkoCqlpfOlhuAQsAtECrhaUJmZtLPajs9mOjOuZQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_debug.h",
+    "runtime" : "false",
+    "size" : "2514",
+    "digestSHA512" : "q9ZRmIWmSZwPJb/HEBs+5UQMEZ1Xnx3dLh/vTth/QlXVqELkeu6Blp8Qz6xq2Ic2Ewx6Un7+nAO+MbP7FX79og=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_isa.h",
+    "runtime" : "false",
+    "size" : "1711",
+    "digestSHA512" : "8CvX9knFLK+LBG5aToRGhA2SvXwhOrnC3Qcy4ZUAI18J9AFCIf2QRNQDKqtxkm7C2/gkRRk+xW5NLHp+UzQPcg=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_mixer.h",
+    "runtime" : "false",
+    "size" : "10342",
+    "digestSHA512" : "HEkYzryBqL1zVX3HJoOE75B5tsRyCOP/w6zxUzwWFmk0Y4syV0xnoRKINlbO1uffDu6xCl4frqWGNQVpxxWohw=="
+  }, {
+    "name" : "target/qnx7/usr/include/audio_driver.h",
+    "runtime" : "false",
+    "size" : "2752",
+    "digestSHA512" : "zKfzZHUYMK5UR8RrboyhUNncp1EHQ8SVTiKRr8Fvg+qxw71+QDZgGrFrfRudAR3jbJafxVuJecRpbJqYvxiApQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/asound.h",
+    "runtime" : "false",
+    "size" : "5398",
+    "digestSHA512" : "PMmVq/XO+XKl6zuibCW1mjIN7maaGLAbRgHG+AvrHtpFQMKOddrhhFwhh3B/kKD0mGQiG8hXCLYtKR5zvsQOJQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/asound_common.h",
+    "runtime" : "false",
+    "size" : "56727",
+    "digestSHA512" : "zhuhKmjcbnpTWLRmpU48y/X9LHuTzm4e+c+FLYJXuP/WCFU//Yu121NTKhpEJ7Pi/k5ehy3IZVqkJbWjcjFvAA=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/asoundlib.h",
+    "runtime" : "false",
+    "size" : "15844",
+    "digestSHA512" : "n+VBW1gAoFBabkXwvkNi8rahgz0m7Bzk3NazA8VCrChTgnUt33e5qRuo4yEnij3n9vAUnxu8URW43CTM1Xndug=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_thread.h",
+    "runtime" : "false",
+    "size" : "6882",
+    "digestSHA512" : "5bFOO+5D90wd3AjvtKbirKQCHToTQT54k4giAfabsl9Uic/bBWoXGKNadnRtYtnEQolPQobl+EAFeqkVT7OArA=="
+  }, {
+    "name" : "target/qnx7/usr/include/mixer/ak4531_dll.h",
+    "runtime" : "false",
+    "size" : "1439",
+    "digestSHA512" : "dHcpu+Gr6LuYVXM86oK7oF9lbOINy4ABERD4oF+JLEx8WZAyS6mGTELhIl8TrBogp4aepfrm4yZ9lqDxsk2Zng=="
+  }, {
+    "name" : "target/qnx7/usr/include/mixer/ac97_devctl.h",
+    "runtime" : "false",
+    "size" : "1097",
+    "digestSHA512" : "ipNDCkpM59z4KMzHNinZ6tFCbz2dPliQJ5HKA58HX1Vwb2iHyp1FrNn0hJVbI5ioqTSRq3UjTDiTaRdM+jTk6A=="
+  }, {
+    "name" : "target/qnx7/usr/include/mixer/ac97_dll.h",
+    "runtime" : "false",
+    "size" : "2204",
+    "digestSHA512" : "ucPw+INYiwM5mFvXX7mDFuFZwTD2W+3neGlnu1/vM0orG1N8hzEdQpFlFekkJ5WdbplKiZv4/1Mktj7VRLSwsQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/mixer/hda_dll.h",
+    "runtime" : "false",
+    "size" : "2287",
+    "digestSHA512" : "NDMd23h275+PmPRzH57frFtiayB19/wX1o3VZ50kLgaSm+VohsrnenAYyI3rMiQiiAlGIwa+SWKbVPyJN6rT2w=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_pci.h",
+    "runtime" : "false",
+    "size" : "1905",
+    "digestSHA512" : "WM3iJQMvWDctHt2k3zBfQ3jQoqODiy0AiNFXSETJwIlejpJuAb9/XrSjnIQY9p55yYlyEq5V6KD1vbLRYOtxOw=="
+  }, {
+    "name" : "target/qnx7/usr/include/ado_core.h",
+    "runtime" : "false",
+    "size" : "5676",
+    "digestSHA512" : "bLaiN3ZYWU9ORtoHblRim/BsLrqNYGo4a5qOMCX9KlRF+1tECNCzwpfbd9ZbS/rYDWnbHevoGYBLUy27QCJAOQ=="
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/deva-ctrl-audiopci.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "21880",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "hNSRcNKt4uuyWbyIKj9IDC6SsoFPAUAWrLuMm9C0WfjQ+b3s1XgvwuIc9MqOWvt0TKr5SYdb7Gpo+Se3EDYQ8g==",
+    "buildID" : "46286dbdb45256aa652ed8842d4fd292"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/deva-ctrl-audiopci.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "23360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "A30A4GQ+uE/30PtiF8KA2gAlggZmM1Hs0Ad99CcfIPYQtU5YKN4T/MYQSXONQUetu3+j1MbitOMp67d3VINW3w==",
+    "buildID" : "fcf1a7a694f32eb33e0fa99f3558766d"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/deva-ctrl-avb.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "25316",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YuY/6rQJVDK4EftJvE+YVXNPqsVDe+gmy5KRvGxi+58HFT+3UVX1kL8eDxkpzz5zS9TWP1ZhEGex3yvjXlo/lA==",
+    "buildID" : "bafa17a19d9afce543b110380b59ad1d"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/deva-ctrl-intel_hda.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "25632",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "TpW9Cj1xLu4Q083M5L2Su8MHwlvHUj17AVoekSpKATeQH8kxxiElYpkKvQwbjx4QZ5AaEHPKFUSjXN4lJ4hqbQ==",
+    "buildID" : "c158c13ba3309cc45a160cef80bad955"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/deva-ctrl-intel_hda.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "27112",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yrN+DBdPl15ATp947EHTQ+m0DBTaiYknip0MR6nlcOW6aN6g6I2iMyIx1cNGcPRldHEDC/lTW6qb0+7faBmi4A==",
+    "buildID" : "4fedd5e6d3a89d3ad7818c0feae1dd19"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/deva-ctrl-usb.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "91888",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/C5L97f3SAfmolguRq7qhn4f6RqRwdaCIcAAy6LHU+ZC0/IHA0/FReHBHP/8k23SzGMGclPUxjLNqjhLLNfyrQ==",
+    "buildID" : "09f25c2f967429e371e80d76db5aa759"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/deva-ctrl-usb.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "85320",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "k8OK/MjNW+XB/Yaxj+FdD3OiQOkcGqo21y+VLyk50Y9qU+L3IpHLCTEL+8jsydzvUSOcP0KTZ6x26AKS2owmvQ==",
+    "buildID" : "e1f989fd84415bb13d38da86f984ecb3"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/deva-ctrl-usb.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "77864",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Oi38nmHqRXtmU9BBTWrFK1OVTPmBAJ1Sc5cPTrLUd9UMju7tcrTjoD+1xz7ZftRpIqsS3B7c1Sfgx5yQ0Zuv6Q==",
+    "buildID" : "fdd776560af8d210c591c98c7b73d111"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/deva-ctrl-usb.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "61540",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "OVBDtGjyQhiu0z2RRfvagkg2SHQDwbGf0kn1Dd9ai/u0VrnFhiYPSsqgYDxM2q+gSu44h1HnzZlhMCA98FYImg==",
+    "buildID" : "67da06c9739bb08e342404ecbac2aab0"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/deva-ctrl-usb_dcd.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "50468",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Z1XBMs/XeQx0wQx/mJDpF4WUqlJYWzqL4MsZNKNoErE9n5vPHzJ6mAp7BmmcLy8S1Du/7y1E8Et7ng7Cmh7i6A==",
+    "buildID" : "dc16068e79a09f6bc3f4f5cc8ab4d388"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/deva-mixer-ac97.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "42112",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EM2yN3la0f8D89d4SdEVRCbT+hiBTS7yXgWftbvUSLZe7p0xnG+FFb+f+tHivbezak1JBuCP6ki1K/P6R2KB2g==",
+    "buildID" : "ef8e9ccb895f0618e2512f6326bd4888"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/deva-mixer-ac97.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "43976",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "5Tzfb5Ob0WA3EWZtdHHPsHBYBh7+FmbCWw/4F//g6uYk3Nmgw+QGPxw9cyczL1MxtUIAmECTxUiQIedJxOCv/A==",
+    "buildID" : "a2f4ee313826c04c14b5e8b7d98f8940"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/deva-mixer-ak4531.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "17936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "deRxfZi5Qxe/dWFb5jE2I2hBKLr+NVFiVP9khO8EccXItWCWt5wul29JSYd5oZINu3hx+sHyCDPTGq9qlyX8oQ==",
+    "buildID" : "c8d64502a26faf0b168f675695bb5003"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/deva-mixer-ak4531.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "23376",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "B9LRDlKmPRhx7a4/6Hg4NYg1M+C9i1pxnDuav/HVElv62tir67fYO0O3RqlElmiLZ+ZyolW1FIgJcnFadFJ67g==",
+    "buildID" : "73e09d33371b141e1bd6cfa361bb5b17"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/deva-mixer-hda.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "128624",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/UMFl0+wqTy61QEAaJxGHzYjpTQyTK1+A22koReq0EnXRAq6rWcR2RYIYHKjXqPFToKLk9bBK+eMv4B3FkAbDg==",
+    "buildID" : "5a752fab0d10576fa2b338cf2b68fa90"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/deva-mixer-hda.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "114584",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "NNIuF3oCtUNmAe5Yxz/iL7GvQe/P7JttISYpdtmCp+RBss8j3nqsgs4urWEPjTKGUtmclbQlfxt6OHsUQ1aUnw==",
+    "buildID" : "520ca8d6572b4d7950b16edd0d7ede6e"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/deva-util-restore.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "51460",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "cpH+D7tOf47Tpqs4LZoiGxUwhk4I5/PChkQESOuOBSDFvT7NSbHRWJQ6h5rTWKsJgjfOOBfe4KijFG5qULrY0w==",
+    "buildID" : "df9d8b2264a978161647c60a221bf00d"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/deva-util-restore.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "50040",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "8ZdQkWoTDDWREzesqym0i40aPoRFrJCQxrdeEJMsR1ctpHk92d2VXdbVI0ha+y4dHpEEp9crKoSzqNW7kXLa/w==",
+    "buildID" : "c651ff57942d97a7f5c334851675aa23"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/deva-util-restore.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "46512",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Q5u3Xppwd+DDBtWlTv9vVR4/Bnb997UK172y1Id051+od48QFnjl8Ec3u89ljvqt3aaB8WK3gaczBFH7wNDCvg==",
+    "buildID" : "75527ff7dc4925f7b062af3e537c80f3"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/deva-util-restore.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "37800",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qRh/N8Rv8vAvYBJbBxKn6pe8wX+UMl1ZW7Op0ZKMa06uU2YwiI1GO8zQfnXA4z7Bks5f3YFtkr8k4/YG7DooJg==",
+    "buildID" : "181447e4383cb2e9287d5025221c7ec2"
+  } ]
+}

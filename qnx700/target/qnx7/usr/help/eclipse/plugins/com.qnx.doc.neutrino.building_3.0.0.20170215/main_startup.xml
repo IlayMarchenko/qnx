@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?NLS TYPE="org.eclipse.help.toc"?>
+<toc label="Startup Programs" topic="topic/startup/startup_about.html"><topic label="Startup Programs" href="topic/startup/startup_about.html"><topic label="Startup tasks" href="topic/startup/startup_tasks.html"><topic label="Hardware initialization" href="topic/startup/startup_hw_init.html"/><topic label="Other startup tasks" href="topic/startup/startup_other.html"/></topic><topic label="Source code directories" href="topic/startup/startup_source_dir.html"/><topic label="Source code structure" href="topic/startup/startup_source_struct.html"/><topic label="Modifying the startup" href="topic/startup/startup_source_mod.html"/></topic></toc>

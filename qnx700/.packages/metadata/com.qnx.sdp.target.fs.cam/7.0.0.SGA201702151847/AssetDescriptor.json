@@ -1,0 +1,374 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.fs.cam/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "738",
+    "digestSHA512" : "stTC9LgukGz4ZofWiaT8hcvObAZgukksREE7IPWNoUp9/IJ9zZxVNwU8+6v/8QKj80eFBhGCETJJQF4fyvlrKQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.fs.cam/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1867",
+    "digestSHA512" : "8ltjkZYPpSt3ad0tH+GuxuVpSH3KIoqf28KFl7HBNSQqEyeVhDK5o/OWyf0Z8pV/i1gl5E6ibhbWgkF19BuggQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.fs.cam/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "1240",
+    "digestSHA512" : "pgqZY5rkcbofyaE8BfO2AqYB/gDuiLi6GGOC8+K+HYcSYLosH9/JbMRzuOOeUfxoJowSr5LUl/iOXCYhB1u67w=="
+  }, {
+    "name" : "target/qnx7/x86/sbin/devb-ram",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "23872",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VpW76o4WNiCW8oiezaIM/trxAuyC6t0aYITm4d5chY0xoeZ3c4fPjFEibcMkIompg3AqXsWtxIdMl5XhgBmtJQ==",
+    "buildID" : "45f79a861870d954e5e025e958906659"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/devb-ram",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "25312",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VSLCczr98yiCGHFZIekiE07F8RNjjlcbEmsQmYW/tJ+8iKmGshcDrkCvjr7sb0T2ZuODaBmyZL0lsMMVQTJcAA==",
+    "buildID" : "9c955cadf88dbe6b39efc648b82a7c73"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/devb-ram",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "25848",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "sgBQzaXMwfsNtJDQLrEl9QYu4tkOcDT7y+L+2SzhPJlvpUq0LztQiF/mezCISLjMs2YU7mSBY68wd0YXH52zmQ==",
+    "buildID" : "912dfd24dc9f9b8d47840c0640241b25"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/devb-ram",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "21476",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KeW+x8Krc+x9D2iMdEfv7f9lD/x3JnZDxA0OHxlBfh5BFFFU6Hfn+hbgOwzPqLYnpS08JbCVib2oE7wM60kFbg==",
+    "buildID" : "f16927297a88475ba7e2d27ce2936673"
+  }, {
+    "name" : "target/qnx7/x86/sbin/devb-ahci",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "95320",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "87F+CdpUYepK6MAprGWNummQAJT50uoNZtPT2FM4hMjfZkt+rAE051LVt85+qtJnFqT9nVWzFJ9pAI5zYcsLSQ==",
+    "buildID" : "8deaef128b493c7adfc5caa506ee709b"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/devb-ahci",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "90240",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rRr19Wy65aQzVbn6sgJOh0YcPl+clliBmuib5rIiwqUfPiMQRiTW1z8O05o82wkECcKkPiRPkDvEFNZ4/u6ETw==",
+    "buildID" : "263eade256c8f03f307858964f86a5b3"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/devb-ahci",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "66220",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9bfFvOoCDdslsWoRF86sLNNC567VngnxPJt/IaaaWANExmRgyuQEZ9U7SbARs2mXjOBpHF2OwWmmO3GdR5K5Dw==",
+    "buildID" : "03f584b5645a57e62e7fbf5337ce2266"
+  }, {
+    "name" : "target/qnx7/x86/sbin/devb-eide",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "176500",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "FHv/vnSvBRm3C1ETob56gRIGHSXdwgz5UfMOLLH+bHbpuSeAhz515fXpVPKkuvawrWFeKHMvYxmFKg9v+8+nwA==",
+    "buildID" : "afd544f0afb171b76606ecff7a518695"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/devb-eide",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "168928",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "oP+XYsGhkJusrSI7hn6Q8HmWGc4Z2F1Z95aJPqf+StraoCcxryMZceEEQe9ATQWQO8ppZqNGmpRgSt66FVxWIQ==",
+    "buildID" : "3d7d68b2a073c63da7781120dbfbfaf1"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/devb-eide",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "109540",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "PANnbqPV+qMfSkaW3IuxTLOSqtMRmu/u4FMR2Crkmdu1qEOXIJIHYB2mi8x54iQm0ENaF1hJEFUxlhBIGLhIfg==",
+    "buildID" : "2355c03750dc6f747f8e67716aa69ce6"
+  }, {
+    "name" : "target/qnx7/x86/sbin/devb-umass",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "68788",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "WeZGI+mleitNosE0S3wgzzQYOPfcCxxaMMLfc4bUMtZtc3gIUwSxpk3ByrNO33uxtG5hUVNjxoNpliEq+G4Vjw==",
+    "buildID" : "dca32bd837f88e557cfbfb364ee9ab4a"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/devb-umass",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "70808",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "QyTkKDDh8ROuTSB5S5ZOgWzfuTTNxFF7xpqZQ59m00Z71xBU0GGpm4SjyZA4zZaAajemcgOnlXwtgk6LA50YfA==",
+    "buildID" : "4e78511097edbd17350a80f1ff948473"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/devb-umass",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "63448",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9tqlra3savPwhlY50B68DJJmtOM0cwi+9glX2jEaTetTwlc6PXDQsdpuqkk/fj3uzZfjd94oPIrfuvCXw6hPsg==",
+    "buildID" : "16516b2e002ea5c75298a4052b377f5b"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/devb-umass",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "50812",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "8FmsL2JuN6bB4H1q3WTAPK4rOJFwgA+j02zpqg2stD2EfOXcX8py2T6CQdqoxzW1sHIzu5p3YYjKwKEoDC3cNw==",
+    "buildID" : "f561b08b132837570173f53cad0ea2f5"
+  }, {
+    "name" : "target/qnx7/x86/sbin/devb-loopback",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "23864",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fdNIOyN2vXqeC9o8d/Ycpmyl0ZFnnnI5oRU1E985O/eoaud8T88AabNEYARHn2LR9F72NQcum1iCqWu+IsSYOw==",
+    "buildID" : "671ef6574187bc84933dbbc8f02a1a92"
+  }, {
+    "name" : "target/qnx7/x86_64/sbin/devb-loopback",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "25176",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "rXnvH4Ob4PtkEkZ/bxr+QjpEiz0FE+ip6YtQuTwW9s1bW8TLo7ufn/+1iJhjI/vHn99gRNkNUSiC0R79v/fdAg==",
+    "buildID" : "348dad024766a2f8e50ec315966adf15"
+  }, {
+    "name" : "target/qnx7/aarch64le/sbin/devb-loopback",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "25600",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "BVGgFw+uduo22ZLbljKUCoRSMhBNXB5HatJaxkUcWxz0YWq8v3WODXnN8DVk9YxJ8A+mb2tWvLOhhEct4e62pA==",
+    "buildID" : "23778b81774a55a0260ceaa1367ed8ac"
+  }, {
+    "name" : "target/qnx7/armle-v7/sbin/devb-loopback",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "21672",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "23vm/I6ubDkBJ7fJrGDsybpJh9NsI+ob4AZ36gwBRZH+BgbXO1TYZJqAlgMmUJXktRf2D18DD4l+YgJ6mJ122w==",
+    "buildID" : "efdaae782a46888255efaa749435c6de"
+  }, {
+    "name" : "target/qnx7/x86/lib/libcam.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "122220",
+    "linkto" : "libcam.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yxoOKnjk40j7jWokBk0LQ5899VKlj8iGV47X9GIu/JNYoXcCGKHd1ZdYpxxVpb4cxqZd2k3BAueFmG+6I4Q1hA==",
+    "buildID" : "3922c4c797191c4930efd106ec7c4e11"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libcam.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "120224",
+    "linkto" : "libcam.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Ei0BdtYR2s0jYTJd6fAil/GrBnVQ4HJK1zvGWgBJ01XzJo43eirWw15ycbLEB0mLnGqVfYCsXyeP1NzmyNB2Iw==",
+    "buildID" : "34ddef4196184bc44f8ca0823b14f7a7"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libcam.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "108648",
+    "linkto" : "libcam.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DyLU9n4DUmttpypUm7PyJoxVTnwpTFbHTk5FtYZ18HJ5su76s86tgjZ1DI0fdJmOiaz5CK3NjRIn/WgVvj7bDQ==",
+    "buildID" : "f0299dfdf27fe9163abc1a6836a4c4ae"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libcam.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "80324",
+    "linkto" : "libcam.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EMNF6G9OsmOp/whg9TaxFtyfNyPbT9n63H64XHqs9vwxEy/8ci18VRqFvGN6tNoWG0O5QAWcKnHZvOL1coorvQ==",
+    "buildID" : "0cb633b2ec1965f0c46412ef5379a08a"
+  }, {
+    "name" : "target/qnx7/x86/lib/libcam.so.2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "122220",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "yxoOKnjk40j7jWokBk0LQ5899VKlj8iGV47X9GIu/JNYoXcCGKHd1ZdYpxxVpb4cxqZd2k3BAueFmG+6I4Q1hA==",
+    "buildID" : "3922c4c797191c4930efd106ec7c4e11"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libcam.so.2",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "120224",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Ei0BdtYR2s0jYTJd6fAil/GrBnVQ4HJK1zvGWgBJ01XzJo43eirWw15ycbLEB0mLnGqVfYCsXyeP1NzmyNB2Iw==",
+    "buildID" : "34ddef4196184bc44f8ca0823b14f7a7"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libcam.so.2",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "108648",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DyLU9n4DUmttpypUm7PyJoxVTnwpTFbHTk5FtYZ18HJ5su76s86tgjZ1DI0fdJmOiaz5CK3NjRIn/WgVvj7bDQ==",
+    "buildID" : "f0299dfdf27fe9163abc1a6836a4c4ae"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libcam.so.2",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "80324",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EMNF6G9OsmOp/whg9TaxFtyfNyPbT9n63H64XHqs9vwxEy/8ci18VRqFvGN6tNoWG0O5QAWcKnHZvOL1coorvQ==",
+    "buildID" : "0cb633b2ec1965f0c46412ef5379a08a"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/cam-disk.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "22804",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "pb7z+nnHYPg5/1RZkK6R2jgNJXofW2q7j9vU+iwO37xkx6m8882yUU/95AQZ76+VjWP91e0OYomLt1v4V3MGJA==",
+    "buildID" : "04dac6313961a59bb73afc2d133049dc"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/cam-disk.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "24256",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "BKaroSi8QiiVfUjxILHj7NF/yYzck0tmuDx5LLSz/xm+6THzkJsyEsR2q3YDEoL7dcInOfGYjlKVhBvRNvhlOg==",
+    "buildID" : "62f7c583393b84b4227c8190914f0c60"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/cam-disk.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "24640",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "kRHy1o7i+QL2ZLpYsRbCPUut1z4DVkeNNoF/k5Q9e/WDa/ii52W6z97uNNP6W5G0JdROcLMTeNi/K6NIqXa1fg==",
+    "buildID" : "731b47bebda8e0eb1776652913a94722"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/cam-disk.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "19784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3fBROah40U6RaGyzmR3wfa9TIwzSCOCar8CZa0IKkYpkJvrK6CHCO4B2zY5d01VNxefRLTNV5XMpl0Q7KZ3C7w==",
+    "buildID" : "2fba41c6f325b300afcc1943b8ebe968"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/cam-cdrom.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "30692",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "uBYhrwmQX3s1flHvAfdtKuePca2Q6DTyIfiO2d1xKs4wGOHBeenYMmZnDW60r70MdkxAGTL5NRzMG8neXFt0yg==",
+    "buildID" : "acf29f626bd28fa0ad8ccaf57ffaf490"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/cam-cdrom.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "32104",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CdZ6p9ghBpLzS9wLNo/hu5BfYPmT6csk8uKdE41EvyMan7lWk5nCNAI7oqNN7QCWdpDYSVrYYX7zABHzNwzBjw==",
+    "buildID" : "2b77f12559b0de3a7e15064a8d60b8a0"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/cam-cdrom.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "28336",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "USjdoURdfOvb/ln97xiu6M5AsdyICZkUEf+HdgGKcjNcP/CSk5MxOWMpyImApJ0tFivwQYJgvkuukH5KCBnPOw==",
+    "buildID" : "ab457cd9d811558eee3b6fa73b011b2d"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/cam-cdrom.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "24504",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "SpQwYjEQlIYwoxmEMY1UMAmizaRYV7i6bfOoLZI3ciS7N3qFd07zhkVeXt6c2oNlPbOgFMDqq07Z7afzpj98fw==",
+    "buildID" : "35ebf155dcda7311ade8dc826664ee8d"
+  }, {
+    "name" : "target/qnx7/x86/lib/dll/cam-optical.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "13600",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7RF9ZUNYx1gu6SqA/gbc3h37FHzbGdfKuqLgnyZPA1buJA2aY1FglRKASCpiR7R7HAZJBpU3/FIq+EyQyIm2ZA==",
+    "buildID" : "aa0ece09b757074de9cdb4d7b47e2874"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/dll/cam-optical.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "18976",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "GgQeGnVAksf56j+e5tIBEC3vHXZ53U8+prfzZ2u7rRIA1xNYPhK4ih6G5qGHPeIb6BBzBHQ2PBbJRVQAkPbBag==",
+    "buildID" : "969a93d3f44d6b078a3ff30d8d6f431b"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/cam-optical.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "15208",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "aZ/1hc0csr5kPgI3GFkn4KJs9ooTekQft+vMA8Qt/Yy5CgKf0iE8PbACrRCrccD0suRWnDbPTWWNe/wuVrkF0w==",
+    "buildID" : "4cefdec710645615d157359d52d791ac"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/cam-optical.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "14364",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "7q7lA6du0tIxThH7o9DmYhaltPoUBJYCH77t9FalxnZBGGYvPKFxh2VmhQzzd2HLiAv1Mj/tHc7FX7hsiS8bMw==",
+    "buildID" : "f058ddf583ed8a508428ace04fb4f203"
+  }, {
+    "name" : "target/qnx7/usr/include/sys/cpt.h",
+    "runtime" : "false",
+    "size" : "7522",
+    "digestSHA512" : "GceBLR3f56rzQlQxenEd8N8pqDXN8+bxJs7jcQ/6smRXTMqiVYiWkYdn98rM0xGAYHglGQ/zL+a8HIexNeyF0g=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/disk.h",
+    "runtime" : "false",
+    "size" : "1596",
+    "digestSHA512" : "TXMZOZg+2lBhw77j8/u0H37hD4Oli7+XNrvfUo7bwdQgDJ1WMaU4CeyApz5uV9s2UqT8FrcbGoqhOU/6A7RuMw=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/cdrom.h",
+    "runtime" : "false",
+    "size" : "12822",
+    "digestSHA512" : "5+wfWhIxtfNG3E+fTR53zN7EYDiDGA3WF1Wq42/nFVxb3SN+we1wesbNzOH+WFxoCnWHtM3u+VhbyK5HLD50ug=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/dcmd_cam.h",
+    "runtime" : "false",
+    "size" : "7247",
+    "digestSHA512" : "1v1Q8uJpbpQ52JFhEqrZ2RtOtt2ygpf+Ve7K+Wdd26cEik/tIKaHQdF9BOvTk9eXp8nFYc0wyNU3Zcw6Ix/m9w=="
+  }, {
+    "name" : "target/qnx7/usr/include/sys/cam_device.h",
+    "runtime" : "false",
+    "size" : "3886",
+    "digestSHA512" : "xXR6zFeDfRrD+KoR3meb7XL701NMUisaGvf1bDE5X9RF/7MmytG5oIJEwVpZSW7y1X5mq9gNTkXSWgQgIJYjhQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/dcmd_sim_eide.h",
+    "runtime" : "false",
+    "size" : "3342",
+    "digestSHA512" : "BaUWcByIZuzP2+nBARghfGbg5kHk8xzgNh8Xm+X/sy80V80Jr/hgvisRCs05x5ooCAA/1OH/4eAOM/CaC6ue4g=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/dcmd_sim_mmcsd.h",
+    "runtime" : "false",
+    "size" : "11323",
+    "digestSHA512" : "LGTBOXT+K9bTtyQ+KnKNn4slsY37rzSaqgekYjizKNyiAf0DK+ygGoX2xllihZ+j9KqdiDGolAKeFFb3jbdI0Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/dcmd_sim_sdmmc.h",
+    "runtime" : "false",
+    "size" : "12089",
+    "digestSHA512" : "4wxm9x1jOPdIE9CrBsELxkCN9xS/72LB/RjLBlRplYeCM581/ZjYhUk2zznewrhVANbe3J9kqnHPzyex2xPsLQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/dcmd_sim_umass.h",
+    "runtime" : "false",
+    "size" : "1312",
+    "digestSHA512" : "o3dT0MAjeiUbtUpkzcWOmRdaz7ClAYC5y5Dn3PYsQTlWwabL+5k47HlPJaDUg2YfSXbZFuZcoO4sjjZj/LhFTw=="
+  } ]
+}

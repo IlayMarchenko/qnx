@@ -1,0 +1,108 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.base.text.ncurses</id>
+<name>Utilities - ncurses</name>
+<category>OS Utilities</category>
+
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses++.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses++.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses++S.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses++w.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses++w.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses++w.so.1" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses++wS.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurses.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncursesS.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncursesw.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncursesw.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncursesw.so.1" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libncurseswS.a" />
+
+  <file name="target/qnx7/[ARCH]/usr/lib/libform.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libform.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libformS.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libformw.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libformw.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libformw.so.1" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libformwS.a" />
+
+  <file name="target/qnx7/[ARCH]/usr/lib/libmenu.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libmenu.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libmenuS.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libmenuw.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libmenuw.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libmenuw.so.1" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libmenuwS.a" />
+
+  <file name="target/qnx7/[ARCH]/usr/lib/libpanel.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libpanel.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libpanelS.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libpanelw.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libpanelw.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libpanelw.so.1" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libpanelwS.a" />
+
+  <file name="target/qnx7/[ARCH]/usr/lib/libtermcap.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libtermcap.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libtermcapS.a" />
+
+
+  <file name="target/qnx7/usr/include/curses.h" />
+  <file name="target/qnx7/usr/include/ncurses.h" />
+
+
+  
+  <file name="target/qnx7/usr/include/cursesapp.h" />
+  <file name="target/qnx7/usr/include/cursesf.h" />
+  <file name="target/qnx7/usr/include/cursesm.h" />
+  <file name="target/qnx7/usr/include/cursesp.h" />
+  <file name="target/qnx7/usr/include/cursesw.h" />
+  <file name="target/qnx7/usr/include/cursslk.h" />
+  <file name="target/qnx7/usr/include/eti.h" />
+  <file name="target/qnx7/usr/include/etip.h" />
+  <file name="target/qnx7/usr/include/form.h" />
+  <file name="target/qnx7/usr/include/menu.h" />
+  <file name="target/qnx7/usr/include/ncurses_dll.h" />
+
+  <file name="target/qnx7/usr/include/nc_tparm.h" />
+  <file name="target/qnx7/usr/include/panel.h" />
+
+  <file name="target/qnx7/usr/include/term.h" />
+    <!-- termcap.h not included? -->
+  <file name="target/qnx7/usr/include/term_entry.h" />
+
+  <file name="target/qnx7/usr/include/tic.h" />
+
+  <file name="target/qnx7/usr/include/unctrl.h" />
+
+  <file name="target/qnx7/usr/lib/terminfo/a/ansi" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qansi" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qansi-g" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qansi-m" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qansi-t" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qansi-w" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnx" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnx2" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnx4" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnxm" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnxs2" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnxt" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnxt2" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnxt4" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnxtmono" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qnxw" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qvt101" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qvt102" />
+  <file name="target/qnx7/usr/lib/terminfo/q/qvt108" />
+  <file name="target/qnx7/usr/lib/terminfo/v/vi200-f" />
+  <file name="target/qnx7/usr/lib/terminfo/v/viewpoint" />
+  <file name="target/qnx7/usr/lib/terminfo/v/vs100" />
+  <file name="target/qnx7/usr/lib/terminfo/v/vt100" />
+  <file name="target/qnx7/usr/lib/terminfo/v/vt100-am" />
+  <file name="target/qnx7/usr/lib/terminfo/v/vt102" />
+  <file name="target/qnx7/usr/lib/terminfo/v/vt52" />
+  <file name="target/qnx7/usr/lib/terminfo/x/xterm" />
+  <file name="target/qnx7/usr/lib/terminfo/x/xterms" />
+
+</shiplist>

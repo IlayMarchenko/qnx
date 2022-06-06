@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen.device_input</id>
+	<name>Screen Device Input</name>
+	<category>Device Input</category>
+	<includes component="false">
+		<file name="device-input.xml" />
+	</includes>
+</shiplist>
+

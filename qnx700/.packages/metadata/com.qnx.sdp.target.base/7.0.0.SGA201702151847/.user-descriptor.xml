@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.base</id>
+	<name>OS Services - Core</name>
+	<category>OS Services</category>
+
+	<!-- the following parts are split for convinience but they are not
+     shipped as individual packages -->
+    <includes component="false">
+	    <file name="backtrace.xml" />
+	    <file name="elf_utils.xml" />
+	    <file name="libgelf.xml" />
+	    <file name="libm.xml" />
+	    <file name="libz.xml" />
+	    <file name="mkfiles.xml" />
+	    <file name="slm.xml" />
+	    <file name="utlfd.xml" />
+	    <file name="core.xml" />
+	    <file name="lzma.xml" />
+	    <file name="text/iconv.xml" />
+	    <file name="text/charset.xml" />
+	    <!-- C++ Components -->
+	    <file name="cpp.xml" />
+	    <!-- toolchain -->
+		<file name="../toolchain/shiplist-target-gcc.xml" />
+
+	    <!-- libxml2  -->
+	    <file name="xml2/component-sdp-xml2.xml" />
+    </includes>
+</shiplist>

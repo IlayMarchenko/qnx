@@ -1,0 +1,262 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.rcarh3/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "1308",
+    "digestSHA512" : "+CDhYSj/gouHjjVLN/OfUEhcY9+5Z0Y6BoZKbOZfKxBdKPs7dneZkPPN9V3ALy+nTNZBpC8zFajbYSJigbAMAQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.rcarh3/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "2099",
+    "digestSHA512" : "/9PPRZMUXdV7pJHwoTQA0YsM7N3aaokzpogINb6o77fZeA5CtC2ZRSS+lKGor1e7EMADwTQ3Qfwwi3iXJYw+ug=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.rcarh3/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "285",
+    "digestSHA512" : "JmdG8lMZpy3pwPjsKM1cKCB2U6BPpW9V/NVTdfqAPPBQc+X/o/0/vkn4hHCPMqSuDYXYPqZXGe5QwNP3b4WRBA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/dll/screen-roguetq.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "42920",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zkrTEZ5SLhy5+5IMdTqcqt8icpSGNjikIrrWIJ417H+sQ6fr+4J7lB67QTEYq0CEi62JBIfsQMZE9YnrE1XRZw==",
+    "buildID" : "0dac5b52ca9a2225a9d5deec9c1b947f"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/graphics.conf",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "3136",
+    "digestSHA512" : "lzrc0RphAJg0ZshiPxZ2MAcJ5MZvrIfesdkkrKINDdy6h04Dtq8p07KOUpX3hEyiOGIC8qOom4Fj/n6o6K5DbQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libIMGGLESv1_CM.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "2014208",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "+isUK75c1QFoP+gSNd5k3wmqpn7rN3AnYuvMeJ7QOqS62GFfcfPLWiR5j/JdhL2T3u4Y6CZMROyw+S6/LqA8HA==",
+    "buildID" : "556ed09d06d5b64a1fb40c286e8195f0"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libIMGGLESv2.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "4893232",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "plONpBf22+YYeqteCVY2e+2lUv+0/an88rtlU7V+Svyv8cl2pbv6eR5rT31GbB2aI07Z2NhRsDh4g0X406yeQQ==",
+    "buildID" : "3a1385471ec655446c75787b335ca4dd"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libIMGegl.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "366704",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nIbTyjPh6yM6bNgPwIoQBWFL3/OYZ9iavGlrtmj3fj+GzFGZfB+dCtrFYRHfgnsfAD8OZXBybHgOkHKv8N86hA==",
+    "buildID" : "0949e540b3f67ddd568b536dffabb9fb"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libPVRScopeServices.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "37960",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "igwvtJ4Sb+NahmltJAnYDQGXZs1nCYGegSz8xGhVmz+jPtSquxgJk3jT8JCB1gCrAkThEirPOQqgejSYUhBEIA==",
+    "buildID" : "b15a1df081454e6963b718cb84d22658"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libWFDrcarh3_g.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "126256",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "KLInPr6e8JBTs+qo34gBHTs+Vr9H2cv4rpG7tTYQNTzxR1a8J37J+e+i46WGkNfF/YYYlokbLVdoAiUpmQcQxg==",
+    "buildID" : "b4badb662598d03fcacb71ce7dec16a3"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libglslcompiler.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "1914888",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VCBU7ZrSYt4SDCujoS2+Oewm08rmaHtdTa7fI8Cc9pwGOoiPYmCP58mRpImmbUzOoMi+2JJLPbGtNIOZhSfb7w==",
+    "buildID" : "459f0078db2c751f4de89a3907d599b3"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libpvrSCREEN_WSEGL.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "75240",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Y35D2fKL/MsOEuwgDa22H3oJwZU9tbsXLs0Oow1eYAQfeFZ8h752bD7yMSCBwSYRjIAvF15XRwsBgbNKxWsXxg==",
+    "buildID" : "70434bade9f0a3dd72e88fe99500d4e8"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libsrv_init.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "401624",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MODuLiKbv07KmtPxtZCCXoIYQzfaPDczquFUklAGdfHhPVP2IrmZeKD33+NBB5c2IsAc6EJY7Syh2QxzioRrcg==",
+    "buildID" : "1664ceca9bcfead1cfc60ce81ed66901"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libsrv_km.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "1032432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iK8jNxirfranMTiZnOGQZ+ZxSLXreA/MgLToasVxb1beGX1SwF5igZITzhBuYNhc/AScvAvbHZ2V1yR3eXs6ww==",
+    "buildID" : "78f65c9df3f46720637c70fac8e58348"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libsrv_um.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "2256408",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EHBj+WwnXhT8yAN7BRyMUqZbgywUR2S3Xfm1UOVCRaUofsCmi9x41TyG7sF532atmGacBCRjDeYMyC0jwAf/ow==",
+    "buildID" : "6c1d1541f4c6d0b66d250f52f36678c5"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libusc.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "3154768",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "F3j4QgiB6+jMczookPj7h7qzBJkyxs0J52sofKl8xc+nK+x8V+fzK52eJimk2SY6xUnewSbPM75ZrodeXchOHw==",
+    "buildID" : "87c9549be2554df410718fc1ab4aea9e"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3-debug/libwfdcfg-salvator-x_g.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "90472",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "t5uDqKuCUtrIYJk5Ey5sbeddaC4VlxZFQlTSGviGBmRRJ2YMrsvK2tkUu+dVD6y+aPHWrwjkyOQKzHH7p7dhtA==",
+    "buildID" : "64f516efcdd9d26f6bc9928c6dfc606d"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/graphics.conf",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "3132",
+    "digestSHA512" : "HgLrt996HlhzlV1tk4pjelwv8Kgq0mY2q9JGv43ZG7YHZmIcbkA4VAVLmzqqA+Px/LKo5thYrPj9b9GAMifGsA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libIMGGLESv1_CM.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "741264",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "SXgDA50TMmOthyDoKigJTW+4VotSs7ToixvoAjrGP7jdhLnfO9LPRzJ8xCX1mPa6I6KWUQ6NJEf7UWdxPyF1rw==",
+    "buildID" : "40e8b39a5a8e3e51bf871c1ec637dd69"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libIMGGLESv2.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "1394608",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LUleyLW/3GsfpSivqGgIfmrodf4slKbLwYyGfDJb1f+Nj9IFI1OpDcJEnIeFHAuix+lvtWEA7Bsw+Xhe6E3ziA==",
+    "buildID" : "da063cd047821df5ac1f11733b4f5436"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libIMGegl.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "186104",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "u/InY5lfMqmxDEPUhDF1upXK4h2FBX18vF6kJtly4QFVahKyg0WEnBtgKjrgSL2TDl0D5l/mLWH7usbqvCZFcQ==",
+    "buildID" : "49684f0c053d513234322404901c930b"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libPVRScopeServices.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18144",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "fb5SzVkl58jCqMLfs59fDyiVcmMOQ4uVA9QKymt/xhsGEwPvjA5yMfY3W3Za8nbsV8RZc9awFU2CHFMgMbx/Zg==",
+    "buildID" : "c7628388b6ddaf7243fbd8771334a53f"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libWFDrcarh3.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "83056",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "IS/fu4/r33rGI1NmGdM8IwfG8AxxzjP94GsT6n/BzOjOG/a2LYH+M1ONzFQAsBxQdihSB3h4napQ+USRL3iZxA==",
+    "buildID" : "568752d9b272e723a7f3d02991f4726d"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libglslcompiler.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "910448",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "/fSZiITpvPxxW1dIbT2bbTpcpFwxGU499C369+vGGfd3K6orkgbV3+USAERfqHwupFZtWaRvKv9V5ubrpQIK+Q==",
+    "buildID" : "c2f6acec393e7e9b1524aba5dcae2929"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libpvrSCREEN_WSEGL.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "55120",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "XPAThvMHtUI0MQM95cleRfl4HvQiCYKkMPd8cNSP5HwfbV+9VKuoyfUe6Mk35gGsYgmhq5jlLWteKTmtNsFl1A==",
+    "buildID" : "9ebee357994233eec35b7bdc545caf6f"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libsrv_init.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "186560",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "e8f64EKYxqiRlD4Cu77fjdqFW5Q4kN11a+j6wym3FqeICXrbJ28duMHtpILeqsN4FQ9z3a1CwGfSThluJHcaIQ==",
+    "buildID" : "a68edab50f1791c18126caa39561e51d"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libsrv_km.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "534176",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "LXxN0rTcc0nYAUU1bX0gZDNfN2u0ZieQmfIlTIHDc4AlnifOYeS3Q8GBjI7Kcmqw45BVCvFg7M2mu0oEHBA/Jg==",
+    "buildID" : "f1f1cec5544de49778ae56d2052c5532"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libsrv_um.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "1896936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Yp1qx19y+3e1uErFNBoXcdTxzB7TUDrneoFIsVf2byFX4YoOJCh9nxoAMAAHRBzLC+pRo2cfs+J4v7Fi6l4Gfw==",
+    "buildID" : "95643fb6eaa1fb352a0dba0425276611"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libusc.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "1746872",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "TmsDjJODb03xNuMi7Hz/SHaKOH5VzqwAV0ZQtK43SWu3waOxOqAWMOCG8oigvsEn25sZX2e1sxfaMdJcatFWBA==",
+    "buildID" : "5fbb3ef888564dedfac6b80345dfb006"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/graphics/rcarh3/libwfdcfg-salvator-x.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "75792",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "H3dvWvcw4mM/THbxLMJlQ0qMMdaiFaRx2qMeXXNvUyX00Rjege1L/uUzuiBEahon+w1ZOZlBf/GHv639PAIwHg==",
+    "buildID" : "bdf18fb3948f91ee8abce64f542a28f8"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcapture-board-renesas-salvator-x.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18840",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nOsUjxC68hVjWRcYzfouSfQWRpSoYPWSxTq3zbs0oO8xt8y2Ueo5mis7dvK6xSc3tOQb+jFmC9YyvgVqJd4JoA==",
+    "buildID" : "ee31d0d948024c9843bbf7ff27d425cd"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcapture-soc-rcar3.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "42144",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "DDe2duFdQE3xRA5rYvaqTYhF89/fIGEorf/CXA2i6wiilvPdAkJ2dHpUw+cajW9w7b/x+I8k06lvBmhFBiKPfQ==",
+    "buildID" : "e6b9f145508b6bdf0a72b525d5df2c83"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/sbin/pvrsrvctl",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "18600",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "dARnsQXSxINW57ccbBwHwj6dc9thy++aR8P+baYhK+mAWPCNHNIpMKba6FmGybW8AFdGcXEFdtEioqNovCX19w==",
+    "buildID" : "858ebca249f4ceb891460f049d0892bc"
+  }, {
+    "name" : "target/qnx7/usr/include/vcapture/capture-rcar3-ext.h",
+    "runtime" : "false",
+    "size" : "3071",
+    "digestSHA512" : "4bqVmRflr/sGLSL/Y6sD/eIHsIimaKU1I3TkDR1+j4tYKPnpiHf6wrKHZAlkJzcJ6PC9c+bLpF/WiPuhLTidEA=="
+  } ]
+}

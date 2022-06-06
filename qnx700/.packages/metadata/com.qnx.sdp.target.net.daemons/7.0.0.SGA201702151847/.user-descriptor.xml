@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.daemons</id>
+<name>Networking - Daemons</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/sbin/bootpd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/ftpd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/inetd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/mrouted" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/rlogind" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/route6d" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/routed" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/rshd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/rwhod" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/telnetd" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/tftpd" />
+  <file name="target/qnx7/etc/bootptab" />
+  <file name="target/qnx7/etc/ftpchroot" />
+  <file name="target/qnx7/etc/ftpusers" />
+  <file name="target/qnx7/etc/inetd.conf" />
+  <file name="target/qnx7/usr/share/examples/ftpd/ftpd.conf" />
+  <file name="target/qnx7/usr/share/examples/ftpd/ftpusers" />
+
+</shiplist>

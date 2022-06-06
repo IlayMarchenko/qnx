@@ -1,0 +1,675 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.openssl/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "692",
+    "digestSHA512" : "qxxJS3rj29rVOcEU6cNaBAMJYOwQyOVFgu20p3rBxTTKt206z5lq3WdC6Xc9W1lfUzKCe9xzi6Xa94WxJzhaCw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.openssl/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "4630",
+    "digestSHA512" : "J9TZuF9H4FIamG1NphfQ7MnUvnWhZNpGvtiRhEBITCD5GCgX8cxiKhsjLv03YUMyupUSaSrejcwznMjNQqI4FQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.net.openssl/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "5199",
+    "digestSHA512" : "ZOrfKR3JkdCdRdQJiLNkBPxL6OzcpJePPaj/5GJXzZoklVY58U1IG5xseY8tQN5wCygLBl1xRALodxWGvEkVLA=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcrypto.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "18459572",
+    "digestSHA512" : "mdtpphLTjvQMB970dkMnEEbLrQcLLh6hQeLjq+DSlVrURZDOEur45fjjWjA+7pg35XKCDNtEML8lPTBz97fg+g=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcrypto.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "24699034",
+    "digestSHA512" : "c8/b9oXpS2OTgdDzkKLb+PldU9KgBvclhsQds1w7m/zIq5czaF8dj6LhL6r5699bvFm3zzp1KWnbZFRQKmuEpg=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcrypto.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "24682890",
+    "digestSHA512" : "bdv8ESQd4IHiP+oJkF3/Yofev8mUx8qQEmVDnZIYAguNxcajF0mhQzw8Vc0U/g0kVcE4+QTaGpCH+hNPvsgezA=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcrypto.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "18570480",
+    "digestSHA512" : "b7HZkPAKDQ2PYFteE8Qa4AW4QtPDLTBFILpHYnxV9TLZHDTx+ToSatYg3zJcgDVklNn+yUtNwscvirw+ZSwAvg=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcrypto.so.2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "2482004",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VMtbpXiKIIrAlOyO7wDAy8K5hNZknRo7m4mG0Ogx08FRqYUPi70VV71LMRAWDLSkxEykSgKmI60IAB4LWcKpvg==",
+    "buildID" : "a4f621f12877cbc25c45458853f6b928"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcrypto.so.2",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "2677304",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AOU75AH2DzShkGAqZmspJPkR+2eprj8T0iRjguGV+pye1etPOAYxQqE+KTamP0uWJf5faEh52SJ4UUblWxHN1Q==",
+    "buildID" : "fbcc56ac1eaef50cbf6d48ef340a5764"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcrypto.so.2",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "2199192",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MmeyXvgJ9veMjCDP8KoySR/DAJpld+25lj7ytzyUgwfrDHduUxE/qJb6Y/uP2XhmTq4jgoswlciOSmfWMJhXuA==",
+    "buildID" : "126e9974a9b387d3b87ed5f3872efea8"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcrypto.so.2",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1587348",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vlWjXEucIxZzkQPNU403MVLgXgETF7fEzFKCcP+PgNWyHqCCeC4lO4CkG0FURff7of1Hn2AI9iy7+1/Zwa8OBA==",
+    "buildID" : "831f76347a647e7d24f5bcdb7272497d"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcrypto.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "2482004",
+    "linkto" : "libcrypto.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "VMtbpXiKIIrAlOyO7wDAy8K5hNZknRo7m4mG0Ogx08FRqYUPi70VV71LMRAWDLSkxEykSgKmI60IAB4LWcKpvg==",
+    "buildID" : "a4f621f12877cbc25c45458853f6b928"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcrypto.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "2677304",
+    "linkto" : "libcrypto.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "AOU75AH2DzShkGAqZmspJPkR+2eprj8T0iRjguGV+pye1etPOAYxQqE+KTamP0uWJf5faEh52SJ4UUblWxHN1Q==",
+    "buildID" : "fbcc56ac1eaef50cbf6d48ef340a5764"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcrypto.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "2199192",
+    "linkto" : "libcrypto.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "MmeyXvgJ9veMjCDP8KoySR/DAJpld+25lj7ytzyUgwfrDHduUxE/qJb6Y/uP2XhmTq4jgoswlciOSmfWMJhXuA==",
+    "buildID" : "126e9974a9b387d3b87ed5f3872efea8"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcrypto.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1587348",
+    "linkto" : "libcrypto.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "vlWjXEucIxZzkQPNU403MVLgXgETF7fEzFKCcP+PgNWyHqCCeC4lO4CkG0FURff7of1Hn2AI9iy7+1/Zwa8OBA==",
+    "buildID" : "831f76347a647e7d24f5bcdb7272497d"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libcryptoS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "18428260",
+    "digestSHA512" : "CfIzscbRxpApDVAg2m6GIuxvGUnRCNjK+8Kj0TnzzQPM1M9+egGpLdG2w3Q1x6Np1dn4mM+gIYbkRZeOxZmQKw=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libcryptoS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "24636434",
+    "digestSHA512" : "4M+OA0ODa70ED8saKhAOL1UMhoQrb/7MpLM+Ztrzsckf0shhezyAsOMOxAL+6wIsBxRO52bnc9u122c3pAEHCQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libcryptoS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "24593258",
+    "digestSHA512" : "h6gZjzpG6gNDK5Hg3mS/8BjgS8H+cQzdZ3lpDMIQq6lmwAyj8jtF93VacVhX5uks7aBniGS8ti0Byw+3qXUoCw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libcryptoS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "18613416",
+    "digestSHA512" : "MrDJkQaDLZhWmnawvGj3K1XLaSIRTPXh3D1+VjCRuyZkGsJ3tJf6Kq5lcjOCJyVzAclbLLX91ThN7/KvILAq0w=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libssl.so.2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "575984",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3d1B6XKGLdmqTRbZNmHRvqC5L6+qeQFz19HOc0Innu9Y+8KgLySmL+O66eBqJ8cfOIGMenth1X8UEHa5BEKoTg==",
+    "buildID" : "c6981438b7be78544f828a2969502ed8"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libssl.so.2",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "586800",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jcUo7e9cDj3JYZhq9CN79NcPhXDmMqwFG5BU1FVy79J4msxTSGrDnaTw9nGENQHuDyjkI3c3oIQCJgWmhf+j6Q==",
+    "buildID" : "f8337c978d1baedcc31d89a8b57c27df"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libssl.so.2",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "520360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EI2OAEgaxwGXnCFiVkS702XifQg60a9poKCE5TDr3BTaAUwMm/Ej9K54wVFjDYTvUkiTyJCM+DAz/udX6vtWHA==",
+    "buildID" : "09d610d429056918c3feac8730f6369f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libssl.so.2",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "350568",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4eX04LCV8rENGjq8scnML5AXINHVjKKt09cRWnrDsCwgr5nB8tD2Fxr3oDhOzETuHmEUTBtlnQlfdjc6IT+SGA==",
+    "buildID" : "9e29b0653aeae309be43c14207cf038e"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libssl.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "575984",
+    "linkto" : "libssl.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3d1B6XKGLdmqTRbZNmHRvqC5L6+qeQFz19HOc0Innu9Y+8KgLySmL+O66eBqJ8cfOIGMenth1X8UEHa5BEKoTg==",
+    "buildID" : "c6981438b7be78544f828a2969502ed8"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libssl.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "586800",
+    "linkto" : "libssl.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "jcUo7e9cDj3JYZhq9CN79NcPhXDmMqwFG5BU1FVy79J4msxTSGrDnaTw9nGENQHuDyjkI3c3oIQCJgWmhf+j6Q==",
+    "buildID" : "f8337c978d1baedcc31d89a8b57c27df"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libssl.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "520360",
+    "linkto" : "libssl.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "EI2OAEgaxwGXnCFiVkS702XifQg60a9poKCE5TDr3BTaAUwMm/Ej9K54wVFjDYTvUkiTyJCM+DAz/udX6vtWHA==",
+    "buildID" : "09d610d429056918c3feac8730f6369f"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libssl.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "350568",
+    "linkto" : "libssl.so.2",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "4eX04LCV8rENGjq8scnML5AXINHVjKKt09cRWnrDsCwgr5nB8tD2Fxr3oDhOzETuHmEUTBtlnQlfdjc6IT+SGA==",
+    "buildID" : "9e29b0653aeae309be43c14207cf038e"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libssl.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "4502612",
+    "digestSHA512" : "kEDURr4mClmK1AVCJo4bEtF3kyOKZ5qDAvP/rrVU7A3mo7gmd067lGQsMDWEOj9iO6J6Vhq92K2laitxeuOUDA=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libssl.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "6085548",
+    "digestSHA512" : "mueUL+S62uu50o8C9+YG4JlJJ4Ve0+J1k0i3m37CikrTx2jQNoc5Exu+sZEbKUPM/3ohAcqSe2Nc3GxgqQYEXA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libssl.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "6100764",
+    "digestSHA512" : "P+GbzL1f5KgJ0uhuKu1z4AZPH5OAgTQyJqq4oPXAaBD/HcpjiQ/AGhQooLpMYBfyBCKpjaZr8WLhCG/Ng6qaGQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libssl.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "4318844",
+    "digestSHA512" : "mIQe7AkWqA1A6CDKbGnwx5SiPIxLoWmTYvgionIcTDKiQoDNkOxyNqTDnZYeNSkRW6bGIVSgYognXb74BI/RBQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libsslS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "4496426",
+    "digestSHA512" : "kLV+R6X6MKvIcMdY9s6tKZ4o+0ExtmURIpYwqZZBxLVN6mvBi6Ve73t+fZnJ73hcbdeB6UhBpn23O+dp47iNdQ=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libsslS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "6080468",
+    "digestSHA512" : "WqOQA200ahiQ3zX60wZpj1UY+ro/SXbmQrhXG/HqF2tLGnfj29GNAQZT1FBLgw2EDiOv44Omouad0T40y3aSuw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libsslS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "6093748",
+    "digestSHA512" : "0DFfim2VrQyElbXjLavPuU3TOJYiJloIOm6Ns+Yidh2ugldVrbC8yDNE3Nrkm9V1a238gQRc8TO2ZE8zjijIkw=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libsslS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "4321120",
+    "digestSHA512" : "H2bDQfdFaos+RiaM6Q197yUWyrHC0nUfCwCBOCN/Ad0/lYJy5GONsbsmmbIyGEuaJtTQwr7AcXg9Q4xPnF1h7Q=="
+  }, {
+    "name" : "target/qnx7/x86/usr/bin/openssl",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "686320",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mTbfpbc+sFHWeJJFQ0Rg/XTATqDBjqnhgVJ49KrFcUxdx/K/3DjJdaaIkpfcGJou5zQczSNYYZCfU/veloUtzw==",
+    "buildID" : "551f2409d3ef25ddbd531f92421de0fa"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/bin/openssl",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "642944",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "K18yJ8G+y48yp1mQwRHKRsGxXjDjnE+bynV79SP5vmw0UjhqVzIz9QVRslZ3yfQZ3WB3Upw++Q5+736rJpDZyQ==",
+    "buildID" : "68763e3bc09bc0c950e2a14556153e99"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/bin/openssl",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "597712",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ARc1W9uNYSSIGRvQ3KoUk4UGmK+t8xyxJxJ/SPsnY8g21fcIGUyQfwBaVwNOxo9+n0ZKSm9fJznUPt4j1QbYYw==",
+    "buildID" : "ec6c7455df9678bea02bbd8fe36c1b3a"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/bin/openssl",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "438016",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "UtCjlKb4uFq00JhoJNvA1fL+jotB97NiZjf0Hnt9mi7/EgdwHznqJHzBCpslqEu7v2f4WkdgwtZd0j0GKBU5ig==",
+    "buildID" : "6a50994b0c3816bc56c1acb3435c342b"
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/aes.h",
+    "runtime" : "false",
+    "size" : "6374",
+    "digestSHA512" : "DeKi2yrE+BNSCitBGJqPsLvIYAAvXwSZYEeJGUGGxyDQo/aQbz+xtQ2QXv2w1n3MY54pLazcky7Jc+kFRqRuog=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/asn1.h",
+    "runtime" : "false",
+    "size" : "63372",
+    "digestSHA512" : "k2Khkuk98a6kRaXFZnSdzur0i2kta8kUkilzl7KHSt41nuHJgn0lGR8L5xB88+LWyaXWBArfuChcy59rXInXKg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/asn1_mac.h",
+    "runtime" : "false",
+    "size" : "24669",
+    "digestSHA512" : "pp8urT37y/+3yvXontMvWt7pvK3k0OvDVRbdMsDddaYNaBTuZ8+POt+33yCK1N8A0ByFlAU4U5lbvU3aktA2+Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/asn1t.h",
+    "runtime" : "false",
+    "size" : "34706",
+    "digestSHA512" : "xDdGd5iH+tITeA23gIrlS5HnjZTdCxgGfXA9mnAH+ToeOpbrxKhomoyv91t2tFLJT9K2qKt1hqKDDiT9gMeLSg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/bio.h",
+    "runtime" : "false",
+    "size" : "38970",
+    "digestSHA512" : "VUsPmO4preGLeAZY0+jQyH+NX1GpuTIepfvOjzqE/EFf8+ZimQmh2d4oZXYT/p6X6GBKH23gY6UDuyWBkOy7xA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/blowfish.h",
+    "runtime" : "false",
+    "size" : "5583",
+    "digestSHA512" : "STlbnEvJwFgSuH/kJ5N0F0RSk4j+wwTtsCiBp6soBQSme77eaeipwoRQGK6Po2YGF0AjzVZPV5a17/yuH8U75w=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/bn.h",
+    "runtime" : "false",
+    "size" : "41560",
+    "digestSHA512" : "pEVcqCEFRR+p1uUfS/wTyxH/sGlx+0EJVrCV0CL01fmSF1BPocrb3JlYijK4dFUFVj+1qvWYfXjHE5Ir27UcBA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/buffer.h",
+    "runtime" : "false",
+    "size" : "5260",
+    "digestSHA512" : "Z/YEUjghrEkgueh0RlhBdY70WRVbGmbgIr9mfW6RvIFlGnokJNV3Sb4/vn7HCUbhQUrjHXuts0olAxviE902eQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/camellia.h",
+    "runtime" : "false",
+    "size" : "5803",
+    "digestSHA512" : "/CNkH7O/f/YJGToJ9/dQl9fvsork2cARUD56n/oGlA1rUhUXzfL5bdWfMQaqOPwlcXVHiEfGHZ24mmvO1u9q3A=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/cast.h",
+    "runtime" : "false",
+    "size" : "4889",
+    "digestSHA512" : "AdelfTV4RWP8Uz/bYZwFwMkzMkoGwSvWCMkw4UeXr4GscGzJRd35n0Yzf5xjPejmMSTOfXUyJA7YkxXrnVxlzg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/cms.h",
+    "runtime" : "false",
+    "size" : "28869",
+    "digestSHA512" : "GrHzPYFntJFCJA6I7osR1jHw5jjqwjy1yBYhAPG6FGS0ISWJdb/CKmhuVVPxJ1qNDDV/qfv0NvbQVMPBeXk+aA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/comp.h",
+    "runtime" : "false",
+    "size" : "2605",
+    "digestSHA512" : "0fQFW1SFv4XojFC9YJu5itt1WLLQzst88E1hOrGhsE6TlRWfdoieaeXEpzSKu8TX6cd8uqVZ0KEA0J1qNcL3wQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/conf.h",
+    "runtime" : "false",
+    "size" : "11486",
+    "digestSHA512" : "mKZJQeZe/ov1KettD8L96l1HusamHk22OYH8GKk1UO9+1w4O7UCeo44KhdcOvueMva57/Z+B03JqHjW1+y8cwA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/conf_api.h",
+    "runtime" : "false",
+    "size" : "4381",
+    "digestSHA512" : "aYGlJNfOaSubPyRw+KeL1calFuNlrcpWdgpCG5GA3ITYJviHPwW7Z7dhe5miVBxdxdqfXFqiueyNFQHJQTKbZw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/crypto.h",
+    "runtime" : "false",
+    "size" : "27894",
+    "digestSHA512" : "AhNgzsbMG0vey5WQI2OIbqCnLgmkjP6uD+TnQucr+vD4ac2vH0PfU8VcyW6PNK0r0s+jpdGH9od395z42SWwxg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/des.h",
+    "runtime" : "false",
+    "size" : "12141",
+    "digestSHA512" : "nip82m1gf/PhAOhOY/DKloU3geenb794adZ9VE5I1qJTpuJ4UzOB0LtonndYeghHjBHoPt7reAYVF/Dr5Rkhbg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/des_old.h",
+    "runtime" : "false",
+    "size" : "21718",
+    "digestSHA512" : "CBcz9GyhAXMqieHZg6MX6BpThGSApJfM6sviRdfxIxBdqyIDme9jTypw+aUEuC+N7NBe1Io4H9+01VL0sysoAg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/dh.h",
+    "runtime" : "false",
+    "size" : "16406",
+    "digestSHA512" : "4FISvIDbOrOxlR/1W7eu9JRqx2PgLjuXF1hZnM1wQyrxLUNQ09kHGda5tkrThgwimCg6LBzhOsrHaQu8CDifTQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/dsa.h",
+    "runtime" : "false",
+    "size" : "13890",
+    "digestSHA512" : "n5Pi3gxH18n/Mc7xNU6ziVqV6AUsTvRaJSEnWoj2qeDujzQ7n7M3asjia6kZk10JxnwhJZTsisZkecT+0pQkLQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/dso.h",
+    "runtime" : "false",
+    "size" : "20438",
+    "digestSHA512" : "nYNiROgdm2vw1N2ZQADEz1tCR+nDmQXZuUDJX5vPPpLEuNZhJkpliZl1HshZhNJFhBArARPB516WEaZAhwLEGw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/dtls1.h",
+    "runtime" : "false",
+    "size" : "9269",
+    "digestSHA512" : "mvO6inK9SbFWasqgBTxuLczE95U7iI5uQ3rcXp22+whAMUxZbaLeWXD5yKM9df/Wej8IQU+tgW5pIry2vB7SGg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/e_os2.h",
+    "runtime" : "false",
+    "size" : "11164",
+    "digestSHA512" : "T5qQ3DtNIwL2wBkeOQ2sn3GRmqyEx9WzClihEjRc5KvRT7LGwH+DVLeaR0SmYHhjnCtaF6BkvoUF9e3zfCSa1A=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ebcdic.h",
+    "runtime" : "false",
+    "size" : "843",
+    "digestSHA512" : "Ga8YvesIFNqtu10+0uNspzza3wTZAln5Ph2prEGLcboZXUQbXLDqjXKVjK1RHTrc5hA1SpnGnm3BhIMh6FF4Fg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ec.h",
+    "runtime" : "false",
+    "size" : "56360",
+    "digestSHA512" : "aos8fnQwn/3eFUfLvZeeijkMoYusEnboyREYIdaYflRILKCQpnzmeSRhGfVISD5i4y0LybN/cgaGdZyIGBQJaw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ecdh.h",
+    "runtime" : "false",
+    "size" : "5421",
+    "digestSHA512" : "7p7JFe684U9jGpk3z5/Tg3fTtun9hrM3NnvVWX8he4QeBjdcmy0kD3Swg/mXLE40KLsyQELWLCcCFC5LNS7IVA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ecdsa.h",
+    "runtime" : "false",
+    "size" : "14270",
+    "digestSHA512" : "aSIfzPmvFWY2Je87RuAIwLr6bhoxCS8SbFc2SQa5YtM2g7K6ITYLdhW1KCmgxRjRkGJTsiaGi2iQq5DzQjgpKQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/engine.h",
+    "runtime" : "false",
+    "size" : "45180",
+    "digestSHA512" : "J0jQYjgzxQXyRi7FnAc3GP4nUqy/s/uLPOxNwUJkQZ+AKNsQbtSMn3w3XEQ3PaWR05RLMMgJb9FgFiGCk/XqCA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/err.h",
+    "runtime" : "false",
+    "size" : "17004",
+    "digestSHA512" : "fCtcTZhFmHzfs+5ZyUM2gBd0JbvUDTzq45Ci9xmf1UtCxS6Exk7pQTzstzuGhjDedCvpHwnEaNVg0MGDPmmLpw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/evp.h",
+    "runtime" : "false",
+    "size" : "68026",
+    "digestSHA512" : "ljGT5HlsgZqVFoMn8p8gjo1vOf5qyFb0jfms5LzAihG2VzBynsm/EUoskndQ423fb7KmjdADNzrwjLWq/8H5BA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/hmac.h",
+    "runtime" : "false",
+    "size" : "4765",
+    "digestSHA512" : "YIc1KH2FbFvzcJZWdQrJ5CzVjm5UyoeCoWMr9CMhf2LX1gvHIQ5Hf/JXRiXjKLKGguLQzY18A5ugWuF15eWKJA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/krb5_asn.h",
+    "runtime" : "false",
+    "size" : "8399",
+    "digestSHA512" : "JL/pQR+kIXErin/WJi0a2anty0jk5uSXRaJ0KMItnhI1/IAnhI/QutbPhdVSbbkDc+Mt5E3hrk0ZFfx88Smatw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/kssl.h",
+    "runtime" : "false",
+    "size" : "7075",
+    "digestSHA512" : "/ETg5MLTHvckhbi2CTPzTdSs8umiul2ADlNoXnBcZaLITvv+eRBoMey3HpJ0n/w7YXowljhHrKYJ8bT2OTZ+ZA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/lhash.h",
+    "runtime" : "false",
+    "size" : "9781",
+    "digestSHA512" : "NpFxKo3cJym480/2f+f1mkX1BAsJXQm3H2n4qRv1EdPnwrN06HX4LrSzU+WclnBoYaQwitiafDRa7p/AFijqQw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/md2.h",
+    "runtime" : "false",
+    "size" : "4214",
+    "digestSHA512" : "gFKURfIPl92xwAGhr2CnxUYqmEj8N8LBBK5yJQ5zMHIgGu0FTn1axh2iNi0Y3BlbvXq4Q8jR0o+wqe4jL2yxjA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/md4.h",
+    "runtime" : "false",
+    "size" : "5014",
+    "digestSHA512" : "eN/hzgUDYM9qcJjrmZo67HwwyI0AeVrw7cSk4uwiSUI7WTgBnV+IWU3FYnyYXwX2j4PXK8r1ztEIQv1tiCGZ8g=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/md5.h",
+    "runtime" : "false",
+    "size" : "5013",
+    "digestSHA512" : "ZVYWSiSN/aeMV2NmG1BFChngB2ehw5LnH/jG1JXvkyNgB7+VX+KnnDaXimcHJKlj/a0RtR0KtUBRoCd5Ohdy/A=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/modes.h",
+    "runtime" : "false",
+    "size" : "8492",
+    "digestSHA512" : "QB+MTtP8YbNn2xcnmnWdfUmnBEWSfoYNZi6ch65aoBaXtOgTtWiPPMFY17iR7CFWMQRU6OTBtZzED5379sGgYA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/obj_mac.h",
+    "runtime" : "false",
+    "size" : "176628",
+    "digestSHA512" : "NYrgo18o/+bv3UeLnu03coExM6puJ+lVM0Yf8AGz5U6KMstv2K3Qq9FuouU39tQOaD1y0Er/6eUG3opxCkBz5w=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/objects.h",
+    "runtime" : "false",
+    "size" : "47800",
+    "digestSHA512" : "AQbHG/j5VjPwAbK4ntqMo6H+VHvt42+lU6saE27++G1L2Qu2ok4S+MYupMfnapumQuI8v1jyAmlM33gWouVYEw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ocsp.h",
+    "runtime" : "false",
+    "size" : "27377",
+    "digestSHA512" : "ICRw55NXis1Vxg8jW950ZXupDp4i9sNnsx6jYlXMMCW8LK1k9GzSichgNvgOU46jIWBWqx+gvJSVI1UMn2w3Zw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/opensslconf.h",
+    "runtime" : "false",
+    "size" : "7042",
+    "digestSHA512" : "MY5FKw+qpLcqgW9dM+Ip2mPisM5NxaspGa3urTFEDlRxL+WQKn2ORVtzxo5NsQJskkX8bKyCaVKjR/Q5Ubq7PQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/opensslv.h",
+    "runtime" : "false",
+    "size" : "4170",
+    "digestSHA512" : "R6utyiSa0asVLYr8y3MtXUU2KJYI+11JhqvmNhl5eQAYu6yUO2SEMT5EJ3uPQ88lTRRQ5pQSmqaH6kXMCBSRFw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ossl_typ.h",
+    "runtime" : "false",
+    "size" : "8061",
+    "digestSHA512" : "Bpuy4Du8833QX8QJ++3Y5l7Z53pOADeJ3klKGANQX7MUkclE8643LK5e4OyZbjJqRraQTTq0eiGq/4zhnACYcg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/pem.h",
+    "runtime" : "false",
+    "size" : "26100",
+    "digestSHA512" : "x9gEPSrR2bGwbYT2uP6Iqiq2CDvPa9QgnhRpXWZjfD8jN6/frE8qMbKVC7OIXxQ1MbEi97ps9E99yF2tZl6lGQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/pem2.h",
+    "runtime" : "false",
+    "size" : "3091",
+    "digestSHA512" : "7VbxrhynTuG9Lnp1xWT0d38k/wdhiZ2vL3/7FvPdNNdOLVGhe8zLkLuLM0828n//u+ZF8dSflIt3q8rTnXGUNw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/pkcs12.h",
+    "runtime" : "false",
+    "size" : "15085",
+    "digestSHA512" : "0wqRiInQnwPDv0+gNN4ScYvy9VMv2kT2m85wAWaBzDuAYm90vtnPDgYJ9Wek/c1nXXOA/kr8IBQ8wUKQa7dIhw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/pkcs7.h",
+    "runtime" : "false",
+    "size" : "21010",
+    "digestSHA512" : "0QHG4Oi0HE65v+Mjh0xt+PBSEnUxXmZ4mWVtdHoLQp3B/BLldrR0+3nl4DoauAgyf6csz/DDW4lnn8UxTJn88Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/pqueue.h",
+    "runtime" : "false",
+    "size" : "3907",
+    "digestSHA512" : "DMIPpTx/TWScblVC0VrRlbN2jsJh9N9m8s8r3sn7idwMwOmtyFp99lMXt+XMcxabzGZfc3o6gcu9aNm0yE9sog=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/rand.h",
+    "runtime" : "false",
+    "size" : "6002",
+    "digestSHA512" : "JyuVelG/ay2LsPQhRvsktuoXylYYkZldNtNLtkTdJdRz5EYva/CDoZ4WrW0TsSnIzySf6cIW3Td6AY0Nvd4TNA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/rc2.h",
+    "runtime" : "false",
+    "size" : "4774",
+    "digestSHA512" : "9KtBw2Sf5isHlsy2NFMi3+Q3TaKC9GqzztnlIYG6DT2ELyGtIsH+ZhvEE0fIhV4AKVsHX9qGUBUZVWOLUqOMww=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/rc4.h",
+    "runtime" : "false",
+    "size" : "4035",
+    "digestSHA512" : "ki6GveWKmic8hUcsLPaBMFRHLxQLOc7zx5kplDIe7v2WqDGvdQL6ML6f20RIVuMVrSDiXr/6FVZ+rELt657KiA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ripemd.h",
+    "runtime" : "false",
+    "size" : "4605",
+    "digestSHA512" : "m4tZ5/vRj7nkOJQyKJsMxG7zCbFb2o55Ij+/7005+9jrnOct/ZbJ74FmM/oCJ3PJT9O889kT8mWRuF1T7E1hFw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/rsa.h",
+    "runtime" : "false",
+    "size" : "29963",
+    "digestSHA512" : "U0jsrFYcHvM5YXeSvC9BHr3h0sL/gy7r14c8U4R6MWEKfMkf3EfPF01IpyfVT4SyKCvVm5IbpqX5sB2zVPkRTA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/safestack.h",
+    "runtime" : "false",
+    "size" : "203139",
+    "digestSHA512" : "Jrn2QDw4kVJvUO3YT7e2MZg6C0aQ3xGtGe408J7L0V5rB9ZBArZ3pLOSmssVwhFU8zUCn//SrK7iWqEJE21k3Q=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/seed.h",
+    "runtime" : "false",
+    "size" : "6270",
+    "digestSHA512" : "3usC68loEUTjT/3MxGOq8tEgDT/5aav49ZbvUesCAUShqau5rDcB7tXj1oxuo21Yr5KuavUeoAGITwsAMUD7yQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/sha.h",
+    "runtime" : "false",
+    "size" : "8157",
+    "digestSHA512" : "XQnqH9r/imyK78D321DucDGlHcI+oXzKTKkIEC06aPPzahggO9S5XlaiDoyu2X7shsfWz39XP4zRHAfriiyV7A=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ssl.h",
+    "runtime" : "false",
+    "size" : "149399",
+    "digestSHA512" : "olb49BVLtjFoSHLb0VrIkjUs0ZElewWG+ovDCa0WkO8rZIz2LmcizlJarZlz42qgNXdfE6GraqvR7gw1NIUbQw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ssl2.h",
+    "runtime" : "false",
+    "size" : "12271",
+    "digestSHA512" : "8VTW0Uazah410ilSqbr5PqB6WhmPOQeyyCpmJB2wDfwBEdp3ZV0uAJphAKY0QAzfNppRxO9Yi7OiQh6MSlNqqA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ssl23.h",
+    "runtime" : "false",
+    "size" : "4012",
+    "digestSHA512" : "vpg1xN9MD7PN0notsOLCYgMvrSUzDNVe64trW89kha/GWscehuFiNaZFoH3+ml/0RtlFQvZwoNQhox42BygVBQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ssl3.h",
+    "runtime" : "false",
+    "size" : "33503",
+    "digestSHA512" : "KTYC8RxDvYxQTmWqQTMzNFjXVZNzAY90xXUg85sUBceZYmeJuRWY4c4RISEPdKDkGH46DJPb/3fcP/9hwb/VNQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/stack.h",
+    "runtime" : "false",
+    "size" : "4764",
+    "digestSHA512" : "IVbauLDUNeqZBqUlJG2E0vDREfCWTM6TmNCcbiqh4IyZPDr1fm03hPdkdYCc7hSOTCRrSYCJFU9GbaVNc5kP5w=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/store.h",
+    "runtime" : "false",
+    "size" : "33398",
+    "digestSHA512" : "uGEST08/LJsmVV+NvMO3Mn4srv2i1NPQMTWEgooAjZMSN/BXHuYZV7e75+d2z4oEf7BkFe6k7J9GpoQCGslGXQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/symhacks.h",
+    "runtime" : "false",
+    "size" : "27923",
+    "digestSHA512" : "ZPZDFiGZATKYJNNCPlmDdyhBNpPaaJ/Qt8B1JgkEr1+i2QWVp4OyqKNKjijKkCB7ijWeGWfKlFiU0J/8AEy9zw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/tls1.h",
+    "runtime" : "false",
+    "size" : "39621",
+    "digestSHA512" : "v4kTFPb8TiB9sRRx8hnN0t0JfivQo37K4bajBcCnvaDbOdzKnTNtbeKzlsMZldwj+w+apqWFDpJSZ7oMUYiBnQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ts.h",
+    "runtime" : "false",
+    "size" : "34786",
+    "digestSHA512" : "K3N9Mxa8r7DLd7FlkK6nKiebjqd80n7OCUa7Tmg1JBsx27o3nlJe/EQtHHOHB23YoJHydvh6Qww68WR2ZCgmoA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/txt_db.h",
+    "runtime" : "false",
+    "size" : "4865",
+    "digestSHA512" : "O5NyBC63+EvYalttk0jZY5gSduOxvIV2IO8OlHuAJxnPx1hGblHkTMjrRd84yz52yd2QDrMNwW0Du6OJw+It6w=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ui.h",
+    "runtime" : "false",
+    "size" : "18913",
+    "digestSHA512" : "EL1/N9d3rr5eNTTgsGjsleZdibSdJDiW5E7JJzaYA4QPJgt8k5QqGhbBp3Qv/Y2Z3Qb6BGFQiNI/MU0fqOs4Bw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ui_compat.h",
+    "runtime" : "false",
+    "size" : "3727",
+    "digestSHA512" : "J6uV7BvKBhIGi+pwlM7mIce8MeUYekcMB//lmFUkjB6j5LxO5miRblT8ivzCmdNZFQaWNpsB6gN7riCJJwVmIg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/whrlpool.h",
+    "runtime" : "false",
+    "size" : "1321",
+    "digestSHA512" : "kAYsR7NErBQSc+vLotkwCGvRHV9IyzoXeYV1Tx5qd+2yMLVnoTnLNxgSghb5c/TIKxUs7sZgClqEv8h56cWa6A=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/x509.h",
+    "runtime" : "false",
+    "size" : "53545",
+    "digestSHA512" : "OkYFozWICy+8iNg/pX7F3/8I09g/0mNAR1DA+9lUCyBIjiC/A0Fpsyc4cUB66GQGQTrL+PZv2+PWB5QvcicIew=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/x509_vfy.h",
+    "runtime" : "false",
+    "size" : "29472",
+    "digestSHA512" : "yKnFxx/iGESKiJNnSd5M7MkmPSI7fExCpK0kXZY7tYubrtx2GGfl64+VPKmHI4YMD6pfuOdYRV8cgSN0EQSGXA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/x509v3.h",
+    "runtime" : "false",
+    "size" : "40623",
+    "digestSHA512" : "kW1bTPhiCp5Iz3VPIwjD25HRNM0LXfiXkmRbcND04rzp+j5+4fM/WKwxpwd18UMAulN2Ma3cAmNwCbb3S6rF/A=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/cmac.h",
+    "runtime" : "false",
+    "size" : "3487",
+    "digestSHA512" : "SxHWIz5nMwzhePZXjE0qQE4j0SoN5VFJUOZBtDUbqh0eocEAfd+qtzhYrPbjxvc+3LCuXF+fKOUSqPTHbFWq0g=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ec_lcl.h",
+    "runtime" : "false",
+    "size" : "28829",
+    "digestSHA512" : "lY5g3zT3aTpxlXGAb9yNf+bwEU+6s72M7RDU5BC6y+Qv7qUFqD8v7BZQABdyEAVh0ZTeddIg6/9BG+97nUx8Rg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ech_locl.h",
+    "runtime" : "false",
+    "size" : "4117",
+    "digestSHA512" : "3JBfShdPHScHj0yZpIjyKw8U4JNAFsU58SDQxooU3yBaOu0mc8m+sNecBY4jrNPAZRmfc1fbNawpube7ugODBw=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/ecs_locl.h",
+    "runtime" : "false",
+    "size" : "4708",
+    "digestSHA512" : "nkd93Vp2ro25OyHY4HdUdhxi901FfZLxlKckr8yp4k02pbmLcsLz/QgcYuR3H04fZHnX/GMoarg1VjC+mz8+fA=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/srp.h",
+    "runtime" : "false",
+    "size" : "6153",
+    "digestSHA512" : "HIWxm7eP0XSFJMY06JRAo+SVp5PgKDkR8lWCMQ4jzZTCS3v119crC02V+H9o5q1v2dP4pMeR2NQ5y0VXn5jPIg=="
+  }, {
+    "name" : "target/qnx7/usr/include/openssl/srtp.h",
+    "runtime" : "false",
+    "size" : "6860",
+    "digestSHA512" : "Pj5bDSkiPboA0RCiuUFdmUUN4yb++wUOBcfCzhAprALI0frm3RVwU3RRao7eR+XrwdcKLJjFTVJTBfI2IzXgrg=="
+  } ]
+}

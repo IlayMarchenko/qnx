@@ -1,0 +1,58 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.microkernel.kdumper/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "513",
+    "digestSHA512" : "ZmMLiIOibtp9Hx/ZqLn0zKiADm8U9osAVAUORCvO3BSJOS/MLeJmfFkyc/XdAmC/d7kHwYKnlakK/vpWT2B3SA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.microkernel.kdumper/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "304",
+    "digestSHA512" : "zP2CqWh0Uz1ynHefSjqaCzi+7e0fCKB9t60Tev57uvfEqtMAiUVq1TocUydsYw55BU8Gc/9LlU4cF7g0F+/7EQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.microkernel.kdumper/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "316",
+    "digestSHA512" : "V7YN20B0DJDSuKQh5xHCeyw/sBjx33oDKaqfdc6wlVged8wuZUzCt/hcUJWOldlkHtUprw/6BzxTlWG5DRVqbg=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/kdumper",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "1332148",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "qPJoPaIqOa81k9DMK0XhQpdqqPubfFDz12OYyfqAGqMz3i00u5yELmDokoinxj1L6qD0tSFSI1qNhe4IXFCLQw==",
+    "buildID" : "5e904466d28ac2580c2ae411e80716e7"
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/kdumper",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "1743160",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "G9l/dZjPinjo9vDO5l3rIMGtVs6w+ZsPMR1HKL6I6BTIUNRVcQIIRC5NVsnoW0CGNPFd+t+f8U1LsolObdk80w==",
+    "buildID" : "a40bfb409a678d36f82df2508ff4cf5f"
+  }, {
+    "name" : "target/qnx7/aarch64le/boot/sys/kdumper",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "1878472",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Op+U94nrRtlhFitFgoZKAAy7hqw3x4DAWQbm6H2o2fhIrzZychwJOWnWOhpQZ3xrnxIzU7aTRO1mg+lBEzL1Bw==",
+    "buildID" : "d08d5b95120860275994040b86d37450"
+  }, {
+    "name" : "target/qnx7/armle-v7/boot/sys/kdumper",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1403316",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "bCwLBl9Kz20nSfe7GWXy5hEP3nst/p0c/eLmA2P5hBBTBML1J2VwIfDNXg5nNXA8FBWNO8gYkHyNdDVqyhV4uA==",
+    "buildID" : "c059ec5c6d1bef6b64fb7c49e8b43cb6"
+  }, {
+    "name" : "target/qnx7/usr/include/sys/kdump.h",
+    "runtime" : "false",
+    "size" : "1672",
+    "digestSHA512" : "73H+Wpfhy0syOEtqxqXY4P2Epnr2ZndK/aTI7AceWo7ZNrqRMFub6iAQIELvLTq5J0YIqMnBxP+Y4PymHUB6hA=="
+  } ]
+}

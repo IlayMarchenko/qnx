@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.utils.publishers</id>
+<name>Publishers</name>
+<category>OS Utilities</category>
+    <includes component="true">
+        <file name="all-plugins.xml" />
+        <file name="cdpub.xml" />
+        <file name="mmcsdpub.xml" />
+        <file name="usblauncher.xml" />
+    </includes>
+</shiplist>

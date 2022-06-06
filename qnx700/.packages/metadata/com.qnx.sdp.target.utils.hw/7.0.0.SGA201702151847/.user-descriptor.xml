@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.utils.hw</id>
+<name>Utilities - hardware</name>
+<category>OS Utilities</category>
+
+    <!-- From /hardware/support/inout
+    http://svn.ott.qnx.com/product/mainline/hardware/support/inout
+    -->
+    <file name="target/qnx7/[ARCH]/sbin/io" />
+    <file name="target/qnx7/[ARCH]/bin/in32" />
+    <file name="target/qnx7/[ARCH]/bin/out32" />
+</shiplist>

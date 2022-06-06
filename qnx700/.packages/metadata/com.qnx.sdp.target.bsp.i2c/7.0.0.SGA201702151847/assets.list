@@ -1,0 +1,7 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.bsp.i2c/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/lib/libi2c-master.a
+target/qnx7/x86_64/lib/libi2c-master.a
+target/qnx7/aarch64le/lib/libi2c-master.a
+target/qnx7/armle-v7/lib/libi2c-master.a
+target/qnx7/usr/include/hw/i2c.h

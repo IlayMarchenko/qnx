@@ -1,0 +1,229 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.base.ipl/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "506",
+    "digestSHA512" : "4wGsf6K9exg2nIJY1UadN9YMeCKBV+iXlYBgsKgWz0JW7Q2tIdk4jHj7XTKDhsIrGtyvpmTNfbAPXfG3yikWkg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.base.ipl/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "1360",
+    "digestSHA512" : "80qvNJDWRjAaxzJPU/Ls0EV13haPQf7WIDWlTeTVMxLjyCH0+DIj9yQU+nyGBRLez8jBJLhhpxxuuy5ls2D1aw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.base.ipl/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "1804",
+    "digestSHA512" : "tHkgPkuWfbi81riL/iWbNRH/ESQW7QHhPtIS0p5mmQ9BIbr4pfiYF+Mgso7kruzrksDyG9kM1iM443k25af6Lg=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/binary.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "185",
+    "digestSHA512" : "w62f1EV5asqQuCsdrrEYP7FECWaSA6jI61eMHUac7jbPVeQ/b3zqZsBAvI9MlgCGoAieZ74v8E1bwuuW0kmS0w=="
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/binary.boot",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "83",
+    "digestSHA512" : "768lVtXhriNoG8WBVMwXHU2xg5g7NqT09ptM4tryJ9ArppkBh/fDCXRbsoHFnO20fNLY6/rr6GODxHqPI0A1Xw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/boot/sys/binary.boot",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "275",
+    "digestSHA512" : "0e7rzhBcD1vO09jjYUNkb0OjxFfcPJ9dyb2TYiP4f6q82ebv5MOgZJePvrpwhOcMEYkYmtifhC2n48H0U5BckQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/boot/sys/binary.boot",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "285",
+    "digestSHA512" : "zVEVPTPjgsFUaFk/8tIbndmu//qyMYrvqeQlIamSnUcnlR4lzCwrZYlIHe3/JLCw8cNUJgV+y7dIHeqhx0JawA=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/elf.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "218",
+    "digestSHA512" : "YdEvzoa7zODNiJIF/SnGcTX3xnyjMLTe/inWUDTN9GuScQUsO8p3Ggx1ZoF84A6COZzo9xlX1VbpMmkFu2kWKg=="
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/elf.boot",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "116",
+    "digestSHA512" : "IQdWnJsrdBjuEDepiKi7gG72ouRcJw/jIYy9grJu9p4rEVUnnevsNg6ETFv7x/aRcl5PHQKr/McT53Z54ESs4w=="
+  }, {
+    "name" : "target/qnx7/aarch64le/boot/sys/elf.boot",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "238",
+    "digestSHA512" : "DGh78yGnfMQVfEaybvcH03WKiokubM7JOQGqmrkciE7BRGYe84KNGzrpu/xNAOsBHaMe35EVxoVQEtFafMZK6A=="
+  }, {
+    "name" : "target/qnx7/armle-v7/boot/sys/elf.boot",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "248",
+    "digestSHA512" : "LxQR44gpOlQ2h7r4EfGNilWJGJ7nXDsX24wkcVBIthqRkgRqS7Qfn5aIVT5G50WnjVMpCINWc/Q0ZvyeyqgFGg=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/srec.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "215",
+    "digestSHA512" : "jDxc12Gs4MxXSmDCyGxCH10Kp8wtLQyJsj+hiWpjStrQwPw5zx9T+NbpF/8SKLsHyoR4kvMtAcy50rkghmNQrw=="
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/srec.boot",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "113",
+    "digestSHA512" : "USX1HO5PhL6mpMj5lmcdtKzJ+NbRfBKF73IQeBWW19izz+4D++gK1Uiw3xL/r8Yq6B5TNYmGiE6IvOYw1H90GQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/boot/sys/srec.boot",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "234",
+    "digestSHA512" : "dQUGlKFC4GnITkucAG4ygnQh1bUB5J87Qf1pHxCAbI9GHXmcdfvPCEtsTZOXqLohWkFUpF6MBJ9GxmmO/I2i1g=="
+  }, {
+    "name" : "target/qnx7/armle-v7/boot/sys/srec.boot",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "244",
+    "digestSHA512" : "mJLU8lswczyLmjhQYsc7M4FaaXk6fcjJNPT9qkW9cGhXLW5wH4CxWUZh2bTXGXnZrbtN7xXdoh8GBTE5mQymew=="
+  }, {
+    "name" : "target/qnx7/aarch64le/boot/sys/raw.boot",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "14672",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "9pCmaoGXiUpnUdkHCmKgxEhqYn9argixPDFz9AN1spdlFymkrXihiimpMItE0DAQ6bZAcWQxu2OSREJ0e4HmPg==",
+    "buildID" : "c79296fcdb6eca35db36f381c37ecabb"
+  }, {
+    "name" : "target/qnx7/armle-v7/boot/sys/raw.boot",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1680",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "P6F6JaIutK8Ha80SJpfZcwyjzzAJhdeWFEdOj4A2sbVBUBPUmE7hslqmJVUAZPjo7cSJchdiMJjJsbiJjuPnUA==",
+    "buildID" : "dd59b6e3b8f462072919d9adee028147"
+  }, {
+    "name" : "target/qnx7/armle-v7/boot/sys/swaple.boot",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "1740",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "x5ptaIbHV7FDIpy2Mhh6CRx7QZfc6jntnvIgs/kwc60xpzNZ0FeqIN8+mSnKv7LIsuIhjPMNbU2nP59W7XMWrw==",
+    "buildID" : "126f3a8b90ce18ed01f6ddf74591be0e"
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/bios.boot",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "12528",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "L9RT6vFSmlE2TlRW40kuOVxjsK/KDRkkfOFcHHrSY17nEUKuLM/lTfIeuxfgugm5xymUAZeZ0QQTGp046wtw1g==",
+    "buildID" : "7364b71b186d0f743288788b1294e6f4"
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/kpi.boot",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "146",
+    "digestSHA512" : "0Eja+rZuZM4LiALQGB0sX3eNj5IakHQCdI0BGnA0/1fZAj8O36df+qmznAAV5f0b2q8H2Yz+MeLJuxTWhkLreQ=="
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/multiboot.boot",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "124",
+    "digestSHA512" : "xt82W7AAbx0K5fKD3wbVSJuajHgYP8aEmM3dUjafLu9HdHkZEZnGLOcyLdSN+ZWLaHkjDCVIf+ArPFHrS3Ring=="
+  }, {
+    "name" : "target/qnx7/x86_64/boot/sys/uefi.boot",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "117",
+    "digestSHA512" : "3IflkPeEB89luup4rMkS+yHBdhLe7++qBrJGDwbQtfp84DMpWWLAwLY8Il6FBv8yOsMkwif5F/WX2NwMp1BcEA=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/bios.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "4544",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "lqjG5EV0zoCN9bQUxQc5YMrHSukVxjO5rvNxZ2WmjKhxMSpR2wDtF1UgCpKb8J0dbXM+hOil5fCM7lBlP2UQqg==",
+    "buildID" : "dc9919a995bec4b4cb0db1a514bae601"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/nobios.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "179",
+    "digestSHA512" : "T4CrkayyP5dWbZv++UHMbds8VuqhNl2WoOrfNtfpoKZp3SCY6By7tpDkrL0gaMibeh2eVwYxl1f21XSddbpzTw=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/bios16m.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "4572",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3IIamTyota6xW4YXFyTcOJ9oka627euqKEugFKT5s2GOJga8LTgVdTLtUp95uK6VdNWsERG4gKrF8RRKcVxmdQ==",
+    "buildID" : "43d8b63a873838a6e08d5472d63d2801"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/bios_nosmi_sch.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "4648",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zACe8Y6H9O8PuOycmyzNLIyevyLGofy/uZgm0MqrKpSV8WHqdbD/DDSLackX8FJlF1RT+8O+D1vwJJgVWpseCQ==",
+    "buildID" : "8d06c34117211d58e58523dbc40bcb89"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/bios_nokbd.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "4524",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CpVdsm7GDOQGbZ91hvxSbTR0NMICcqqDbnxrruBTrh7QdOQKOqV1VwPBsU1FY15/eHXbw0x81QA7eorNLQngjw==",
+    "buildID" : "23c5af9f0598516153f976e7250fb3fb"
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/kpi.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "240",
+    "digestSHA512" : "xcWgL561jj1NrbVcI7w5S+sQR/KBKPRE09W6i26TDtmt5cPjkWI+tYX2fxSgeYNEzJEpfBMcxF1z/HucOOZfWQ=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/multiboot.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "218",
+    "digestSHA512" : "YdEvzoa7zODNiJIF/SnGcTX3xnyjMLTe/inWUDTN9GuScQUsO8p3Ggx1ZoF84A6COZzo9xlX1VbpMmkFu2kWKg=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/uefi.boot",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "110",
+    "digestSHA512" : "MKGtgxUVVtW2HdRZjS60tgrRKASbCvwJbEY+3yeMh4JovqZzqkwgdmpOYb5R6CRgT2UAwyts7mB8R4puwInscA=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/ipl-diskpc1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "435",
+    "digestSHA512" : "gWAtEsALQHj2GD+MfnZKWHeoZP7fX2Ej1IeyLc6hJ7/8nF3CBBledqRqNRWyCvUjO94ayba0oCWW2SE9jhZq3Q=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/ipl-diskpc1-nomsg",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "334",
+    "digestSHA512" : "usPgDh2bhthAbvnYaJLHqjbk3CcmxdNxAjcdSh0yIpfPLMfOQybotjQRNu/q+peV9RkuGsKM1u4oR15qIKnZWQ=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/ipl-diskpc2",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "469",
+    "digestSHA512" : "+KG0hvn+q2oHxuURrnxoq5fahIYM+uP2dlCoIbhLUliY2aNsx1ICBDovXLtV2OC6D+rncBuT2TbhSfonU35Qcg=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/ipl-diskpc2-fsq6",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "2599",
+    "digestSHA512" : "CbvGR9LoICvt15/3UbOuAAMfKM2x1f/HseVgRjnvooDodgxvpNuXapv7R3NGT4wel16cv8caSxMLg6fDYblcYg=="
+  }, {
+    "name" : "target/qnx7/x86/boot/sys/ipl-diskpc2-ltfs",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "978",
+    "digestSHA512" : "UJ9hGcoSigCM7AZ8HbLl8a71YkzM3deM+Rr6if+YNJHCDlygI9ZhCtzUOByX/1Iq2E1ObfQ4WOvFMkdumQI18Q=="
+  } ]
+}

@@ -1,0 +1,7 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.microkernel.kdumper/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/boot/sys/kdumper
+target/qnx7/x86_64/boot/sys/kdumper
+target/qnx7/aarch64le/boot/sys/kdumper
+target/qnx7/armle-v7/boot/sys/kdumper
+target/qnx7/usr/include/sys/kdump.h

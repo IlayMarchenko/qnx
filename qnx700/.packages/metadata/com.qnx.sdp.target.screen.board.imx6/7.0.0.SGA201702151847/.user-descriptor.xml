@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen.board.imx6</id>
+	<name>Screen Board Support i.MX6x</name>
+	<category>Screen Board Support</category>
+	<includes component="false">
+		<file name="board-support-nxp-imx6.xml" />
+	</includes>
+</shiplist>

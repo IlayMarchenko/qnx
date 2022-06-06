@@ -1,0 +1,93 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.usblauncher/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "624",
+    "digestSHA512" : "IYaapWyr9iEL4d34+sGN2o63sta33GX1gfCS+AeyhJCdyBu341HtAaom5ozdPuVJyNwWIWM8PfbT1UvLW3WRMw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.usblauncher/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "622",
+    "digestSHA512" : "1YK0dGMYfL0FzmBop+qOdCsfBLJ02ovnA9wIDJPXmPa6o0oInP8Ap4kbgVobIvl/pq1cPtjsEkMkRPxx3w2DQA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.usblauncher/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "691",
+    "digestSHA512" : "ZMBjMqqKrPBCwWhW9Egh2rOmWaVrdspPWIcpMNuu+wmP1k/CqSxx45QiZiG3tVy1EC/GdVOVvks91uONvh7AVQ=="
+  }, {
+    "name" : "target/qnx7/etc/usblauncher/audio.lua",
+    "runtime" : "true",
+    "size" : "11025",
+    "digestSHA512" : "1QgfetR+KwC/PBU96s+ohfCHKpk8TpVW3wcrkfWK4oZgoEnUmc1Vf+i1+oBj1UGIj1xCQ93XUmlTzSsO+Q358Q=="
+  }, {
+    "name" : "target/qnx7/etc/usblauncher/raw_desc_audio.lua",
+    "runtime" : "true",
+    "size" : "21873",
+    "digestSHA512" : "elw2oT/vE4uvJAtpumXGua7CNyxldFPULOUq6UvtorubWBLFUlGYqMuJ6K8XLOkAYZVUCtUS9nHuaYRXwwJrkg=="
+  }, {
+    "name" : "target/qnx7/etc/usblauncher/raw_desc_umass.lua",
+    "runtime" : "true",
+    "size" : "5078",
+    "digestSHA512" : "MUt03B+dGfUZ9HRH/nUgtZPyokC2sLZX/OdqrDIo/TjmVI4n5Pv5Br5Rp0+U0YhsMIV9xx7GGL2ZaKoi4bCRVA=="
+  }, {
+    "name" : "target/qnx7/etc/usblauncher/raw_desc_usbser.lua",
+    "runtime" : "true",
+    "size" : "10589",
+    "digestSHA512" : "IM//gGhXvWqARXEfMGiuU39O04PemPxCDamSVUyC7rAZRfmEtZyIKih8jE+YTNHfL8gZs8JMjB9/F9omCPY10w=="
+  }, {
+    "name" : "target/qnx7/etc/usblauncher/rules.lua",
+    "runtime" : "true",
+    "size" : "14107",
+    "digestSHA512" : "/37bBW5HG+sfjTmvgFClTY6lia0Jf26jNG5kcn82quLutColiRUiE/tD/RNoABkJtKx3JZQ1iw+vD6efjb/zfA=="
+  }, {
+    "name" : "target/qnx7/etc/usblauncher/umass.lua",
+    "runtime" : "true",
+    "size" : "1355",
+    "digestSHA512" : "T3JNPTRXVN+OcRacOq0+edpX5mLEMsu1su8rmAq4YtqyMUz/hAmFYH7QLOuPx7DZMlkL8mUfCoouAX563/1Dqg=="
+  }, {
+    "name" : "target/qnx7/etc/usblauncher/usbser.lua",
+    "runtime" : "true",
+    "size" : "3764",
+    "digestSHA512" : "p84sBjevdQzYRdGT3RP6iuNLDeqM0NpQl8v1tswjyZIrfHU9ohioyo+0vX/Bu8Q5XwJKwzzzmTuo0/bx9DgG/A=="
+  }, {
+    "name" : "target/qnx7/etc/usblauncher/rules.mnt",
+    "runtime" : "true",
+    "size" : "1043",
+    "digestSHA512" : "LpJE6i+OmnyZz1bd4sfi819wC/fX8gt8QdnCgotO8i+GsCAcMvhr2fR2WQ9cxgxnhVXBvTfgwAYHFqb2RM1tqQ=="
+  }, {
+    "name" : "target/qnx7/x86/bin/usblauncher_otg",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "533084",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "zzHi/PIQBR6jb+mZBglSmjq7YDQ2ZTkRo2J7GpWpS3LH+HYkTEf5HJkhR6ykri/yGRa479ri2PUlwS+ny95wXw==",
+    "buildID" : "ec4b418d2354b99cd9d5443e1a855967"
+  }, {
+    "name" : "target/qnx7/x86_64/bin/usblauncher_otg",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "519936",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mdSmKn5NvRSFK/dMElX5394/3gxYS1+No6LuHYSehHyd/PNJLA976EKd5sVhPIBr7bRKk18Qds8jcHEzH3YUYg==",
+    "buildID" : "910c5f443a10255d5015f0a1c35bc402"
+  }, {
+    "name" : "target/qnx7/aarch64le/bin/usblauncher_otg",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "479896",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "aj11lHUTqfD7rz46FeLKwmrpGGmVZZuJoQabA8lg3kaf243vJmlDBClM6qeYsp763YxPsrOhQV3pCM/3XVta9g==",
+    "buildID" : "8177d90914827aa192b79a5b341ada44"
+  }, {
+    "name" : "target/qnx7/armle-v7/bin/usblauncher_otg",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "355020",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "3+uOZekaHVl211pdjhfKu+RHWH8YsDbVCq2G0FaNT+/zkQlh7yHzsxi/f9oq0ZU+9wueidShI5hn5ke1relijg==",
+    "buildID" : "e602219b1594dddf7a6baa5376753184"
+  } ]
+}

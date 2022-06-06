@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.utils.gtest</id>
+<name>Utilities - Google Unit Test</name>
+<category>OS Utilities</category>
+    	<!-- /usr/include -->
+    	<file name="target/qnx7/usr/include/gtest/gtest.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest-death-test.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-filepath.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-string.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-linked_ptr.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-param-util-generated.h.pump"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-tuple.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-port.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-param-util-generated.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-internal.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-param-util.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-tuple.h.pump"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-death-test-internal.h"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-type-util.h.pump"/>
+    	<file name="target/qnx7/usr/include/gtest/internal/gtest-type-util.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest-message.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest-typed-test.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest_pred_impl.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest-test-part.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest-param-test.h.pump"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest-printers.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest_prod.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest-param-test.h"/>
+    	<file name="target/qnx7/usr/include/gtest/gtest-spi.h"/>
+    	
+    	<!-- /usr/lib -->
+    	<file name="target/qnx7/[ARCH]/usr/lib/libgtest.so"/>
+	   	<file name="target/qnx7/[ARCH]/usr/lib/libgtest.so.1.7"/>
+	   	<file name="target/qnx7/[ARCH]/usr/lib/libgtestS.a"/>
+	   	<file name="target/qnx7/[ARCH]/usr/lib/libgtest.a"/>
+</shiplist>
+
+
+

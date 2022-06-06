@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.input.keyboard</id>
+<name>Device Input - Keyboard</name>
+<category>Device Input</category>
+
+  <file name="target/qnx7/usr/share/keyboard/CapsLockFull.inc" />
+  <file name="target/qnx7/usr/share/keyboard/ShiftLockFull.inc" />
+  <file name="target/qnx7/usr/share/keyboard/altgr.inc" />
+  <file name="target/qnx7/usr/share/keyboard/common.inc" />
+  <file name="target/qnx7/usr/share/keyboard/compose.inc" />
+  <file name="target/qnx7/usr/share/keyboard/cs_CZ_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/cs_CZ_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/da_DK_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/da_DK_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/de_CH_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/de_CH_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/de_DE_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/de_DE_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/en_CA_101.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/en_CA_101.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/en_CA_101_dvorak.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/en_CA_101_dvorak.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/en_GB_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/en_GB_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/en_US_101.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/en_US_101.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/en_US_101_dvorak.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/en_US_101_dvorak.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/es_ES_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/es_ES_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/fr_BE_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/fr_BE_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/fr_CA_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/fr_CA_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/fr_CH_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/fr_CH_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/fr_FR_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/fr_FR_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/it_IT_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/it_IT_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/ja_JP_106.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/ja_JP_106.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/nl_NL_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/nl_NL_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/no_NO_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/no_NO_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/noaltgr.inc" />
+  <file name="target/qnx7/usr/share/keyboard/pl_PL_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/pl_PL_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/pt_PT_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/pt_PT_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/ru_RU_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/ru_RU_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/sample.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/sample.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/se_SE_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/se_SE_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/shiftlk.inc" />
+  <file name="target/qnx7/usr/share/keyboard/sk_SK_102.kbd" />
+  <file name="target/qnx7/usr/share/keyboard/sk_SK_102.kdef" />
+  <file name="target/qnx7/usr/share/keyboard/symbols.inc" />
+  <file name="target/qnx7/usr/share/keyboard/uc_keyboard_t" />
+
+  <!-- devc-con/devc-con-hid mapping tables -->
+  <file name="target/qnx7/etc/kbd.tbl.us" />
+  <file name="target/qnx7/etc/kbd.tbl.de" />
+
+  <!-- Keyboard maps and codes -->
+  <file name="target/qnx7/usr/include/sys/keycodes.h" />
+  <file name="target/qnx7/usr/include/sys/usbcodes.h" />
+  <file name="target/qnx7/usr/include/sys/keymap.h" />
+  <file name="target/qnx7/usr/include/sys/keytable.h" />
+  <file name="target/qnx7/usr/include/sys/PkKeyDef.h" />
+
+</shiplist>

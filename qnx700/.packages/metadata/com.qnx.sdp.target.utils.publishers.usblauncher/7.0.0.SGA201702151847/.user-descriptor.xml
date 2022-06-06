@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.utils.publishers.usblauncher</id>
+<name>USB - usblauncher</name>
+<category>USB</category>
+<file name="target/qnx7/etc/usblauncher/audio.lua" />
+<file name="target/qnx7/etc/usblauncher/raw_desc_audio.lua" />
+<file name="target/qnx7/etc/usblauncher/raw_desc_umass.lua" />
+<file name="target/qnx7/etc/usblauncher/raw_desc_usbser.lua" />
+<file name="target/qnx7/etc/usblauncher/rules.lua" />
+<file name="target/qnx7/etc/usblauncher/umass.lua" />
+<file name="target/qnx7/etc/usblauncher/usbser.lua" />
+<file name="target/qnx7/etc/usblauncher/rules.mnt" />
+<file name="target/qnx7/[ARCH]/bin/usblauncher_otg" />
+</shiplist>

@@ -1,0 +1,3 @@
+#!/bin/sh
+PATH=${GZIP_BINDIR-${QNX_HOST}/usr/bin}:$PATH
+exec gzip -d "$@"

@@ -1,0 +1,53 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.cdpub/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "578",
+    "digestSHA512" : "G3L7vjTsb4q4biYYtxttibTHJmW8eNi28JBMtsa01Yl3L7rgx60coXhYR3ZonVQTZT/W/Ony5RhR70s2zsVvwA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.cdpub/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "243",
+    "digestSHA512" : "h/blKHrHsd6LQVB60gK/CNhsFqRqWRFrkU772Grk6ckiYEowjkFdoc/yYT8ZTqzkb1N9mgDv01w8WPwULPOK5g=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.publishers.cdpub/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "223",
+    "digestSHA512" : "/fCX+ko8t4rSY0psFQ0GMZR2a5iJSmPrsGIcWIy+WbFt5Es0Yygw9tZTbV78dAE/H25oWyOn2GDcfarQ7Am3pQ=="
+  }, {
+    "name" : "target/qnx7/x86/bin/cdpub",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "66448",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "CGx8wcyKyvyBmH1LpEmjSLGiwjkmTJiiXTnfDOi6k4TNnNYzjupBJ0R+xULz1oUFvzrZJUckD/KIBCNFluIMTw==",
+    "buildID" : "cb2b62e83aa03c80cd6e12987c7798fc"
+  }, {
+    "name" : "target/qnx7/x86_64/bin/cdpub",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "77072",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "r5KpCYcSUccRaDYAmWfFFPsjIhdJlGB8vTK6zlt+NxB0EmurGEC8ctdA8Iuwtd4XUz9+txZlZrdLjC0+mis19g==",
+    "buildID" : "c072ceba9a5b3402460daea5cfbc190a"
+  }, {
+    "name" : "target/qnx7/aarch64le/bin/cdpub",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "74360",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mfRTsOMfCxSZPO18MMGPIGaf6Qx3Gl6lY869665XCW4XkT2o1qhb/+wEgXWEZVCwLBvBpjwnuy2bKU9utMc1Ug==",
+    "buildID" : "4cd493cd058e7ac369c19b674c3ec180"
+  }, {
+    "name" : "target/qnx7/armle-v7/bin/cdpub",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "57244",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "YnCOqK5DIblTav398MzgGpMcaLV1xmWY6fYBOSG1bao9mEKoA29PvrviVtY9cG7TVqr0PoGzlvLi15GRQ7Dm+w==",
+    "buildID" : "1107bea2e7dc4c809ffc72591af03bf6"
+  } ]
+}

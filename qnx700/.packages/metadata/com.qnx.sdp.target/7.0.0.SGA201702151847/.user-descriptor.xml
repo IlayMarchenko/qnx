@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+    <id>com.qnx.sdp.target</id>
+    <name>QNX® Neutrino® RTOS (Core OS &amp; Screen)</name>
+    <category>Platform</category>
+		<description>
+			This package contains the Neutrino® runtime and development components, such as headers, libraries and binaries for Core OS &amp; Screen runtimes
+		</description>
+    <includes>
+	<!-- Base Components -->
+        <file name="base/component-sdp-base-group.xml" />
+
+	<!-- Audio Components -->
+        <file name="audio/component-sdp-audio.xml" />
+
+
+	<!-- Fileystems Components -->
+        <file name="filesystem/component-sdp-filesystem.xml" />
+
+  <!-- Input -->
+        <file name="input/component-sdp-input.xml" />
+
+	<!-- Kernel - Libc Components -->
+        <file name="kernel-libc/component-sdp-kernel.xml" />
+
+	<!-- Networking -->
+        <file name="networking/component-sdp-networking.xml" />
+
+  <!-- Database -->
+        <file name="qdb/component-sdp-qdb.xml" />
+
+	<!-- Screen Components -->
+        <file name="screen/component-sdp-screen.xml" />
+
+	<!-- Security components -->
+        <file name="security/component-sdp-security.xml" />
+
+	<!-- USB Components -->
+        <file name="usb/component-sdp-usb.xml" />
+
+	<!-- Utilities -->
+        <file name="utils/component-sdp-utils.xml" />
+	<!-- BSP -->
+        <file name="connectivity/component-sdp-connectivity.xml" />
+        <file name="drivers/component-sdp-drivers.xml" />
+  <!-- OS Services -->
+        <file name="os_services/component-sdp-os_services.xml" />
+
+		<file name="publishers/component-sdp-publishers.xml" />
+
+    </includes>
+</shiplist>

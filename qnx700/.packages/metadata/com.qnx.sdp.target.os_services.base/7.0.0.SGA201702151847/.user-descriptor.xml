@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8"?>
+ <shiplist>
+<id>com.qnx.sdp.target.os_services.base</id>
+<name>OS services - OS services base</name>
+<category>OS Services</category>
+    <!-- /mainline/lib/ieee754/fpemu -->
+  <file name="target/qnx7/[ARCH:x86]/lib/dll/fpemu.so.2" />
+
+  <!-- lib/device_publisher -->
+  <file name="target/qnx7/[ARCH]/lib/libdevice-publisher.so" />
+  <file name="target/qnx7/[ARCH]/lib/libdevice-publisher.so.1" />
+
+    <!-- lib/hiddi -->
+  <file name="target/qnx7/[ARCH]/lib/libhiddi.a" />
+  <file name="target/qnx7/[ARCH]/lib/libhiddi.so" />
+  <file name="target/qnx7/[ARCH]/lib/libhiddi.so.1" />
+
+    <!-- lib/json -->
+  <file name="target/qnx7/[ARCH]/lib/libjson.so" />
+  <file name="target/qnx7/[ARCH]/lib/libjson.so.1" />
+
+    <!-- lib/pps -->
+  <file name="target/qnx7/[ARCH]/lib/libpps.a" />
+  <file name="target/qnx7/[ARCH]/lib/libpps.so" />
+  <file name="target/qnx7/[ARCH]/lib/libpps.so.1" />
+  <file name="target/qnx7/[ARCH]/lib/libppsS.a" />
+
+      <!-- lib/shutdown -->
+  <file name="target/qnx7/[ARCH]/lib/libshutdown.a" />
+
+    <!-- services/inflator -->
+  <file name="target/qnx7/[ARCH]/sbin/inflator" />
+  <file name="target/qnx7/[ARCH]/usr/bin/deflate" />
+
+    <!-- services/hid/io-hid -->
+  <file name="target/qnx7/[ARCH]/sbin/io-hid" />
+    <!-- services/mq -->
+  <file name="target/qnx7/[ARCH]/sbin/mq" />
+
+    <!-- services/mqueue -->
+  <file name="target/qnx7/[ARCH]/sbin/mqueue" />
+
+    <!-- services/pipe -->
+  <file name="target/qnx7/[ARCH]/sbin/pipe" />
+
+
+    <!-- services/tinit -->
+  <file name="target/qnx7/[ARCH]/sbin/tinit" />
+
+
+  <file name="target/qnx7/[ARCH]/usr/sbin/cron" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/fileset" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/logger" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/pps" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/qconn" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/random" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/rsrcdb_query" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/syslogd" />
+  <file name="target/qnx7/etc/config/gettytab" />
+  <file name="target/qnx7/etc/default/login" />
+  <file name="target/qnx7/etc/default/passwd" />
+  <file name="target/qnx7/etc/group" />
+
+  <file name="target/qnx7/etc/mig4nto.tab" />
+  <file name="target/qnx7/etc/passwd" />
+  <file name="target/qnx7/etc/qversion" />
+  <file name="target/qnx7/etc/skel/.profile" />
+  <file name="target/qnx7/etc/syslog.conf" />
+  <file name="target/qnx7/etc/termcap" />
+
+
+</shiplist>

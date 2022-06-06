@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen.fonts.dejavu</id>
+	<name>DejaVu Fonts</name>
+	<category>Fonts</category>
+	<includes component="false">
+		<file name="fonts-dejavu.xml" />
+	</includes>
+</shiplist>

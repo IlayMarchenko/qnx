@@ -1,0 +1,29 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.sgx/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "610",
+    "digestSHA512" : "qo8VaUhcUDYMfhU24J3+HqTKwyCNPirASjdh1JAwWmsqLrOsYLhU3bbPTQMPAPtTQxjbhVix1fpk2bkHS6Sxkg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.sgx/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "164",
+    "digestSHA512" : "LeKLcRBVFtOAondZ7kgQi6w4YB3UoWW6pFU462cZqLFxaNJ0gxVmHAc7vQrsTVBuuhYiPSZLm3tukC3eqePiZg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.screen.board.sgx/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "278",
+    "digestSHA512" : "6TiEEXOqUnetKiLz59Gz21+9hPNU9blC0/G1cgsbMj3ZUR6OiyGXlwyYV4rSRj4Da66nLlCPkp66tJgP3By9mQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/dll/screen-pvr2d.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "13784",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Hi+oBho5eJDKUGliMHmRQhEgdaB1IGOiob/tHjiM7KpGeYfVr8NoUo7ej7d5GH686XFYsazcm6vwgHo6Zl3erQ==",
+    "buildID" : "82ffd300d0df93c14ac09e363dde98e7"
+  } ]
+}

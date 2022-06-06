@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.utils.publishers.usblauncher.plugins",
+  "name" : "QNX® SDP 7.0 USB - plugins",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "USB",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "provides" : [ "library: pp-audiocd.so", "library: pp-dvd.so", "library: pp-generic.so", "library: pp-mediafs.so" ],
+  "requires" : [ "library: libc.so.4", "library: libxml2.so.2", "library: libm.so.3" ]
+}

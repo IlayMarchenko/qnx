@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.security.tpm",
+  "name" : "QNX® SDP 7.0 Security - Trusted Platform Module (TPM) support",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "OS Security",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "provides" : [ "library: tpm_mod_apl.so", "library: libibmtss.so.1" ],
+  "requires" : [ "library: libslog2.so.1", "library: libc.so.4", "library: libcrypto.so.2", "library: libsocket.so.3", "library: libibmtss.so.1" ]
+}

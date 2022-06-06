@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.connectivity.char</id>
+<name>Connectivity - Characters</name>
+<category>Connectivity</category>
+    <includes component="true">
+        <file name="all-devc.xml" />
+        <file name="io-char.xml" />
+    </includes>
+</shiplist>

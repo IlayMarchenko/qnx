@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target",
+  "name" : "QNX® SDP 7.0 QNX® Neutrino® RTOS (Core OS & Screen)",
+  "description" : "This package contains the Neutrino® runtime and development components, such as headers, libraries and binaries for Core OS & Screen runtimes",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "Platform",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "requires" : [ "package: com.qnx.sdp.target.base.group []", "package: com.qnx.sdp.target.audio []", "package: com.qnx.sdp.target.fs.group []", "package: com.qnx.sdp.target.input.group []", "package: com.qnx.sdp.target.microkernel.group []", "package: com.qnx.sdp.target.net.group []", "package: com.qnx.sdp.target.qdb []", "package: com.qnx.sdp.target.screen []", "package: com.qnx.sdp.target.security.group []", "package: com.qnx.sdp.target.usb.group []", "package: com.qnx.sdp.target.utils []", "package: com.qnx.sdp.target.connectivity.group []", "package: com.qnx.sdp.target.drivers.group []", "package: com.qnx.sdp.target.os_services.group []", "package: com.qnx.sdp.target.utils.publishers" ],
+  "baselines" : [ "qnx700" ]
+}

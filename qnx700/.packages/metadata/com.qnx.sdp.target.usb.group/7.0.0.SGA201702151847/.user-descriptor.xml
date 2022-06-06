@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.usb.group</id>
+<name>USB</name>
+<category>USB</category>
+    <includes>
+        <file name="all-usb.xml" />
+        <file name="all-usbdcd.xml" />
+    </includes>
+</shiplist>

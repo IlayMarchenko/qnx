@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.connectivity.io_char</id>
+<name>Connectivity - io-char</name>
+<category>Connectivity</category>
+<file name="target/qnx7/[ARCH]/usr/lib/libio-char.a" />
+<file name="target/qnx7/[ARCH]/usr/lib/libio-charS.a" />
+<file name="target/qnx7/usr/include/sys/dcmd_chr.h" />
+<file name="target/qnx7/usr/include/sys/io-char.h" />
+</shiplist>

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.audio</id>
+	<name>Audio</name>
+	<category>Audio</category>
+	<includes component="false">
+		<file name="all-audio.xml" />
+	</includes>
+</shiplist>

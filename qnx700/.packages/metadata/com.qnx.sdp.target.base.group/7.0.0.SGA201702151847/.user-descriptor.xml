@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.base.group</id>
+	<name>OS services - Base</name>
+	<category>OS Services</category>
+	<includes component="true">
+		<file name="text/shiplist-icu.xml" />
+		<file name="text/shiplist-ncurses.xml" />
+		<file name="startup/startup.xml" />
+		<file name="startup/ipl.xml" />
+		
+                <file name="../networking/shiplist-sdp-libsocket.xml" />
+		<!-- Other Base Components -->
+		<file name="component-sdp-base.xml" />
+	</includes>
+</shiplist>

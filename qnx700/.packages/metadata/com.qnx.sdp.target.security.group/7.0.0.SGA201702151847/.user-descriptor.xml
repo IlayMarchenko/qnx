@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+
+    <id>com.qnx.sdp.target.security.group</id>
+    <name>Security</name>
+    <category>OS Security</category>
+
+    <includes component="true">
+
+        <file name="shiplist-sdp-pam.xml"/>
+        <file name="shiplist-sdp-qfim.xml" />
+        <file name="shiplist-sdp-sandbox.xml" />
+        <file name="shiplist-sdp-secpol.xml" />
+        <file name="shiplist-sdp-tpm.xml" />
+
+        <!-- QNX Anomaly Detector (QAD) is a separate Runtime Component; refer
+             to the QNX Product Portfolio Guide for more information -->
+        <file name="../qad/component-sdp-qad.xml"/>
+
+    </includes>
+
+</shiplist>

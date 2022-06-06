@@ -1,0 +1,50 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.i2c/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "491",
+    "digestSHA512" : "+SDbpdcouG7XK+OskZekruOn+I5H6KwsBc396GSfBh0MBZaWHSoAzdFFm/f0/4jLHhw8fLWYGiHhcOOQV0AAQg=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.i2c/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "301",
+    "digestSHA512" : "mpXGBE79shEO1+tZcdOj+0pSsKeE/XHnkG0l1j6bJ6mKScdIhfvyB6pxZd5sgEZp9oTp9j/21e6abClZ92sGiA=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.bsp.i2c/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "254",
+    "digestSHA512" : "U8kCq0/ogf7YIL5/jLmUnq/Z7lH+igw/lEJbszF9rMx+lHc536mXfS9wGCNCt/GVg5LC6dynnB2rgQdFby861g=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libi2c-master.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "356042",
+    "digestSHA512" : "ivHt76IWI5ifOHDHzQczOag55e/I5x9wgCsKXTAC57ZGK1c6FQLn8UmtIXjRPByxqNib+KTCDuKnau8FC54DAw=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libi2c-master.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "507284",
+    "digestSHA512" : "7vfDAJMnExVl9FqE2oOyD8Wc/lxR1uMA1n8K4vS0RdyvFexWyqxE3FuJi2zXGrA3bW14ukDOFfurzwBLmQkJgw=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libi2c-master.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "509028",
+    "digestSHA512" : "hH0kiezoMuL7vtrbboLR586kDCqb+2aV+C+Xk7bTCevmRJY97pBjJ73ZIcpvZUfEUcsOGqRdcxIo4FagiwDHrQ=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libi2c-master.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "352004",
+    "digestSHA512" : "lXHaKOLOy5JXoHUISTCBkYQD/z/wliglwo7RS21twsFNn5qGnnGn6PxlzTi0pFZ0zkqc0ubh688VvyjK0PnsSg=="
+  }, {
+    "name" : "target/qnx7/usr/include/hw/i2c.h",
+    "runtime" : "false",
+    "size" : "9041",
+    "digestSHA512" : "e8MbKYa+BN36RY1phgSoVhhi+iKTGzLQsM8YGTMZKbYSlY5Gv5rCrpiqedcGNIHJqEzVgUGuYUDYKRk5DsmgHw=="
+  } ]
+}

@@ -1,0 +1,19 @@
+{
+  "descriptorVersion" : "1.0",
+  "type" : "component",
+  "payloadFormat" : "qnx.sw.fileset",
+  "authorId" : "com.qnx",
+  "authorName" : "QNX Software Systems Limited",
+  "id" : "com.qnx.sdp.target.microkernel.tools",
+  "name" : "QNX® SDP 7.0 Microkernel - Tools",
+  "version" : "7.0.0.SGA201702151847",
+  "locale" : "en",
+  "properties" : {
+    "com.qnx.category" : "Microkernel",
+    "com.qnx.status" : "stable",
+    "com.qnx.marketingVersion" : "7.0.0 GA 201702151847"
+  },
+  "baselines" : [ "qnx700" ],
+  "provides" : [ "library: libelfcore.so.1", "library: libtracelog.so.1", "library: libtraceparser.so.1" ],
+  "requires" : [ "library: libz.so.2", "library: libc.so.4", "library: libtracelog.so.1" ]
+}

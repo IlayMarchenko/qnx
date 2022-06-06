@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.curl</id>
+<name>Networking - curl support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/lib/libcurl.so.2" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libcurlS.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libcurl.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libcurl.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libcares.a" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libcares.so" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libcares.so.1" />
+  <file name="target/qnx7/[ARCH]/usr/lib/libcaresS.a" />
+  <file name="target/qnx7/[ARCH]/usr/bin/curl" />
+  <file name="target/qnx7/usr/include/ares.h" />
+  <file name="target/qnx7/usr/include/ares_build.h" />
+  <file name="target/qnx7/usr/include/ares_dns.h" />
+  <file name="target/qnx7/usr/include/ares_rules.h" />
+  <file name="target/qnx7/usr/include/ares_version.h" />
+  <file name="target/qnx7/usr/include/curl/curl.h" />
+  <file name="target/qnx7/usr/include/curl/curlbuild.h" />
+  <file name="target/qnx7/usr/include/curl/curlrules.h" />
+  <file name="target/qnx7/usr/include/curl/curlver.h" />
+  <file name="target/qnx7/usr/include/curl/easy.h" />
+  <file name="target/qnx7/usr/include/curl/mprintf.h" />
+  <file name="target/qnx7/usr/include/curl/multi.h" />
+  <file name="target/qnx7/usr/include/curl/stdcheaders.h" />
+  <file name="target/qnx7/usr/include/curl/typecheck-gcc.h" />
+
+</shiplist>

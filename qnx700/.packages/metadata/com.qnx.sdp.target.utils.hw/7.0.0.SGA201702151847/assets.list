@@ -1,0 +1,14 @@
+AssetDescriptor.json
+.packages/metadata/com.qnx.sdp.target.utils.hw/7.0.0.SGA201702151847/.user-descriptor.xml
+target/qnx7/x86/sbin/io
+target/qnx7/x86_64/sbin/io
+target/qnx7/aarch64le/sbin/io
+target/qnx7/armle-v7/sbin/io
+target/qnx7/x86/bin/in32
+target/qnx7/x86_64/bin/in32
+target/qnx7/aarch64le/bin/in32
+target/qnx7/armle-v7/bin/in32
+target/qnx7/x86/bin/out32
+target/qnx7/x86_64/bin/out32
+target/qnx7/aarch64le/bin/out32
+target/qnx7/armle-v7/bin/out32

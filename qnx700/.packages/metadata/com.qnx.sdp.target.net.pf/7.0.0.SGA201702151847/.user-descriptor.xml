@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.pf</id>
+<name>Networking - pf support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/lib/dll/lsm-pf-v4.so" />
+  <file name="target/qnx7/[ARCH]/lib/dll/lsm-pf-v6.so" />
+  <file name="target/qnx7/[ARCH]/sbin/pfctl" />
+  <file name="target/qnx7/[ARCH]/sbin/tbrconfig" />
+  <file name="target/qnx7/etc/pf.conf" />
+  <file name="target/qnx7/etc/pf.os" />
+  <file name="target/qnx7/usr/share/examples/pf/ackpri" />
+  <file name="target/qnx7/usr/share/examples/pf/faq-example1" />
+  <file name="target/qnx7/usr/share/examples/pf/faq-example2" />
+  <file name="target/qnx7/usr/share/examples/pf/faq-example3" />
+  <file name="target/qnx7/usr/share/examples/pf/queue1" />
+  <file name="target/qnx7/usr/share/examples/pf/queue2" />
+  <file name="target/qnx7/usr/share/examples/pf/queue3" />
+  <file name="target/qnx7/usr/share/examples/pf/queue4" />
+  <file name="target/qnx7/usr/share/examples/pf/spamd" />
+
+</shiplist>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.ptp</id>
+<name>Networking - PTP support</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/bin/ptpd_ctrl" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/ptpd" />
+  <file name="target/qnx7/usr/include/dcmd_ptpd.h" />
+
+</shiplist>

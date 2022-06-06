@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.drivers.group</id>
+	<name>Drivers - IO and drivers</name>
+	<category>BSP &amp; Drivers</category>
+	<includes component="true">
+		<!-- flash Components -->
+		<file name="./flash/component-sdp-flash.xml" />
+		<!-- FDT Components -->
+		<file name="./fdt/component-sdp-fdt.xml" />
+	</includes>
+</shiplist>

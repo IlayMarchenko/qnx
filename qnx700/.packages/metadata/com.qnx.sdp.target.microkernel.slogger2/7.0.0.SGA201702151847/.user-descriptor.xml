@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.microkernel.slogger2</id>
+<name>Microkernel - System Logger (slogger2)</name>
+<category>Microkernel</category>
+<file name="target/qnx7/[ARCH]/bin/slogger2" />
+<file name="target/qnx7/[ARCH]/bin/slog2info" />
+<file name="target/qnx7/[ARCH]/lib/libslog2.so" />
+<file name="target/qnx7/[ARCH]/lib/libslog2.so.1" />
+<file name="target/qnx7/[ARCH]/lib/libslog2parse.so" />
+<file name="target/qnx7/[ARCH]/lib/libslog2parse.so.1" />
+<file name="target/qnx7/[ARCH]/lib/libslog2shim.so" />
+<file name="target/qnx7/[ARCH]/lib/libslog2shim.so.1" />
+<file name="target/qnx7/usr/include/slog2_parse.h" />
+<file name="target/qnx7/usr/include/sys/slog2.h" />
+</shiplist>

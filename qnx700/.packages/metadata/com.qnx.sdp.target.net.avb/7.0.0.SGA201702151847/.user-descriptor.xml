@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.net.avb</id>
+<name>Networking - AVB</name>
+<category>Networking</category>
+
+  <file name="target/qnx7/[ARCH]/usr/sbin/avbmonitor" />
+  <file name="target/qnx7/[ARCH]/lib/dll/lsm-avb.so" />
+  <file name="target/qnx7/[ARCH]/usr/sbin/ptpd-avb" />
+
+</shiplist>

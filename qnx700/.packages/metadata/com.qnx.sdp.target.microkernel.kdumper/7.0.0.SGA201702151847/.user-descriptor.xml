@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.microkernel.kdumper</id>
+<name>Microkernel - kdumper</name>
+<category>Microkernel</category>
+  <file name="target/qnx7/[ARCH]/boot/sys/kdumper" />
+    <!-- services/kdumper -->
+  <file name="target/qnx7/usr/include/sys/kdump.h" />
+</shiplist>

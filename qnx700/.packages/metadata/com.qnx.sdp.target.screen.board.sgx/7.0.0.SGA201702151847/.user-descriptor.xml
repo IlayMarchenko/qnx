@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen.board.sgx</id>
+	<name>Screen Board Support SGX</name>
+	<category>Screen Board Support</category>
+	<includes component="false">
+		<file name="board-support-base-sgx.xml" />
+	</includes>
+</shiplist>

@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.fs.group</id>
+	<name>Filesystems</name>
+	<category>Filesystems</category>
+	<includes component="true">
+		<file name="all-cam.xml" />
+		<file name="all-fs.xml" />
+		<file name="libgpt.xml" />
+	</includes>
+</shiplist>

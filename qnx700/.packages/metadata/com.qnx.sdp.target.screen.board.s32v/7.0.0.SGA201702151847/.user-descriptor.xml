@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+	<id>com.qnx.sdp.target.screen.board.s32v</id>
+	<name>Screen Board Support S32V</name>
+	<category>Screen Board Support</category>
+	<includes component="false">
+		<file name="board-support-nxp-s32v.xml" />
+	</includes>
+</shiplist>

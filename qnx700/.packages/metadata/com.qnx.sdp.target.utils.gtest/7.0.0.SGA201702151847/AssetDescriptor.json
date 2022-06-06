@@ -1,0 +1,257 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.gtest/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "647",
+    "digestSHA512" : "n3f7ZGIrL1koE3rtmDOCVw7vYLumXSA4yDP0As+DvhEolhseQhx6JiUXPvwpQQx7N2FdcPKgiUJH7TyCehT0iw=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.gtest/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "2043",
+    "digestSHA512" : "2cxlimSu2wnKlUqxQ5uw8G5UDdDv4iEDTftTL4EJ2g3ZQ+7+MlOkb/Y9tfduiT1cYXQHA7zHKWB8MSEVEsQwOQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.utils.gtest/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "2241",
+    "digestSHA512" : "wzTYuWTzPo/j5yxw6thaksHO5nYl6qMrFLOP+VtsEKgyk51FeozzaXZAbpy9olm/7hP8ggiJTh0JcbPAWjAaQQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest.h",
+    "runtime" : "false",
+    "size" : "88645",
+    "digestSHA512" : "0TTvjVfbivw5qCuVN1fbjA0mi0fbDv1Xq5thoSBkXdc07hGvgs59Wsrn+AOvbdfqt/7bs71UfAIhSdvCurkjBw=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest-death-test.h",
+    "runtime" : "false",
+    "size" : "11745",
+    "digestSHA512" : "/dXYM1ZbP63Qv+IczSjT9x3seg9lDKvrgxQp5VIw82ZUMV5tzrRgXNaS/QvDeXXGcUId/IugwD/233Qd6T5BTg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-filepath.h",
+    "runtime" : "false",
+    "size" : "9832",
+    "digestSHA512" : "MNwrlMkqhjnlJXcKfy5z3+WtE3PKvycHwL81d199nvz9ygPBUJfoO0itI1O5KeZqGUt/d/pcjEAmGuuoUiIazw=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-string.h",
+    "runtime" : "false",
+    "size" : "7195",
+    "digestSHA512" : "I39tO7M+n2C4Xzfv0wYVHcaLXNXaFXyXFioer9o8seXQE4aEDqDEY9GWdApkKGwMJIU8C0CzQwO6/CEwLtOnBA=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-linked_ptr.h",
+    "runtime" : "false",
+    "size" : "8332",
+    "digestSHA512" : "4koey54Wy/4XggQaQFUGShDOOV3z/GJEuLd21XGHoQs5XZeEH/XmKMLOu794ktOc0QoRnO506jtjgbtojUl9QQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-param-util-generated.h.pump",
+    "runtime" : "false",
+    "size" : "9416",
+    "digestSHA512" : "jFT5uVWc+5TJ53ITGnExQA3/SCgx4lZi3Cwo+Bl/t/Q6Qa7x6xAXukPby+iVD/Wcsy6l47y4aha1Qj1dP1TIIQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-tuple.h",
+    "runtime" : "false",
+    "size" : "28449",
+    "digestSHA512" : "dnNJWc89s1SYFduDlPli+glabB00fdXAotX+R8fccETwvpCaLS4jyaaBFsTl1w6wFrGDWTPtP3AFsXbNzi9Mzg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-port.h",
+    "runtime" : "false",
+    "size" : "69021",
+    "digestSHA512" : "45q6qN5juFQHWReJ7JkhUZIrh3eH4uyMqyfJ3gSkOFqqEfzaJcoK3l8yK1aVolUPNrsH+IqDF0yqjSaJaJG+Cg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-param-util-generated.h",
+    "runtime" : "false",
+    "size" : "192417",
+    "digestSHA512" : "C/NWJuF0+5f+NMG0iCxgXyutZ8n9AERRj+U4f3ys8Z2XKqOYvz5/Aw+PrmaQELxlPdT8PWpmahAeE10MEqAsVg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-internal.h",
+    "runtime" : "false",
+    "size" : "44374",
+    "digestSHA512" : "in+lRSF8bAGeqBkaOrGWeddpNRa+KQFNmotDn7eHLujhhb4OvMEHdLKIuYmh6uIGt6G/Er119WTyTCrkwormcA=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-param-util.h",
+    "runtime" : "false",
+    "size" : "24422",
+    "digestSHA512" : "B8Tjc06OJ14VcW1G5/thZFJg4qiwQl/aKS/dtdKylDkXWLKsp7rmDKN3PZOUaa09a74zBHgXdCHgtAgP6py5NA=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-tuple.h.pump",
+    "runtime" : "false",
+    "size" : "9226",
+    "digestSHA512" : "CBLFKENCesRHfKMAX0TdC8LwzyFwRrBbe+O2NoenE2D4oUqJx1GjfYeV5pZCDRdzZINdEl7SufnYNlDbGq8a5g=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-death-test-internal.h",
+    "runtime" : "false",
+    "size" : "13669",
+    "digestSHA512" : "30r5coSdk++vZBqJeFjQv0PtKkeXqth4gUXb3Me26kTtayGDDSRDMbVc83o+vFO/tm2ew9KFSf4cIsxM/2jlzQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-type-util.h.pump",
+    "runtime" : "false",
+    "size" : "9317",
+    "digestSHA512" : "b9519iLO7/CZcM3i2cPySvvvHtnFlAJwBs61ddjn1jUx4tQNTIMp3emAIkCpLV2W/TjxhUPqKcXhOqlOI7PCpQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/internal/gtest-type-util.h",
+    "runtime" : "false",
+    "size" : "185896",
+    "digestSHA512" : "w9Zt2j1Hh3it78tesuE8lchS4/ULfd6BixKhax8yxp6embU91O9RxUKKay8sjHmFnLE1zZZv1GXyYh4dcIaoew=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest-message.h",
+    "runtime" : "false",
+    "size" : "9405",
+    "digestSHA512" : "13sXbVovKyn0Z5I27Fin4IN3Xh2bvnxW6X4AwqAa+/wkTmHIYWqry5IBDfPIw0jWk8me8x2S3+GEaMAcanc2VA=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest-typed-test.h",
+    "runtime" : "false",
+    "size" : "10464",
+    "digestSHA512" : "JTUnaV5eiSKmKUYB2xh9N2QLBHTyftkjuNgpIZUZuoAvRDJmvKGhszuiO1nlM/tCZBCy4HwC3P6Pkq/br6DCKg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest_pred_impl.h",
+    "runtime" : "false",
+    "size" : "15366",
+    "digestSHA512" : "XehBT6HyFJPuDPpBpMzwdv1JL4Fl0Qj74kzmb4qaQHtb2GV/7PtyRuIAF3fI/BBi24ONYpIZ8Qj5K+Svr8hefg=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest-test-part.h",
+    "runtime" : "false",
+    "size" : "6730",
+    "digestSHA512" : "BgvCFYiKAJVm8cPoUpfxxDCquRCY7L53f1Y+kmnvGmqFAJkJFAfskgP7QuyA1x1U+H4mCYNdeh7V3CHYHAMcpQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest-param-test.h.pump",
+    "runtime" : "false",
+    "size" : "18796",
+    "digestSHA512" : "g3zD2YN/6Js79/rxZCW04TZe/qE+ZUfNf7kt1bFYO0hr5NMYvuZ1UiqLTanBFefL9GGt2fxWSKwEwkfQtcDKWw=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest-printers.h",
+    "runtime" : "false",
+    "size" : "31829",
+    "digestSHA512" : "l//wvuDMSlYBbpkrL4oOkIL68z1V5GokaYcJve9ix5VUoKkroMUUmDhPJQF7SyyPTf97r5MNiy0zpU3Vikdqhw=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest_prod.h",
+    "runtime" : "false",
+    "size" : "2540",
+    "digestSHA512" : "6ZvxPl2/0m5L7GQnevwuJETOXxvdEYDya1mQPXohm/voZO4rqSA5D5rSK0JuulnBeJX6HTPdQzvFToO4QlaZ0g=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest-param-test.h",
+    "runtime" : "false",
+    "size" : "76086",
+    "digestSHA512" : "OolsHRTR5h6f90IfMqsqI2IVPV1XmELYjnCFi4dXeqfRJIJyP11tKqqw5PnpwRhffeL0O8HfpMgaOqoHR7nNhA=="
+  }, {
+    "name" : "target/qnx7/usr/include/gtest/gtest-spi.h",
+    "runtime" : "false",
+    "size" : "10167",
+    "digestSHA512" : "z5Ybt64uF9MRa7zYPPmY2VSzYwaRhXYOQ3yZJ0JuY634GR/u6DYQljYkEitS/vlgEfCDfL4E2cQesWyiH5ri+g=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libgtest.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "431468",
+    "linkto" : "libgtest.so.1.7",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ATlsbHAjRur9YtsD8itP/RSNJp6aueUyaIDZbAHStbRmpfdSsxWXcV+JkUnPEVdGpovLhWGsfGe53jYOt/m3Yg==",
+    "buildID" : "b9f180d44baaa83c516e65f791e2eeaa"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libgtest.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "449576",
+    "linkto" : "libgtest.so.1.7",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Lj6N+CPsDpWdMIpWlMg0Fk6pq21LU1oJc1nMl4NxMjSCEg/jPTY+b0DmbfTJnv2M8ErhkVZE68F/Vguz1/uQJA==",
+    "buildID" : "d9d496a80448cda10392ba529380a25a"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libgtest.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "439768",
+    "linkto" : "libgtest.so.1.7",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "E5NM+LPwjBAWPWEcbQlxXtM9xqHhxc/PCB3PC0EkY9N1iaIUKkS+/B6F0C0z8rpxXPAOIZpNtDLuL0qC+RA27g==",
+    "buildID" : "91f7937c867c6e0f785953bf4f613358"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libgtest.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "323892",
+    "linkto" : "libgtest.so.1.7",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mHxkFtfERelr13ogItCk81nZPaVGl8Azd/VIkyCnecEd1jePasQEW+XdTnMEAlJ00gcSt3gd4xzDhHWJRNKmmg==",
+    "buildID" : "c6646a497df43811e1538090279c01e3"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libgtest.so.1.7",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "431468",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "ATlsbHAjRur9YtsD8itP/RSNJp6aueUyaIDZbAHStbRmpfdSsxWXcV+JkUnPEVdGpovLhWGsfGe53jYOt/m3Yg==",
+    "buildID" : "b9f180d44baaa83c516e65f791e2eeaa"
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libgtest.so.1.7",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "449576",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "Lj6N+CPsDpWdMIpWlMg0Fk6pq21LU1oJc1nMl4NxMjSCEg/jPTY+b0DmbfTJnv2M8ErhkVZE68F/Vguz1/uQJA==",
+    "buildID" : "d9d496a80448cda10392ba529380a25a"
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libgtest.so.1.7",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "439768",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "E5NM+LPwjBAWPWEcbQlxXtM9xqHhxc/PCB3PC0EkY9N1iaIUKkS+/B6F0C0z8rpxXPAOIZpNtDLuL0qC+RA27g==",
+    "buildID" : "91f7937c867c6e0f785953bf4f613358"
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libgtest.so.1.7",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "323892",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mHxkFtfERelr13ogItCk81nZPaVGl8Azd/VIkyCnecEd1jePasQEW+XdTnMEAlJ00gcSt3gd4xzDhHWJRNKmmg==",
+    "buildID" : "c6646a497df43811e1538090279c01e3"
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libgtestS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "2567830",
+    "digestSHA512" : "eziZYJ8Tbc5kG8pJ3h+ez5aDCE3Zyvy/NdDC8r+udEtWs7++XBo0uvXEyiik5QE/AO9Vzk4lZYrW2JHgfC3XCg=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libgtestS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "4448120",
+    "digestSHA512" : "YVCkTAHRleTuzc5s9OcIr1rn+wYAOfpNk/XE+Arzd1plnBc5BWt31jXUS+QFaHWOkc88rf31TmFmtch4o7Mq7A=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libgtestS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "4431190",
+    "digestSHA512" : "0bveJbKMaeu7BswbOTsSgeyKmn4pw8+nX523LUn+7Vqls2vdXj8APUj2PqbPl/kwAjr7NWVG+VwKyaAxhpVqww=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libgtestS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "2373486",
+    "digestSHA512" : "WGert9p8h34835yTJPL3+du93Mz0pX1W31mSzPdQW4+u55qBGc545PMMG8RSuGuIWT3rJQqSJmGHLojS9ilsYQ=="
+  }, {
+    "name" : "target/qnx7/x86/usr/lib/libgtest.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "2708174",
+    "digestSHA512" : "FK8ETA07mdbkY8IUW3+ZdlETAq3Ng9RfiiCMI5q9JQzdRqZIt/FDvr7QlbMwmSCiP8OiLpLpoe2X1D+RTOL9+g=="
+  }, {
+    "name" : "target/qnx7/x86_64/usr/lib/libgtest.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "4745592",
+    "digestSHA512" : "7Uo6Z3sXsCndA+jxkVoTQutpOxGc0GKPMD0QGWPqUnonFWlQf3Xi41be0PqkFq/DsPlC7EFHmaP6fewXbe2+EA=="
+  }, {
+    "name" : "target/qnx7/aarch64le/usr/lib/libgtest.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "4723358",
+    "digestSHA512" : "caP/Upw2WwC1ZvbZWxvtI/dS5Jelz6vEj7w0Djg6ZlaSPj2fZ4ntZcl/YvXJaeQJ2CZPjHIxA4Msjh6/6y8S7w=="
+  }, {
+    "name" : "target/qnx7/armle-v7/usr/lib/libgtest.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "2376618",
+    "digestSHA512" : "JD5Vv2teKAWcxXbQnc54ohNDnjx/4ygv63wBQNob0mJqApxenuPUgfLPPJPwng5mRtUnH3bSxcy43Y/F8ZQmNg=="
+  } ]
+}

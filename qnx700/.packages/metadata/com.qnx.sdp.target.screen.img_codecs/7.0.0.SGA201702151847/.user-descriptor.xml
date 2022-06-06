@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<shiplist>
+<id>com.qnx.sdp.target.screen.img_codecs</id>
+<name>Screen Image Codecs</name>
+<category>Image Codecs</category>
+    <includes component="false">
+        <file name="img-codecs.xml" />
+    </includes>
+</shiplist>
+

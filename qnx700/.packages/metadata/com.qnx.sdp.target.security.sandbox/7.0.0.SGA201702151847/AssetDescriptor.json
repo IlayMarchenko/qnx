@@ -1,0 +1,118 @@
+{
+  "assetDescriptorVersion" : "1.0",
+  "createdBy" : "Qnx SW packager 1.1",
+  "packageType" : "component",
+  "assets" : [ {
+    "name" : ".packages/metadata/com.qnx.sdp.target.security.sandbox/7.0.0.SGA201702151847/ResourceDescriptor.afd",
+    "meta" : "true",
+    "size" : "606",
+    "digestSHA512" : "dyl5MPxxxHHPbMVvSRqhYC4KYXrBcpXzXtzGLL5Kuj7Kdp+ZR/Va6tddhzqU4wDE/TXFbYvVh0etcjQqLenR5w=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.security.sandbox/7.0.0.SGA201702151847/assets.list",
+    "meta" : "true",
+    "size" : "611",
+    "digestSHA512" : "zy9mjhmPEEY97Mqi6R949Uj8eUDPqgYtmjJ1fGOvJlZUZw/c0qu1k7/LoGmph9ZTclq+k1+DKnJ2r5lZgZ+dzQ=="
+  }, {
+    "name" : ".packages/metadata/com.qnx.sdp.target.security.sandbox/7.0.0.SGA201702151847/.user-descriptor.xml",
+    "meta" : "true",
+    "size" : "469",
+    "digestSHA512" : "sUqBtaFacDnM4BDe+KvVYQj5305MAdaaAoKmmwYK1R/wCT+UCp4I0fAVZ98saEY1x5Fyqv+4BBt7s8aZItPTAQ=="
+  }, {
+    "name" : "target/qnx7/usr/include/sandbox.h",
+    "runtime" : "false",
+    "size" : "2109",
+    "digestSHA512" : "NFdwy6EdNUAJWoF22HBLvopA5vIh5sSE2ZWTpV7zxBd7C/DqHO6HXURm3ThzQTH1qhlV8VL7Aplar2dCXsYHsw=="
+  }, {
+    "name" : "target/qnx7/x86/lib/libsandbox.so",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "11976",
+    "linkto" : "libsandbox.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iXg1JFd6fzwGTsNZz7/XxJ7Pk1a2eJ8c4APwMXeNCvmEAMeJGkeQFRbbLgcdTLUChUplwfuklbQyi+RsoRGOtw==",
+    "buildID" : "07ddc55f87b9813269e88b1497322ac2"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libsandbox.so",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13032",
+    "linkto" : "libsandbox.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mFZ4D765/hM1fLpGzJ1xniDb8+BQJrOAXrUmg52J5gIHjnu4EaM/MyajTYPahkAcPgTFtkH9Wb4DHY/49Cv8HA==",
+    "buildID" : "0c5ca141aa8dce9212da609ddc09b91b"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libsandbox.so",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "13336",
+    "linkto" : "libsandbox.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "H45Ws6nb2gWuw/I7L4VgCn6S6uNiT/feGMVaA2P5prheSMgBEbt0akzNL0SznTnp2pEKszGhao92AVanQ81Dtw==",
+    "buildID" : "1f24426880f5a720e5a00378eb2b8315"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libsandbox.so",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "8432",
+    "linkto" : "libsandbox.so.1",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nYKVOysUMO9beZuYLXoQb2OTb0/FRA5llLDz8bhzTAmimENHRt+HcgYHOawTLHzirrE41rBNe5MxkNwSkdau7Q==",
+    "buildID" : "a70de39cd62a5c198df1627c73186b78"
+  }, {
+    "name" : "target/qnx7/x86/lib/libsandbox.so.1",
+    "arch" : "x86",
+    "runtime" : "true",
+    "size" : "11976",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "iXg1JFd6fzwGTsNZz7/XxJ7Pk1a2eJ8c4APwMXeNCvmEAMeJGkeQFRbbLgcdTLUChUplwfuklbQyi+RsoRGOtw==",
+    "buildID" : "07ddc55f87b9813269e88b1497322ac2"
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libsandbox.so.1",
+    "arch" : "x86_64",
+    "runtime" : "true",
+    "size" : "13032",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "mFZ4D765/hM1fLpGzJ1xniDb8+BQJrOAXrUmg52J5gIHjnu4EaM/MyajTYPahkAcPgTFtkH9Wb4DHY/49Cv8HA==",
+    "buildID" : "0c5ca141aa8dce9212da609ddc09b91b"
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libsandbox.so.1",
+    "arch" : "aarch64le",
+    "runtime" : "true",
+    "size" : "13336",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "H45Ws6nb2gWuw/I7L4VgCn6S6uNiT/feGMVaA2P5prheSMgBEbt0akzNL0SznTnp2pEKszGhao92AVanQ81Dtw==",
+    "buildID" : "1f24426880f5a720e5a00378eb2b8315"
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libsandbox.so.1",
+    "arch" : "armle-v7",
+    "runtime" : "true",
+    "size" : "8432",
+    "mimeType" : "Qnx/Elf",
+    "digestSHA512" : "nYKVOysUMO9beZuYLXoQb2OTb0/FRA5llLDz8bhzTAmimENHRt+HcgYHOawTLHzirrE41rBNe5MxkNwSkdau7Q==",
+    "buildID" : "a70de39cd62a5c198df1627c73186b78"
+  }, {
+    "name" : "target/qnx7/x86/lib/libsandboxS.a",
+    "arch" : "x86",
+    "runtime" : "false",
+    "size" : "22964",
+    "digestSHA512" : "/9uJMMJaJF35eSXcIRW/FFPnWQIoxfs+dFnYFwpmKFnw9b+XAKppVqQM+m8Xj19Y/8gW6ycwEmapFpzWo7fCtA=="
+  }, {
+    "name" : "target/qnx7/x86_64/lib/libsandboxS.a",
+    "arch" : "x86_64",
+    "runtime" : "false",
+    "size" : "31214",
+    "digestSHA512" : "1ctPBz9miloapj6Grwz+CUGv8KysBfhr1w5jrYaMyeDmGL9f6bF8KclS2LBjhxTg/XF2AhCJ1NX5YcghBDvPxQ=="
+  }, {
+    "name" : "target/qnx7/aarch64le/lib/libsandboxS.a",
+    "arch" : "aarch64le",
+    "runtime" : "false",
+    "size" : "30790",
+    "digestSHA512" : "YTDngN+FZqIAA3o8BJfY+oUAyRMLy1fZfH51+1sTcqP3ID1J/OWmXfp454tlL+sbV8OuFAD/CYEeQEPAQezG+g=="
+  }, {
+    "name" : "target/qnx7/armle-v7/lib/libsandboxS.a",
+    "arch" : "armle-v7",
+    "runtime" : "false",
+    "size" : "20562",
+    "digestSHA512" : "CFUy+uxj7iHAIj//RL4lOvap5z7D/tH07SoLwAXibODcY9LLJxkQn4WpDRdOx6jCTrT1ZQ4KEhBAea4ELyIN+A=="
+  } ]
+}
